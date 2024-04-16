@@ -15,7 +15,7 @@ Dies ist das Repository `compphil2maae_source`.
 1. Pull from `compphil2maae_source` 
 2. Change website locally
 3. Run `hugo server --disableFastRender` locally
-   Note: evtl. zuvor `/public` und `/resources` directories löschen
+   Note: evtl. zuvor `/public`  directory löschen
 4. Check changes 
 5. Commit locally
 6. Push commit to remote repository `compphil2maae_source`
