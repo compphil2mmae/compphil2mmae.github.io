@@ -1,0 +1,1 @@
+wordcloud_cli --background white --text wordcloud_input.txt --fontfile /usr/share/fonts/truetype/Fira_Sans/FiraSans-Regular.ttf --imagefile wordcloud.png --width 570 --height 465 --color seagreen --regexp "[ \w\.\-]+" --no_collocations

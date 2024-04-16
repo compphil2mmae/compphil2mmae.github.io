@@ -1,0 +1,82 @@
+{{ $item := .item }}
+{{ $has_attachments := partial "functions/has_attachments" $item }}
+
+<div class="pub-list-item view-citation" style="margin-bottom: 1rem">
+  <!-- <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> -->
+
+  {{/* APA Style */}}
+  {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
+
+  <span class="article-metadata li-cite-author">
+    {{ partial "page_metadata_authors" $item }}
+  </span>
+  {{ if $item.Params.edited }}
+    (Hg.)
+  {{ end }}
+  ({{- $item.Date.Format "2006" -}}).
+  <a href="{{ $item.RelPermalink }}">{{ $item.Title | markdownify -}}</a>.
+  {{ if $item.Params.editor }}
+    In:
+  {{ end }}
+  {{ if $item.Params.booktitle }}
+    {{- $item.Params.booktitle | markdownify -}}.
+  {{ end }}
+  {{ if $item.Params.editor }}
+    Hrsg. von {{ $item.Params.editor | markdownify -}}.
+  {{ end }}
+  {{ if $item.Params.edition }}
+    ({{- $item.Params.edition | markdownify -}})
+  {{ end }}
+  {{ if $item.Params.series }}
+    ({{- $item.Params.series | markdownify -}}).
+  {{ end }}
+  {{ if $item.Params.address }}
+    {{- $item.Params.address | markdownify -}}:
+    {{ if $item.Params.publisher }}
+        {{- $item.Params.publisher | markdownify -}}
+        {{ if $item.Params.pages }}, S. {{ $item.Params.pages | markdownify -}}.
+        {{ else }}.
+        {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if $item.Params.journal_short }}
+    {{- $item.Params.journal_short | markdownify -}}.
+    {{ else if $item.Params.journal }}
+        {{- $item.Params.journal | markdownify -}}.
+    {{ end }}
+  {{ if $item.Params.volume }}
+    {{ $item.Params.volume | markdownify }}
+    {{ if $item.Params.number }}
+        ({{- $item.Params.number | markdownify -}})
+      {{ end }}  
+    {{ if $item.Params.pages }}, S. {{ $item.Params.pages | markdownify -}}.
+    {{ else }}.
+    {{ end }}  
+  {{ end }}
+  {{ if $item.Params.note }}
+     {{- $item.Params.note | markdownify -}}
+  {{ end }}
+  <p>{{ partial "page_links" (dict "page" $item "is_list" 1) }}</p>
+
+  {{/* MLA Style */}}
+  {{ else }}
+
+  <span class="article-metadata li-cite-author">
+    {{ partial "page_metadata_authors" $item }}.
+  </span>
+  <a href="{{ $item.RelPermalink }}">{{ $item.Title | markdownify -}}</a>.
+  {{ if $item.Params.publication_short }}
+    {{- $item.Params.publication_short | markdownify -}},
+  {{ else if $item.Params.publication }}
+    {{- $item.Params.publication | markdownify -}},
+  {{ end }}
+  {{- $item.Date.Format "2006" -}}.
+
+  {{ if $has_attachments }}
+  <div class="btn-links">
+    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+  </div>
+  {{ end }}
+
+  {{ end }}
+</div>
