@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hanna Müller | CompPhil²MMAE</title>
+    <link>http://localhost:1313/compphil2mmae/en/author/hanna-muller/</link>
+      <atom:link href="http://localhost:1313/compphil2mmae/en/author/hanna-muller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hanna Müller</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/compphil2mmae/en/author/hanna-muller/avatar_hu3c64bd0f98018e2d901b7c60447ac42e_1387900_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Hanna Müller</title>
+      <link>http://localhost:1313/compphil2mmae/en/author/hanna-muller/</link>
+    </image>
+    
+    <item>
+      <title>Hanna Müller</title>
+      <link>http://localhost:1313/compphil2mmae/en/author/hanna-muller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/author/hanna-muller/</guid>
+      <description>&lt;p&gt;Hanna Müller unterstützt CompPhil²MMAE als Tutorin im Modul &amp;ldquo;Ars Rationalis&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

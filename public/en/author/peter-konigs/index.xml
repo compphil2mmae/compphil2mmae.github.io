@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Königs | CompPhil²MMAE</title>
+    <link>http://localhost:1313/compphil2mmae/en/author/peter-konigs/</link>
+      <atom:link href="http://localhost:1313/compphil2mmae/en/author/peter-konigs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Königs</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/compphil2mmae/en/author/peter-konigs/avatar_hu0b78d472bef2692b8a67e8d044edc253_93302_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Peter Königs</title>
+      <link>http://localhost:1313/compphil2mmae/en/author/peter-konigs/</link>
+    </image>
+    
+    <item>
+      <title>Peter Königs</title>
+      <link>http://localhost:1313/compphil2mmae/en/author/peter-konigs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/author/peter-konigs/</guid>
+      <description>&lt;p&gt;Peter Königs war 2018&amp;ndash;2019 Postdoc bei CompPhil²MMAE. Er ist inzwischen Professor für Praktische Philosophie mit Schwerpunkt Herausforderungen neuer Technologien an der TU Dortmund.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book | CompPhil²MMAE</title>
+    <link>http://localhost:1313/compphil2mmae/publication-type/book/</link>
+      <atom:link href="http://localhost:1313/compphil2mmae/publication-type/book/index.xml" rel="self" type="application/rss+xml" />
+    <description>Book</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/compphil2mmae/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Book</title>
+      <link>http://localhost:1313/compphil2mmae/publication-type/book/</link>
+    </image>
+    
+    <item>
+      <title>Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse</title>
+      <link>http://localhost:1313/compphil2mmae/publication/schmitz-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/publication/schmitz-2024/</guid>
+      <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Was ist Moralismus? Über Zeigefinger und den Ort der Moral</title>
+      <link>http://localhost:1313/compphil2mmae/publication/neuhaeuser-seidel-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/publication/neuhaeuser-seidel-2022/</guid>
+      <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>*Kritik des Moralismus*</title>
+      <link>http://localhost:1313/compphil2mmae/publication/neuhaeuser-seidel-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/publication/neuhaeuser-seidel-2020/</guid>
+      <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>*Consequentialism: New Directions, New Problems*</title>
+      <link>http://localhost:1313/compphil2mmae/publication/seidel-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/publication/seidel-2019/</guid>
+      <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>*Climate Justice: An Introduction*</title>
+      <link>http://localhost:1313/compphil2mmae/publication/roser-seidel-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/publication/roser-seidel-2017/</guid>
+      <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selbst bestimmen. Eine philosophische Untersuchung personaler Autonomie</title>
+      <link>http://localhost:1313/compphil2mmae/publication/seidel-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/publication/seidel-2016/</guid>
+      <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ethik des Klimawandels. Eine Einführung</title>
+      <link>http://localhost:1313/compphil2mmae/publication/roser-seidel-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/publication/roser-seidel-2015/</guid>
+      <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ethik des Klimawandels. Eine Einführung</title>
+      <link>http://localhost:1313/compphil2mmae/publication/roser-seidel-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/publication/roser-seidel-2013/</guid>
+      <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

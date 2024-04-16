@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastian Cacean | CompPhil²MMAE</title>
+    <link>http://localhost:1313/compphil2mmae/en/author/sebastian-cacean/</link>
+      <atom:link href="http://localhost:1313/compphil2mmae/en/author/sebastian-cacean/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sebastian Cacean</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/compphil2mmae/en/author/sebastian-cacean/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sebastian Cacean</title>
+      <link>http://localhost:1313/compphil2mmae/en/author/sebastian-cacean/</link>
+    </image>
+    
+    <item>
+      <title>Sebastian Cacean</title>
+      <link>http://localhost:1313/compphil2mmae/en/author/sebastian-cacean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/author/sebastian-cacean/</guid>
+      <description>&lt;p&gt;Sebastian Cacean ist &amp;hellip; [Kurzbeschreibung] &amp;hellip; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

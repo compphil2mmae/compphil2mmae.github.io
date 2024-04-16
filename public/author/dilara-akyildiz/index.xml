@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dilara Akyildiz | CompPhil²MMAE</title>
+    <link>http://localhost:1313/compphil2mmae/author/dilara-akyildiz/</link>
+      <atom:link href="http://localhost:1313/compphil2mmae/author/dilara-akyildiz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dilara Akyildiz</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language>
+    <image>
+      <url>http://localhost:1313/compphil2mmae/author/dilara-akyildiz/avatar_hu3c64bd0f98018e2d901b7c60447ac42e_1387900_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dilara Akyildiz</title>
+      <link>http://localhost:1313/compphil2mmae/author/dilara-akyildiz/</link>
+    </image>
+    
+    <item>
+      <title>Dilara Akyildiz</title>
+      <link>http://localhost:1313/compphil2mmae/author/dilara-akyildiz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/author/dilara-akyildiz/</guid>
+      <description>&lt;p&gt;Dilara Akyildiz unterstützt CompPhil²MMAE als Tutorin im Modul &amp;ldquo;Ars Rationalis&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

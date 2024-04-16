@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop | CompPhil²MMAE</title>
+    <link>http://localhost:1313/compphil2mmae/en/tag/workshop/</link>
+      <atom:link href="http://localhost:1313/compphil2mmae/en/tag/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <description>Workshop</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/compphil2mmae/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Workshop</title>
+      <link>http://localhost:1313/compphil2mmae/en/tag/workshop/</link>
+    </image>
+    
+    <item>
+      <title>Kritisches Denken und Argumentationsanalyse</title>
+      <link>http://localhost:1313/compphil2mmae/en/event/240508_w_blockseminar_argumentationsanalyse/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/event/240508_w_blockseminar_argumentationsanalyse/</guid>
+      <description>&lt;p&gt;Dieses CompPhil²MMAE-Projektseminar richtet sich an fortgeschrittene Studierende mit guten Kenntnissen in Argumentationsanalyse (wie sie im Modul Ars Rationalis erworben werden). Die Teilnehmenden werden im Kurs Rekonstruktionsprojekte mit &lt;a href=&#34;http://argdown.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Argdown&lt;/a&gt; zu selbstgewählten Texten und Themen durchführen. Insbesondere können diese Texte und Themen im Zusammenhang mit einer Abschlussarbeit stehen. Die Argumentationsanalyse hilft dabei, solche Arbeiten klarer, genauer und inhaltlich substantieller &amp;ndash; kurzum: philosophisch besser &amp;ndash; zu machen.&lt;/p&gt;
+&lt;p&gt;In einer Vorbereitungssitzung zu Beginn des Semesters werden Projektthemen vorgestellt und besprochen. Bis zum Blockseminar nehmen die Teilnehmer:innen dann eine vorläufige Argumentationsanalyse und -kartierung vor. Der Analysestand wird während des Blockseminars präsentiert und verbessert.&lt;/p&gt;
+&lt;p&gt;Der Kurs findet in Kooperation mit &lt;a href=&#34;https://www.georgbrun.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Georg Brun&lt;/a&gt; von der &lt;a href=&#34;https://www.philosophie.unibe.ch/index_ger.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universität Bern&lt;/a&gt; statt. Das mehrtägige Blockseminar wird gemeinsam mit der Berner Seminargruppe vom 9.5. bis 12.5.24 in der Schweiz durchgeführt. Die Übernachtungs- und Reisekosten werden übernommen. Die Teilnehmeranzahl ist strikt begrenzt. Wir bitten um möglichst frühzeitige Interessenbekundung (per E-Mail) bei &lt;a href=&#34;http://localhost:1313/compphil2mmae/compphil2mmae/en/author/gregor-betz/&#34;&gt;Gregor Betz&lt;/a&gt; oder &lt;a href=&#34;http://localhost:1313/compphil2mmae/compphil2mmae/en/author/christian-seidel/&#34;&gt;Christian Seidel&lt;/a&gt; sowie um verbindliche Anmeldung unter Angabe des vorläufigen Projektthemas im &lt;a href=&#34;https://ilias.studium.kit.edu/goto.php?target=crs_2304230&amp;amp;client_id=produktiv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ILIAS-Kursraum&lt;/a&gt; bis zum 1.4.2024.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

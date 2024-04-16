@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vortrag | CompPhil²MMAE</title>
+    <link>http://localhost:1313/compphil2mmae/en/tag/vortrag/</link>
+      <atom:link href="http://localhost:1313/compphil2mmae/en/tag/vortrag/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vortrag</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/compphil2mmae/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Vortrag</title>
+      <link>http://localhost:1313/compphil2mmae/en/tag/vortrag/</link>
+    </image>
+    
+    <item>
+      <title>Zukunftsvergessenheit. Ein Klärungsversuch</title>
+      <link>http://localhost:1313/compphil2mmae/en/event/240919_v_seidel_passau/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/event/240919_v_seidel_passau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kollektiver Moralismus im Diskurs. Eine argumentationstheoretische Explikation</title>
+      <link>http://localhost:1313/compphil2mmae/en/event/240606_v_seidel_regensburg/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/event/240606_v_seidel_regensburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sidgwickian Moral Theorizing: on the Teleological Relation between Principles and Methods</title>
+      <link>http://localhost:1313/compphil2mmae/en/event/240619_v_seidel_london/</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/event/240619_v_seidel_london/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is the relation between the unified theory and the triple theory?</title>
+      <link>http://localhost:1313/compphil2mmae/en/event/240618_v_schmitz_london/</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/event/240618_v_schmitz_london/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zukunftsvergessenheit. Ein Explikationsvorschlag</title>
+      <link>http://localhost:1313/compphil2mmae/en/event/240606_v_seidel_potsdam/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/event/240606_v_seidel_potsdam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parfits Ringen um moraltheoretischen Fortschritt</title>
+      <link>http://localhost:1313/compphil2mmae/en/event/240206_v_seidel_erlangen/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/event/240206_v_seidel_erlangen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moral Theorizing Beyond the Consequentalism/Non-Consequentialism Divide</title>
+      <link>http://localhost:1313/compphil2mmae/en/event/231031_v_seidel_salzburg/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/event/231031_v_seidel_salzburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zukunftsvergessenheit. Eine Annäherung</title>
+      <link>http://localhost:1313/compphil2mmae/en/event/230328_v_seidel_menaggio/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/event/230328_v_seidel_menaggio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Altruismus und Unparteilichkeit. Ein Verhältnisbestimmung</title>
+      <link>http://localhost:1313/compphil2mmae/en/event/230306_v_seidel_zuerich/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/event/230306_v_seidel_zuerich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Altruismus und Unparteilichkeit. Ein Explikationsvorschlag</title>
+      <link>http://localhost:1313/compphil2mmae/en/event/230117_v_seidel_erlangen/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/event/230117_v_seidel_erlangen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moral Theorizing Beyond the Consequentalism/Non-Consequentialism Divide</title>
+      <link>http://localhost:1313/compphil2mmae/en/event/221209_v_seidel_bayreuth/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/event/221209_v_seidel_bayreuth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

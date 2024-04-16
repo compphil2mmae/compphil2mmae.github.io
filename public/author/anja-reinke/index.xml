@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anja Reinke | CompPhil²MMAE</title>
+    <link>http://localhost:1313/compphil2mmae/author/anja-reinke/</link>
+      <atom:link href="http://localhost:1313/compphil2mmae/author/anja-reinke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anja Reinke</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language>
+    <image>
+      <url>http://localhost:1313/compphil2mmae/author/anja-reinke/avatar_hu44b4d985adad96ce80375e8febed2e63_266095_270x270_fill_lanczos_center_3.png</url>
+      <title>Anja Reinke</title>
+      <link>http://localhost:1313/compphil2mmae/author/anja-reinke/</link>
+    </image>
+    
+    <item>
+      <title>Anja Reinke</title>
+      <link>http://localhost:1313/compphil2mmae/author/anja-reinke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/author/anja-reinke/</guid>
+      <description>&lt;p&gt;Anja Reinke ist zuständig für das Office Management des Lehrstuhls für Philosophische Anthropologie. Sie unterstützt das Team von CompPhil²MMAE in Forschung &amp;amp; Lehre bei allen verwaltungsbezogenen Prozessen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
