@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sören Finkbeiner | CompPhil²MMAE</title>
-    <link>http://localhost:1313/compphil2mmae/author/soren-finkbeiner/</link>
-      <atom:link href="http://localhost:1313/compphil2mmae/author/soren-finkbeiner/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ccseidel.github.io/compphil2mmae/author/soren-finkbeiner/</link>
+      <atom:link href="https://ccseidel.github.io/compphil2mmae/author/soren-finkbeiner/index.xml" rel="self" type="application/rss+xml" />
     <description>Sören Finkbeiner</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language>
     <image>
-      <url>http://localhost:1313/compphil2mmae/author/soren-finkbeiner/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ccseidel.github.io/compphil2mmae/author/soren-finkbeiner/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Sören Finkbeiner</title>
-      <link>http://localhost:1313/compphil2mmae/author/soren-finkbeiner/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/author/soren-finkbeiner/</link>
     </image>
     
     <item>
       <title>Sören Finkbeiner</title>
-      <link>http://localhost:1313/compphil2mmae/author/soren-finkbeiner/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/author/soren-finkbeiner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/author/soren-finkbeiner/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/author/soren-finkbeiner/</guid>
       <description>&lt;p&gt;Sören Finkbeiner unterstützt CompPhil²MMAE als studentische Hilfskraft und als Tutor im Modul &amp;ldquo;Einführung in die Philosophie&amp;rdquo; (&lt;a href=&#34;mailto:tutorium.seidel@itz.kit.edu&#34;&gt;
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Tutoriumsteam&lt;/a&gt;).&lt;/p&gt;
 </description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Florian Steger | CompPhil²MMAE</title>
-    <link>http://localhost:1313/compphil2mmae/author/florian-steger/</link>
-      <atom:link href="http://localhost:1313/compphil2mmae/author/florian-steger/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ccseidel.github.io/compphil2mmae/author/florian-steger/</link>
+      <atom:link href="https://ccseidel.github.io/compphil2mmae/author/florian-steger/index.xml" rel="self" type="application/rss+xml" />
     <description>Florian Steger</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/compphil2mmae/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ccseidel.github.io/compphil2mmae/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Florian Steger</title>
-      <link>http://localhost:1313/compphil2mmae/author/florian-steger/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/author/florian-steger/</link>
     </image>
     
     <item>
       <title>Psychisch anders? Überlegungen zu Personsein und Identität</title>
-      <link>http://localhost:1313/compphil2mmae/publication/steger-seidel-steger-2007/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/publication/steger-seidel-steger-2007/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/publication/steger-seidel-steger-2007/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/publication/steger-seidel-steger-2007/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>

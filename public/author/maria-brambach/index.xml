@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maria Brambach | CompPhil²MMAE</title>
-    <link>http://localhost:1313/compphil2mmae/author/maria-brambach/</link>
-      <atom:link href="http://localhost:1313/compphil2mmae/author/maria-brambach/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ccseidel.github.io/compphil2mmae/author/maria-brambach/</link>
+      <atom:link href="https://ccseidel.github.io/compphil2mmae/author/maria-brambach/index.xml" rel="self" type="application/rss+xml" />
     <description>Maria Brambach</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language>
     <image>
-      <url>http://localhost:1313/compphil2mmae/author/maria-brambach/avatar_hu3c64bd0f98018e2d901b7c60447ac42e_1387900_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ccseidel.github.io/compphil2mmae/author/maria-brambach/avatar_hu3c64bd0f98018e2d901b7c60447ac42e_1387900_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Maria Brambach</title>
-      <link>http://localhost:1313/compphil2mmae/author/maria-brambach/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/author/maria-brambach/</link>
     </image>
     
     <item>
       <title>Maria Brambach</title>
-      <link>http://localhost:1313/compphil2mmae/author/maria-brambach/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/author/maria-brambach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/author/maria-brambach/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/author/maria-brambach/</guid>
       <description>&lt;p&gt;Maria Brambach unterstützt CompPhil²MMAE als studentische Hilfskraft und als Tutorin im Modul &amp;ldquo;Einführung in die Philosophie&amp;rdquo; (&lt;a href=&#34;mailto:tutorium.seidel@itz.kit.edu&#34;&gt;
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Tutoriumsteam&lt;/a&gt;).&lt;/p&gt;
 </description>

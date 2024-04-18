@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elias Hahn | CompPhil²MMAE</title>
-    <link>http://localhost:1313/compphil2mmae/en/author/elias-hahn/</link>
-      <atom:link href="http://localhost:1313/compphil2mmae/en/author/elias-hahn/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ccseidel.github.io/compphil2mmae/en/author/elias-hahn/</link>
+      <atom:link href="https://ccseidel.github.io/compphil2mmae/en/author/elias-hahn/index.xml" rel="self" type="application/rss+xml" />
     <description>Elias Hahn</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/compphil2mmae/en/author/elias-hahn/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ccseidel.github.io/compphil2mmae/en/author/elias-hahn/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Elias Hahn</title>
-      <link>http://localhost:1313/compphil2mmae/en/author/elias-hahn/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/author/elias-hahn/</link>
     </image>
     
     <item>
       <title>Elias Hahn</title>
-      <link>http://localhost:1313/compphil2mmae/en/author/elias-hahn/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/author/elias-hahn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/author/elias-hahn/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/author/elias-hahn/</guid>
       <description>&lt;p&gt;Elias Hahn unterstützt CompPhil²MMAE als Tutor im Modul &amp;ldquo;Einführung in die Philosophie&amp;rdquo; (&lt;a href=&#34;mailto:tutorium.seidel@itz.kit.edu&#34;&gt;
   &lt;i class=&#34;fas fa-envelope  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Tutoriumsteam&lt;/a&gt;).&lt;/p&gt;
 </description>
