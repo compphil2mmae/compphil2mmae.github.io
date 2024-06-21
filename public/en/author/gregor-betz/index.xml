@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gregor Betz | CompPhil²MMAE</title>
-    <link>http://localhost:1313/compphil2mmae/en/author/gregor-betz/</link>
-      <atom:link href="http://localhost:1313/compphil2mmae/en/author/gregor-betz/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ccseidel.github.io/compphil2mmae/en/author/gregor-betz/</link>
+      <atom:link href="https://ccseidel.github.io/compphil2mmae/en/author/gregor-betz/index.xml" rel="self" type="application/rss+xml" />
     <description>Gregor Betz</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/compphil2mmae/en/author/gregor-betz/avatar_hu9073421897c12482116264391c4adb4b_10014_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ccseidel.github.io/compphil2mmae/en/author/gregor-betz/avatar_hu9073421897c12482116264391c4adb4b_10014_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Gregor Betz</title>
-      <link>http://localhost:1313/compphil2mmae/en/author/gregor-betz/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/author/gregor-betz/</link>
     </image>
     
     <item>
       <title>Gregor Betz</title>
-      <link>http://localhost:1313/compphil2mmae/en/author/gregor-betz/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/author/gregor-betz/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/author/gregor-betz/</guid>
-      <description>&lt;p&gt;Gregor Betz is professor of philosophy of science at the Karlsruhe Institute of Technology. He is head of &lt;a href=&#34;https://debatelab.philosophie.kit.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DebateLab&lt;/a&gt; and, together with &lt;a href=&#34;http://localhost:1313/compphil2mmae/compphil2mmae/en/author/christian-seidel/&#34;&gt;Christian Seidel&lt;/a&gt;, co-head of CompPhil²MMAE.&lt;/p&gt;
+      <guid>https://ccseidel.github.io/compphil2mmae/en/author/gregor-betz/</guid>
+      <description>&lt;p&gt;Gregor Betz is professor of philosophy of science at the Karlsruhe Institute of Technology. He is head of &lt;a href=&#34;https://debatelab.philosophie.kit.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DebateLab&lt;/a&gt; and, together with &lt;a href=&#34;https://ccseidel.github.io/compphil2mmae/compphil2mmae/en/author/christian-seidel/&#34;&gt;Christian Seidel&lt;/a&gt;, co-head of CompPhil²MMAE.&lt;/p&gt;
 &lt;p&gt;Gregor has been studying the limits of scientific prediction, esp. in economics and climate science, the role of values in science, requirements of democratic scientific policy advice, and the ethics of climate engineering. He has developed a formal theory and computational models of argumentative debate, and applied these methods to clarify key concepts in epistemology, to interpret classical texts, to assess consensus- and truth-conduciveness of debate, as well as to to improve critical thinking teaching.&lt;/p&gt;
 &lt;p&gt;For a couple of years now, Gregor has been pursuing computational philosophy projects at the intersection of NLP and AI involving so-called large language models.&lt;/p&gt;
 &lt;p&gt;Moreover, in 2023, Gregor has founded &lt;a href=&#34;https://logikon.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Logikon AI&lt;/a&gt;, a startup that applies critical thinking methods to improve generative AI.&lt;/p&gt;
@@ -28,53 +28,53 @@
     
     <item>
       <title>Kritisches Denken und Argumentationsanalyse</title>
-      <link>http://localhost:1313/compphil2mmae/en/event/240508_w_blockseminar_argumentationsanalyse/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/event/240508_w_blockseminar_argumentationsanalyse/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/event/240508_w_blockseminar_argumentationsanalyse/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/event/240508_w_blockseminar_argumentationsanalyse/</guid>
       <description>&lt;p&gt;Dieses CompPhil²MMAE-Projektseminar richtet sich an fortgeschrittene Studierende mit guten Kenntnissen in Argumentationsanalyse (wie sie im Modul Ars Rationalis erworben werden). Die Teilnehmenden werden im Kurs Rekonstruktionsprojekte mit &lt;a href=&#34;http://argdown.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Argdown&lt;/a&gt; zu selbstgewählten Texten und Themen durchführen. Insbesondere können diese Texte und Themen im Zusammenhang mit einer Abschlussarbeit stehen. Die Argumentationsanalyse hilft dabei, solche Arbeiten klarer, genauer und inhaltlich substantieller &amp;ndash; kurzum: philosophisch besser &amp;ndash; zu machen.&lt;/p&gt;
 &lt;p&gt;In einer Vorbereitungssitzung zu Beginn des Semesters werden Projektthemen vorgestellt und besprochen. Bis zum Blockseminar nehmen die Teilnehmer:innen dann eine vorläufige Argumentationsanalyse und -kartierung vor. Der Analysestand wird während des Blockseminars präsentiert und verbessert.&lt;/p&gt;
-&lt;p&gt;Der Kurs findet in Kooperation mit &lt;a href=&#34;https://www.georgbrun.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Georg Brun&lt;/a&gt; von der &lt;a href=&#34;https://www.philosophie.unibe.ch/index_ger.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universität Bern&lt;/a&gt; statt. Das mehrtägige Blockseminar wird gemeinsam mit der Berner Seminargruppe vom 9.5. bis 12.5.24 in der Schweiz durchgeführt. Die Übernachtungs- und Reisekosten werden übernommen. Die Teilnehmeranzahl ist strikt begrenzt. Wir bitten um möglichst frühzeitige Interessenbekundung (per E-Mail) bei &lt;a href=&#34;http://localhost:1313/compphil2mmae/compphil2mmae/en/author/gregor-betz/&#34;&gt;Gregor Betz&lt;/a&gt; oder &lt;a href=&#34;http://localhost:1313/compphil2mmae/compphil2mmae/en/author/christian-seidel/&#34;&gt;Christian Seidel&lt;/a&gt; sowie um verbindliche Anmeldung unter Angabe des vorläufigen Projektthemas im &lt;a href=&#34;https://ilias.studium.kit.edu/goto.php?target=crs_2304230&amp;amp;client_id=produktiv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ILIAS-Kursraum&lt;/a&gt; bis zum 1.4.2024.&lt;/p&gt;
+&lt;p&gt;Der Kurs findet in Kooperation mit &lt;a href=&#34;https://www.georgbrun.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Georg Brun&lt;/a&gt; von der &lt;a href=&#34;https://www.philosophie.unibe.ch/index_ger.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universität Bern&lt;/a&gt; statt. Das mehrtägige Blockseminar wird gemeinsam mit der Berner Seminargruppe vom 9.5. bis 12.5.24 in der Schweiz durchgeführt. Die Übernachtungs- und Reisekosten werden übernommen. Die Teilnehmeranzahl ist strikt begrenzt. Wir bitten um möglichst frühzeitige Interessenbekundung (per E-Mail) bei &lt;a href=&#34;https://ccseidel.github.io/compphil2mmae/compphil2mmae/en/author/gregor-betz/&#34;&gt;Gregor Betz&lt;/a&gt; oder &lt;a href=&#34;https://ccseidel.github.io/compphil2mmae/compphil2mmae/en/author/christian-seidel/&#34;&gt;Christian Seidel&lt;/a&gt; sowie um verbindliche Anmeldung unter Angabe des vorläufigen Projektthemas im &lt;a href=&#34;https://ilias.studium.kit.edu/goto.php?target=crs_2304230&amp;amp;client_id=produktiv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ILIAS-Kursraum&lt;/a&gt; bis zum 1.4.2024.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>argdown</title>
-      <link>http://localhost:1313/compphil2mmae/en/research/argdown/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/research/argdown/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/research/argdown/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/research/argdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Argumentieren in der Schule</title>
-      <link>http://localhost:1313/compphil2mmae/en/research/dfg_argumentieren-in-der-schule/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/research/dfg_argumentieren-in-der-schule/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/research/dfg_argumentieren-in-der-schule/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/research/dfg_argumentieren-in-der-schule/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chancen von KI zur Stärkung unser deliberativen Kultur (KIDEKU)</title>
-      <link>http://localhost:1313/compphil2mmae/en/research/kideku/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/research/kideku/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/research/kideku/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/research/kideku/</guid>
       <description>&lt;p&gt;Spätestens mit der Veröffentlichung von ChatGPT im Dezember 2022 ist einer breiten Öffentlichkeit klar geworden, welche herausragenden, noch vor einigen Jahren für unmöglich gehaltenen kognitiven Fähigkeiten generative Sprachmodelle besitzen und welche gesellschaftlichen Umwälzungen diese sich rasant entwickelnden Technologien nach sich ziehen könnten. KIDEKU untersucht die Chancen dieser Technologien zur Stärkung unserer deliberativen Kultur, und insbesondere zur Steigerung der Teilhabe an zivilgesellschaftlichen und politischen Debatten. Wir nehmen eine kritische Bestandsaufnahme vor, um daraus konkrete Handlungsempfehlungen sowie Best Practices für die gemeinwohlorientierte Nutzung von Sprachmodellen in deliberativen Demokratien abzuleiten. In Abstimmung mit ausgewählten zivilgesellschaftlichen Akteur*innen konzipieren wir neuartige Einsatzszenarien und explorieren sie in Form von Prototypen und DemoApps.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DebateLab</title>
-      <link>http://localhost:1313/compphil2mmae/en/research/debatelab/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/research/debatelab/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/research/debatelab/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/research/debatelab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Making Reflective Equilibrium Precise</title>
-      <link>http://localhost:1313/compphil2mmae/en/research/dfg_re/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/research/dfg_re/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/research/dfg_re/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/research/dfg_re/</guid>
       <description></description>
     </item>
     

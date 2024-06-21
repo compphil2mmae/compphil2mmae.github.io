@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BMSP19 | CompPhil²MMAE</title>
-    <link>http://localhost:1313/compphil2mmae/tag/bmsp19/</link>
-      <atom:link href="http://localhost:1313/compphil2mmae/tag/bmsp19/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ccseidel.github.io/compphil2mmae/tag/bmsp19/</link>
+      <atom:link href="https://ccseidel.github.io/compphil2mmae/tag/bmsp19/index.xml" rel="self" type="application/rss+xml" />
     <description>BMSP19</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/compphil2mmae/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ccseidel.github.io/compphil2mmae/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>BMSP19</title>
-      <link>http://localhost:1313/compphil2mmae/tag/bmsp19/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/tag/bmsp19/</link>
     </image>
     
     <item>
       <title>E.E.C Jones and British Women Philosophers in an Age of Transition</title>
-      <link>http://localhost:1313/compphil2mmae/research/eecjones/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/research/eecjones/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/research/eecjones/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/research/eecjones/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>J.S. Mill, H. Sidgwick and the Transformation of Utilitarianism</title>
-      <link>http://localhost:1313/compphil2mmae/research/transformation/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/research/transformation/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/research/transformation/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/research/transformation/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -40,9 +40,9 @@
     
     <item>
       <title>Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse</title>
-      <link>http://localhost:1313/compphil2mmae/research/moral-progress/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/research/moral-progress/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/research/moral-progress/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/research/moral-progress/</guid>
       <description>&lt;p&gt;Moralischer Fortschritt ist ein in der Philosophie stark vernachlässigtes Thema. Dies mag verwundern,
 da, zu wissen, was moralischer Fortschritt ist und wie er vonstatten geht, uns u.a. dabei helfen kann,
 positive moralische Entwicklungen zu identifizieren und zu fördern. Allein aus diesen Gründen scheint

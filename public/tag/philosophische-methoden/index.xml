@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophische Methoden | CompPhil²MMAE</title>
-    <link>http://localhost:1313/compphil2mmae/tag/philosophische-methoden/</link>
-      <atom:link href="http://localhost:1313/compphil2mmae/tag/philosophische-methoden/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ccseidel.github.io/compphil2mmae/tag/philosophische-methoden/</link>
+      <atom:link href="https://ccseidel.github.io/compphil2mmae/tag/philosophische-methoden/index.xml" rel="self" type="application/rss+xml" />
     <description>Philosophische Methoden</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/compphil2mmae/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ccseidel.github.io/compphil2mmae/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Philosophische Methoden</title>
-      <link>http://localhost:1313/compphil2mmae/tag/philosophische-methoden/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/tag/philosophische-methoden/</link>
     </image>
     
     <item>
       <title>Making Reflective Equilibrium Precise</title>
-      <link>http://localhost:1313/compphil2mmae/research/dfg_re/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/research/dfg_re/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/research/dfg_re/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/research/dfg_re/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Engineering Hate Speech</title>
-      <link>http://localhost:1313/compphil2mmae/research/engineering-hate-speech/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/research/engineering-hate-speech/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/research/engineering-hate-speech/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/research/engineering-hate-speech/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;

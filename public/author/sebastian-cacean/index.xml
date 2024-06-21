@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sebastian Cacean | CompPhil²MMAE</title>
-    <link>http://localhost:1313/compphil2mmae/author/sebastian-cacean/</link>
-      <atom:link href="http://localhost:1313/compphil2mmae/author/sebastian-cacean/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ccseidel.github.io/compphil2mmae/author/sebastian-cacean/</link>
+      <atom:link href="https://ccseidel.github.io/compphil2mmae/author/sebastian-cacean/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastian Cacean</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/compphil2mmae/author/sebastian-cacean/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ccseidel.github.io/compphil2mmae/author/sebastian-cacean/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Sebastian Cacean</title>
-      <link>http://localhost:1313/compphil2mmae/author/sebastian-cacean/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/author/sebastian-cacean/</link>
     </image>
     
     <item>
       <title>Chancen von KI zur Stärkung unser deliberativen Kultur (KIDEKU)</title>
-      <link>http://localhost:1313/compphil2mmae/research/kideku/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/research/kideku/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/research/kideku/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/research/kideku/</guid>
       <description>&lt;p&gt;Spätestens mit der Veröffentlichung von ChatGPT im Dezember 2022 ist einer breiten Öffentlichkeit klar geworden, welche herausragenden, noch vor einigen Jahren für unmöglich gehaltenen kognitiven Fähigkeiten generative Sprachmodelle besitzen und welche gesellschaftlichen Umwälzungen diese sich rasant entwickelnden Technologien nach sich ziehen könnten. KIDEKU untersucht die Chancen dieser Technologien zur Stärkung unserer deliberativen Kultur, und insbesondere zur Steigerung der Teilhabe an zivilgesellschaftlichen und politischen Debatten. Wir nehmen eine kritische Bestandsaufnahme vor, um daraus konkrete Handlungsempfehlungen sowie Best Practices für die gemeinwohlorientierte Nutzung von Sprachmodellen in deliberativen Demokratien abzuleiten. In Abstimmung mit ausgewählten zivilgesellschaftlichen Akteur*innen konzipieren wir neuartige Einsatzszenarien und explorieren sie in Form von Prototypen und DemoApps.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sebastian Cacean</title>
-      <link>http://localhost:1313/compphil2mmae/author/sebastian-cacean/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/author/sebastian-cacean/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/author/sebastian-cacean/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/author/sebastian-cacean/</guid>
       <description>&lt;p&gt;Sebastian Cacean ist &amp;hellip; [Kurzbeschreibung] &amp;hellip; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>

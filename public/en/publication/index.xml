@@ -2,363 +2,363 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publikationen | CompPhil²MMAE</title>
-    <link>http://localhost:1313/compphil2mmae/en/publication/</link>
-      <atom:link href="http://localhost:1313/compphil2mmae/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ccseidel.github.io/compphil2mmae/en/publication/</link>
+      <atom:link href="https://ccseidel.github.io/compphil2mmae/en/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publikationen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/compphil2mmae/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ccseidel.github.io/compphil2mmae/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publikationen</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/</link>
     </image>
     
     <item>
       <title>Altruismus und Unparteilichkeit. Ein Explikationsvorschlag</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-kiesel-schmidt-ea-2024/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-kiesel-schmidt-ea-2024/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-kiesel-schmidt-ea-2024/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-kiesel-schmidt-ea-2024/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Zukunftsvergessenheit. Ein Klärungsversuch</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-gehring-schmuecker-2024/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-gehring-schmuecker-2024/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-gehring-schmuecker-2024/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-gehring-schmuecker-2024/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Hedonismus</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-hoentzsch-2024-a/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-hoentzsch-2024-a/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-hoentzsch-2024-a/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-hoentzsch-2024-a/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Moralischer Intuitionismus</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-hoentzsch-2024/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-hoentzsch-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-hoentzsch-2024/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-hoentzsch-2024/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/schmitz-2024/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/schmitz-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/schmitz-2024/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/schmitz-2024/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Werte und Wertvorstellungen in der Moral moralischer Rede. Einige Überlegungen zum Phänomendes Moralismus</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/neuhaeuser-seidel-2024/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/neuhaeuser-seidel-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/neuhaeuser-seidel-2024/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/neuhaeuser-seidel-2024/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Was ist Moralismus? Über Zeigefinger und den Ort der Moral</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/neuhaeuser-seidel-2022/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/neuhaeuser-seidel-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/neuhaeuser-seidel-2022/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/neuhaeuser-seidel-2022/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>The Deontic Transfer Principle</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/peterson-seidel-2021/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/peterson-seidel-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/peterson-seidel-2021/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/peterson-seidel-2021/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Die normative Grundlage intergenerationeller Unternehmensethik. Zwei Ansätze, zwei Schwierigkeiten</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-2020-a/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2020-a/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-2020-a/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2020-a/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Kritik des Moralismus</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/neuhaeuser-seidel-2020/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/neuhaeuser-seidel-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/neuhaeuser-seidel-2020/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/neuhaeuser-seidel-2020/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Kritik des Moralismus. Eine Landkarte zur Einleitung</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/neuhaeuser-seidel-neuhaeuser-seidel-2020/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/neuhaeuser-seidel-neuhaeuser-seidel-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/neuhaeuser-seidel-neuhaeuser-seidel-2020/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/neuhaeuser-seidel-neuhaeuser-seidel-2020/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>The Philosophical Biography of the Utilitarian Tradition: Is Sidgwick a Point of Culmination?</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-2020/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-2020/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2020/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Wie moralistisch dürfen wir sein? Moralismus als Herausforderung für eine ‚praktische‘ praktische Philosophie</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-neuhaeuser-seidel-2020/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-neuhaeuser-seidel-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-neuhaeuser-seidel-2020/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-neuhaeuser-seidel-2020/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>*Consequentialism: New Directions, New Problems*</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-2019/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-2019/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2019/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>New Wave Consequentialism. An Introduction</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-seidel-2019/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-seidel-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-seidel-2019/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-seidel-2019/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Zwei (mal zwei) Perspektiven in der Zukunftsethik</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-2019-a/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2019-a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-2019-a/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2019-a/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Der Klimawandel als ethische Herausforderung</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/roser-seidel-meyer-eberth-ea-2018/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/roser-seidel-meyer-eberth-ea-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/roser-seidel-meyer-eberth-ea-2018/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/roser-seidel-meyer-eberth-ea-2018/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Précis zu *Selbst bestimmen. Eine philosophische Untersuchung personaler Autonomie*</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-2017/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2017/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-2017/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2017/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>*Climate Justice: An Introduction*</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/roser-seidel-2017/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/roser-seidel-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/roser-seidel-2017/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/roser-seidel-2017/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Feasibility, normative heuristics and the proper place of historical responsibility -- a reply to Ohndorf *et al.*</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/schuppert-seidel-2017/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/schuppert-seidel-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/schuppert-seidel-2017/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/schuppert-seidel-2017/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Repliken</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-2017-a/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2017-a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-2017-a/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2017-a/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Selbst bestimmen. Eine philosophische Untersuchung personaler Autonomie</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-2016/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-2016/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2016/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>The Costs of Moralizing. How About a enquoteGovernment House Climate Ethics?</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-heyward-roser-2016/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-heyward-roser-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-heyward-roser-2016/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-heyward-roser-2016/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>The Moral Problem</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-kuehler-ruether-2016/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-kuehler-ruether-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-kuehler-ruether-2016/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-kuehler-ruether-2016/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Equality, justice and feasibility: an ethical analysis of the WBGU’s budget approach</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/schuppert-seidel-2015/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/schuppert-seidel-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/schuppert-seidel-2015/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/schuppert-seidel-2015/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Ethik des Klimawandels. Eine Einführung</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/roser-seidel-2015/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/roser-seidel-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/roser-seidel-2015/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/roser-seidel-2015/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>On &#34;Imperfect&#34; Imperfect Duties and the Epistemic Demands of Integrationist Approaches to Justice</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-2014/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-2014/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2014/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Ethik des Klimawandels. Eine Einführung</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/roser-seidel-2013/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/roser-seidel-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/roser-seidel-2013/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/roser-seidel-2013/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Kommentierte Auswahlbibliographie</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-betzler-2013/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-betzler-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-betzler-2013/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-betzler-2013/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Two Problems with the Socio-Relational Critique of Distributive Egalitarianism</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-hoeltje-spitzley-ea-2013/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-hoeltje-spitzley-ea-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-hoeltje-spitzley-ea-2013/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-hoeltje-spitzley-ea-2013/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Autonomie und prozedurale Unabhängigkeit: Eine Verhältnisbestimmung anhand der Debatte um Menschenwürde</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-dunshirn-nemeth-ea-2012/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-dunshirn-nemeth-ea-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-dunshirn-nemeth-ea-2012/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-dunshirn-nemeth-ea-2012/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Eigene Gründe -- wozu eigentlich? Einige Überlegungen in Richtung einer deflationären Auffassung</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-nida-ruemelin-oezmen-2012/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-nida-ruemelin-oezmen-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-nida-ruemelin-oezmen-2012/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-nida-ruemelin-oezmen-2012/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Klimawandel, globale Gerechtigkeit und die Ethik globaler öffentlicher Güter -- einige grundlegende begriffliche Fragen</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-maring-2012/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-maring-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-maring-2012/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-maring-2012/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Die gute Ethikerin und der Platz der Moral: Zwischen Moralismus und Willensschwäche</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-ammann-bleisch-ea-2011/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-ammann-bleisch-ea-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-ammann-bleisch-ea-2011/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-ammann-bleisch-ea-2011/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Does leadership promote cooperation in climate change mitigation policy?</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/saul-seidel-2011/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/saul-seidel-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/saul-seidel-2011/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/saul-seidel-2011/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Personale Autonomie als praktische Autorität</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-2011/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-2011/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2011/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Rezension zu Norbert Anwander: *Versprechen und Verpflichten*</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-2010/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-2010/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2010/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Rezension zu Stephen Darwall, *The Second-Person Standpoint*</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/seidel-2008/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2008/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/seidel-2008/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/seidel-2008/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Psychisch anders? Überlegungen zu Personsein und Identität</title>
-      <link>http://localhost:1313/compphil2mmae/en/publication/steger-seidel-steger-2007/</link>
+      <link>https://ccseidel.github.io/compphil2mmae/en/publication/steger-seidel-steger-2007/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/compphil2mmae/en/publication/steger-seidel-steger-2007/</guid>
+      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/steger-seidel-steger-2007/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
