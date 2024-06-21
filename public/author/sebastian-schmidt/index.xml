@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sebastian Schmidt | CompPhil²MMAE</title>
-    <link>https://ccseidel.github.io/compphil2mmae/author/sebastian-schmidt/</link>
-      <atom:link href="https://ccseidel.github.io/compphil2mmae/author/sebastian-schmidt/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/compphil2mmae/author/sebastian-schmidt/</link>
+      <atom:link href="http://localhost:1313/compphil2mmae/author/sebastian-schmidt/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastian Schmidt</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language>
     <image>
-      <url>https://ccseidel.github.io/compphil2mmae/author/sebastian-schmidt/avatar_hub0e08f76f6bf532b6927b7ecc99b290a_79254_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/compphil2mmae/author/sebastian-schmidt/avatar_hub0e08f76f6bf532b6927b7ecc99b290a_79254_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Sebastian Schmidt</title>
-      <link>https://ccseidel.github.io/compphil2mmae/author/sebastian-schmidt/</link>
+      <link>http://localhost:1313/compphil2mmae/author/sebastian-schmidt/</link>
     </image>
     
     <item>
       <title>Sebastian Schmidt</title>
-      <link>https://ccseidel.github.io/compphil2mmae/author/sebastian-schmidt/</link>
+      <link>http://localhost:1313/compphil2mmae/author/sebastian-schmidt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ccseidel.github.io/compphil2mmae/author/sebastian-schmidt/</guid>
+      <guid>http://localhost:1313/compphil2mmae/author/sebastian-schmidt/</guid>
       <description>&lt;p&gt;Sebastian Schmidt war 2018&amp;ndash;2020 Doktorand bei CompPhil²MMAE. Er ist inzwischen Postdoc an der Zurich Epistemology Group on Rationality (ZEGRa) der Universität Zürich.&lt;/p&gt;
 </description>
     </item>

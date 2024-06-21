@@ -1,5 +1,5 @@
 ---
-title: '*Kritik des Moralismus*'
+title: 'Kritik des Moralismus'
 
 # Authors
 # A YAML list of author names
@@ -72,7 +72,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['moralismus']
 ---
 
 <!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

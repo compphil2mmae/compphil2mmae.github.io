@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Lanius | CompPhil²MMAE</title>
-    <link>https://ccseidel.github.io/compphil2mmae/en/author/david-lanius/</link>
-      <atom:link href="https://ccseidel.github.io/compphil2mmae/en/author/david-lanius/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/compphil2mmae/en/author/david-lanius/</link>
+      <atom:link href="http://localhost:1313/compphil2mmae/en/author/david-lanius/index.xml" rel="self" type="application/rss+xml" />
     <description>David Lanius</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ccseidel.github.io/compphil2mmae/en/author/david-lanius/avatar_huca02ae30f2fd5b30f047802caff091fe_113522_270x270_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/compphil2mmae/en/author/david-lanius/avatar_huca02ae30f2fd5b30f047802caff091fe_113522_270x270_fill_lanczos_center_3.png</url>
       <title>David Lanius</title>
-      <link>https://ccseidel.github.io/compphil2mmae/en/author/david-lanius/</link>
+      <link>http://localhost:1313/compphil2mmae/en/author/david-lanius/</link>
     </image>
     
     <item>
+      <title>Argumentieren in der Schule</title>
+      <link>http://localhost:1313/compphil2mmae/en/research/dfg_argumentieren-in-der-schule/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/research/dfg_argumentieren-in-der-schule/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>David Lanius</title>
-      <link>https://ccseidel.github.io/compphil2mmae/en/author/david-lanius/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ccseidel.github.io/compphil2mmae/en/author/david-lanius/</guid>
+      <link>http://localhost:1313/compphil2mmae/en/author/david-lanius/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/en/author/david-lanius/</guid>
       <description>&lt;p&gt;David Lanius ist &amp;hellip; [Kurzbeschreibung] &amp;hellip; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>

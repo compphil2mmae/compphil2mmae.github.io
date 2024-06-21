@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLMs | CompPhil²MMAE</title>
+    <link>http://localhost:1313/compphil2mmae/tag/llms/</link>
+      <atom:link href="http://localhost:1313/compphil2mmae/tag/llms/index.xml" rel="self" type="application/rss+xml" />
+    <description>LLMs</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/compphil2mmae/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>LLMs</title>
+      <link>http://localhost:1313/compphil2mmae/tag/llms/</link>
+    </image>
+    
+    <item>
+      <title>Chancen von KI zur Stärkung unser deliberativen Kultur (KIDEKU)</title>
+      <link>http://localhost:1313/compphil2mmae/research/kideku/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/research/kideku/</guid>
+      <description>&lt;p&gt;Spätestens mit der Veröffentlichung von ChatGPT im Dezember 2022 ist einer breiten Öffentlichkeit klar geworden, welche herausragenden, noch vor einigen Jahren für unmöglich gehaltenen kognitiven Fähigkeiten generative Sprachmodelle besitzen und welche gesellschaftlichen Umwälzungen diese sich rasant entwickelnden Technologien nach sich ziehen könnten. KIDEKU untersucht die Chancen dieser Technologien zur Stärkung unserer deliberativen Kultur, und insbesondere zur Steigerung der Teilhabe an zivilgesellschaftlichen und politischen Debatten. Wir nehmen eine kritische Bestandsaufnahme vor, um daraus konkrete Handlungsempfehlungen sowie Best Practices für die gemeinwohlorientierte Nutzung von Sprachmodellen in deliberativen Demokratien abzuleiten. In Abstimmung mit ausgewählten zivilgesellschaftlichen Akteur*innen konzipieren wir neuartige Einsatzszenarien und explorieren sie in Form von Prototypen und DemoApps.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

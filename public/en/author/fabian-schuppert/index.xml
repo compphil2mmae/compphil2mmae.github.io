@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fabian Schuppert | CompPhil²MMAE</title>
-    <link>https://ccseidel.github.io/compphil2mmae/en/author/fabian-schuppert/</link>
-      <atom:link href="https://ccseidel.github.io/compphil2mmae/en/author/fabian-schuppert/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/compphil2mmae/en/author/fabian-schuppert/</link>
+      <atom:link href="http://localhost:1313/compphil2mmae/en/author/fabian-schuppert/index.xml" rel="self" type="application/rss+xml" />
     <description>Fabian Schuppert</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ccseidel.github.io/compphil2mmae/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/compphil2mmae/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Fabian Schuppert</title>
-      <link>https://ccseidel.github.io/compphil2mmae/en/author/fabian-schuppert/</link>
+      <link>http://localhost:1313/compphil2mmae/en/author/fabian-schuppert/</link>
     </image>
     
     <item>
       <title>Feasibility, normative heuristics and the proper place of historical responsibility -- a reply to Ohndorf *et al.*</title>
-      <link>https://ccseidel.github.io/compphil2mmae/en/publication/schuppert-seidel-2017/</link>
+      <link>http://localhost:1313/compphil2mmae/en/publication/schuppert-seidel-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/schuppert-seidel-2017/</guid>
+      <guid>http://localhost:1313/compphil2mmae/en/publication/schuppert-seidel-2017/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>
     
     <item>
       <title>Equality, justice and feasibility: an ethical analysis of the WBGU’s budget approach</title>
-      <link>https://ccseidel.github.io/compphil2mmae/en/publication/schuppert-seidel-2015/</link>
+      <link>http://localhost:1313/compphil2mmae/en/publication/schuppert-seidel-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ccseidel.github.io/compphil2mmae/en/publication/schuppert-seidel-2015/</guid>
+      <guid>http://localhost:1313/compphil2mmae/en/publication/schuppert-seidel-2015/</guid>
       <description>&lt;!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. ---&gt;
 </description>
     </item>

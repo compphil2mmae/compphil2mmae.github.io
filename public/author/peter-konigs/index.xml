@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter Königs | CompPhil²MMAE</title>
-    <link>https://ccseidel.github.io/compphil2mmae/author/peter-konigs/</link>
-      <atom:link href="https://ccseidel.github.io/compphil2mmae/author/peter-konigs/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/compphil2mmae/author/peter-konigs/</link>
+      <atom:link href="http://localhost:1313/compphil2mmae/author/peter-konigs/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Königs</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ccseidel.github.io/compphil2mmae/author/peter-konigs/avatar_hu0b78d472bef2692b8a67e8d044edc253_93302_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/compphil2mmae/author/peter-konigs/avatar_hu0b78d472bef2692b8a67e8d044edc253_93302_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Peter Königs</title>
-      <link>https://ccseidel.github.io/compphil2mmae/author/peter-konigs/</link>
+      <link>http://localhost:1313/compphil2mmae/author/peter-konigs/</link>
     </image>
     
     <item>
       <title>Peter Königs</title>
-      <link>https://ccseidel.github.io/compphil2mmae/author/peter-konigs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ccseidel.github.io/compphil2mmae/author/peter-konigs/</guid>
+      <link>http://localhost:1313/compphil2mmae/author/peter-konigs/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/author/peter-konigs/</guid>
       <description>&lt;p&gt;Peter Königs war 2018&amp;ndash;2019 Postdoc bei CompPhil²MMAE. Er ist inzwischen Professor für Praktische Philosophie mit Schwerpunkt Herausforderungen neuer Technologien an der TU Dortmund.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Ethics of State Mass Surveillance</title>
+      <link>http://localhost:1313/compphil2mmae/research/esms/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compphil2mmae/research/esms/</guid>
+      <description>&lt;p&gt;Facilitated by technological progress, recent years have seen a rapid expansion of state mass surveillance operations. These include the global surveillance program uncovered by Edward Snowden, video surveillance in public places (increasingly with facial recognition), and surveillance operations to contain the spread of the coronavirus. While state mass surveillance is not a new phenomenon, modern state mass surveillance differs in many morally relevant ways from ‘old fashioned’ surveillance. Some of the differences include its unprecedented scale, its reliance on computers and artificial intelligence, as well as the fact that it is increasingly established democracies that engage in large scale surveillance. The use of mass surveillance in democracies raises particularly challenging philosophical questions. The research project explores ethical questions surrounding state mass surveillance in liberal societies ─ with regard to (a) the individual being monitored, (b) the democratic society in which surveillance is carried out, and (c) the technology companies that are involved in surveillance operations.&lt;/p&gt;
 </description>
     </item>
     
