@@ -56,7 +56,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'christian.seidel@kit.edu'
+    link: 'mailto:christian.seidel@kit.edu'
   - icon: address-card
     icon_pack: fas
     link: 'https://www.philosophie.kit.edu/mitarbeiter_894.php'
