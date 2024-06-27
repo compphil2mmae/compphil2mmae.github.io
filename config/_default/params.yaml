@@ -8,6 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
+  light: true
   font: native
   font_size: M
 
