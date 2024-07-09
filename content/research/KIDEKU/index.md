@@ -67,6 +67,11 @@ Im Projekt **_KIdeKu_** gehen wir der Frage nach, wie Large Language Models (LLM
 
 Für die Beantwortung dieser Leitfragen wollen wir in **_KIdeKu_** zivilgesellschaftliche Akteur\*innen in unseren Forschungs- und Entwicklungsprozess einbinden und unsere Resultate für die Verwendung und Weiterentwicklung offen kommunizieren und frei verfügbar machen. 
 
+
+{{% callout note %}}
+🙋 Ihr habt Input, Ideen und wollt Euch in diesem Prozess einbringen? 👏 Dann meldet Euch bei uns! 👉 [📧](mailto:kideku.kit.edu)
+{{% /callout %}}
+
 Wie streben die folgenden Ziele an: 
 
 1. 👥 **Entwicklung von Einsatzszenarien:** In Abstimmung mit zivilgesellschaftlichen Akteur\*innen konzipieren wir relevante und neuartige Einsatzszenarien. Wir wollen einen möglichst breiten Überblick darüber schaffen, wie LLMs gemeinwohlorientiert in unserer demokratischen Praxis verwendet werden können und welche Ziele damit verfolgt werden können. Es sollen sowohl die Anforderungen zivilgesellschaftlicher Organisationen an die Verwendung und Einbindung LLM-basierter Applikationen als auch die Bedarfe der unterschiedlichen Zielgruppen erfasst werden. Beispiele für solche Einsatzszenarien umfassen:
@@ -78,3 +83,10 @@ Wie streben die folgenden Ziele an:
 
 
 Insgesamt erarbeiteten wir in **_KIdeKu_** damit Konzepte und Studien zur Schaffung eines geeigneten operativen Rahmens für die Entwicklung und den Einsatz gemeinwohlorientierter KI in unserer demokratischen Praxis und hoffen, dass die Ergebnisse und Ideen aufgegriffen sowie weiterentwickelt werden. 
+
+---
+*Projektlaufzeit:* 01.06.2024--31.12.2025
+
+*Gefördert vom:*
+<!-- ![Logo BMFSFJ](BMFSFJ_Logo.svg) -->
+<img align="left" width="400" src="BMFSFJ_Logo.svg">
