@@ -27,7 +27,8 @@ organizations:
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Moralphilosophie
+  - Moralphilosophie/meta-normative Theorie
+  - normative Ethik, insbesondere konsequentialistische Moraltheorien
 
 education:
   courses:
@@ -89,6 +90,4 @@ user_groups:
   # - Alumni
 ---
 
-Dorothee Bleisch ist ... [Kurzbeschreibung] ... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dorothee Bleisch (M.A.) ist Promotionsstudentin (betreut durch Prof. Erasmus Mayr (FAU Erlangen-Nürnberg) und Prof. {{%mention "christian.seidel" %}} (KIT)). Im Rahmen ihres Promotionsprojekts forscht sie am Institut für Philosophie der Friedrich-Alexander-Universität Erlangen-Nürnberg zum sogenannten Usability Demand, dem zufolge Moraltheorien immer auch handlungsanleitend sein sollten. Daneben beschäftigt sie sich mit verschiedenen Themen im Bereich der (normativen) Ethik und forscht zu konsequentialistische Moraltheorien.

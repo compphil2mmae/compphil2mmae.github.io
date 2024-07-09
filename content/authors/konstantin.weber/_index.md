@@ -34,15 +34,13 @@ interests:
 
 education:
   courses:
-    - course: Abschluss
-      institution: Institution
+    - course: B.A. Philosophie & griechische Philologie
+      institution: FAU Erlangen-Nürnberg
       year: Jahr
-    - course: Abschluss
-      institution: Institution
-      year: Jahr
-    - course: Abschluss
-      institution: Institution
-      year: Jahr
+    - course: M.A. Philosophie
+      institution: FAU Erlangen-Nürnberg
+      year: 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -51,7 +49,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:konstantin.webkom.weber@fau.de'
+    link: 'mailto:konstantin.weber@gmx.de'
+  #nicht bevorzugt  link: 'mailto:konstantin.webkon.weber@fau.de'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -92,6 +91,6 @@ user_groups:
   # - Alumni
 ---
 
-Konstantin Weber ist ... [Kurzbeschreibung] ... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Konstantin Weber promoviert am Institut für Philosophie der Friedrich-Alexander-Universität Erlangen-Nürnberg zur Ethik zukünftiger Personen. Die Arbeit wurde mit einem Promotionsstipendium der Studienstiftung des deutschen Volkes gefördert.
+Konstantin studierte Philosophie und griechische Philologie in Erlangen. Ebendort war und ist er zunächst als wissenschaftliche Hilfskraft und später als wissenschaftlicher Mitarbeiter tätig.
+Konstantins philosophische Interessen sind im Bereich der praktischen Philosophie breit gestreut. Seine Forschungsschwerpunkte liegen im Bereich der Ethik zukünftiger Personen, philosophischer Theorien der Rationalität sowie der Metaethik und Metanormativität.
