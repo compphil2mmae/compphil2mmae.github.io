@@ -36,7 +36,7 @@ education:
   courses:
     - course: B.A. Philosophie & griechische Philologie
       institution: FAU Erlangen-Nürnberg
-      year: Jahr
+#      year: Jahr
     - course: M.A. Philosophie
       institution: FAU Erlangen-Nürnberg
       year: 2018
