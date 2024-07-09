@@ -30,17 +30,17 @@ interests:
   - Moralphilosophie/meta-normative Theorie
   - normative Ethik, insbesondere konsequentialistische Moraltheorien
 
-education:
-  courses:
-    - course: Abschluss
-      institution: Institution
-      year: Jahr
-    - course: Abschluss
-      institution: Institution
-      year: Jahr
-    - course: Abschluss
-      institution: Institution
-      year: Jahr
+#education:
+#  courses:
+#    - course: Abschluss
+#      institution: Institution
+#      year: Jahr
+#    - course: Abschluss
+#      institution: Institution
+#      year: Jahr
+#    - course: Abschluss
+#      institution: Institution
+#      year: Jahr
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

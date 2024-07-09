@@ -27,22 +27,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Schwerpunkt A
-  - Schwerpunkt B
-  - Schwerpunkt C
+#interests:
+#  - Schwerpunkt A
+#  - Schwerpunkt B
+#  - Schwerpunkt C
 
-education:
-  courses:
-    - course: Abschluss
-      institution: Institution
-      year: Jahr
-    - course: Abschluss
-      institution: Institution
-      year: Jahr
-    - course: Abschluss
-      institution: Institution
-      year: Jahr
+#education:
+#  courses:
+#    - course: Abschluss
+#      institution: Institution
+#      year: Jahr
+#    - course: Abschluss
+#      institution: Institution
+#      year: Jahr
+#    - course: Abschluss
+#      institution: Institution
+#      year: Jahr
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

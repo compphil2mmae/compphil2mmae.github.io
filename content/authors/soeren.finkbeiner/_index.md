@@ -31,9 +31,9 @@ bio: '' #My research interests include distributed robotics, mobile computing an
 
 education:
   courses:
-    - course: Abschluss
-      institution: Institution
-      year: Jahr
+    - course: B.A. Europäische Kultur und Ideengeschichte (EUKLID)
+      institution: Karlsruher Institut für Technologie (KIT)
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
