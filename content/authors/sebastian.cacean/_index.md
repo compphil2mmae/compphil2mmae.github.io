@@ -18,7 +18,7 @@ role: wissenschaftlicher Mitarbeiter, Doktorand
 
 # Organizations/Affiliations
 organizations:
- - name: Lehrstuhl für Philosophische Anthropologie # DebateLab
+ - name: Lehrstuhls für Philosophische Anthropologie # DebateLab
    url: '' # https://debatelab.philosophie.kit.edu/
  - name: DebateLab
    url: https://debatelab.philosophie.kit.edu/
@@ -28,21 +28,16 @@ organizations:
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Schwerpunkt A
-  - Schwerpunkt B
-  - Schwerpunkt C
+  - Argumentation and Public Discourse
+  - Artificial Intelligence
+  - Content Analysis
+  - Democracy
 
 education:
   courses:
-    - course: Abschluss
-      institution: Institution
-      year: Jahr
-    - course: Abschluss
-      institution: Institution
-      year: Jahr
-    - course: Abschluss
-      institution: Institution
-      year: Jahr
+    - course: Diplom Physik
+      institution: Freie Universität Berlin
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -64,15 +59,15 @@ social:
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/xylomorph
   # - icon: orcid
   #   icon_pack: ai
   #   link: https://orcid.org/0000-0001-5802-5030
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/gregor-betz/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/sebastian-cacean/
   # - icon: blog
   #   icon_pack: fas
   #   link: https://debatelab.github.io/    
@@ -102,6 +97,8 @@ user_groups:
   # - Alumni
 ---
 
-Sebastian Cacean ist ... [Kurzbeschreibung] ... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sebastian Cacean ist wissenschaftlicher Mitarbeiter im [Debatelab](https://debatelab.philosophie.kit.edu/) des Departments für Philosophie des Karlsruher Instituts für Technologie (KIT) und arbeitet derzeit im Projekt [**_KIDeKu_**]({{< relref "/research/KIDEKU" >}}). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Nach seinem Studium der Physik und Philosophie war er in diversen Forschungsprojekten tätig, in denen er sich mit Fragen der angewandten Ethik (z.B. [Führungsethik als Ethik in den Wissenschaften](https://uni-tuebingen.de/forschung/zentren-und-institute/internationales-zentrum-fuer-ethik-in-den-wissenschaften/das-izew/archiv/abgeschlossene-projekte/projektseiten/fuehrungsethik-als-ethik-in-den-wissenschaften/), [Bürgderdelphi Keimbahntherapie](https://www.wmk.itz.kit.edu/2950.php)), Wissenschaftstheorie (z.B. [Limits and Objectivity of Scientific Foreknowledge: The Case of Energy Outlooks ](https://srg-lobster.philosophie.kit.edu/)) und Methoden der Philosophie (z.B. [How Far Does Reflective Equilibrium Take Us?](https://re-models.github.io/)) beschäftigte. In seiner Dissertation entwickelt er inhaltsanalytische Methoden zur Analyse von Argumentationsstrukturen, die es ermöglichen Interpretationsoffenheit mit dem Kriterium der Reliabilität in Einklang zu bringen. 
+
+In Forschung und Lehre analysiert Sebastian gern gesellschaftsrelevante Debatten, überlegt, wie inhaltsanalytische Methoden mit Hilfe von Sprachmodellen angewendet werden können, um den öffentlichen Diskurs zu analysieren und befasst sich mit der Verwendung von Methoden der Argumentationstheorie zu Verbesserung unserer deliberativen Praxis.
