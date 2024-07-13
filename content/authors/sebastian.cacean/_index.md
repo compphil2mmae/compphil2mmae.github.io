@@ -18,7 +18,7 @@ role: wissenschaftlicher Mitarbeiter, Doktorand
 
 # Organizations/Affiliations
 organizations:
- - name: Lehrstuhls für Philosophische Anthropologie # DebateLab
+ - name: Lehrstuhl für Philosophische Anthropologie # DebateLab
    url: '' # https://debatelab.philosophie.kit.edu/
  - name: DebateLab
    url: https://debatelab.philosophie.kit.edu/
