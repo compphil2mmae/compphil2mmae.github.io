@@ -27,7 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [moral-progress]
 ---
 
 Mit einem Vortrag über „Zwei Traditionslinien innerhalb der utilitaristischen Tradition: Was erklärt deren Aufteilung in Radikale und Konservative? Diskutiert anhand des Reformers John Stuart Mill und des Konservativen Henry Sidgwick.“ hat {{% mention "cyriak.schmitz" %}} seine Promotion erfolgreich abgeschlossen. Die Dissertation mit dem Titel *Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse* ist [*open access* publiziert]({{< relref "/publication/schmitz-2024" >}}). 

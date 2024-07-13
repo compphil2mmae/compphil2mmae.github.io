@@ -27,7 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [transformation]
 ---
 
 Am von Frauke Höntzsch herausgegebenen Mill-Handbuch ist das Department für Philosophie mit insgesamt sieben Beiträgen maßgeblich beteiligt.  

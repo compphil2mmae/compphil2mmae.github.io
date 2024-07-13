@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [moral-progress,transformation]
 ---
 
 Die Vorträge von {{% mention "cyriak.schmitz" %}} ("What is the relation between the unified theory and the triple theory?") und von {{% mention "christian.seidel" %}} ("Sidgwickian Moral Theorizing: on the Teleological Relation between Principles and Methods") sind zur [17. Konferenz](https://www.ucl.ac.uk/bentham-project/events/isus-conferences) der [International Society for Utilitarian Studies (ISUS)](https://www.ucl.ac.uk/bentham-project/international-society-utilitarian-studies) angenommen worden.
