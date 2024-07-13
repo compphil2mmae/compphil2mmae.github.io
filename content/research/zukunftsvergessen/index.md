@@ -1,6 +1,6 @@
 ---
 title: 'Zukunft vergessen'
-summary: Welche Einstellung sollten wir zur Zukunft der Menschheit haben?  (Wann) Wird im öffentlichen Diskurs die Zukunft vergessen?
+summary: Welche Einstellung sollten wir zur Zukunft der Menschheit haben? (Wann) Wird im öffentlichen Diskurs die Zukunft vergessen?
 tags:
   - Angewandte Ethik
   - Norms of Public Reasoning
