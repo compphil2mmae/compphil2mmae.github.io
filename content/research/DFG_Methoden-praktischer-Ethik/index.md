@@ -13,7 +13,7 @@ authors:
   - christian.seidel
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://osf.io/aq4y5/'
+external_link: 'https://gepris.dfg.de/gepris/projekt/532782236?context=projekt&task=showDetail&id=532782236&'
 
 image:
   # caption: Photo by rawpixel on Unsplash
