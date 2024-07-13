@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: CompPhil²MMAE # PhilMMAE 
-baseURL: 'https://ccseidel.github.io/compphil2mmae/' # 'https://www.christianseidel.eu/' # Website URL
+baseURL: 'https://compphil2mmae.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
