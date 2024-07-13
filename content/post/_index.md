@@ -8,7 +8,7 @@ sections:
       title: Neuigkeiten
       subtitle:
       text:
-      count: 
+      count: 0
       filters:
         author: ''
         category: ''

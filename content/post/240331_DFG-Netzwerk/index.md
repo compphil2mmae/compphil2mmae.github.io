@@ -7,8 +7,8 @@ summary: CompPhil²MMAE ist an einem von der [DFG](https://www.dfg.de) geförder
 authors: [inga.bones,christian.seidel]
 tags: [highlight]
 categories: []
-date: 2024-03-31T20:26:14+01:00
-lastmod: 2024-03-31T20:26:14+01:00
+date: 2024-04-01T20:26:14+01:00
+lastmod: 2024-04-01T20:26:14+01:00
 featured: false
 draft: false
 

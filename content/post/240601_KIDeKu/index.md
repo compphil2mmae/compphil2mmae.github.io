@@ -3,12 +3,12 @@
 
 title: "KIDeKu Projekt gestartet!"
 subtitle: 
-summary: "Am 1.6.2024 ist unser BMFSFJ Projekt *Chancen von KI zur Stärkung unserer deliberativen Kultur* gestartet. Im Projekt untersuchen wir in Zusammenarbeit mit zivilgesellschaftlichen Akteur:innen die Potentiale großer Sprachmodelle, unsere demokratischen Praktiken zu stärken."
+summary: "Unser BMFSFJ Projekt *Chancen von KI zur Stärkung unserer deliberativen Kultur* ist gestartet. Im Projekt untersuchen wir in Zusammenarbeit mit zivilgesellschaftlichen Akteur:innen die Potentiale großer Sprachmodelle, unsere demokratischen Praktiken zu stärken."
 authors: [sebastian.cacean]
 tags: [news,highlight]
 categories: []
-date: 2024-06-01
-lastmod: 2024-07-10
+date: 2024-06-01T16:35:51+01:00
+lastmod: 2024-06-01T16:35:51+01:00
 featured: false
 draft: false
 
