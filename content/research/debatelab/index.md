@@ -9,6 +9,7 @@ tags:
   - Computationale Philosophie
   - Norms of Public Reasoning
   - Angewandte Ethik
+  - laufend
 date: '2024-04-01T00:00:00Z'
 type: 'project'
 authors: 

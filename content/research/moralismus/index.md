@@ -5,6 +5,7 @@ tags:
   - Moralphilosophie
   - Angewandte Ethik
   - Norms of Public Reasoning
+  - laufend
 date: '2016-04-27T00:00:00Z'
 type: 'project'
 authors:

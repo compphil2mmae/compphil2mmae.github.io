@@ -3,6 +3,7 @@ title: 'E.E.C Jones and British Women Philosophers in an Age of Transition'
 summary: An example of using the in-built project page.
 tags:
   - BMSP19
+  - laufend
 date: '2016-04-27T00:00:00Z'
 type: 'project'
 authors:

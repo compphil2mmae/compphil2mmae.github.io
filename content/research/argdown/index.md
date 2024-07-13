@@ -5,6 +5,7 @@ summary: |2-
 tags:
   - Computationale Philosophie
   - Norms of Public Reasoning
+  - abgeschlossen
 date: '2024-04-01T00:00:00Z'
 type: 'project'
 authors: 

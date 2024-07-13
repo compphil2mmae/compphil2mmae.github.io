@@ -6,6 +6,7 @@ tags:
   - Philosohische Methoden
   - Moralphilosophie
   - Angewandte Ethik
+  - laufend
 date: '2024-04-01T00:00:00Z'
 type: 'project'
 authors: 

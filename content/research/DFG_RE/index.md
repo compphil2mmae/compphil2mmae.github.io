@@ -5,6 +5,7 @@ summary: |2-
 tags:
   - Computationale Philosophie
   - Philosophische Methoden
+  - abgeschlossen
 date: '2024-04-01T00:00:00Z'
 type: 'project'
 authors: 

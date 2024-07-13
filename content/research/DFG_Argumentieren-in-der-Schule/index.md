@@ -4,6 +4,7 @@ summary: |2-
   Ein DFG-gefördertes Wissenschaftliches Netzwerk zur Argumentationsdidaktik an der Schnittstelle zwischen Fachdidaktik und Fachwissenschaft. 
 tags:
   - Norms of Public Reasoning
+  - abgeschlossen
 date: '2024-04-01T00:00:00Z'
 type: 'project'
 authors: 

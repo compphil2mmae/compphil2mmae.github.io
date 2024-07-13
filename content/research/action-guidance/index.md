@@ -3,6 +3,7 @@ title: 'Action-Guidance – Must Moral Theories Tell Us What to Do?'
 summary: This PhD project (funded by the Studienstiftung) systematically investigating the usability demand on moral theories.
 tags:
   - Moralphilosophie
+  - laufend
 date: '2016-04-27T00:00:00Z'
 type: 'project'
 authors:

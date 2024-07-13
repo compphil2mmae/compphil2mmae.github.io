@@ -7,6 +7,7 @@ tags:
   - Deliberation
   - Computationale Philosophie
   - Norms of Public Reasoning
+  - laufend
 date: '2024-06-01'
 type: 'project'
 authors:

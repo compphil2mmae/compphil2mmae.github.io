@@ -4,6 +4,7 @@ summary: Dieses (von der Studienstiftung geförderte) Promotionsrojekt untersuch
 tags:
   - Moralphilosophie
   - BMSP19
+  - abgeschlossen
 date: '2016-04-27T00:00:00Z'
 type: 'project'
 authors:

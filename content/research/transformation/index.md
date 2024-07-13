@@ -3,6 +3,7 @@ title: 'J.S. Mill, H. Sidgwick and the Transformation of Utilitarianism'
 summary: Das Projekt untersucht, wie und warum sich der Charakter des utilitaristischen Projekts von Bentham und den Philosophic Radicals über John Stuart Mill bis hin zu Sidgwick verändert hat. 
 tags:
   - BMSP19
+  - laufend
 date: '2016-04-27T00:00:00Z'
 type: 'project'
 authors:

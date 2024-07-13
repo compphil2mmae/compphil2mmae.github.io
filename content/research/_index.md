@@ -20,8 +20,10 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: Alle
+        - name: [Alle Projekte]
           tag: '*'
+        # - name: [laufende Projekte]
+        #   tag: laufend
         - name: Computationale Philosophie
           tag: Computationale Philosophie
         - name: LLMs
@@ -36,6 +38,8 @@ sections:
           tag: Angewandte Ethik
         - name: Britische Moral- & Sozialphilosophie des 19. Jh.
           tag: BMSP19
+        - name: [abgeschlossene Projekte]
+          tag: abgeschlossen
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
