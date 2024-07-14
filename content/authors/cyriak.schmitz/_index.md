@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 'Lehrbeauftragter | [Alumni] Doktorand'
+role: '[Alumni] Doktorand | [now] Lehrbeauftragter'
 
 # Organizations/Affiliations
 organizations:
