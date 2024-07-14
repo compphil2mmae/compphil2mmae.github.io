@@ -2,24 +2,17 @@
 
 ## Struktur
 
-Die Website ist intern über zwei repositories auf github organisiert:
+Das Repo `compphil2maae.github.io` ist öffentlich und enthält im branch `main` lediglich den Quellcode der Website. 
 
-1. `compphil2maae_source`: privat, enthält den Quellcode der Website, darunter auch mit `hugo` erzeugten statischen Teil im `public` directory, der über eine github-action in das öffentliche Repo `compphil2maae` gepusht wird;
+Über einen github-internen workflow (in `.github/workflows/publish.yml` wird bei jedem push ins remote über hugo ein statische gitpages-html-Seite erzeugt. Der html-Output der  `/public` und `/resources` directories wird ignoriert. Die Website ist unter https://compphil2mmae.github.io/ erreichbar.
 
-2. `compphil2maae`: öffentlich, hier wird die Website gemounted (see baseurl in `/config/default/hugo.yaml`) und ist von außen abrufbar (automatisches deployment durch gitpages).
-
-Dies ist das Repository `compphil2maae_source`.
 
 ## Workflow für Änderungen:
 
-1. Pull from `compphil2maae_source` 
+1. Pull from `compphil2maae.github.io` 
 2. Change website locally
-3. Run `hugo` (without server!) locally
-   - Notabene: Bei größeren Löschungen muss man evtl. zuvor `/public` und `/resources` directories löschen
-4. [evtl.] check changes
-   - run `hugo server --disableFastRender`
+3. check changes by running `hugo server --disableFastRender`
 5. Commit locally
-6. Push commit to remote repository `compphil2maae_source`
-7. execute github action
-   - [TBD] see https://www.mytechramblings.com/posts/create-a-website-with-hugo-and-gh/ or https://github.com/marketplace/actions/push-a-directory-to-another-repository
-   in `compphil2maae_source` to push `/public` directory to `compphil2maae`.
+6. Push commit to remote repository `compphil2maae.github.io`
+7. wait a couple of minutes & check auto deployment by visiting https://compphil2mmae.github.io
+
