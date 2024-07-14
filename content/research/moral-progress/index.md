@@ -4,7 +4,7 @@ summary: Dieses (von der Studienstiftung geförderte) Promotionsrojekt untersuch
 tags:
   - Moralphilosophie
   - BMSP19
-date: '2016-04-27T00:00:00Z'
+date: '2018-10-01T00:00:00Z'
 type: 'project'
 authors:
 - cyriak.schmitz

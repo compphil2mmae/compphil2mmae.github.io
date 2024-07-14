@@ -3,7 +3,7 @@ title: 'E.E.C Jones and British Women Philosophers in an Age of Transition'
 summary: Dieses Projekt untersucht die Rolle von weiblichen Philosophinnen in der Gründungsphase der professionellen, akademischen analytischen Philosophie ausgehend von Emily Elizabeth Constance Jones.
 tags:
   - BMSP19
-date: '2016-04-27T00:00:00Z'
+date: '2023-10-01T00:00:00Z'
 type: 'project'
 authors:
 - inga.bones

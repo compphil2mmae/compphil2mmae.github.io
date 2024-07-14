@@ -4,7 +4,7 @@ summary: Welche Einstellung sollten wir zur Zukunft der Menschheit haben? (Wann)
 tags:
   - Angewandte Ethik
   - Norms of Public Reasoning
-date: '2016-04-27T00:00:00Z'
+date: '2023-01-01T00:00:00Z'
 type: 'project'
 authors:
 - christian.seidel

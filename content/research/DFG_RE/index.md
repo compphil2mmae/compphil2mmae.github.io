@@ -5,7 +5,7 @@ summary: |2-
 tags:
   - Computationale Philosophie
   - Philosophische Methoden
-date: '2024-04-01T00:00:00Z'
+date: '2018-04-01T00:00:00Z'
 type: 'project'
 authors: 
   - gregor.betz
