@@ -1,7 +1,6 @@
 ---
 title: seppl
-summary: |2- 
-AI-Powered E-Learning App for Argument Analysis.
+summary: AI-Powered E-Learning App for Argument Analysis.
 tags:
   - Computationale Philosophie
   - LLMs
