@@ -89,4 +89,4 @@ user_groups:
   - Alumni
 ---
 
-Sebastian Schmidt war 2018--2020 Doktorand bei CompPhil²MMAE. Er ist inzwischen Postdoc an der Zurich Epistemology Group on Rationality (ZEGRa) der Universität Zürich.
+Sebastian Schmidt war 2018--2020 Doktorand bei CompPhil²MMAE. Er ist inzwischen Postdoc an der [Zurich Epistemology Group on Rationality (ZEGRa)](https://zegra.ch/profile/s.schmidt/) der Universität Zürich.
