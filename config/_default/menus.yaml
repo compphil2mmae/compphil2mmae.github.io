@@ -18,9 +18,9 @@ main:
   #   parent: lehre
   #   url: ressources/teaching/
   #   weight: 10    
-  - name: Öffentliche Philosophie
-    url: outreach
-    weight: 40
+  # - name: Öffentliche Philosophie
+  #   url: outreach
+  #   weight: 40
   - name: Publikationen
     url: publication
     weight: 50

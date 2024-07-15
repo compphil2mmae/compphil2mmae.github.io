@@ -3,7 +3,7 @@ title: 'The Ethics of Creating People'
 summary: This PhD project (funded by the Studienstiftung) systematically investigating the usability demand on moral theories.
 tags:
   - Moralphilosophie
-date: '2016-04-27T00:00:00Z'
+date: '2019-09-01T00:00:00Z'
 type: 'project'
 authors:
 - konstantin.weber

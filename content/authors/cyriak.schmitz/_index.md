@@ -14,7 +14,8 @@ authors:
 superuser: false
 
 # Role/position
-role: 'Lehrbeauftragter | [Alumni] Doktorand'
+role: 'Lehrbeauftragter'
+# role: '[Alumni] Doktorand & Postdoc | [now] Lehrbeauftragter'
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +68,7 @@ user_groups:
   # - Doktorand:innen # Grad Students
   - Assoziierte
   # - Gäste # Visitors
-  - Alumni
+  # - Alumni
 ---
 
 Cyriak Schmitz ist ... [Kurzbeschreibung] ... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

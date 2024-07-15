@@ -9,7 +9,7 @@ tags:
   - Computationale Philosophie
   - Norms of Public Reasoning
   - Angewandte Ethik
-date: '2024-04-01T00:00:00Z'
+date: '2012-04-01T00:00:00Z'
 type: 'project'
 authors: 
   - gregor.betz
