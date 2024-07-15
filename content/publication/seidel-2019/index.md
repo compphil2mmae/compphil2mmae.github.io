@@ -1,5 +1,5 @@
 ---
-title: '*Consequentialism: New Directions, New Problems*'
+title: 'Consequentialism: New Directions, New Problems'
 
 # Authors
 # A YAML list of author names
