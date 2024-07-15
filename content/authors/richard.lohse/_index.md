@@ -14,7 +14,8 @@ authors:
 superuser: false
 
 # Role/position
-role: wissenschaftlicher Mitarbeiter, Doktorand
+role: Doktorand
+# role: "[Alumni] Doktorand"
 
 # Organizations/Affiliations
 organizations:
@@ -55,12 +56,12 @@ social:
   - icon: house
     icon_pack: fas
     link: 'https://richard-lohse.com/'
-  - icon: address-card
-    icon_pack: fas
-    link: 'https://www.philosophie.kit.edu/mitarbeiter_1031.php'
-  - icon: phone
-    icon_pack: fas
-    link: 'https://www.philosophie.kit.edu/mitarbeiter_1031.php'   
+  # - icon: address-card
+  #   icon_pack: fas
+  #   link: 'https://www.philosophie.kit.edu/mitarbeiter_1031.php'
+  # - icon: phone
+  #   icon_pack: fas
+  #   link: 'https://www.philosophie.kit.edu/mitarbeiter_1031.php'   
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -92,12 +93,12 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team
+  # - Team
   # - Leitung # Chair | Principal Investigators
-  - Akademische Mitarbeiter:innen # Researchers
+  # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
   - Doktorand:innen # Grad Students
-  # - Assoziierte 
+  - Assoziierte 
   # - Gäste # Visitors
   # - Alumni
 ---
