@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: Öffentliche Philosophie
 date: 2022-10-24
 
 type: landing
