@@ -6,7 +6,7 @@ tags:
   - LLMs
   - Norms of Public Reasoning
   - Angewandte Ethik
-date: '2024-07-07T00:00:00Z'
+date: '2022-07-07T00:00:00Z'
 type: 'project'
 authors: 
   - gregor.betz
