@@ -1,5 +1,5 @@
 ---
-title: '*Climate Justice: An Introduction*'
+title: 'Climate Justice: An Introduction'
 
 # Authors
 # A YAML list of author names
