@@ -15,7 +15,7 @@ sections:
           image:
             filename: lehre-1.jpg
             filters:
-              brightness: 0.6
+              brightness: 0.35
           position: center
           color: '#666'
         link:
@@ -28,9 +28,9 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: argdown_vscode_ars.png
             filters:
-              brightness: 0.7
+              brightness: 0.4
           position: center
           color: '#555'
         link:
@@ -46,7 +46,7 @@ sections:
             caption: Test
             filename: raffael.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.4
           position: center
           color: '#333'
         link:
@@ -78,7 +78,7 @@ sections:
 
         Ein besonderes Anliegen ist uns **das philosophische Schreiben**. Wir sind überzeugt, dass sich philosophisches Nachdenken ganz wesentlich im eigenständigen philosophischen Schreiben vollzieht. Im Rahmen einer argumentationsbasierten Schreibpropädeutik versuchen wir daher stufenweise, zunächst über viele niederschwellige Schreibanlässe (schriftliche Reflexion von Vorlesungsinhalten, Philosophisches Tagebuch), dann über Formate mittlerer Häufigkeit und moderaten Umfangs (Lektürenotizen zu einzelnen Seminartexten, Kurzessays zu mehreren Seminartexten) dazu zu befähigen, schließlich auch umfangreichere eigene philosophische Überlegungen in Hausarbeiten und Abschlussarbeiten eigenständig darstellen zu können. 
 
-        CompPhil²MMAE [forscht]({{< relref "/research/" >}}) auch zu **Large Language Models (LLMs)**. Wir glauben, dass diese Technologie unsere Gesellschaft sehr schnell grundlegend wandeln wird und unsere Gesellschaft auf diesen Wandel nur unzureichend vorbereitet ist -- insbesondere auch, weil die Technologie derzeit häufig unreflektiert eingesetzt wird. Vor diesem Hintergrund wollen wir mit unserem Lehrportfolio auch zur Entwicklung von **computational literacy** beitragen; darunter verstehen wir die Befähigung zum reflektierten, produktiven Einsatz computationaler Methoden und zur Mitgestaltung der LLM-Technologie. Dafür halten wir allerdings für unverzichtbar, dass Student:innen zuvor **grundlegendere höherstufige deliberative Fähigkeiten** auf einem Niveau ausbilden, das sie überhaupt erst dazu befähigt, den Einsatz der Technologie *selbst* zu reflektieren und z.B. zu prüfen, ob der von einem LLM-basierten künstlichen Akteur generierte Output dem *eigenen* Gedanken entspricht. Um die Chancen der Technologie produktiv und kompetent nutzen zu können, muss man also zunächst *selbst denken* -- und das heißt: *selbst schreiben* -- lernen. 
+        CompPhil²MMAE [forscht]({{< relref "/research/" >}}) auch zu **Large Language Models (LLMs)**. Wir glauben, dass diese Technologie unsere Gesellschaft sehr schnell grundlegend wandeln wird und unsere Gesellschaft auf diesen Wandel nur unzureichend vorbereitet ist -- insbesondere auch, weil die Technologie derzeit häufig unreflektiert eingesetzt wird. Vor diesem Hintergrund wollen wir mit unserem Lehrportfolio auch zur Entwicklung von **computational literacy** beitragen; darunter verstehen wir die Befähigung zum reflektierten, produktiven Einsatz computationaler Methoden und zur Mitgestaltung der LLM-Technologie. Dafür halten wir allerdings für unverzichtbar, dass Student:innen **grundlegendere höherstufige deliberative Fähigkeiten** auf einem Niveau ausbilden, das sie überhaupt erst dazu befähigt, den Einsatz der Technologie *selbst* zu reflektieren und z.B. zu prüfen, ob der von einem LLM-basierten künstlichen Akteur generierte Output dem *eigenen* Gedanken entspricht. Um die Chancen der Technologie produktiv und kompetent nutzen zu können, muss man zunächst *selbst denken* -- und das heißt: *selbst schreiben* -- lernen. 
         
   - block: markdown
     id: ressources
