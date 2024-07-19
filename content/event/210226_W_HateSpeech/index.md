@@ -10,7 +10,7 @@ location: 'zoom / KIT'
 #   city: Karlsruhe
 #   postcode: '76133'
 
-summary: 'A workshop on the concept, semantics and pragmatics of hate speech. Speakers: {{% mention "inga.bones" %}}, Alexander Brown, 
+summary: 'A workshop on the concept, semantics and pragmatics of hate speech, funded by the [Fritz Thyssen Foundation](https://www.fritz-thyssen-stiftung.de/en/). Speakers: {{% mention "inga.bones" %}}, Alexander Brown, 
 Katharine Gelber, Dirk Kindermann, Rae Langton, Teresa Marques, Lucy McDonald, Mari Mikkola,  Mihaela Popa-Wyatt, Stefan Rinner.'
 
 # Talk start and end times.
@@ -67,4 +67,4 @@ Accordingly, possible questions to be addressed are:
 - Is (some) hate speech a subset of authoritative speech? If so, how is the relevant authority gained?
 - Which linguistic mechanisms does hate speech exploit? What is the role of, e.g., presupposition accommodation or Gricean implicature?
 
-A short summary (in German) is available [here](https://www.itz.kit.edu/586.php).
+The workshop is funded by the [Fritz Thyssen Foundation](https://www.fritz-thyssen-stiftung.de/en/). A short summary (in German) is available [here](https://www.itz.kit.edu/586.php).
