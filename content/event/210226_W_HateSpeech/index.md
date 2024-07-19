@@ -10,8 +10,9 @@ location: 'zoom / KIT'
 #   city: Karlsruhe
 #   postcode: '76133'
 
-summary: 'A workshop on the concept, semantics and pragmatics of hate speech, funded by the [Fritz Thyssen Foundation](https://www.fritz-thyssen-stiftung.de/en/). Speakers: {{% mention "inga.bones" %}}, Alexander Brown, 
-Katharine Gelber, Dirk Kindermann, Rae Langton, Teresa Marques, Lucy McDonald, Mari Mikkola,  Mihaela Popa-Wyatt, Stefan Rinner.'
+summary: 'A workshop on the concept, semantics and pragmatics of hate speech, funded by the [Fritz Thyssen Foundation](https://www.fritz-thyssen-stiftung.de/en/).   
+
+Speakers: {{% mention "inga.bones" %}}, Alexander Brown, Katharine Gelber, Dirk Kindermann, Rae Langton, Teresa Marques, Lucy McDonald, Mari Mikkola,  Mihaela Popa-Wyatt, Stefan Rinner.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
