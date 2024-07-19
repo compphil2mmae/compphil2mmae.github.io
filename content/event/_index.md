@@ -78,9 +78,9 @@ sections:
         category: ''
         exclude_featured: false
         publication_type: ''
-        tag: Workshop
+        tag: Workshops
         exclude_future: false
-        exclude_past: false
+        exclude_past: true
       offset: 0
       order: asc #desc
       page_type: event
