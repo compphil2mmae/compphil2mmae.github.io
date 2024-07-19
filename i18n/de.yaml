@@ -171,6 +171,9 @@
 - id: event
   translation: Veranstaltung
 
+- id: events  # added by CS
+  translation: Veranstaltungen # added by CS
+
 - id: talk            # added by CS
   translation: Vortrag   # added by CS
 
@@ -218,13 +221,13 @@
 # Content types for default archive page titles and search results
 
 - id: posts
-  translation: Blog
+  translation: News # Blog # CS
 
 - id: publications
   translation: Publikationen
 
 - id: talks
-  translation: Vorträge
+  translation: 'Veranstaltungen & Vorträge' # CS
 
 - id: projects
   translation: Projekte
