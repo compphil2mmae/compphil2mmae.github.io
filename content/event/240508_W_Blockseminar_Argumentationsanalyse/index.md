@@ -23,7 +23,7 @@ all_day: true
 publishDate: '2024-03-01T08:00:00Z'
 
 authors: [christian.seidel,gregor.betz]
-tags: [Workshop]
+tags: [Workshops]
 
 # Is this a featured talk? (true/false)
 featured: true
