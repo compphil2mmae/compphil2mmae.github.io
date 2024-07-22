@@ -1,6 +1,6 @@
 ---
 title: 'Hate Speech: What it is & How it works'
-subtitle: 'A workshop on the concept, semantics and pragmatics of hate speech'
+subtitle: 'A workshop on the concept, semantics and pragmatics of hate speech, funded by the [Fritz Thyssen Foundation](https://www.fritz-thyssen-stiftung.de/en/)'
 event: Workshop
 event_url: https://philevents.org/event/show/73986
 
@@ -53,6 +53,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects: ['engineering-hate-speech']
 ---
+
+Recent surveys suggest that hate speech is on the rise, particularly on the internet and on social media. Hate speech, its potential to harm individuals, and its corrosive effects on democracy and social stability are widely discussed in politics, in the media, and by the broader public.
 
 However, a closer look at public debate reveals that it is far from clear what exactly hate speech is – despite occasional attempts to provide sufficiently precise definitions. Some authors focus exclusively on hostility on the internet, others equate hate speech with the verbal expression of a speaker’s vitriolic emotions, and still others treat ‘hate speech’ as synonymous with legal terms such as ‘incitement of the masses’. The conceptual unclarities of public debate are partly mirrored by scholarly debate, as various efforts to outline a narrow conception of hate speech have not yet led to a broad consensus among scholars.
 
