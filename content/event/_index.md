@@ -7,7 +7,7 @@ sections:
   - block: collection
     content:
       title: Veranstaltungen
-      subtitle: "[Workshops](#workshops), [Vorträge](#talks), [Gäste](#guests)"
+      subtitle: "[Anstehende Workshops](#workshops), [Vorträge](#talks), [Gäste](#guests)"
       text: 
       count: 0
       filters:
@@ -86,7 +86,7 @@ sections:
       page_type: event
       archive:
         enable: true
-        text: Alle <strong>Workshops</strong> 
+        text: Zurückliegende <strong>Workshops</strong> 
     design:
       columns: '2'
       view: compact # showcase
@@ -111,7 +111,7 @@ sections:
       page_type: event
       archive:
         enable: true
-        text: Alle <strong>Vorträge</strong> 
+        text: Zurückliegende <strong>Vorträge</strong> 
     design:
       columns: '2'
       view: compact # showcase
@@ -136,7 +136,7 @@ sections:
       page_type: event
       archive:
         enable: true
-        text: Alle <strong>Gastvorträge</strong> 
+        text: Zurückliegende <strong>Gastvorträge</strong> 
     design:
       columns: '2'
       view: compact # showcase
