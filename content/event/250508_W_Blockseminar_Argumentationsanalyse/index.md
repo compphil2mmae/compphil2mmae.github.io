@@ -2,7 +2,7 @@
 title: 'Kritisches Denken und Argumentationsanalyse'
 subtitle: CompPhil²MMAE-Projektseminar in Kooperation mit Georg Brun (Bern)
 event: CompPhil²MMAE-Projektseminar
-event_url: https://ilias.studium.kit.edu/goto.php?target=crs_2039824&client_id=produktiv
+event_url: https://ilias.studium.kit.edu/goto.php?target=crs_2304230&client_id=produktiv
 
 location: Lauchbühl/Grindelwald (CH)
 # address:
@@ -14,13 +14,13 @@ summary: CompPhil²MMAE-Projektseminar in Kooperation mit Georg Brun (Bern)
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-05-18'
-date_end: '2023-05-21'
+date: '2025-05-29'
+date_end: '2025-06-01'
 all_day: true
 
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-03-01T08:00:00Z'
+publishDate: '2024-07-22T08:00:00Z'
 
 authors: [christian.seidel,gregor.betz]
 tags: [Workshops]
@@ -56,4 +56,6 @@ Dieses CompPhil²MMAE-Projektseminar richtet sich an fortgeschrittene Studierend
 
 In einer Vorbereitungssitzung zu Beginn des Semesters werden Projektthemen vorgestellt und besprochen. Bis zum Blockseminar nehmen die Teilnehmer:innen dann eine vorläufige Argumentationsanalyse und -kartierung vor. Der Analysestand wird während des Blockseminars präsentiert und verbessert.
 
-Der Kurs findet in Kooperation mit [Georg Brun](https://www.georgbrun.ch/) von der [Universität Bern](https://www.philosophie.unibe.ch/index_ger.html) statt. Das mehrtägige Blockseminar wird gemeinsam mit der Berner Seminargruppe vom 18.5. bis 21.5.23 in der Schweiz durchgeführt. Die Übernachtungs- und Reisekosten werden übernommen. Die Teilnehmeranzahl ist strikt begrenzt. Wir bitten um möglichst frühzeitige Interessenbekundung (per E-Mail) bei {{% mention "gregor.betz" %}} oder {{% mention "christian.seidel" %}} sowie um verbindliche Anmeldung unter Angabe des vorläufigen Projektthemas im [ILIAS-Kursraum](https://ilias.studium.kit.edu/goto.php?target=crs_2039824&client_id=produktiv) bis zum 1.4.2023.
+Der Kurs findet in Kooperation mit [Georg Brun](https://www.georgbrun.ch/) von der [Universität Bern](https://www.philosophie.unibe.ch/index_ger.html) statt. Das mehrtägige Blockseminar wird gemeinsam mit der Berner Seminargruppe vom 29.5. bis 1.6.25 in der Schweiz durchgeführt. Die Übernachtungs- und Reisekosten werden übernommen. Die Teilnehmeranzahl ist strikt begrenzt. Wir bitten um möglichst frühzeitige Interessenbekundung (per E-Mail) bei {{% mention "gregor.betz" %}} oder {{% mention "christian.seidel" %}}.
+<!--- sowie um verbindliche Anmeldung unter Angabe des vorläufigen Projektthemas im [ILIAS-Kursraum](https://ilias.studium.kit.edu/goto.php?target=crs_2304230&client_id=produktiv) bis zum 1.4.2025.
+--->
