@@ -10,7 +10,7 @@ address:
   city: München
   postcode: '80539'
 
-summary: 'A workshop on the moral significance of future people, funded by KIT, ZEPP, and the German Society for Analytical Philosophy (GAP). Speakers: Jonas Harney, Tim Henning, Valeska Martin, Jeff McMahan, Kirsten Meyer, Lukas Meyer, Korbinian Rüger, Charlotte Unruh, Tatjana Visak, {{% mention "konstantin.weber" %}}.'
+summary: 'A workshop on the moral significance of future people, organized by Valeska Martin, Korbinian Rüger, {{% mention "christian.seidel" %}} & {{% mention "konstantin.weber" %}} and funded by KIT, ZEPP & the German Society for Analytical Philosophy (GAP). Speakers: Jonas Harney, Tim Henning, Valeska Martin, Jeff McMahan, Kirsten Meyer, Lukas Meyer, Korbinian Rüger, Charlotte Unruh, Tatjana Visak, {{% mention "konstantin.weber" %}}.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

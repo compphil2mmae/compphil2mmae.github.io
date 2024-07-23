@@ -29,14 +29,14 @@ address: 'Berlin'
 editor: 'Dagmar Kiesel, Sebastian Schmidt & Thomas Smettan'
 pages: '??--??'
 publisher: 'J.B. Metzler'
-note: '[Im Erscheinen.]'
+note: '[Im Druck.]'
 
-doi: ''
+doi: '10.1007/978-3-662-69384-1_8'
 
 abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'Einer gängigen Vorstellung zufolge ist der moralische Standpunkt ein unparteilicher. Wie passt das dazu, dass Altruismus als besonders edle, dem Egoismus entgegengesetzte und über Unparteilichkeit hinausgehende moralische Gesinnung gilt? Dieser Beitrag untersucht das Verhältnis von Altruismus und Unparteilichkeit genauer. Innerhalb eines Rahmens zur Repräsentation praktischer Deliberation kann man zwischen formaler, struktureller und substantieller (Un-)Parteilichkeit unterscheiden. Altruistische Deliberation erweist sich darin als strukturell parteilich, wenn man sie konträr zum Egoismus versteht. Ein engerer Zusammenhang zwischen Altruismus und Unparteilichkeit hingegen ergibt sich aus einer Explikation, die der Tatsache, dass es einen selbst glücklich macht, andere glücklich zu machen, besondere moralische Relevanz einräumt. Altruismus steht dann in einem komplexen Verhältnis zum eigenen Wohl und zur Sorge um andere – ein Verhältnis, das vereinbar ist mit der Unparteilichkeit des moralischen Standpunkts.'
 
 tags: []
 
@@ -70,7 +70,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['impartialism']
 ---
 
 <!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->
