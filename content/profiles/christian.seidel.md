@@ -18,9 +18,9 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: books.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: right
           color: '#666'
       - title: '[Vorträge](#talks)'
@@ -28,9 +28,9 @@ sections:
         align: center
         background:
           image:
-            filename: contact.jpg
+            filename: talk.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.6
           position: center
           color: '#555'
       - title: '[Aktuelles](#news)'
@@ -38,7 +38,7 @@ sections:
         align: center
         background:
           image:
-            filename: welcome.jpg
+            filename: news.png
             filters:
               brightness: 0.5
           position: center
@@ -50,7 +50,7 @@ sections:
         #   url: '#news.cs'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '200px'
+      slide_height: '400px'
       is_fullscreen: false
       # Automatically transition through slides?
       loop: true
