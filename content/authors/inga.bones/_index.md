@@ -25,23 +25,22 @@ organizations:
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Sprachphilosophie (Vagheit, *hate speech*)
-  - Metaphilosophie (*conceptual engineering*)
+  - Sprachphilosophie & Logik (insb. Vagheit & angewandte Sprachphilosophie) 
+  - Metaphilosophie (insb. *Ordinary Language Philosophy* & *Conceptual Engineering*) 
   - Philosophie des Geistes
   - Erkenntnistheorie
-  - Logik
 
-#education:
-#  courses:
-#    - course: Abschluss
-#      institution: Institution
-#      year: Jahr
-#    - course: Abschluss
-#      institution: Institution
-#      year: Jahr
-#    - course: Abschluss
-#      institution: Institution
-#      year: Jahr
+education:
+  courses:
+    - course: Dr. phil. Philosophie
+      institution: Friedrich-Alexander-Universität Erlangen-Nürnberg
+      year: 2018
+    - course: M.A. Philosophie & Linguistik
+      institution: Universität Stuttgart
+      year: 2011
+    - course: B.A. Germanistik & Philosophie
+      institution: Heinrich-Heine-Universität Düsseldorf
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -98,6 +97,6 @@ user_groups:
   # - Alumni
 ---
 
-Inga Bones ist ... [Kurzbeschreibung] ... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Inga Bones ist seit 2018 wissenschaftliche Mitarbeiterin am Department für Philosophie des Karlsruher Instituts für Technologie (KIT) und arbeitet vor allem zu Themen der angewandten Sprachphilosophie und der philosophischen Methodologie. Seit 2020 arbeitet Inga außerdem als Trainerin des [Forums für Streitkultur](https://forum-streitkultur.de/). Seit 2022 absolviert sie eine Weiterbildung zur philosophischen Praktikerin an der Universität Wien.
+Nach ihrem Studium der Philosophie, Germanistik und Linguistik in Düsseldorf und Stuttgart wurde Inga an der Universität Erlangen-Nürnberg mit einem Dissertationsprojekt zu Vagheit und dem [Sorites-Paradox](https://forum-streitkultur.de/) promoviert. Ihr Buch "[How To Swim in Sinking Sands: The Sorites Paradox and the Nature and Logic of Vague Language](https://brill.com/display/title/57559)" ist 2021 bei Brill|mentis erschienen. Eine Buchbesprechung ist 2021 in der [Zeitschrift für philosophische Forschung (Nr. 75, Heft 3)](https://www.klostermann.de/epages/63574303.sf/de_DE/?ObjectPath=/Shops/63574303/Products/2575) erschienen.
+Im Rahmen ihres Forschungsprojekts zu Hate Speech hat Inga 2021 eine von der Fritz-Thyssen-Stiftung geförderte Tagung organisiert, deren Beiträge 2023 in einer [Sonderausgabe des Journal of Applied Philosophy](https://onlinelibrary.wiley.com/toc/14685930/2023/40/5) herausgegeben wurden. In der Lehre verantwortet Inga die Einführung in die Theoretische Philosophie. Ihre anderen Lehrveranstaltungen umfassen Themen aus der Sprachphilosophie, der Philosophie des Geistes und Erkenntnistheorie. 
