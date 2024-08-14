@@ -14,6 +14,7 @@ authors:
 - inga.bones
 - sebastian.cacean
 - christian.seidel
+- reta.luescher-rieger
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
@@ -69,7 +70,7 @@ Für die Beantwortung dieser Leitfragen wollen wir in **_KIdeKu_** zivilgesellsc
 
 
 {{% callout note %}}
-🙋 Ihr habt Input, Ideen und wollt Euch in diesem Prozess einbringen? 👏 Dann meldet Euch bei uns! 👉 [📧](mailto:kideku.kit.edu)
+🙋 Ihr habt Input, Ideen und wollt Euch in diesem Prozess einbringen? 👏 Dann meldet Euch bei uns! 👉 [📧](mailto:kideku@itz.kit.edu)
 {{% /callout %}}
 
 Wie streben die folgenden Ziele an: 
