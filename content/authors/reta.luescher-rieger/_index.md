@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Resa Lüscher-Rieger
+title: Reta Lüscher-Rieger
 
 # Full name (for SEO)
-first_name: Resa
+first_name: Reta
 last_name: Lüscher-Rieger
 
 # Username (this should match the folder name)
 authors:
-  - resa.luescher-rieger
+  - reta.luescher-rieger
 
 # Is this the primary user of the site?
 superuser: false
@@ -45,7 +45,7 @@ education:
 social:
 #  - icon: envelope
 #    icon_pack: fas
-#    link: 'mailto:resa.luescher-rieger9@kit.edu'
+#    link: 'mailto:reta.luescher-rieger9@kit.edu'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
