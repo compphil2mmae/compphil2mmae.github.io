@@ -48,9 +48,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:sebastian.cacean@kit.edu'
-  # - icon: house
-  #   icon_pack: fas
-  #   link: 'https://richard-lohse.com/'
+  - icon: house
+    icon_pack: fas
+    link: 'http://sebastiancacean.de/'
   # - icon: address-card
   #   icon_pack: fas
   #   link: 'https://www.philosophie.kit.edu/mitarbeiter_1031.php'
