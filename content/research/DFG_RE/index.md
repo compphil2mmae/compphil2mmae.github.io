@@ -9,10 +9,11 @@ date: '2018-04-01T00:00:00Z'
 type: 'project'
 authors: 
   - gregor.betz
+  - sebastian.cacean
   - richard.lohse
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.philosophie.unibe.ch/research/projects/how_far_does_reflective_equilibrium_take_us/project/index_eng.html'
+external_link: 'https://re-models.github.io/'
 
 image:
   # caption: Photo by rawpixel on Unsplash
