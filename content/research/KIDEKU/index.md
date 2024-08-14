@@ -34,7 +34,7 @@ links:
   - icon: envelope
     icon_pack: fas
     name: Mail
-    url: 'mailto:kideku@kit.edu'
+    url: 'mailto:kideku@itz.kit.edu'
 
 #url_code: ''
 #url_pdf: ''
