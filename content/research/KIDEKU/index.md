@@ -27,11 +27,11 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Visit
-    url: 'https://twitter.com/kideku'
+    url: 'https://x.com/ki_de_ku'
   - icon: linkedin
     icon_pack: fab
     name: Visit
-    url: 'https://www.linkedin.com/in/kideku/'
+    url: 'https://www.linkedin.com/company/kideku'
   - icon: envelope
     icon_pack: fas
     name: Mail
