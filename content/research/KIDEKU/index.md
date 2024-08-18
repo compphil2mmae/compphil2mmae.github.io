@@ -27,7 +27,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Visit
-    url: 'https://x.com/ki_de_ku'
+    url: 'https://x.com/KIdeKu_project'
   - icon: linkedin
     icon_pack: fab
     name: Visit
