@@ -27,7 +27,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Visit
-    url: 'https://x.com/KIdeKu_project'
+    url: 'https://x.com/KIdeKu_projekt'
   - icon: linkedin
     icon_pack: fab
     name: Visit
@@ -88,6 +88,5 @@ Insgesamt erarbeiteten wir in **_KIdeKu_** damit Konzepte und Studien zur Schaff
 ---
 *Projektlaufzeit:* 01.06.2024--31.12.2025
 
-*Gefördert vom:*
 <!-- ![Logo BMFSFJ](BMFSFJ_Logo.svg) -->
-<img align="left" width="400" src="BMFSFJ_Logo.svg">
+<img align="left" width="400" src="BMFSFJ_Logo.jpg">
