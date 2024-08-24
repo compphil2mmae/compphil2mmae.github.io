@@ -3,12 +3,12 @@
 
 title: 'Co-Leitung der Sektion Normative Ethik auf GAP.12-Kongress'
 subtitle:  
-summary: Christian Seidel und Maike Albertzart übernehmen die Leitung der Sektion Normative Ethik auf dem 12. Kongress der Gesellschaft für Analytische Philosophie (GAP.12). 
+summary: Christian Seidel und Maike Albertzart übernehmen die Leitung der Sektion Normative Ethik auf dem 12. Kongress der Gesellschaft für Analytische Philosophie ([GAP.12](https://www.gap12.de/)). 
 authors: [christian.seidel]
 tags: []
 categories: []
 date: 2024-07-01T16:35:51+01:00
-lastmod: 2024-07-01T16:35:51+01:00
+lastmod: 2024-08-24T16:35:51+01:00
 featured: false
 draft: false
 
@@ -28,9 +28,9 @@ image:
 projects: []
 ---
 
-{{% mention "christian.seidel" %}} und Maike Albertzart übernehmen die Leitung der Sektion Normative Ethik auf dem 12. Kongress der Gesellschaft für Analytische Philosophie (GAP.12).
+{{% mention "christian.seidel" %}} und Maike Albertzart übernehmen die Leitung der Sektion Normative Ethik auf dem 12. Kongress der Gesellschaft für Analytische Philosophie ([GAP.12](https://www.gap12.de/)).
 
 <!--more-->
 
-Der Kongress findet unter dem Leitthema "Wege zur Wahrheit" vom 8. bis 11. September 2025 in Düsseldorf statt. 
+Der Kongress findet unter dem Leitthema "Pathways to Truth Wahrheit" vom 8. bis 11. September 2025 in Düsseldorf statt. 
 <!--- Exposés für Sektionsbeiträge können bis zum 30. April 2024 eingereicht werden (zum [Call for Papers](https://www.uni-muenster.de/DKPhil2024/kongress/cfp.html)). --->
