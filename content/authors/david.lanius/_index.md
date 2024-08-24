@@ -31,15 +31,18 @@ interests:
 
 education:
   courses:
-    - course: Abschluss
-      institution: Institution
-      year: Jahr
-    - course: Abschluss
-      institution: Institution
-      year: Jahr
-    - course: Abschluss
-      institution: Institution
-      year: Jahr
+    - course: Dr. phil. Philosophie 
+      institution: Humboldt-Universität zu Berlin
+      year: 2016
+    - course: Logic Year, Logik 
+      institution: Institute of Logic, Language and Computation, Universiteit van Amsterdam
+      year: 2011
+    - course: M.Phil. Philosophie, Logik und Wissenschaftstheorie
+      institution: Ludwig-Maximilian-Universität München
+      year: 2010
+    - course: Grundstudium M.A., Philosophie und Volkswirtschaftslehre 
+      institution: Universität Regensburg
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -80,7 +83,8 @@ user_groups:
   # - Alumni
 ---
 
-David Lanius ist ... [Kurzbeschreibung] ... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+David Lanius ist wissenschaftlicher Mitarbeiter am DebateLab des Karlsruher Instituts für Technologie (KIT) sowie Gründer und Leiter des [Forums für Streitkultur](https://forum-streitkultur.de). Ab dem Wintersemester 2024 übernimmt er die Ass.-Professur für Praktische Philosophie und Philosophiedidaktik an der Paris-Lodron-Universität Salzburg.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sein Forschungsschwerpunkt liegt auf der Vermittlung argumentativer und epistemischer Kompetenzen, strategischer Unbestimmtheit in Recht und Politik, Populismus, Fake News sowie den Möglichkeiten und Grenzen des konstruktiven Diskurses. Er hat Philosophie, Wirtschaft und Logik in Regensburg, München, Madrid und Amsterdam studiert und in Philosophie an der Humboldt-Universität Berlin mit einem Forschungsaufenthalt an der University of Southern California in Los Angeles promoviert.
+
 

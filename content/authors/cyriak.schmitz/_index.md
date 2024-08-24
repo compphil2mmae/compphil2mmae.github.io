@@ -26,30 +26,30 @@ organizations:
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Schwerpunkt A
-  - Schwerpunkt B
-  - Schwerpunkt C
+  - Philosophie Ciceros
+  - Wissenschaftstheorie
+  - Normative Ethik und Metaethik
 
 education:
   courses:
     - course: Dr. phil. 
       institution: Karlsruher Institut für Technologie
       year: 2024
-    - course: M.A. in ???
-      institution: FAU Erlangen
-      year: ???
-    - course: B.A in ??? 
-      institution: FAU Erlangen
-      year: ???
+#    - course: M.A. in ???
+#      institution: FAU Erlangen
+#      year: ???
+#    - course: B.A in ??? 
+#      institution: FAU Erlangen
+#      year: ???
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:cyriak.schmitz9@kit.edu'
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:cyriak.schmitz9@kit.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,6 +71,7 @@ user_groups:
   # - Alumni
 ---
 
-Cyriak Schmitz ist ... [Kurzbeschreibung] ... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Cyriak Schmitz promovierte am Karlsruher Institut für Technologie zur Geschichte der Idee des moralischen Fortschritts in der utilitaristischen Tradition. Am KIT ist er ab Oktober 2024 auch als Lehrbeauftragter tätig. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zu seinen Interessengebieten gehören die Philosophie Ciceros, die Wissenschaftstheorie, sowie Fragen der normativen Ethik und der Metaethik. Zurzeit beschäftigt er sich mit der Geschichte von Trostschriften und die in ihnen beinhalteten Argumenten. Er beteiligt sich auch am Projekt [**_E.E.C Jones and British Women Philosophers in an Age of Transition_**]({{< relref "/research/EECJones" >}}).
+

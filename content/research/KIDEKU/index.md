@@ -14,6 +14,7 @@ authors:
 - inga.bones
 - sebastian.cacean
 - christian.seidel
+- reta.luescher-rieger
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
@@ -26,15 +27,15 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Visit
-    url: 'https://twitter.com/kideku'
+    url: 'https://x.com/KIdeKu_projekt'
   - icon: linkedin
     icon_pack: fab
     name: Visit
-    url: 'https://www.linkedin.com/in/kideku/'
+    url: 'https://www.linkedin.com/company/kideku'
   - icon: envelope
     icon_pack: fas
     name: Mail
-    url: 'mailto:kideku@kit.edu'
+    url: 'mailto:kideku@itz.kit.edu'
 
 #url_code: ''
 #url_pdf: ''
@@ -69,7 +70,7 @@ Für die Beantwortung dieser Leitfragen wollen wir in **_KIdeKu_** zivilgesellsc
 
 
 {{% callout note %}}
-🙋 Ihr habt Input, Ideen und wollt Euch in diesem Prozess einbringen? 👏 Dann meldet Euch bei uns! 👉 [📧](mailto:kideku.kit.edu)
+🙋 Ihr habt Input, Ideen und wollt Euch in diesem Prozess einbringen? 👏 Dann meldet Euch bei uns! 👉 [📧](mailto:kideku@itz.kit.edu)
 {{% /callout %}}
 
 Wie streben die folgenden Ziele an: 
@@ -87,6 +88,5 @@ Insgesamt erarbeiteten wir in **_KIdeKu_** damit Konzepte und Studien zur Schaff
 ---
 *Projektlaufzeit:* 01.06.2024--31.12.2025
 
-*Gefördert vom:*
 <!-- ![Logo BMFSFJ](BMFSFJ_Logo.svg) -->
-<img align="left" width="400" src="BMFSFJ_Logo.svg">
+<img align="left" width="400" src="BMFSFJ_Logo.jpg">
