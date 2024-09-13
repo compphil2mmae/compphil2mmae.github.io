@@ -1,6 +1,6 @@
 ---
 title: Werte und Wertvorstellungen in der Moral moralischer Rede. Einige Überlegungen
-  zum Phänomendes Moralismus
+  zum Phänomen des Moralismus
 
 # Authors
 # A YAML list of author names

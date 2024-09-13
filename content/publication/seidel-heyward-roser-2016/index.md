@@ -1,5 +1,5 @@
 ---
-title: The Costs of Moralizing. How About a enquoteGovernment House Climate Ethics?
+title: The Costs of Moralizing. How About a 'Government House Climate Ethics'?
 
 # Authors
 # A YAML list of author names
