@@ -15,6 +15,7 @@ authors:
 - sebastian.cacean
 - christian.seidel
 - reta.luescher-rieger
+- leonie.wahl
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
