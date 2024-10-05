@@ -18,8 +18,8 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: DebateLab
-    url: 'https://debatelab.philosophie.kit.edu'
+  - name: Personal website
+    url: 'https://gregorbetz.de'
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
@@ -89,13 +89,7 @@ user_groups:
 # [View my full profile]({{< relref "/authors/gregor.betz/test/" >}})
 ---
 
-Gregor Betz is professor of philosophy of science at the Karlsruhe Institute of Technology. He is head of [DebateLab](https://debatelab.philosophie.kit.edu) and, together with {{%mention "christian.seidel" %}}, co-head of CompPhil²MMAE.
-
-Gregor has been studying the limits of scientific prediction, esp. in economics and climate science, the role of values in science, requirements of democratic scientific policy advice, and the ethics of climate engineering. He has developed a formal theory and computational models of argumentative debate, and applied these methods to clarify key concepts in epistemology, to interpret classical texts, to assess consensus- and truth-conduciveness of debate, as well as to to improve critical thinking teaching.
-
-For a couple of years now, Gregor has been pursuing computational philosophy projects at the intersection of NLP and AI involving so-called large language models.
-
-Moreover, in 2023, Gregor has founded [Logikon AI](https://logikon.ai/), a startup that applies critical thinking methods to improve generative AI.
+Gregor Betz is professor of philosophy of science at the Karlsruhe Institute of Technology. He is, together with {{%mention "christian.seidel" %}}, co-head of CompPhil²MMAE.
 
 {{< icon name="blog" pack="fas" >}} Check his [blog](https://debatelab.github.io/) for updates about recent computational philosophy projects.
 
