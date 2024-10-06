@@ -1,7 +1,7 @@
 ---
 title: Philosophy of, and for LLMs
 summary: |2- 
-  The success of LLMs is fascinating, puzzling and, of course, worrying, and therefore requires philosophical reflection.
+  The success of LLMs is fascinating, puzzling and, of course, worrying. It requires our attention and philosophical reflection.
 tags:
   - Computationale Philosophie
   - LLMs
