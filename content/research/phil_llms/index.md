@@ -51,9 +51,9 @@ This ongoing projects rests on the assumptions that
 
 So far, we have been focusing on the following questions:
 
-* Can LLMs (learn to) argue? [blog](https://debatelab.github.io/journal/critical-thinking-language-models.html) [blog](https://debatelab.github.io/journal/thinking-aloud.html) [blog](https://debatelab.github.io/journal/fallacies-for-big-bench.html)
-* Can LLMs (learn to) analyse and evaluate arguments? [blog](https://debatelab.github.io/journal/deepa2.html) 
-* Can we ascribe a coherent set of beliefs to LLMs? [blog](https://debatelab.github.io/journal/doxlm.html)
-* Can we use LLM-based multi-agent simulations to advance social epistemology? [blog](https://debatelab.github.io/journal/artificial-deliberating-agents.html) [blog](https://debatelab.github.io/talk/compmodels.html)
+* Can LLMs (learn to) argue? [[blog post]](https://debatelab.github.io/journal/critical-thinking-language-models.html) [[blog post]](https://debatelab.github.io/journal/thinking-aloud.html) [[blog post]](https://debatelab.github.io/journal/fallacies-for-big-bench.html)
+* Can LLMs (learn to) analyse and evaluate arguments? [[blog post]](https://debatelab.github.io/journal/deepa2.html) 
+* Can we ascribe a coherent set of beliefs to LLMs? [[blog post]](https://debatelab.github.io/journal/doxlm.html)
+* Can we use LLM-based multi-agent simulations to advance social epistemology? [[blog post]](https://debatelab.github.io/journal/artificial-deliberating-agents.html) [[blog post]](https://debatelab.github.io/talk/compmodels.html)
 
 You can follow us on [github](https://github.com/debatelab) and [huggingface](https://huggingface.co/DebateLabKIT) to stay updated on our progress.
