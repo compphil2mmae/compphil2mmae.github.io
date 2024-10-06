@@ -11,7 +11,7 @@ authors:
   - gregor.betz
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://debatelab.philosophie.kit.edu/'
+# external_link: 'https://debatelab.philosophie.kit.edu/'
 
 image:
   # caption: Photo by rawpixel on Unsplash
