@@ -1,7 +1,7 @@
 ---
 title: Making Reflective Equilibrium Precise 
 summary: |2- 
-  How Far Does Reflective Equilibrium Take Us? Investigating the power of a philosophical method in a SNF-DFG-funded research project.  
+  How Far Does Reflective Equilibrium Take Us? Investigating the power of a philosophical method. A SNF-DFG-funded research project with Claus Beisbart and Georg Brun (Uni Bern).  
 tags:
   - Computationale Philosophie
   - Philosophische Methoden
