@@ -14,7 +14,7 @@ authors:
 # external_link: 'https://debatelab.philosophie.kit.edu/'
 
 image:
-  # caption: Photo by rawpixel on Unsplash
+  caption: (generated with black-forest-labs/FLUX.1-dev)
   focal_point: Smart
 
 links:
