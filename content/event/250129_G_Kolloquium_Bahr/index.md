@@ -1,5 +1,5 @@
 ---
-title: 'Dr. Amrei Bahr (Stuttgart): "Bis hierhin und nicht weiter? Wissenschaftskommunikation und die Grenzen des Sagbaren"'
+title: 'Amrei Bahr (Stuttgart): "Bis hierhin und nicht weiter? Wissenschaftskommunikation und die Grenzen des Sagbaren"'
 subtitle: KIT Philosophie-Kolloquium WiSe 24/25 [3/4] 
 event: KIT Philosophie-Kolloquium
 event_url: https://www.philosophie.kit.edu

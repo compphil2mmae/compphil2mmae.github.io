@@ -1,5 +1,5 @@
 ---
-title: 'Prof. Dr. Susanne Boshammer (Osnabrück): "Miteinander ins Reine kommen. Zur normativen Kraft des Verzeihens"'
+title: 'Susanne Boshammer (Osnabrück): "Miteinander ins Reine kommen. Zur normativen Kraft des Verzeihens"'
 subtitle: KIT Philosophie-Kolloquium WiSe 24/25 [2/4] 
 event: KIT Philosophie-Kolloquium
 event_url: https://www.philosophie.kit.edu

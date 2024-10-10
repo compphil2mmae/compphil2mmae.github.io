@@ -1,5 +1,5 @@
 ---
-title: 'Dr. Johannes Müller-Salo (Hannover): "Alltag als Gegenstand der normativen Ethik"'
+title: 'Johannes Müller-Salo (Hannover): "Alltag als Gegenstand der normativen Ethik"'
 subtitle: KIT Philosophie-Kolloquium WiSe 24/25 [4/4] 
 event: KIT Philosophie-Kolloquium
 event_url: https://www.philosophie.kit.edu

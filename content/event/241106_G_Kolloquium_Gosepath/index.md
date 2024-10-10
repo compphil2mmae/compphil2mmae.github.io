@@ -1,5 +1,5 @@
 ---
-title: 'Prof. Dr. Stefan Gosepath (Berlin): "Warum Vererben ungerecht ist"'
+title: 'Stefan Gosepath (Berlin): "Warum Vererben ungerecht ist"'
 subtitle: KIT Philosophie-Kolloquium WiSe 24/25 [1/4] 
 event: KIT Philosophie-Kolloquium
 event_url: https://www.philosophie.kit.edu
