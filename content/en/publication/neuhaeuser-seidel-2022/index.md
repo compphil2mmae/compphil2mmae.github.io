@@ -1,5 +1,5 @@
 ---
-title: Was ist Moralismus? Über Zeigefinger und den Ort der Moral
+title: Was ist Moralismus? Über Zeigefinger und den Ort der Moral (What is moralism? About pointing fingers and the place of morality)
 
 # Authors
 # A YAML list of author names
@@ -29,7 +29,7 @@ publication_short: ''
 
 publisher: 'Reclam'
 address: 'Ditzingen'
-series: 'Was bedeutet das alles?'
+series: 'Was bedeutet das alles? (What does all this mean?)'
 
 doi: ''
 

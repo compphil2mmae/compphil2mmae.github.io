@@ -7,7 +7,7 @@ type: landing
 sections:   
   - block: hero
     content:
-      title: Arbeitsbereich **Computationale Philosophie, Philosophische Methoden, Moralphilosophie & Angewandte Ethik**
+      title: Department **Computational Philosophy, Philosophical Methods, Moral Philosophy & Applied Ethics**
     design:
       spacing:
         padding: ['50px', '0', '40px', '0']        
@@ -69,19 +69,19 @@ sections:
   - block: markdown
     content:
       text: |2-  # "|" stands for multi-line preserving newlines, adivsable for markdown; ">" stands for folded code, converting newlines into spaces; "2" is the indentation indicator (here: 2 chars); "-" strips trailing blank lines, https://stackoverflow.com/questions/3790454/how-do-i-break-a-string-in-yaml-over-multiple-lines
-        <font size="+2"> Das Team des Arbeitsbereichs **Computationale Philosophie, Philosophische Methoden, Moralphilosophie & Angewandte Ethik (CompPhil²MMAE)** forscht und lehrt </font>
+        <font size="+2"> The team of the research area **Computational Philosophy, Philosophical Methods, Moral Philosophy & Applied Ethics (CompPhil²MMAE)** researches and teaches </font>
         <font size="+1"> 
-        - zu normativen Modellen des Schlussfolgerns und Argumentierens,  
-        - zur logischen Analyse politischer und wissenschaftlicher Debatten,  
-        - zu Methoden und Instrumenten, die die epistemische Qualität öffentlicher Deliberation verbessern, 
-        - zur Reichtweite und Leistungsfähigkeit computationaler Methoden in der Philosophie,
-        - zu grundlegenden moraltheoretischen Fragen,  
-        - zur Ethik des öffentlichen Diskurses,  
-        - zu normativen Problemen in gesellschaftlich relevanten, angewandten Kontexten wie Klimawandel, Überwachung oder künstlicher Intelligenz sowie  
-        - zur britischen Moral- und Sozialphilosophie des 19. Jahrhunderts.
+        - on normative models of reasoning and argumentation,  
+        - on logically analyse political and scientific debates,  
+        - on methods and instruments that improve the epistemic quality of public deliberation, 
+        - on the scope and performance of computational methods in philosophy,
+        - on fundamental questions of moral theory,  
+        - on the ethics of public discourse,  
+        - on normative problems in socially relevant, applied contexts such as climate change, surveillance or artificial intelligence, and  
+        - on British moral and social philosophy of the 19th century.
         {.c .c2}
         </font>
-        {{% cta cta_link="./research/" cta_text="Mehr über unsere **Forschung** erfahren →" %}}
+        {{% cta cta_link="./research/" cta_text="Learn more about **Scientific Research** →" %}}
     design:  
       # background:
       #   color: white
@@ -91,7 +91,7 @@ sections:
   - block: markdown
     content:
       text: |2-  # "|" stands for multi-line preserving newlines, adivsable for markdown; ">" stands for folded code, converting newlines into spaces; "2" is the indentation indicator (here: 2 chars); "-" strips trailing blank lines, https://stackoverflow.com/questions/3790454/how-do-i-break-a-string-in-yaml-over-multiple-lines       
-        <font size="+2"> **CompPhil²MMAE** ist ein Zusammenschluss der Arbeitsgruppen des Lehrstuhls für Wissenschaftstheorie ([DebateLab](https://debatelab.philosophie.kit.edu)) und des Lehrstuhls für Philosophische Anthropologie. Als Teil des [Departments für Philosophie](https://www.philosophie.kit.edu/) am [Karlsruher Institut für Technologie (KIT)](https://www.kit.edu) sind wir in der Lehre gemeinsam für die philosophische Grundlagenbildung zuständig. {{% cta cta_link="./teaching/" cta_text="Mehr über unsere **Lehre** erfahren →" %}} </font>
+        <font size="+2"> **CompPhil²MMAE** is an amalgamation of the working groups of the Department of Philosophy of Science ([DebateLab](https://debatelab.philosophie.kit.edu)) and the Department of Philosophical Anthropology. As a part of the [Department of Philosophy](https://www.philosophie.kit.edu/) at the [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu) we are jointly responsible for basic philosophical education in teaching. {{% cta cta_link="./teaching/" cta_text="Learn more about our **Teaching** →" %}} </font>
     design:  
       # background:
       #   color: white
@@ -100,16 +100,16 @@ sections:
   # - block: markdown
   #   content:
   #     text: |2-  # "|" stands for multi-line preserving newlines, adivsable for markdown; ">" stands for folded code, converting newlines into spaces; "2" is the indentation indicator (here: 2 chars); "-" strips trailing blank lines, https://stackoverflow.com/questions/3790454/how-do-i-break-a-string-in-yaml-over-multiple-lines
-  #       <font size="+2"> Das Team des Arbeitsbereichs **Computationale Philosophie, Philosophische Methoden, Moralphilosophie & Angewandte Ethik (CompPhil²MMAE)** forscht und lehrt </font>
+  #       <font size="+2"> The team of the research area **Computational Philosophy, Philosophical Methods, Moral Philosophy & Applied Ethics (CompPhil²MMAE)** researches and teaches </font>
   #       <font size="+1"> 
-  #       - zu normativen Modellen des Schlussfolgerns und Argumentierens,  
-  #       - zur logischen Analyse politischer und wissenschaftlicher Debatten,  
-  #       - zu Methoden und Instrumenten, die die epistemische Qualität öffentlicher Deliberation verbessern, 
-  #       - zur Reichtweite und Leistungsfähigkeit computationaler Methoden in der Philosophie,
-  #       - zu grundlegenden moraltheoretischen Fragen,  
-  #       - zur Ethik des öffentlichen Diskurses,  
-  #       - zu normativen Problemen in gesellschaftlich relevanten, angewandten Kontexten wie Klimawandel, Überwachung oder künstlicher Intelligenz sowie  
-  #       - zur britischen Moral- und Sozialphilosophie des 19. Jahrhunderts.
+  #       - on normative models of reasoning and argumentation,  
+  #       - on the logical analysis of political and scientific debates,  
+  #       - on methods and instruments that improve the epistemic quality of public deliberation, 
+  #       - on the scope and performance of computational methods in philosophy,
+  #       - on fundamental questions of moral theory,  
+  #       - on the ethics of public discourse,  
+  #       - on normative problems in socially relevant, applied contexts such as climate change, surveillance or artificial intelligence, and  
+  #       - on British moral and social philosophy of the 19th century.
   #       {.c .c2}
   #       </font>
         
@@ -124,10 +124,10 @@ sections:
   # - block: hero
   #   content:
   #     text: |2-   # "|" stands for multi-line preserving newlines, adivsable for markdown; ">" stands for folded code, converting newlines into spaces; "2" is the indentation indicator (here: 2 chars); "-" strips trailing blank lines, https://stackoverflow.com/questions/3790454/how-do-i-break-a-string-in-yaml-over-multiple-lines
-  #       - zu grundlegenden moraltheoretischen Fragen,  
-  #       - zur Ethik des öffentlichen Diskurses,  
-  #       - zu normativen Problemen in gesellschaftlich relevanten, angewandten Kontexten wie Klimawandel, Überwachung oder künstlicher Intelligenz sowie  
-  #       - zur britischen Moral- und Sozialphilosophie des 19. Jahrhunderts.
+  #       - on fundamental questions of moral theory,  
+  #       - on the ethics of public discourse,  
+  #       - on normative problems in socially relevant, applied contexts such as climate change, surveillance or artificial intelligence and  
+  #       - on British moral and social philosophy of the 19th century.
   #   design:  
   #     background:
   #       color: white
@@ -135,14 +135,14 @@ sections:
   # - block: markdown
   #   content:
   #     text: |2-  
-  #       <font size="+2"> **CompPhil²MMAE** ist ein Zusammenschluss der Arbeitsgruppen des Lehrstuhls für Wissenschaftstheorie ([DebateLab](https://debatelab.philosophie.kit.edu)) und des Lehrstuhls für Philosophische Anthropologie. Als Teil des [Departments für Philosophie](https://www.philosophie.kit.edu/) am [Karlsruher Institut für Technologie (KIT)](https://www.kit.edu) sind wir in der Lehre gemeinsam für die philosophische Grundlagenbildung zuständig.  </font>
+  #       <font size="+2"> **CompPhil²MMAE** is a merger of the working groups of the Department of Philosophy of Science ([DebateLab](https://debatelab.philosophie.kit.edu)) and the Department of Philosophical Anthropology. As part of the [Department of Philosophy](https://www.philosophie.kit.edu/) at the [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu), we are jointly responsible for basic philosophical education in teaching.  </font>
   #   design:  
   #     background:
   #       color: white
 
   - block: collection
     content:
-      title: Neuigkeiten 
+      title: News
       subtitle: 
       text:  
       count: 10
@@ -157,7 +157,7 @@ sections:
       page_type: post
       # archive:
       #   enable: true
-      #   text: Weitere <strong>Neuigkeiten</strong> 
+      #   text: Weitere <strong>News</strong> 
       #   position: center
       #   link: post/
     design:
@@ -172,7 +172,7 @@ sections:
       title: 
       subtitle: ''
       text: |
-        {{% cta cta_link="./post/" cta_text="Mehr **Neuigkeiten** erfahren →" %}}
+        {{% cta cta_link="./post/" cta_text="Find out more **news** →" %}}
     design:
       background: 
         color: white
@@ -204,7 +204,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./team/" cta_text="Unser **Team** kennenlernen →" %}}
+        {{% cta cta_link="./team/" cta_text="Get to know our **team** →" %}}
     design:
       columns: '1'
       spacing:

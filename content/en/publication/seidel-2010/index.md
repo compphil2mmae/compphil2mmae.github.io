@@ -1,5 +1,5 @@
 ---
-title: 'Rezension zu Norbert Anwander: *Versprechen und Verpflichten*'
+title: 'Rezension zu Norbert Anwander: *Versprechen und Verpflichten* (Review of Norbert Anwander: *Promises and Obligations*)'
 
 # Authors
 # A YAML list of author names

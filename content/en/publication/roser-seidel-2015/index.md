@@ -1,5 +1,5 @@
 ---
-title: Ethik des Klimawandels. Eine Einführung
+title: Ethik des Klimawandels. Eine Einführung (Ethics of climate change. An introduction)
 
 # Authors
 # A YAML list of author names
@@ -27,9 +27,9 @@ publication_types:
 publication: ''
 publication_short: ''
 
-publisher: 'Wissenschaftliche Buchgesellschaft'
+publisher: 'Wissenschaftliche Buchgesellschaft (Scientific Book Society)'
 address: 'Darmstadt'
-edition: '2., erweiterte Auflage'
+edition: '2nd, extended edition'
 
 doi: ''
 

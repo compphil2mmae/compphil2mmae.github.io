@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "[Alumni] Doktorandin" 
+role: "[Alumni] PhD student" 
 
 # Organizations/Affiliations
 # organizations:
@@ -89,4 +89,4 @@ user_groups:
   - Alumni
 ---
 
-Corinna Günth war bis 2023 Doktorandin bei CompPhil²MMAE. Ihre Dissertation handelt von ["Reasoning with False Evidence"](https://publikationen.bibliothek.kit.edu/1000158210).
+Corinna Günth was a doctoral student at CompPhil²MMAE until 2023. Her dissertation is about ["Reasoning with False Evidence"](https://publikationen.bibliothek.kit.edu/1000158210).

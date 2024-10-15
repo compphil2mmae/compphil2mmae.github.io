@@ -1,16 +1,16 @@
 ---
-title: 'Zukunftsethik'
-subtitle: 'Ein *author-meets-students*-Workshop zum Buch *Was schulden wir künftigen Generationen? Herausforderung Zukunftsethik* (Reclam 2018) von Kirsten Meyer (HU Berlin)'
+title: 'Zukunftsethik (Ethics of the future)'
+subtitle: 'An *author-meets-students* workshop on the book *Was schulden wir künftigen Generationen? The Challenge of Future Ethics* (Reclam 2018) by Kirsten Meyer (HU Berlin)'
 event: CompPhil²MMAE Student Workshop
 event_url: 
 
-location: 'Department für Philosophie (Geb. 09.20, 4. OG), R. 511'
+location: 'Department of Philosophy (Geb. 09.20, 4. OG), R. 511'
 address:
   street: Douglasstr. 24
   city: Karlsruhe
   postcode: '76133'
 
-summary: 'Ein *author-meets-students*-Workshop zum Buch *Was schulden wir künftigen Generationen? Herausforderung Zukunftsethik* (Reclam 2018) von Kirsten Meyer (HU Berlin)'
+summary: 'An *author-meets-students* workshop on the book *Was schulden wir künftigen Generationen? The Challenge of Future Ethics* (Reclam 2018) by Kirsten Meyer (HU Berlin)'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -54,9 +54,9 @@ projects: ['impartialism', 'ethics-of-existence']
 
 Beiträge
 
-- {{% mention "soeren.finkbeiner" %}}: "Wie lassen sich die Ansprüche zukünftiger Personen begründen?“
-- Mathis Walter: "Gerechte Verteilung -- aber von was?"
-- {{% mention "cyriak.schmitz" %}}: "Meyers Lösung des Nicht-Identitätsproblems"
-- {{% mention "dorothee.bleisch" %}} & {{% mention "konstantin.weber" %}}: "Meyer über das Problem der Nicht-Existenz und das Paradox der bloßen Addition"
+- {{% mention "soeren.finkbeiner" %}}: "How can the claims of future persons be justified?"
+- Mathis Walter: "Fair distribution -- but of what?"
+- {{% mention "cyriak.schmitz" %}}: "Meyer's solution to the non-identity problem"
+- {{% mention "dorothee.bleisch" %}} & {{% mention "konstantin.weber" %}}: "Meyer on the problem of non-existence and the paradox of mere addition"
 
-Mit Repliken von Kirsten Meyer (HU Berlin).
+With replicas by Kirsten Meyer (HU Berlin).

@@ -1,9 +1,9 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: DFG-Projekt "The Ethics of State Mass Surveillance" bewilligt
-subtitle: CompPhil²MMAE und TU Dortmund kooperieren
-summary: CompPhil²MMAE kooperiert mit Alumnus {{% mention "peter.koenigs" %}} und Christian Neuhäuser von der TU Dortmund in einem von der [DFG](https://www.dfg.de) geförderten Forschungsprojekt. In drei Teilprojekten untersuchen wir die Frage, wie moderne Praktiken staatlicher Massenüberwachung in liberalen Gesellschaften ethisch zu bewerten sind -- mit Blick auf (a) das überwachte Individuum, (b) die demokratische Gesellschaft, in der Überwachung stattfindet, und (c) die Technologieunternehmen, die an staatlicher Überwachung mitwirken.
+title: DFG project "The Ethics of State Mass Surveillance" approved
+subtitle: CompPhil²MMAE and TU Dortmund cooperate
+summary: CompPhil²MMAE cooperates with alumnus {{% mention "peter.koenigs" %}} and Christian Neuhäuser from TU Dortmund University in a research project funded by the [DFG](https://www.dfg.de). In three sub-projects, we are investigating the question of how modern practices of state mass surveillance in liberal societies are to be ethically evaluated -- with regard to (a) the monitored individual, (b) the democratic society in which surveillance takes place, and (c) the technology companies that participate in state surveillance.
 authors: [christian.seidel]
 tags: [highlight]
 categories: []
@@ -27,10 +27,10 @@ image:
 projects: ['eSMS']
 ---
 
-Die [DFG](https://www.dfg.de) hat ein Forschungsprojekt zum Thema "The Ethics of State Mass Surveillance" mit einer Laufzeit von 3 Jahren bewilligt. 
+The [DFG](https://www.dfg.de) has approved a research project on "The Ethics of State Mass Surveillance" with a duration of 3 years. 
 
 <!--more-->
 
-In Kooperation mit Alumnus {{% mention "peter.koenigs" %}} und Christian Neuhäuser von der TU Dortmund untersucht das Projekt in drei Teilprojekten die Frage, wie moderne Praktiken staatlicher Massenüberwachung in liberalen Gesellschaften ethisch zu bewerten sind -- mit Blick auf (a) das überwachte Individuum, (b) die demokratische Gesellschaft, in der Überwachung stattfindet, und (c) die Technologieunternehmen, die an staatlicher Überwachung mitwirken.
+In cooperation with alumnus {{% mention "peter.koenigs" %}} and Christian Neuhäuser from TU Dortmund University, the project examines in three sub-projects the question of how modern practices of state mass surveillance in liberal societies are to be ethically evaluated -- with regard to (a) the monitored individual, (b) the democratic society in which surveillance takes place, and (c) the technology companies that participate in state surveillance.
 
-Weitere Informationen und Stellenausschreibungen folgen. Wir freuen uns auf den Austausch!
+Further information and job postings will follow. We look forward to the exchange!

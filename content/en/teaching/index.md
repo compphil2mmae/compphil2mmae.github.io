@@ -1,5 +1,5 @@
 ---
-title: Lehre
+title: Teaching
 date: 2022-10-24
 
 type: landing
@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: '|{{< icon name="book-open-reader" pack="fas" >}} | {{< icon name="chalkboard-user" pack="fas" >}} | {{< icon name="laptop-code" pack="fas" >}} |  <br /> CompPhil²MMAE in der Lehre'
-        content: Philosophische Grundlagenbildung
+      - title: '|{{< icon name="book-open-reader" pack="fas" >}} | {{< icon name="chalkboard-user" pack="fas" >}} | {{< icon name="laptop-code" pack="fas" >}} |  <br /> CompPhil²MMAE in teaching'
+        content: Basic philosophical education
         align: center
         background:
           image:
@@ -21,10 +21,10 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Mehr erfahren
+          text: Learn more
           url: '#mission'  
       - title: "Ars Rationalis" 
-        content: 'Kritisches Denken lernen & argumentative Kompetenzen entwickeln'
+        content: 'Learn to think critically & develop argumentative skills'
         align: left
         background:
           image:
@@ -36,10 +36,10 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Zum ILIAS-Kurs
+          text: To the ILIAS-course
           url: https://ilias.studium.kit.edu/goto.php?target=crs_2342049&client_id=produktiv  
-      - title: Einführung in die Philosophie
-        content: 'Das Wahre & das Gute -- über die großen Fragen nachdenken'
+      - title: Einführung in die Philosophie (Introduction to philosophy)
+        content: 'Das Wahre & das Gute -- über die großen Fragen nachdenken (The true & the good -- thinking about the big questions)'
         align: right
         background:
           image:
@@ -52,7 +52,7 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Zur ILIAS-Modulinformationsseite
+          text: To the ILIAS module information page
           url: https://ilias.studium.kit.edu/goto.php?target=crs_1616180&client_id=produktiv
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
@@ -68,23 +68,23 @@ sections:
     content:
       title: "Mission Statement"
       text: |2-
-        <font size="+1"> In der Lehre des [Departments für Philosophie](https://www.philosophie.kit.edu/) ist CompPhil²MMAE gemeinsam für die **philosophische Grundlagenbildung** zuständig. Wir verantworten die fachlichen Module im ersten Studienjahr:
-        - **Ars Rationalis**: Dieses [Modul](https://ilias.studium.kit.edu/goto.php?target=crs_2342049&client_id=produktiv) zielt darauf ab, kritisches Denken zu lernen und argumentative Kompetenzen zu entwickeln. Diese Fähigkeiten sind für alle akademischen Disziplinen von zentraler Bedeutung und so ist das Modul auch Bestandteil anderer Studiengänge.  
-        - **Einführung in die Philosophie**: Dieses [Modul](https://ilias.studium.kit.edu/goto.php?target=crs_1616180&client_id=produktiv) bietet eine erste inhaltliche Einführung in die großen Fragen der Philosophie und vermittelt dabei wichtige Grundkenntnisse für das weitere Studium der Philosophie. Es ist Bestandteil aller Studiengänge, in denen  Philosophie als Haupt- oder Nebenfach studierbar ist, sowie zusätzlich geöffnet für das [Studium Generale](https://www.zak.kit.edu/studium_generale.php).
+         <font size="+1"> In the [Department of Philosophy](https://www.philosophie.kit.edu/), CompPhil²MMAE is jointly responsible for the **philosophical foundation**. We are responsible for the specialised modules in the first year of study:
+        - **Ars Rationalis**: This [module](https://ilias.studium.kit.edu/goto.php?target=crs_2342049&client_id=produktiv) aims to teach critical thinking and develop argumentative skills. These skills are central to all academic disciplines and so the module is also part of other degree programmes.  
+        - **Introduction to Philosophy**: This [module](https://ilias.studium.kit.edu/goto.php?target=crs_1616180&client_id=produktiv) offers an initial introduction to the major questions of philosophy and provides important basic knowledge for the further study of philosophy. It is part of all degree programmes in which Philosophy can be studied as a major or minor subject, and is also open to the [Studium Generale](https://www.zak.kit.edu/studium_generale.php).
 
-        In der Lehre setzen wir auf **innovative Lehrformate** und **aktivierende Methoden** wie Inverted Classroom, Live-Feedback, Argumentrekonstruktionen in Teamarbeit, Peer Assessment, Kleingruppen-Tutorials zur Besprechung von Essays oder Studienprojekten. Einige unserer Lehrveranstaltungen (wie das in Kooperation mit der Universität Bern durchgeführte [CompPhil²MMAE-Projektseminar]({{< relref "/event/240508_W_Blockseminar_Argumentationsanalyse" >}}) und die meisten unserer interdisziplinären Lehrveranstaltungen in Kooperation mit der Informatik)) führen wir **projektbasiert** durch. 
+        In teaching, we rely on **innovative teaching formats** and **activating methods** such as inverted classroom, live feedback, argument reconstruction in teamwork, peer assessment, small group tutorials for discussing essays or study projects. Some of our courses (such as the [CompPhil²MMAE project seminar]({{< relref "/event/240508_W_Blockseminar_Argumentationsanalyse" >}}) organised in cooperation with the University of Bern and most of our interdisciplinary courses in cooperation with the Department of Computer Science) are **project-based**. 
 
-        Fortgeschrittene Student:innen führen wir im CompPhil²MMAE-Forschungsseminar “Aktuelle Texte der Philosophie” im Sinne der **forschungsorientierten Lehre** an aktuelle Forschungsfragen heran. In diesem für unser Team zentralen Diskussions- und Reflexionsraum stellen CompPhil³MMAE-Mitglieder sowie [auswärtige Referentinnen]({{< relref "/event#guests" >}})  ihre Forschungsarbeiten aus der Philosophie sowie angrenzender Disziplinen und Student:innen ihre Abschlussrbeiten (in der Regel in einem Pre-Read-Format) zur Diskussion.
+        In the CompPhil²MMAE research seminar "Current Texts in Philosophy", we introduce advanced students to current research questions in the sense of **research-orientated teaching**. In this central discussion and reflection space for our team, CompPhil³MMAE members and [external speakers]({{< relref "/event#guests" >}}) present their research work from philosophy and related disciplines and students present their final theses (usually in a pre-read format) for discussion.
 
-        Ein besonderes Anliegen ist uns **das philosophische Schreiben**. Wir sind überzeugt, dass sich philosophisches Nachdenken ganz wesentlich im eigenständigen philosophischen Schreiben vollzieht. Im Rahmen einer argumentationsbasierten Schreibpropädeutik versuchen wir daher stufenweise, zunächst über viele niederschwellige Schreibanlässe (schriftliche Reflexion von Vorlesungsinhalten, Philosophisches Tagebuch), dann über Formate mittlerer Häufigkeit und moderaten Umfangs (Lektürenotizen zu einzelnen Seminartexten, Kurzessays zu mehreren Seminartexten) dazu zu befähigen, schließlich auch umfangreichere eigene philosophische Überlegungen in Hausarbeiten und Abschlussarbeiten eigenständig darstellen zu können. 
+        **Philosophical writing** is a particular concern of ours. We are convinced that philosophical reflection is essentially realised in independent philosophical writing. Within the framework of an argumentation-based writing propaedeutic, we therefore try to gradually enable students, initially through many low-threshold writing occasions (written reflection on lecture content, philosophical diary), then through formats of medium frequency and moderate scope (reading notes on individual seminar texts, short essays on several seminar texts), to finally be able to independently present their own more extensive philosophical reflections in term papers and theses. 
 
-        CompPhil²MMAE [forscht]({{< relref "/research/" >}}) auch zu **Large Language Models (LLMs)**. Wir glauben, dass diese Technologie unsere Gesellschaft sehr schnell grundlegend wandeln wird und unsere Gesellschaft auf diesen Wandel nur unzureichend vorbereitet ist -- insbesondere auch, weil die Technologie derzeit häufig unreflektiert eingesetzt wird. Vor diesem Hintergrund wollen wir mit unserem Lehrportfolio auch zur Entwicklung von **computational literacy** beitragen; darunter verstehen wir die Befähigung zum reflektierten, produktiven Einsatz computationaler Methoden und zur Mitgestaltung der LLM-Technologie. Dafür halten wir allerdings für unverzichtbar, dass Student:innen **grundlegendere höherstufige deliberative Fähigkeiten** auf einem Niveau ausbilden, das sie überhaupt erst dazu befähigt, den Einsatz der Technologie *selbst* zu reflektieren und z.B. zu prüfen, ob der von einem LLM-basierten künstlichen Akteur generierte Output dem *eigenen* Gedanken entspricht. Um die Chancen der Technologie produktiv und kompetent nutzen zu können, muss man zunächst *selbst denken* -- und das heißt: *selbst schreiben* -- lernen. 
+        CompPhil²MMAE [researches]({{< relref "/research/" >}}) also on **Large Language Models (LLMs)**. We believe that this technology will fundamentally change our society very quickly and that our society is inadequately prepared for this change - especially because the technology is currently often used without reflection. Against this background, we also want our teaching portfolio to contribute to the development of **computational literacy**; by this we mean the ability to use computational methods in a reflective, productive way and to help shape LLM technology. However, we consider it essential that students develop **fundamental higher-level deliberative skills** at a level that enables them to reflect *on their own* use of the technology and, for example, to check whether the output generated by an LLM-based artificial actor corresponds to *their own* thoughts. In order to be able to utilise the opportunities offered by technology productively and competently, one must first learn to *think for oneself* -- and that means *write for oneself*: learn to *write*. 
         
   - block: markdown
     id: ressources
     content:
-      title: "Materialien für Student:innen"
+      title: "Materials for students"
       text: |2-
-        {{% staticref "uploads/hinweise-essays.pdf" "newtab" %}}Einige Hinweise zum Verfassen von philosophischen Essays{{% /staticref %}}
+        {{% staticref "uploads/hinweise-essays.pdf" "newtab" %}} Some tips on writing philosophical essays{{% /staticref %}}
      
 ---

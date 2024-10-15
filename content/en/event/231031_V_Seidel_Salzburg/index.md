@@ -1,16 +1,16 @@
 ---
 title: 'Moral Theorizing Beyond the Consequentalism/Non-Consequentialism Divide'
-subtitle: Vortrag
-event: 'Kolloquium des Fachbereichs Philosophie'
+subtitle: Lecture
+event: 'Colloquium of the Department of Philosophy'
 event_url: 
 
-location: Universität Salzburg (A)
+location: University of Salzburg (A)
 # address:
 #   street: Douglasstraße 24
 #   city: Karlsruhe
 #   postcode: '76133'
 
-summary: Vortrag im Kolloquium des Fachbereichs Philosophie
+summary: Lecture at the colloquium of the Department of Philosophy
 
 abstract: Moral theories are supposed to give us systematic answers to the question "What is the morally right thing to do -- and why?". There are very many conceivable theories (as answers to this question). Philosophical ethics has established a way of dealing with this challenge. We classify moral theories according to some common feature (a constitutive property) and try to show that entire *classes* of moral theories do have comparative advantages or disadvantages in virtue of their constitutive properties. The debate on consequentialism vs. non-consequentialism fits this description. In this paper, I will address a meta-theoretical question -- how should we theorize about moral theories? I will sketch a framework to approach this question and argue that the classical divide between consequentialism and non-consequentialism is no longer fruitful and ought to be replaced with a different distinction between structural impartialism and structural partialism. I will clarify that distinction and distinguish it (within the meta-theoretical framework) from other useful distinctions.
 

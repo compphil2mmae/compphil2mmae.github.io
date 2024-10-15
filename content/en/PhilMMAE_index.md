@@ -8,28 +8,28 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Arbeitsbereich **Philosophische Methoden, Moralphilosophie & Angewandte Ethik**
+      title: Department **Philosophical Methods, Moral Philosophy & Applied Ethics**
   - block: hero
     content:
       image: 
         filename: wordcloud.png  
       text: |2-
          
-        Das Team des Arbeitsbereichs **Philosophische Methoden, Moralphilosophie & Angewandte Ethik (PhilMMAE)** forscht und lehrt  
+        The team of the research area **Philosophical Methods, Moral Philosophy & Applied Ethics (PhilMMAE)** researches and teaches  
         
-        - zu grundlegenden moraltheoretischen Fragen,  
-        - zur Ethik des öffentlichen Diskurses,  
-        - zu normativen Problemen in gesellschaftlich relevanten, angewandten Kontexten wie Klimawandel, Überwachung oder künstlicher Intelligenz sowie  
-        - zur britischen Moral- und Sozialphilosophie des 19. Jahrhunderts.
+        - on fundamental questions of moral theory,  
+        - the ethics of public discourse,  
+        - normative problems in socially relevant, applied contexts such as climate change, surveillance and artificial intelligence, and  
+        - British moral and social philosophy of the 19th century.
         
-        PhilMMAE ist Teil des Departments für Philosophie am Karlsruher Institut für Technologie (KIT) und dort in der Lehre für die philosophischen Grundlagen zuständig.  
+        PhilMMAE is part of the Department of Philosophy at the Karlsruhe Institute of Technology (KIT), where it is responsible for teaching the philosophical foundations.  
     design:  
       background:
         color: white
 
   - block: collection
     content:
-      title: Neuigkeiten
+      title: News
       subtitle:
       text:
       count: 5

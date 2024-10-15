@@ -1,11 +1,11 @@
 ---
-title: Chancen von KI zur Stärkung unser deliberativen Kultur (KIdeKu)
-summary: KIdeKu untersucht die Chancen dieser Technologien zur Stärkung unserer deliberativen Kultur, und insbesondere zur Steigerung der Teilhabe an zivilgesellschaftlichen und politischen Debatten.
+title: Chancen von KI zur Stärkung unser deliberativen Kultur (Opportunities of AI to strengthen our deliberative culture) (KIdeKu)
+summary: KIdeKu examines the opportunities offered by these technologies to strengthen our deliberative culture, and in particular to increase participation in civil society and political debates.
 tags:
   - LLMs
-  - Angewandte Ethik
+  - Applied Ethics
   - Deliberation
-  - Computationale Philosophie
+  - Computational Philosophy
   - Norms of Public Reasoning
 date: '2024-06-01'
 type: 'project'
@@ -51,43 +51,43 @@ links:
 slides: ""
 ---
 
-Im Projekt **_KIdeKu_** gehen wir der Frage nach, wie Large Language Models (LLMs) wie bspw. ChatGPT benutzt werden können, um unsere deliberative Kultur zu stärken. Welche Chancen bieten diese Technologien zur Verbesserung unserer demokratischen Praxis? Konkreter:
+In the **_KIdeKu_** project, we explore the question of how Large Language Models (LLMs) such as ChatGPT can be used to strengthen our deliberative culture. What opportunities do these technologies offer to improve our democratic practice? More specifically:
 
-+ Wie können LLMs benutzt werden, um die Qualität des öffentlichen Diskurses zu verbessern? 
-+ Welche derzeitigen Probleme (Desinformation, Hassrede, ...) können durch die Verwendung von LLMs adressiert werden? 
-+ Welche Voraussetzungen müssen für einen erfolgreichen Einsatz von LLMs erfüllt sein? 
-+ Welche konkreten Einsatzszenarien sind vielversprechend für einen positiven Beitrag von LLMs zur deliberativen Kultur? 
-+ Wie können wir politische Teilhabe durch LLMs stärken?
-  + Für welche Zielgruppen ist der Einsatz von LLMs besonders aussichtsreich? 
-  + Welche besonderen Herausforderungen stellt die Zielgruppe junger Menschen? 
++ How can LLMs be used to improve the quality of public discourse? 
++ Which current problems (disinformation, hate speech, ...) can be addressed through the use of LLMs? 
++ What requirements must be met for the successful use of LLMs? 
++ Which concrete application scenarios are promising for a positive contribution of LLMs to deliberative culture? 
++ How can we strengthen political participation through LLMs?
+  + For which target groups is the use of LLMs particularly promising? 
+  + What particular challenges does the target group of young people pose? 
 + ...
 
 <!-- Ziele -->
-## Ziele & Vorgehen
+## Goals & procedure
 
-![Vorgehen in KIdeKu](kideku_ziele_ablauf.jpg)
+![Goals in KIdeKu](kideku_ziele_ablauf.jpg)
 
-Für die Beantwortung dieser Leitfragen wollen wir in **_KIdeKu_** zivilgesellschaftliche Akteur:innen in unseren Forschungs- und Entwicklungsprozess einbinden und unsere Resultate für die Verwendung und Weiterentwicklung offen kommunizieren und frei verfügbar machen. 
+To answer these key questions, we want to involve civil society actors in our research and development process in **_KIdeKu_** and communicate our results openly and make them freely available for use and further development. 
 
 
 {{% callout note %}}
-🙋 Ihr habt Input, Ideen und wollt Euch in diesem Prozess einbringen? 👏 Dann meldet Euch bei uns! 👉 [📧](mailto:kideku@itz.kit.edu)
+🙋 Do you have input, ideas and want to get involved in this process? 👏 Then get in touch with us! 👉 [📧](mailto:kideku@itz.kit.edu)
 {{% /callout %}}
 
-Wie streben die folgenden Ziele an: 
+We strive to achieve the following goals: 
 
-1. 👥 **Entwicklung von Einsatzszenarien:** In Abstimmung mit zivilgesellschaftlichen Akteur:innen konzipieren wir relevante und neuartige Einsatzszenarien. Wir wollen einen möglichst breiten Überblick darüber schaffen, wie LLMs gemeinwohlorientiert in unserer demokratischen Praxis verwendet werden können und welche Ziele damit verfolgt werden können. Es sollen sowohl die Anforderungen zivilgesellschaftlicher Organisationen an die Verwendung und Einbindung LLM-basierter Applikationen als auch die Bedarfe der unterschiedlichen Zielgruppen erfasst werden. Beispiele für solche Einsatzszenarien umfassen:
-   + Faktenprüfer, Hate Speech Detektoren, KI-Assistenz beim Verfassen von Redebeiträgen, (partiell) automatisierte Moderation in Onlinedebatten, Debattenzusammenfassung, Argumentationserklärung, Argumentprüfung, ... 
-2. 🤖 **Schaffung technischer Grundlagen:** Für einige der konzeptionierten Einsatzszenarien entwickeln wir technische Grundlagen, die von der Community benutzt und weiterentwickelt werden können. Diese Grundlagen umfassen:
-   + **Anforderungen**, anhand derer sich die Eignung von Sprachmodellen für den vorgesehenen Einsatz systematisch prüfen lässt. Diese Anforderungen werden in Form deliberativer Benchmarks (Testdatensätze) operationalisiert. Die gängigsten bestehenden Sprachmodelle werden daraufhin anhand der erstellten Benchmarks evaluiert.
-   + **Demoapps**, die den Einsatz von LLMs illustrieren und Ausgangspunkt für die Entwicklung einsatzbereiter Apps darstellen können. 
-3. 📋 **Handlungsorientierung:** Ein Endbericht fasst den derzeitigen Wissensstand zur Nutzung von LLMs in deliberativen Demokratien zur Stärkung unserer deliberativen Kultur zusammen, trägt Projektergebnisse zusammen und formuliert Empfehlungen und Best Practices für zivilgesellschaftliche und politische Akteur:innen.
+1. 👥 **Development of deployment scenarios:** In consultation with civil society actors, we design relevant and novel deployment scenarios. We want to create the broadest possible overview of how LLMs can be used in our democratic practice for the common good and what goals can be pursued with them. The requirements of civil society organizations for the use and integration of LLM-based applications as well as the needs of the various target groups are to be recorded. Examples of such application scenarios include:
+   + Fact checkers, hate speech detectors, AI assistance in writing speeches, (partially) automated moderation in online debates, debate summarization, argumentation explanation, argument checking, ... 
+2. 🤖 **Creation of technical foundations:** For some of the conceptualized deployment scenarios, we are developing technical foundations that can be used and further developed by the community. These foundations include:
+   + **Requirements** that can be used to systematically test the suitability of language models for the intended use. These requirements are operationalized in the form of deliberative benchmarks (test data sets). The most common existing language models are then evaluated on the basis of the benchmarks created.
+   **Demoapps** that illustrate the use of LLMs and can be the starting point for the development of ready-to-use apps. 
+3. 📋 **Action orientation:** A final report summarizes the current state of knowledge on the use of LLMs in deliberative democracies to strengthen our deliberative culture, compiles project results and formulates recommendations and best practices for civil society and political actors.
 
 
-Insgesamt erarbeiteten wir in **_KIdeKu_** damit Konzepte und Studien zur Schaffung eines geeigneten operativen Rahmens für die Entwicklung und den Einsatz gemeinwohlorientierter KI in unserer demokratischen Praxis und hoffen, dass die Ergebnisse und Ideen aufgegriffen sowie weiterentwickelt werden. 
+Overall, in **_KIdeKu_** we developed concepts and studies to create a suitable operational framework for the development and use of AI for the common good in our democratic practice and hope that the results and ideas will be taken up and further developed. 
 
 ---
-*Projektlaufzeit:* 01.06.2024--31.12.2025
+*Project duration:* 01.06.2024--31.12.2025
 
 <!-- ![Logo BMFSFJ](BMFSFJ_Logo.svg) -->
 <img align="left" width="400" src="BMFSFJ_Logo.jpg">

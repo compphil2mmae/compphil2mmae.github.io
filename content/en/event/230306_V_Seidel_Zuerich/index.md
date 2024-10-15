@@ -1,16 +1,16 @@
 ---
-title: 'Altruismus und Unparteilichkeit. Ein Verhältnisbestimmung'
-subtitle: Vortrag
-event: 'Oberseminar von Prof. Dr. Peter Schaber'
+title: 'Altruismus und Unparteilichkeit. Ein Verhältnisbestimmung (Altruism and impartiality. A definition of the relationship)'
+subtitle: Lecture
+event: 'Advanced seminar byProf. Dr. Peter Schaber'
 event_url: 
 
-location: Universität Zürich (CH)
+location: University of Zurich (CH)
 # address:
 #   street: Douglasstraße 24
 #   city: Karlsruhe
 #   postcode: '76133'
 
-summary: Vortrag im Oberseminar von Prof. Dr. Peter Schaber
+summary: Lecture in the advanced seminar by Prof. Dr. Peter Schaber
 
 # abstract: Moral theories are supposed to give us systematic answers to the question "What is the morally right thing to do -- and why?". There are very many conceivable theories (as answers to this question). Philosophical ethics has established a way of dealing with this challenge. We classify moral theories according to some common feature (a constitutive property) and try to show that entire *classes* of moral theories do have comparative advantages or disadvantages in virtue of their constitutive properties. The debate on consequentialism vs. non-consequentialism fits this description. In this paper, I will address a meta-theoretical question -- how should we theorize about moral theories? I will sketch a framework to approach this question and argue that the classical divide between consequentialism and non-consequentialism is no longer fruitful and ought to be replaced with a different distinction between structural impartialism and structural partialism. I will clarify that distinction and distinguish it (within the meta-theoretical framework) from other useful distinctions.
 
@@ -24,7 +24,7 @@ all_day: true
 publishDate: '2023-03-01T08:00:00Z'
 
 authors: [christian.seidel]
-tags: [Vortrag]
+tags: [Lecture]
 
 # Is this a featured talk? (true/false)
 featured: true

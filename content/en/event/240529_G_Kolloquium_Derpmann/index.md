@@ -1,7 +1,7 @@
 ---
-title: 'Simon Derpmann (Münster): "Die Sachlichkeit des Geldes"'
-subtitle: KIT Philosophie-Kolloquium SoSe 24 [3/3] 
-event: KIT Philosophie-Kolloquium
+title: 'Simon Derpmann (Münster): "Die Sachlichkeit des Geldes (The practicality of money)"'
+subtitle: KIT Colloquium on Philosophy SoSe 24 [3/3] 
+event: KIT Colloquium on Philosophy
 event_url: https://www.philosophie.kit.edu
 
 location: Franz-Schnabel-Haus (Geb. 30.91), Raum 012
@@ -10,8 +10,8 @@ address:
   city: Karlsruhe
   postcode: '76131'
 
-summary: KIT Philosophie-Kolloquium SoSe 24 [3/3] 
-# abstract: Im Sommersemester 2024 finden im Rahmen des KIT Philosophie-Kolloquium drei Vorträge statt.
+summary: KIT Colloquium on Philosophy SoSe 24 [3/3] 
+# abstract: In the summer semester 2024, three talks will take place as part of the KIT Philosophy Colloquium.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -53,10 +53,10 @@ slides:
 projects:
 ---
 
-Das KIT Philosophie-Kolloquium wurde im Sommersemester 2024 nach Abstimmung mit der [Fachschaft](https://geistsoz.de/) und mit den akademischen Mitarbeiter:innen des [Departments für Philosophie](https://www.philosophie.kit.edu) organisiert von {{% mention "inga.bones" %}}. 
+The KIT Philosophy Colloquium was organised in the summer semester 2024 by {{% mention "inga.bones" %}} in coordination with the [Fachschaft](https://geistsoz.de/) and the academic employees of the [Department of Philosophy](https://www.philosophie.kit.edu). 
 
 {{% callout note%}}
-**Student:innen** sind herzlich willkommen!
+**Students** are very welcome!
 {{% /callout %}}
 
 

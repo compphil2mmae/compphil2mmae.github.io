@@ -3,7 +3,7 @@ title: argdown
 summary: |2- 
   Argdown is a simple syntax for complex argumentation, originally developed by Cristian Voigt at KIT's DebateLab.
 tags:
-  - Computationale Philosophie
+  - Computational Philosophy
   - Norms of Public Reasoning
 date: '2016-04-01T00:00:00Z'
 type: 'project'

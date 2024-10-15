@@ -18,28 +18,28 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
- - name: Lehrstuhl für Philosophische Anthropologie # DebateLab
+ - name: Department of Philosophical Anthropology # DebateLab
    url: '' # https://debatelab.philosophie.kit.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Sprachphilosophie & Logik (insb. Vagheit & angewandte Sprachphilosophie) 
-  - Metaphilosophie (insb. *Ordinary Language Philosophy* & *Conceptual Engineering*) 
-  - Philosophie des Geistes
-  - Erkenntnistheorie
+  - Philosophy of Language & Logic (esp. Vagueness & Applied Philosophy of Language) 
+  - Metaphilosophy (esp. *Ordinary Language Philosophy* & *Conceptual Engineering*) 
+  - Philosophy of mind
+  - Epistemology
 
 education:
   courses:
-    - course: Dr. phil. Philosophie
-      institution: Friedrich-Alexander-Universität Erlangen-Nürnberg
+    - course: Dr. phil. Philosophy
+      institution: Friedrich-Alexander-University Erlangen-Nuremberg
       year: 2018
-    - course: M.A. Philosophie & Linguistik
-      institution: Universität Stuttgart
+    - course: M.A. Philosophy & Linguistics
+      institution: University of Stuttgart
       year: 2011
-    - course: B.A. Germanistik & Philosophie
-      institution: Heinrich-Heine-Universität Düsseldorf
+    - course: B.A. German Studies & Philosophy
+      institution: Heinrich Heine University of Düsseldorf
       year: 2008
 
 # Social/Academic Networking
@@ -89,7 +89,7 @@ highlight_name: false
 user_groups:
   - Team
   # - Leitung # Chair | Principal Investigators
-  - Akademische Mitarbeiter:innen # Researchers
+  - Academic employees # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
   # - Doktorand:innen # Grad Students
   # - Assoziierte 
@@ -97,6 +97,7 @@ user_groups:
   # - Alumni
 ---
 
-Inga Bones ist seit 2018 wissenschaftliche Mitarbeiterin am Department für Philosophie des Karlsruher Instituts für Technologie (KIT) und arbeitet vor allem zu Themen der angewandten Sprachphilosophie und der philosophischen Methodologie. Seit 2020 arbeitet Inga außerdem als Trainerin des [Forums für Streitkultur](https://forum-streitkultur.de/). Seit 2022 absolviert sie eine Weiterbildung zur philosophischen Praktikerin an der Universität Wien.
-Nach ihrem Studium der Philosophie, Germanistik und Linguistik in Düsseldorf und Stuttgart wurde Inga an der Universität Erlangen-Nürnberg mit einem Dissertationsprojekt zu Vagheit und dem [Sorites-Paradox](https://forum-streitkultur.de/) promoviert. Ihr Buch "[How To Swim in Sinking Sands: The Sorites Paradox and the Nature and Logic of Vague Language](https://brill.com/display/title/57559)" ist 2021 bei Brill|mentis erschienen. Eine Buchbesprechung ist 2021 in der [Zeitschrift für philosophische Forschung (Nr. 75, Heft 3)](https://www.klostermann.de/epages/63574303.sf/de_DE/?ObjectPath=/Shops/63574303/Products/2575) erschienen.
-Im Rahmen ihres Forschungsprojekts zu Hate Speech hat Inga 2021 eine von der Fritz-Thyssen-Stiftung geförderte Tagung organisiert, deren Beiträge 2023 in einer [Sonderausgabe des Journal of Applied Philosophy](https://onlinelibrary.wiley.com/toc/14685930/2023/40/5) herausgegeben wurden. In der Lehre verantwortet Inga die Einführung in die Theoretische Philosophie. Ihre anderen Lehrveranstaltungen umfassen Themen aus der Sprachphilosophie, der Philosophie des Geistes und Erkenntnistheorie. 
+
+Inga Bones has been a research assistant at the Department of Philosophy at the Karlsruhe Institute of Technology (KIT) since 2018 and works primarily on topics of applied philosophy of language and philosophical methodology. Since 2020, Inga has also been working as a trainer for the [Forum für Streitkultur (Forum for Dispute Culture)](https://forum-streitkultur.de/). Since 2022, she has been completing further training as a philosophical practitioner at the University of Vienna. 
+After studying philosophy, German and linguistics in Düsseldorf and Stuttgart, Inga completed her doctorate at the University of Erlangen-Nuremberg with a dissertation project on vagueness and the [Sorites Paradox](https://forum-streitkultur.de/). Her book "[How To Swim in Sinking Sands: The Sorites Paradox and the Nature and Logic of Vague Language](https://brill.com/display/title/57559)" was published by Brill|mentis in 2021. A book review was published in 2021 in [Zeitschrift für philosophische Forschung (Nr. 75, Heft 3)](https://www.klostermann.de/epages/63574303.sf/de_DE/?ObjectPath=/Shops/63574303/Products/2575).
+As part of her research project on hate speech, Inga organised a conference funded by the Fritz Thyssen Foundation in 2021, the contributions of which were published in a [special issue of the Journal of Applied Philosophy](https://onlinelibrary.wiley.com/toc/14685930/2023/40/5) in 2023. In her teaching, Inga is responsible for the Introduction to Theoretical Philosophy. Her other courses include topics from the philosophy of language, philosophy of mind and epistemology.

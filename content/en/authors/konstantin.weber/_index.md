@@ -14,30 +14,30 @@ authors:
 superuser: false
 
 # Role/position
-role: Doktorand
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
- - name: Lehrstuhl für Philosophische Anthropologie (KIT) # DebateLab
+ - name: Department of Philosophical Anthropology (KIT) # DebateLab
    url: '' # https://debatelab.philosophie.kit.edu/
- - name: Lehrstuhl für Praktische Philosophie (FAU Erlangen) # DebateLab
+ - name: Department of Practical Philosophy (FAU Erlangen) # DebateLab
    url: 'https://www.philosophie.phil.fau.de/person/weber/' # https://debatelab.philosophie.kit.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Moralphilosophie
-  - Populationsethik
-  - Metaethik
-  - Normativität & Rationalität
+  - Moral Philosophy
+  - Population ethics
+  - Metaethics
+  - Normativity & Rationality
 
 education:
   courses:
-    - course: B.A. Philosophie & griechische Philologie
+    - course: B.A. Philosophy & Greek Philology
       institution: FAU Erlangen-Nürnberg
 #      year: Jahr
-    - course: M.A. Philosophie
+    - course: M.A. Philosophy
       institution: FAU Erlangen-Nürnberg
       year: 2018
 
@@ -85,12 +85,12 @@ user_groups:
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
-  - Doktorand:innen # Grad Students
-  - Assoziierte 
+  - PhD students # Grad Students
+  - Associates 
   # - Gäste # Visitors
   # - Alumni
 ---
 
-Konstantin Weber promoviert am Institut für Philosophie der Friedrich-Alexander-Universität Erlangen-Nürnberg zur Ethik zukünftiger Personen. Die Arbeit wurde mit einem Promotionsstipendium der Studienstiftung des deutschen Volkes gefördert.
-Konstantin studierte Philosophie und griechische Philologie in Erlangen. Ebendort war und ist er zunächst als wissenschaftliche Hilfskraft und später als wissenschaftlicher Mitarbeiter tätig.
-Konstantins philosophische Interessen sind im Bereich der praktischen Philosophie breit gestreut. Seine Forschungsschwerpunkte liegen im Bereich der Ethik zukünftiger Personen, philosophischer Theorien der Rationalität sowie der Metaethik und Metanormativität.
+Konstantin Weber is doing his doctorate at the Institute of Philosophy at Friedrich-Alexander-Universität Erlangen-Nürnberg on the ethics of future persons. The work was funded by a doctoral scholarship from the German National Academic Foundation.
+Konstantin studied philosophy and Greek philology in Erlangen. He initially worked there as a research assistant and later as a research assistant.
+Konstantin's philosophical interests are broadly diversified in the field of practical philosophy. His research focusses on the ethics of future persons, philosophical theories of rationality, metaethics and metanormativity.

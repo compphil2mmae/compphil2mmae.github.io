@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Doktorand
+role: PhD student
 # role: "[Alumni] Doktorand"
 
 # Organizations/Affiliations
 organizations:
- - name: Lehrstuhl für Philosophische Anthropologie # DebateLab
+ - name: Department of Philosophical Anthropology # DebateLab
    url: '' # https://debatelab.philosophie.kit.edu/
  - name: DebateLab
    url: https://debatelab.philosophie.kit.edu/
@@ -97,8 +97,8 @@ user_groups:
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
-  - Doktorand:innen # Grad Students
-  - Assoziierte 
+  - PhD students # Grad Students
+  - Associates 
   # - Gäste # Visitors
   # - Alumni
 ---

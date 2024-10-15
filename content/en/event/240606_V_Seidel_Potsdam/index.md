@@ -1,18 +1,18 @@
 ---
-title: 'Zukunftsvergessenheit. Ein Explikationsvorschlag'
-subtitle: Vortrag
-event: Forschungskolloquium von Prof. Dr. Felicitas Krämer
+title: 'Zukunftsvergessenheit. Ein Explikationsvorschlag (Forgetting the future. A proposal for explication)'
+subtitle: Lecture
+event: Research colloquium by Prof. Dr. Felicitas Krämer
 event_url: 
 
-location: Universität Potsdam
+location: University of Potsdam
 # address:
 #   street: Douglasstraße 24
 #   city: Karlsruhe
 #   postcode: '76133'
 
-summary: Vortrag im Forschungskolloquium von Prof. Dr. Felicitas Krämer
+summary: Lecture in the Research colloquium by Prof. Dr. Felicitas Krämer
 
-abstract: Welche Einstellung(en) zur Zukunft der Menschheit sollte man haben? Dieser Frage möchte ich mich anhand des schillernden Begriffs <span style="font-variant:small-caps;">Zukunftsvergessenheit</span> nähern. Einerseits wird dieser Begriff im Sinne eines Vorwurfs bemüht, um Verfehlungen und Missstände in politischen Entscheidungen zu kritisieren, die sich auf die Zukunft auswirken. Andererseits scheint es aber manchmal auch rational oder gar ein Gebot der guten Lebensführung zu sein, die Zukunft zu vergessen, weil die Sorge um die Zukunft auch eine quälende Bürde sein kann. Ich werde <span style="font-variant:small-caps;">Zukunftsvergessenheit</span> zunächst begrifflich schärfen und als eine Verformung kollektiver Deliberation verstehen, die sich in Diskursen manifestiert.  Dann lässt sich in normativer Hinsicht ausloten, was schlecht an der so explizierten Zukunftsvergessenheit ist -- und warum es rational geboten sein kann, die Zukunft zu vergessen. Dies hilft uns, die Ambivalenz der Zukunftsvergessenheit besser zu verstehen. Es führt aber auch zu einer tieferen Spannung im Ideal des guten Lebens in moralischer Eintracht.
+abstract: What attitude(s) should one have towards the future of humanity? I would like to approach this question using the dazzling term <span style="font-variant:small-caps;">forgetfulness of the future</span>. On the one hand, this term is used as an accusation to criticise mistakes and grievances in political decisions that affect the future. On the other hand, however, it sometimes seems rational or even a requirement of good living to forget the future, because worrying about the future can also be a tormenting burden. I will first define <span style="font-variant:small-caps;">forgetfulness of the future</span> in terms of terms and understand it as a deformation of collective deliberation that manifests itself in discourses. Then, in normative terms, it will be possible to explore what is bad about the forgetfulness of the future that is expressed in this way -- and why it can be rationally necessary to forget the future. This helps us to better understand the ambivalence of forgetting the future. But it also leads to a deeper tension in the ideal of the good life in moral harmony.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -51,5 +51,5 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ['zukunftsvergessen']
+projects: ['zukunftsvergessen (Forgetting the future)']
 ---

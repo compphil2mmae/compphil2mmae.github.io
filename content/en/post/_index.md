@@ -1,11 +1,11 @@
 ---
-title: Neuigkeiten
+title: News
 type: landing
 
 sections:
   - block: collection
     content:
-      title: Neuigkeiten
+      title: News
       subtitle:
       text:
       count: 0

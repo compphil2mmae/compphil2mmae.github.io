@@ -1,5 +1,5 @@
 ---
-title: 'Précis zu *Selbst bestimmen. Eine philosophische Untersuchung personaler Autonomie*'
+title: 'Précis zu *Selbst bestimmen. Eine philosophische Untersuchung personaler Autonomie* (Précis on *Determining the Self. A philosophical investigation of personal autonomy*)'
 
 # Authors
 # A YAML list of author names
@@ -23,7 +23,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-journal: '*Zeitschrift für philosophische Forschung*'
+journal: '*Zeitschrift für philosophische Forschung* (Journal of Philosophical Research)'
 journal_short: ''
 
 volume: '21'

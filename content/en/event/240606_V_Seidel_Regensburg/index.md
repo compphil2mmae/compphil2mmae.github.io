@@ -1,18 +1,18 @@
 ---
-title: Kollektiver Moralismus im Diskurs. Eine argumentationstheoretische Explikation
-subtitle: Vortrag
-event: Philosophisches Kolloquium des Instituts für Philosophie
+title: Kollektiver Moralismus im Diskurs. Eine argumentationstheoretische Explikation (Collective moralism in discourse. An argumentation-theoretical explication)
+subtitle: Lecture
+event: Colloquium on Philosophy of the Institute of Philosophy
 event_url: 
 
-location: Universität Regensburg
+location: University of Regensburg
 # address:
 #   street: Douglasstraße 24
 #   city: Karlsruhe
 #   postcode: '76133'
 
-summary: Vortrag im Philosophischen Kolloquium des Instituts für Philosophie
+summary: Lecture at the Colloquium on Philosophy of the Institute of Philosophy
 
-abstract: Einer immer wieder anzutreffenden Einschätzung zufolge zeichne sich unsere Zeit durch eine zunehmende Moralisierung öffentlicher Debatten aus. Neben empirischen Fragen wirft eine solche Diagnose die vorgelagerte begriffliche Frage auf, was unter der Moralisierung öffentlicher Debatten eigentlich zu verstehen ist. In diesem Vortrag arbeite ich zunächst heraus, dass der in der Moralphilosophie vorherrschende Zugang (der von verschiedenen Erscheinungsformen des Moralismus als individuellem Fehlverhalten ausgeht) dem Phänomen nicht vollumfänglich gerecht wird. Ich werde dann einen Vorschlag machen, wie man die Moralisierung öffentlicher Diskurse argumentationstheoretisch explizieren kann -- als emergente moralische Verzerrung der dialektischen Struktur (des rationalen Kerns) eines Diskurses. Abschließend skizziere ich, welche Perspektiven für weitere empirische und moralphilosophische Untersuchungen daraus erwachsen, insbesondere auch bezüglich kollektiver Handlungsprobleme in Diskursen.
+abstract: According to a recurring assessment, our time is characterized by an increasing moralization of public debates. In addition to empirical questions, such a diagnosis raises the upstream conceptual question of what is actually meant by the moralization of public debates. In this talk, I will first argue that the predominant approach in moral philosophy (which assumes various manifestations of moralism as individual misconduct) does not fully do justice to the phenomenon. I will then suggest how to explicate the moralization of public discourse in terms of argumentation theory -- as an emergent moral distortion of the dialectical structure (the rational core) of a discourse. Finally, I will outline the perspectives for further empirical and moral philosophical investigations, especially with regard to collective action problems in discourses.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -25,7 +25,7 @@ all_day: true
 publishDate: '2024-03-31T08:00:00Z'
 
 authors: [christian.seidel]
-tags: [Vortrag]
+tags: [Lecture]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -51,5 +51,5 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ['moralismus']
+projects: ['moralism']
 ---

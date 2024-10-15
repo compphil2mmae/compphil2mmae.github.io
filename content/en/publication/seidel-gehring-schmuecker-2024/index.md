@@ -1,5 +1,5 @@
 ---
-title: Zukunftsvergessenheit. Ein Klärungsversuch
+title: Zukunftsvergessenheit. Ein Klärungsversuch (Forgetting the future. An attempt at clarification)
 
 # Authors
 # A YAML list of author names
@@ -30,7 +30,7 @@ editor: 'Petra Gehring & Reinold Schmücker'
 publisher: 'Meiner'
 address: 'Hamburg'
 pages: ''
-note: '[Im Erscheinen.]'
+note: '[In publication.]'
 
 doi: ''
 
@@ -71,7 +71,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['zukunftsvergessen']
+projects: ['Forgetting the future']
 ---
 
 <!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

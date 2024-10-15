@@ -1,6 +1,5 @@
 ---
-title: Wie moralistisch dürfen wir sein? Moralismus als Herausforderung für eine ‚praktische‘
-  praktische Philosophie
+title: Wie moralistisch dürfen wir sein? Moralismus als Herausforderung für eine ‚praktische‘ praktische Philosophie (How moralistic can we be? Moralism as a challenge for a 'practical' practical philosophy)
 
 # Authors
 # A YAML list of author names
@@ -24,7 +23,7 @@ publication_types:
 - chapter
 
 # Publication name and optional abbreviated publication name.
-booktitle: '*Kritik des Moralismus*'
+booktitle: '*Kritik des Moralismus* (Critique of moralism)'
 
 editor: 'Christian Neuhäuser & Christian Seidel'
 pages: '206--240'
@@ -71,7 +70,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['moralismus']
+projects: ['moralism']
 ---
 
 <!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

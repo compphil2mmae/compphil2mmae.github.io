@@ -1,16 +1,16 @@
 ---
-title: 'Runder Tisch „Methoden Praktischer Ethik“'
+title: 'Roundtable „Methoden Praktischer Ethik" (Methods of Practical Ethics)'
 subtitle: ''
-event: Roundtable Diskussion im Rahmen der XI. Tagung für Praktische Philosophie
+event: Roundtable discussion within the framework of XI. Conference for Practical Philosophy
 event_url: https://www.tagung-praktische-philosophie.org/
 
-location: 'Universität Passau'
+location: 'University of Passau'
   # address:
   #   street: Geschwister-Scholl-Platz 1, Main University Building, Room M210
   #   city: München
   #   postcode: '80539'
 
-summary: 'Der Runde Tisch „Methoden Praktischer Ethik“ (s. gleichnamiges [DFG-gefördertes Wissenschaftliches Netzwerk]({{< relref "/research/DFG_Methoden-praktischer-Ethik" >}})) soll zum Austausch zu der Frage anregen, wie die Methodologie der Praktischen Ethik Orientierung bieten kann. Diskutant:innen: Norbert Paulo, Eva Weber-Guskar, Irina Schumski,  {{% mention "christian.seidel" %}}. Moderation: Eugen Pissarskoi.'
+summary: 'The Roundtable "Methods of Practical Ethics" (see the [DFG-funded scientific network]({{< relref "/research/DFG_Methoden-praktischer-Ethik" >}})) is intended to stimulate an exchange on the question of how the methodology of practical ethics can provide orientation. Discussants: Norbert Paulo, Eva Weber-Guskar, Irina Schumski, {{% mention "christian.seidel" %}}. Moderation: Eugen Pissarskoi.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -52,9 +52,9 @@ slides:
 projects: ['DFG_Methoden-praktischer-Ethik']
 ---
 
-Angesichts des technologischen und sozio-ökologischen Wandels besteht gesellschaftlicher Bedarf an gut begründeter Handlungsorientierung. Hierbei scheint die Einbindung von Ethiker:innen richtig und notwendig. Die Praktische Ethik als diejenige Disziplin, die sich der philosophischen Reflexion über gesellschaftlich stattfindende Diskussionen ethischer Probleme widmet, steht jedoch vor der Herausforderung zu erläutern, mit welchen Methoden normative Festlegungen angesichts der Umstrittenheit normativer Hintergrundtheorien begründet werden sollen. Der Runde Tisch „Methoden Praktischer Ethik“ (dem das gleichnamige [DFG-geförderte Wissenschaftliche Netzwerk]({{< relref "/research/DFG_Methoden-praktischer-Ethik" >}}) zugrunde liegt) soll zum Austausch zu der Frage anregen, wie die Methodologie der Praktischen Ethik Orientierung bieten kann. 
+In view of technological and socio-ecological change, there is a social need for well-founded action orientation. The involvement of ethicists seems right and necessary here. However, practical ethics, as the discipline dedicated to philosophical reflection on socially occurring discussions of ethical problems, faces the challenge of explaining which methods should be used to justify normative determinations in view of the controversial nature of normative background theories. The round table "Methods of Practical Ethics" (which is based on the [DFG-funded scientific network of the same name]({{< relref "/research/DFG_Methoden-praktischer-Ethik" >}})) is intended to stimulate exchange on the question of how the methodology of practical ethics can provide orientation.
 
-**Diskutant:innen:**
+**Discussants:**
 - Norbert Paulo
 - Eva Weber-Guskar
 - Irina Schumski

@@ -1,5 +1,5 @@
 ---
-title: 'Kritik des Moralismus'
+title: 'Kritik des Moralismus (Critique of moralism)'
 
 # Authors
 # A YAML list of author names

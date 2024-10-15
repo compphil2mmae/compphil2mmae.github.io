@@ -1,8 +1,8 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: Mill-Handbuch erschienen
-subtitle: Department für Philosophie mit sieben Beiträgen vertreten.
+title: Mill handbook published
+subtitle: Department of Philosophy represented with seven contributions.
 summary: 
 authors: [christian.seidel]
 tags: []
@@ -30,8 +30,8 @@ image:
 projects: [transformation]
 ---
 
-Am von Frauke Höntzsch herausgegebenen Mill-Handbuch ist das Department für Philosophie mit insgesamt sieben Beiträgen maßgeblich beteiligt.  
+The Department of Philosophy is significantly involved in the Mill Handbook, edited by Frauke Höntzsch, with a total of seven contributions.  
 
 <!--more-->
 
-Christoph Schmidt-Petri hat Beiträge zu Mills Biographie, zu *Utilitarianism* sowie zu Nutzen/Glück beigesteuert; Michael Schefczyk hat über Freiheit und über Eigentum geschrieben und {{% mention "christian.seidel" %}} die Beiträge [zum moralischen Intuitionismus]({{< relref "/publication/seidel-hoentzsch-2024/" >}}) und [zum Hedonismus]({{< relref "/publication/seidel-hoentzsch-2024-a/" >}}) verfasst.
+Christoph Schmidt-Petri has contributed articles on Mill's biography, on *Utilitarianism* and on utility/happiness; Michael Schefczyk has written on freedom and on property and {{% mention "christian. seidel" %}} the contributions [on moral intuitionism]({{< relref "/publication/seidel-hoentzsch-2024/" >}}) and [on hedonism]({{< relref "/publication/seidel-hoentzsch-2024-a/" >}}).

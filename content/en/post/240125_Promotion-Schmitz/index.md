@@ -1,9 +1,9 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: Cyriak Schmitz schließt Promotion ab
-subtitle:  CompPhil²MMAE gratuliert herzlich!
-summary: Cyriak Schmitz hat seine Promotion zum Thema *Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse* erfolgreich abgeschlossen. Das gesamte Team von CompPhil²MMAE gratuliert ganz herzlich!
+title: Cyriak Schmitz completes his PhD
+subtitle:  CompPhil²MMAE congratulates!
+summary: Cyriak Schmitz has successfully completed his PhD on the subject of  *Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse* (Utilitarianism and moral progress. A philosophical-historical analysis) successfully completed. Congratulations from the entire CompPhil²MMAE team!
 authors: [cyriak.schmitz,christian.seidel]
 tags: [highlight]
 categories: []
@@ -30,10 +30,10 @@ image:
 projects: [moral-progress]
 ---
 
-Mit einem Vortrag über „Zwei Traditionslinien innerhalb der utilitaristischen Tradition: Was erklärt deren Aufteilung in Radikale und Konservative? Diskutiert anhand des Reformers John Stuart Mill und des Konservativen Henry Sidgwick.“ hat {{% mention "cyriak.schmitz" %}} seine Promotion erfolgreich abgeschlossen. Die Dissertation mit dem Titel *Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse* ist [*open access* publiziert]({{< relref "/publication/schmitz-2024" >}}). 
+With a lecture on "Two lines of tradition within the utilitarian tradition: What explains their division into radicals and conservatives? Discussed on the basis of the reformer John Stuart Mill and the conservative Henry Sidgwick." has {{% mention "cyriak.schmitz" %}} successfully completed his PhD. The dissertation, entitled *Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse* is [*open access* published]({{< relref "/publication/schmitz-2024" >}}). 
 
 <!--more-->
 
-Die Promotion wurde von {{% mention "christian.seidel" %}} betreut. Michael Schefczyk war Zweitgutachter, {{% mention "gregor.betz" %}} Mitglied des Prüfungskomitees. 
+The PhD was supervised by {{% mention "christian.seidel" %}}. Michael Schefczyk was second reviewer, {{% mention "gregor.betz" %}} member of the examination committee. 
 
-Das gesamte Team von CompPhil²MMAE gratuliert ganz herzlich! 
+Congratulations from the entire CompPhil²MMAE team! 

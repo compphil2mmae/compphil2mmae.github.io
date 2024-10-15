@@ -23,7 +23,7 @@ publication_types:
 - chapter
 
 # Publication name and optional abbreviated publication name.
-booktitle: '*Handbuch Handlungstheorie*'
+booktitle: '*Handbuch Handlungstheorie* (Handbook of action theory)'
 
 address: 'Stuttgart'
 editor: 'Michael Kühler & Markus Rüther'

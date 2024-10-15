@@ -2,10 +2,10 @@
 title: seppl
 summary: AI-Powered E-Learning App for Argument Analysis.
 tags:
-  - Computationale Philosophie
+  - Computational Philosophy
   - LLMs
   - Norms of Public Reasoning
-  - Angewandte Ethik
+  - Applied Ethics
 date: '2022-07-07T00:00:00Z'
 type: 'project'
 authors: 

@@ -25,23 +25,23 @@ organizations:
 bio: '' # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Populismus, Fake News und Hassrede
-  - Vagheit und Unbestimmtheit 
-  - Vermittlung argumentativer und epistemischer Kompetenzen
+  - Populism, fake news and hate speech
+  - Vagueness and indeterminacy 
+  - Teaching argumentative and epistemic skills
 
 education:
   courses:
-    - course: Dr. phil. Philosophie 
-      institution: Humboldt-Universität zu Berlin
+    - course: Doctor of Philosophy
+      institution: Humboldt University of Berlin
       year: 2016
     - course: Logic Year, Logik 
       institution: Institute of Logic, Language and Computation, Universiteit van Amsterdam
       year: 2011
-    - course: M.Phil. Philosophie, Logik und Wissenschaftstheorie
-      institution: Ludwig-Maximilian-Universität München
+    - course: M.phil. Philosophy, Logic and Philosophy of Science
+      institution: Ludwig Maximilian University Munich
       year: 2010
-    - course: Grundstudium M.A., Philosophie und Volkswirtschaftslehre 
-      institution: Universität Regensburg
+    - course: Basic studies M.A., Philosophy and Economics
+      institution: University of Regensburg
       year: 2007
 
 # Social/Academic Networking
@@ -75,7 +75,7 @@ highlight_name: false
 user_groups:
   - Team
   # - Leitung # Chair | Principal Investigators
-  - Akademische Mitarbeiter:innen # Researchers
+  - Academic employees # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
   # - Doktorand:innen # Grad Students
   # - Assoziierte 
@@ -83,8 +83,7 @@ user_groups:
   # - Alumni
 ---
 
-David Lanius ist wissenschaftlicher Mitarbeiter am DebateLab des Karlsruher Instituts für Technologie (KIT) sowie Gründer und Leiter des [Forums für Streitkultur](https://forum-streitkultur.de). Ab dem Wintersemester 2024 übernimmt er die Ass.-Professur für Praktische Philosophie und Philosophiedidaktik an der Paris-Lodron-Universität Salzburg.
-
-Sein Forschungsschwerpunkt liegt auf der Vermittlung argumentativer und epistemischer Kompetenzen, strategischer Unbestimmtheit in Recht und Politik, Populismus, Fake News sowie den Möglichkeiten und Grenzen des konstruktiven Diskurses. Er hat Philosophie, Wirtschaft und Logik in Regensburg, München, Madrid und Amsterdam studiert und in Philosophie an der Humboldt-Universität Berlin mit einem Forschungsaufenthalt an der University of Southern California in Los Angeles promoviert.
+David Lanius is a research associate at the DebateLab of the Karlsruhe Institute of Technology (KIT) and founder and director of the [Forum für Streitkultur (Forum for Debate Culture)](https://forum-streitkultur.de). From the winter semester 2024, he will take over the Assistant Professorship for Practical Philosophy and Philosophy Didactics at the Paris Lodron University of Salzburg.
+His research focuses on the teaching of argumentative and epistemic competences, strategic indeterminacy in law and politics, populism, fake news and the possibilities and limits of constructive discourse. He studied philosophy, economics and logic in Regensburg, Munich, Madrid and Amsterdam and holds a doctorate in philosophy from the Humboldt University of Berlin with a research stay at the University of Southern California in Los Angeles.
 
 

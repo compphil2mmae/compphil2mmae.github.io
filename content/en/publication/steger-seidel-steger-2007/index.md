@@ -1,5 +1,5 @@
 ---
-title: Psychisch anders? Überlegungen zu Personsein und Identität
+title: Psychisch anders? Überlegungen zu Personsein und Identität (Psychologically different? Reflections on personhood and identity)
 
 # Authors
 # A YAML list of author names
@@ -24,7 +24,7 @@ publication_types:
 - chapter
 
 # Publication name and optional abbreviated publication name.
-booktitle: '*Was ist krank? Stigmatisierung und Diskriminierung in Medizin und Psychotherapie*'
+booktitle: '*Was ist krank? Stigmatisierung und Diskriminierung in Medizin und Psychotherapie* (What is sick? Stigmatization and discrimination in medicine and psychotherapy)'
 
 pages: '31--48'
 editor: 'Florian Steger'

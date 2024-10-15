@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Doktorand" 
+role: "PhD student" 
 
 # Organizations/Affiliations
 organizations:
@@ -31,8 +31,8 @@ interests:
 
 education:
   courses:
-    - course: M.A. Philosophie
-      institution: Humboldt-Universität zu Berlin
+    - course: M.A. Philosophy
+      institution: Humboldt University of Berlin
       year: 2019
 #     - course: Abschluss
 #       institution: Institution
@@ -92,8 +92,8 @@ user_groups:
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
-  - Doktorand:innen # Grad Students
-  - Assoziierte 
+  - PhD students # Grad Students
+  - Associates 
   # - Gäste # Visitors
   # - Alumni
 ---

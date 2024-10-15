@@ -2,8 +2,8 @@
 draft: true
 # widget: portfolio
 # headless: true
-title: Veranstaltungen-1
-# subtitle: Tagungen, Workshops, Vorträge
+title: Events-1
+# subtitle: Conferences, workshops, talks
 
 # Listing view
 view: compact

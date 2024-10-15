@@ -1,13 +1,13 @@
 ---
 draft: true
-title: Veranstaltungen-2
-subtitle: Tagungen, Workshops, Vorträge
+title: Events-2
+subtitle: Conferences, workshops, talks
 type: landing
 
 sections:
   - block: collection
     content:
-      title: Gastvorträge
+      title: Guest Talks
       subtitle:
       text:
       count: 0

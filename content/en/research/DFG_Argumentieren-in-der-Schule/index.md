@@ -1,7 +1,7 @@
 ---
-title: Argumentieren in der Schule
+title: Argumentation at school
 summary: |2- 
-  Ein DFG-gefördertes Wissenschaftliches Netzwerk zur Argumentationsdidaktik an der Schnittstelle zwischen Fachdidaktik und Fachwissenschaft. 
+  A DFG-funded scientific network on argumentation didactics at the interface between subject didactics and subject science. 
 tags:
   - Norms of Public Reasoning
 date: '2019-04-01T00:00:00Z'

@@ -1,5 +1,5 @@
 ---
-title: 'Rezension zu Stephen Darwall, *The Second-Person Standpoint*'
+title: 'Rezension zu Stephen Darwall, *The Second-Person Standpoint* (Review on Rezension zu Stephen Darwall, *The Second-Person Standpoint*)'
 
 # Authors
 # A YAML list of author names
@@ -15,7 +15,7 @@ author_notes: []
 date: '2008-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-04-05T15:00:16.733461Z'
+publishDate: ''
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -23,7 +23,7 @@ publication_types:
 - review
 
 # Publication name and optional abbreviated publication name.
-journal: '*Zeitschrift für philosophische Forschung*'
+journal: '*Zeitschrift für philosophische Forschung (Journal for philosophical research)*'
 journal_short: ''
 
 volume: '62'

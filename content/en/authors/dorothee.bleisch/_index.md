@@ -18,17 +18,17 @@ role: Doktorandin
 
 # Organizations/Affiliations
 organizations:
- - name: Lehrstuhl für Philosophische Anthropologie (KIT) # DebateLab
+ - name: Department of Philosophical Anthropology (KIT) # DebateLab
    url: '' # https://debatelab.philosophie.kit.edu/
- - name: Lehrstuhl für Praktische Philosophie (FAU Erlangen) # DebateLab
+ - name: Department of Practical Philosophy (FAU Erlangen) # DebateLab
    url: 'https://www.philosophie.phil.fau.de/person/bleisch/' # https://debatelab.philosophie.kit.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Moralphilosophie/meta-normative Theorie
-  - normative Ethik, insbesondere konsequentialistische Moraltheorien
+  - Moral philosophy/meta-normative theory
+  - normative ethics, especially consequentialist moral theories
 
 #education:
 #  courses:
@@ -84,10 +84,10 @@ user_groups:
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
-  - Doktorand:innen # Grad Students
-  - Assoziierte 
+  - PhD students # Grad Students
+  - Associates
   # - Gäste # Visitors
   # - Alumni
 ---
 
-Dorothee Bleisch (M.A.) ist Promotionsstudentin (betreut durch Prof. Erasmus Mayr (FAU Erlangen-Nürnberg) und Prof. {{%mention "christian.seidel" %}} (KIT)). Im Rahmen ihres Promotionsprojekts forscht sie am Institut für Philosophie der Friedrich-Alexander-Universität Erlangen-Nürnberg zum sogenannten Usability Demand, dem zufolge Moraltheorien immer auch handlungsanleitend sein sollten. Daneben beschäftigt sie sich mit verschiedenen Themen im Bereich der (normativen) Ethik und forscht zu konsequentialistische Moraltheorien.
+Dorothee Bleisch (M.A.) is a doctoral student (supervised by Prof Erasmus Mayr (FAU Erlangen-Nuremberg) and Prof {{%mention "christian.seidel" %}} (KIT)). As part of her doctoral project, she is conducting research at the Institute of Philosophy at Friedrich-Alexander-Universität Erlangen-Nürnberg on so-called usability demand, according to which moral theories should always also guide action. She is also working on various topics in the field of (normative) ethics and researching consequentialist moral theories.
