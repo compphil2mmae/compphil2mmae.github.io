@@ -12,7 +12,7 @@ title: CompPhil²MMAE # PhilMMAE
 
 defaultContentLanguage: de
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
