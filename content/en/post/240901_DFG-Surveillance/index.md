@@ -31,6 +31,6 @@ Die [DFG](https://www.dfg.de) hat ein Forschungsprojekt zum Thema "The Ethics of
 
 <!--more-->
 
-In Kooperation mit Christian Neuhäuser und CompPhil²MMAE-Alumnus {{% mention "peter.koenigs" %}} von der TU Dortmund untersucht das Projekt in drei Teilprojekten die Frage, wie moderne Praktiken staatlicher Massenüberwachung in liberalen Gesellschaften ethisch zu bewerten sind -- mit Blick auf (a) das überwachte Individuum, (b) die demokratische Gesellschaft, in der Überwachung stattfindet, und (c) die Technologieunternehmen, die an staatlicher Überwachung mitwirken. [»[zur ausführlicheren Projektbeschreibung]({{< relref "/research/eSMS" >}})]
+In Kooperation mit Christian Neuhäuser und CompPhil²MMAE-Alumnus {{% mention "peter.koenigs" %}} von der TU Dortmund untersucht das Projekt in drei Teilprojekten die Frage, wie moderne Praktiken staatlicher Massenüberwachung in liberalen Gesellschaften ethisch zu bewerten sind -- mit Blick auf (a) das überwachte Individuum, (b) die demokratische Gesellschaft, in der Überwachung stattfindet, und (c) die Technologieunternehmen, die an staatlicher Überwachung mitwirken. [» [zur ausführlicheren Projektbeschreibung]({{< relref "/research/eSMS" >}})]
 
 Weitere Informationen und Stellenausschreibungen folgen. Wir freuen uns auf den Austausch!
