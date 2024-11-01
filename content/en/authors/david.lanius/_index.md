@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: '[Alumni] Postdoc | [now] Professor'
+role: "[Alumni] Postdoc | [now] Professor"
 
 # Organizations/Affiliations
 organizations:
@@ -52,15 +52,15 @@ social:
   # - icon: envelope
   #   icon_pack: fas
   #   link: 'mailto:david.lanius@kit.edu'
-  - icon: house
-    icon_pack: fas
-    link: 'https://davidlanius.de'
   # - icon: address-card
   #   icon_pack: fas
   #   link: 'https://www.philosophie.kit.edu/mitarbeiter_805.php'
   # - icon: phone
   #   icon_pack: fas
   #   link: 'https://www.philosophie.kit.edu/mitarbeiter_805.php' 
+  - icon: house
+    icon_pack: fas
+    link: 'https://davidlanius.de'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team
+  # - Team
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
@@ -84,7 +84,3 @@ user_groups:
 ---
 
 David Lanius ist Gründer und Leiter des [Forums für Streitkultur](https://forum-streitkultur.de) und war bis zum Sommersemester 2024 Postdoc bei CompPhil²MMAE. Seitdem ist er Assistenzprofessor für Praktische Philosophie und Philosophiedidaktik an der [Paris-Lodron-Universität Salzburg](https://www.plus.ac.at/).
-
-<!-- Sein Forschungsschwerpunkt liegt auf der Vermittlung argumentativer und epistemischer Kompetenzen, strategischer Unbestimmtheit in Recht und Politik, Populismus, Fake News sowie den Möglichkeiten und Grenzen des konstruktiven Diskurses. Er hat Philosophie, Wirtschaft und Logik in Regensburg, München, Madrid und Amsterdam studiert und in Philosophie an der Humboldt-Universität Berlin mit einem Forschungsaufenthalt an der University of Southern California in Los Angeles promoviert.
- -->
-
