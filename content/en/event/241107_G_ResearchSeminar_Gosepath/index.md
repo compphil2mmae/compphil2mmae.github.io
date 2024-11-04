@@ -1,5 +1,5 @@
 ---
-title: 'Stefan Gosepath (Berlin): "Kapitel zu Eigentum/Familie aus Buch über Vererben"'
+title: 'Stefan Gosepath (Berlin): "Privateigentum ohne Recht auf Vererbung"'
 subtitle: CompPhil²MMAE Forschungsseminar
 event: CompPhil²MMAE Forschungsseminar
 event_url: https://ilias.studium.kit.edu/ilias.php?baseClass=ilrepositorygui&ref_id=2472112
