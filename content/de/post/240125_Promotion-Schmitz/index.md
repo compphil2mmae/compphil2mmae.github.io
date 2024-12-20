@@ -5,7 +5,7 @@ title: Cyriak Schmitz schließt Promotion ab
 subtitle:  CompPhil²MMAE gratuliert herzlich!
 summary: Cyriak Schmitz hat seine Promotion zum Thema *Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse* erfolgreich abgeschlossen. Das gesamte Team von CompPhil²MMAE gratuliert ganz herzlich!
 authors: [cyriak.schmitz,christian.seidel]
-tags: [highlight]
+tags: []
 categories: []
 date: 2024-01-25T16:35:51+01:00
 lastmod: 2024-01-25T16:35:51+01:00

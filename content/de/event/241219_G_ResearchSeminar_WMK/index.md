@@ -1,5 +1,5 @@
 ---
-title: 'Clarissa Hohenwalde & Markus Lehmkuhl (ITZ WMK): "LLMs in Wissenschaftsjournalismus & Wissenschaftskommunikationsforschung"'
+title: '[Workshop muss leider verschoben werden] Clarissa Hohenwalde & Markus Lehmkuhl (ITZ WMK): "LLMs in Wissenschaftsjournalismus & Wissenschaftskommunikationsforschung"'
 subtitle: CompPhil²MMAE Forschungsseminar
 event: CompPhil²MMAE Forschungsseminar
 event_url: https://ilias.studium.kit.edu/ilias.php?baseClass=ilrepositorygui&ref_id=2472112
