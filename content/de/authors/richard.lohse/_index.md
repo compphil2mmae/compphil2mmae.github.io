@@ -28,22 +28,25 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#  - Schwerpunkt A
-#  - Schwerpunkt B
+interests:
+  - Formale Erkenntnistheorie
+  - Politische Philosophie
 #  - Schwerpunkt C
 
-#education:
-#  courses:
-#    - course: Abschluss
-#      institution: Institution
-#      year: Jahr
-#    - course: Abschluss
-#      institution: Institution
-#      year: Jahr
-#    - course: Abschluss
-#      institution: Institution
-#      year: Jahr
+education:
+  courses:
+    - course: Promotion Philosophie
+      #institution: Institution
+      year: 2024
+    - course: M.Ed. Physik und Ethik/Philosophie 
+      #institution: Institution
+      year: 2020
+    - course: M.A. Philosophie
+      #institution: Institution
+      year: 2018
+    - course: B.A. Physik 
+      #institution: Institution
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,9 +59,9 @@ social:
   - icon: house
     icon_pack: fas
     link: 'https://richard-lohse.com/'
-  # - icon: address-card
-  #   icon_pack: fas
-  #   link: 'https://www.philosophie.kit.edu/mitarbeiter_1031.php'
+  - icon: address-card
+    icon_pack: fas
+    link: 'https://re-models.github.io/'
   # - icon: phone
   #   icon_pack: fas
   #   link: 'https://www.philosophie.kit.edu/mitarbeiter_1031.php'   
@@ -103,3 +106,4 @@ user_groups:
   # - Alumni
 ---
 
+Richard Lohse's core philosophical interest is: How can collectives shape their future? This involves questions about democracy, collective agency, societal progress, utopianism, long-termism, and others. Thus far, his focus has been on the epistemological aspect, in particular, on disagreement and consensus formation. In his master thesis, he investigated in how far considerations about the accuracy of Bayesian credences limit the room for rational disagreement. His PhD project was concerned with the realisability of an overlapping consensus in liberal democracies.
