@@ -5,7 +5,7 @@ tags:
   - Computationale Philosophie
   - Norms of Public Reasoning
   - Angewandte Ethik
-date: '2025-01-01T00:00:00Z'
+date: '2024-07-01T00:00:00Z'
 type: 'project'
 authors: 
   - felix.kopecky
@@ -103,6 +103,3 @@ Bramson, Aaron, Patrick Grim, Daniel J. Singer, Steven Fisher, William Berger, G
 Frey, Brendan J. & Delbert Dueck (2007). Clustering by passing messages between data points. *Science* 315 (5814), pp. 972–976. DOI: [10.1126/science.1136800](https://doi.org/10.1126/science.1136800).
 
 Traag, Vincent A., Ludo Waltman & Nees J. van Eck 2019. From Louvain to Leiden: Guaranteeing well-connected communities. *Scientific Reports*, 9 (5233). DOI: [10/gfxg2v](https://doi.org/10/gfxg2v).
-
-## Contact
-For inquiries about the project, contact Felix Kopecky at <f.kopecky@kit.edu>.

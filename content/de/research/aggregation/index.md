@@ -5,7 +5,7 @@ tags:
   - Computationale Philosophie
   - Norms of Public Reasoning
   - Angewandte Ethik
-date: '2025-01-01T00:00:00Z'
+date: '2024-07-01T00:00:00Z'
 type: 'project'
 authors: 
   - felix.kopecky
@@ -169,6 +169,3 @@ DOI: [10.1017/S0266267102001098](https://doi.org/10.1017/S0266267102001098).
 
 Tuomisto, Hanna. 2010. A consistent terminology for quantifying species diversity? 
 Yes, it does exist. *Oecologia* 164, pp. 853–860. DOI: [10.1007/s00442-010-1812-0](https://doi.org/10.1007/s00442-010-1812-0]).
-
-## Contact
-For inquiries about the project, contact Felix Kopecky at <f.kopecky@kit.edu>.

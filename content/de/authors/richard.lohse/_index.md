@@ -14,8 +14,8 @@ authors:
 superuser: false
 
 # Role/position
-role: Doktorand
-# role: "[Alumni] Doktorand"
+# role: Doktorand
+role: "[Alumni] Doktorand"
 
 # Organizations/Affiliations
 organizations:
@@ -100,10 +100,10 @@ user_groups:
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
-  - Doktorand:innen # Grad Students
-  - Assoziierte 
+  #- Doktorand:innen # Grad Students
+  #- Assoziierte 
   # - Gäste # Visitors
-  # - Alumni
+  - Alumni
 ---
 
 Richard Lohse's core philosophical interest is: How can collectives shape their future? This involves questions about democracy, collective agency, societal progress, utopianism, long-termism, and others. Thus far, his focus has been on the epistemological aspect, in particular, on disagreement and consensus formation. In his master thesis, he investigated in how far considerations about the accuracy of Bayesian credences limit the room for rational disagreement. His PhD project was concerned with the realisability of an overlapping consensus in liberal democracies.

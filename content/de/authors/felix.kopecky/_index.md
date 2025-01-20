@@ -55,9 +55,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/FelixKopecky/
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:template.name@kit.edu'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:f.kopecky@kit.edu'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
