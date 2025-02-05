@@ -58,7 +58,7 @@ Agents are initialised with either random belief systems or pre-configured into 
 
 Argumentation drives polarisation dynamics in all variants of the model. But the effect size of incurred polarisation depends on the argumentation strategy. Strategies that take into account the beliefs of others, such as the convert strategy, induce lower levels of polarisation and are better equipped to recover from high initial polarisation. Strategies that only take into account the beliefs of the introducing agents, such as the attack strategy, lead to higher levels of polarisation and are less able to recover from antecedent states of bi-polarisation. (Result from publications (1) and (2))
 
-Argumentation-induced polarisation, as described in this model, is further evidence for the hypothesis of *epistemically rational polarisation* – the hypothesis that groups of agents can polarise amid epistemically rational behaviour. (Result from publication 2)
+Argumentation-induced polarisation, as described in this model, is further evidence for the hypothesis of *epistemically rational polarisation* – the hypothesis that groups of agents can polarise amid epistemically rational behaviour. (Result from publication (2))
 
 ### Complete belief systems, random debate growth
 
@@ -74,7 +74,7 @@ Although not all model runs will result in the same levels of clustering and pol
 
 Publication (2) makes the model more realistic. First it allows agents to not assign a truth value to a sentence under discussion. Secondly, debates do not grow into random graphs, but grow in a tree-like manner, and thirdly, new sentences can be introduced during the debate.
 
-Tree-like debate growth works by designating a subset of the sentences under discussion as “key statements” of the debate. The argument introduction mechanism is then modified such that conclusions are selected based on the distance to these key statements. In the example below, key statements are p0, p1 and p2. In the first debate stage, τ1, p18 and p19 are selected as premises in an argument with conclusion p2. Now both p18 and p19 in turn have a non-zero chance to be selected as the conclusion of an argument, which eventually happens in argument a9. This algorithm for tree-like debate growth was developed by Betz et al. (2021).
+Tree-like debate growth works by designating a subset of the sentences under discussion as “key statements” of the debate. The argument introduction mechanism is then modified such that conclusions are selected based on the distance to these key statements. In the example below, key statements are $p_0$, $p_1$ and $p_2$. In the first debate stage, $τ_1$, $p_{18}$ and $p_{19}$ are selected as premises in an argument with conclusion $p_2$. Now both $p_{18}$ and $p_{19}$ in turn have a non-zero chance to be selected as the conclusion of an argument, which eventually happens in argument $a_9$. This algorithm for tree-like debate growth was developed by Betz et al. (2021).
 
 ![Figure 2: Illustration of tree-like debate growth.](treelike-growth.png)
 
@@ -91,10 +91,10 @@ The polarisation dynamics of agents initialised with random, partial belief syst
 ## Publications
  1. Kopecky, Felix. 2022. Arguments as drivers of issue polarisation in debates among artificial agents. *Journal of Artificial Societies and Social Simulation* 25(1). DOI: [10.18564/jasss.4767](https://doi.org/10.18564/jasss.4767).
 
- 2. Kopecky, Felix. 2024. Argumentation-induced rational issue polarisation. *Philosophical Studies* 181 (1), pp. 83-107. DOI: [10.1007/s11098-023-02059-6](https://doi.org/10.1007/s11098-023-02059-6)
+ 2. Kopecky, Felix. 2024. Argumentation-induced rational issue polarisation. *Philosophical Studies* 181 (1), pp. 83-107. DOI: [10.1007/s11098-023-02059-6](https://doi.org/10.1007/s11098-023-02059-6).
 
 ## References
-Betz, Gregor. 2009. Evaluating dialectical structures. *Journal of Philosophical Logic* 38, pp. 283–312. DOI: [10.1007/s10992-008-9091-5](https://doi.org/10.1007/s10992-008-9091-5)
+Betz, Gregor. 2009. Evaluating dialectical structures. *Journal of Philosophical Logic* 38, pp. 283–312. DOI: [10.1007/s10992-008-9091-5](https://doi.org/10.1007/s10992-008-9091-5).
 
 Betz, Gregor, Vera Chekan & Tamara Mchedlidze. 2021. Heuristic algorithms for the approximation of mutual coherence. (Manuscript)
 
