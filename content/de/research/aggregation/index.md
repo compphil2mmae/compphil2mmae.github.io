@@ -154,18 +154,11 @@ a majority among them? Or should they explicitly restrict their
 recommendations to issues with a consistent group response?
 
 ## Publication
- Kopecky, Felix & Gregor Betz. In print. Inconsistent belief aggregation in 
-diverse and polarised groups. *Philosophy of Science*. DOI: [10.1017/psa.2024.29](https://doi.org/10.1017/psa.2024.29).
+ Kopecky, Felix & Betz, Gregor (2025). Inconsistent belief aggregation in diverse and polarised groups. *Philosophy of Science* 92 (1): 40–58. DOI: [10.1017/psa.2024.29](https://doi.org/10.1017/psa.2024.29).
 
 ## References
-Bramson, Aaron, Patrick Grim, Daniel J. Singer, William J. Berger, Graham
-Sack, Steven Fisher, Carissa Flocken & Bennett Holman. 2017. Understanding 
-polarization: Meanings, measures, and model evaluation. *Philosophy
-of Science* 84 (1), pp. 115–159. DOI: [10.1086/688938](https://doi.org/10.1086/688938).
+Bramson, Aaron, Patrick Grim, Daniel J. Singer, William J. Berger, Graham Sack, Steven Fisher, Carissa Flocken & Bennett Holman. 2017. Understanding polarization: Meanings, measures, and model evaluation. *Philosophy of Science* 84 (1), pp. 115–159. DOI: [10.1086/688938](https://doi.org/10.1086/688938).
 
-List, Christian & Philip Pettit. 2002. Aggregating sets of judgments: An 
-impossibility result. *Economics & Philosophy* 18 (1), pp. 89–110. 
-DOI: [10.1017/S0266267102001098](https://doi.org/10.1017/S0266267102001098).
+List, Christian & Philip Pettit. 2002. Aggregating sets of judgments: An impossibility result. *Economics & Philosophy* 18 (1), pp. 89–110. DOI: [10.1017/S0266267102001098](https://doi.org/10.1017/S0266267102001098).
 
-Tuomisto, Hanna. 2010. A consistent terminology for quantifying species diversity? 
-Yes, it does exist. *Oecologia* 164, pp. 853–860. DOI: [10.1007/s00442-010-1812-0](https://doi.org/10.1007/s00442-010-1812-0]).
+Tuomisto, Hanna. 2010. A consistent terminology for quantifying species diversity? Yes, it does exist. *Oecologia* 164, pp. 853–860. DOI: [10.1007/s00442-010-1812-0](https://doi.org/10.1007/s00442-010-1812-0]).
