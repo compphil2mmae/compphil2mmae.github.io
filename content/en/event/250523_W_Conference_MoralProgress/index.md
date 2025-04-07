@@ -60,7 +60,7 @@ From its earliest days onwards, the (secular) utilitarian tradition has always s
 - What role does this idea play in their philosophical outlook?
 
 Speakers:
-- Eleonora Buono (Lausanne/Switzerland)
+- Eleonora Buono (Padova/Italy)
 - Guilia Cantamessi (Pavia/Italy)
 - Roger Crisp (Oxford/United Kingdom)
 - Julia Driver (Austin/USA)
