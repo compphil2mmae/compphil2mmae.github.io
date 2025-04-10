@@ -61,7 +61,7 @@ From its earliest days onwards, the (secular) utilitarian tradition has always s
 
 Speakers:
 - Eleonora Buono (Padova/Italy)
-- Guilia Cantamessi (Pavia/Italy)
+- Giulia Cantamessi (Pavia/Italy)
 - Roger Crisp (Oxford/United Kingdom)
 - Julia Driver (Austin/USA)
 - Annette Dufner (Bielefeld/Germany)
