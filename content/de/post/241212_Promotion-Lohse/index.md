@@ -30,7 +30,7 @@ image:
 #projects: [moral-progress]
 ---
 
-Mit einem Vortrag über „Simulating Rawlsian Overlapping Consensus: Method and Results“ hat {{% mention "richard.lohse" %}} seine Promotion erfolgreich abgeschlossen. Der Titel seiner Dissertation lautet *Pluralism, Consensus, and Justification. A Simulation Study on Overlapping Consensus in Liberal Democracies*. 
+Mit einem Vortrag über „Simulating Rawlsian Overlapping Consensus: Method and Results“ hat {{% mention "richard.lohse" %}} seine Promotion erfolgreich abgeschlossen. Der Titel seiner Dissertation lautet [*Pluralism, Consensus, and Justification. A Simulation Study on Overlapping Consensus in Liberal Democracies*](/publication/lohse-2024). 
 
 <!--more-->
 
