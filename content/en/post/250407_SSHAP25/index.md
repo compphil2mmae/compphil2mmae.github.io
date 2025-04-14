@@ -1,9 +1,9 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: CompPhil²MMAE-Vorträge auf der SSHAP 2025
+title: CompPhil²MMAE talks at the SSHAP 2025
 subtitle: 
-summary: Mit Inga Bones und Cyriak Schmitz werden zwei CompPhil²MMAE-Expert:innen zur Geschichte der Analytischen Philosophie auf der [13. Konferenz](https://www.gw.uni-jena.de/69663/tagung-sshap-2025) der [International Society for Utilitarian Studies (ISUS)](http://sshap.org/about/) vortragen.  
+summary: Two CompPhil²MMAE experts on the history of analytic philosophy, Inga Bones and Cyriak Schmitz, will speak at the [13th conference](https://www.gw.uni-jena.de/69663/tagung-sshap-2025) of the [International Society for Utilitarian Studies (ISUS)](http://sshap.org/about/).  
 authors: [inga.bones,cyriak.schmitz]
 tags: []
 categories: []
@@ -28,10 +28,10 @@ image:
 projects: [EECJones]
 ---
 
-Die Vorträge von {{% mention "inga.bones" %}} (["Why, this Logic is nothing but Common Sense!" – E.E.C. Jones on Ordinary Language and Common Sense]({{< relref "/event/250625_v_bones_jena/" >}})) und von {{% mention "cyriak.schmitz" %}} ([E. E. Constance Jones and the Dualism of Practical Reason]({{< relref "/event/250625_v_schmitz_jena/" >}})) sind zur [13. Konferenz](https://www.gw.uni-jena.de/69663/tagung-sshap-2025) der [International Society for Utilitarian Studies (ISUS)](http://sshap.org/about/) angenommen worden.
+The talks of {{% mention "inga.bones" %}} (["Why, this Logic is nothing but Common Sense!" – E.E.C. Jones on Ordinary Language and Common Sense]({{< relref "/event/250625_v_bones_jena/" >}})) and {{% mention "cyriak.schmitz" %}} ([E. E. Constance Jones and the Dualism of Practical Reason]({{< relref "/event/250625_v_schmitz_jena/" >}})) have been accepted for the [13th conference](https://www.gw.uni-jena.de/69663/tagung-sshap-2025) der [International Society for Utilitarian Studies (ISUS)](http://sshap.org/about/).
 
 <!--more-->
 
-Die Konferenz findet vom 23. bis zum 26. Juni 2025 in Jena statt -- auch zu Ehren Gottlob Freges, dessen Todestag sich am 26. Juni zum hundertsten Mal jährt. 
+The conference will take place from 23 to 26 June 2025 in Jena -- to commemorate the exact centenary of Gottlob Frege’s death.
 
 
