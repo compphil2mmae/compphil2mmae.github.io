@@ -3,7 +3,7 @@
 
 title: CompPhil²MMAE-Vorträge auf der SSHAP 2025
 subtitle: 
-summary: Mit Inga Bones und Cyriak Schmitz werden zwei CompPhil²MMAE-Expert:innen zur Geschichte der Analytischen Philosophie auf der [13. Konferenz](https://www.gw.uni-jena.de/69663/tagung-sshap-2025) der [International Society for Utilitarian Studies (ISUS)](http://sshap.org/about/) vortragen.  
+summary: Mit Inga Bones und Cyriak Schmitz werden zwei CompPhil²MMAE-Expert:innen zur Geschichte der Analytischen Philosophie auf der [13. Jahrestagung](https://www.gw.uni-jena.de/69663/tagung-sshap-2025) der [Society for the Study of the History of Analytical Philosophy](http://sshap.org/about/) vortragen.  
 authors: [inga.bones,cyriak.schmitz]
 tags: []
 categories: []
@@ -28,7 +28,7 @@ image:
 projects: [EECJones]
 ---
 
-Die Vorträge von {{% mention "inga.bones" %}} (["Why, this Logic is nothing but Common Sense!" – E.E.C. Jones on Ordinary Language and Common Sense]({{< relref "/event/250625_v_bones_jena/" >}})) und von {{% mention "cyriak.schmitz" %}} ([E. E. Constance Jones and the Dualism of Practical Reason]({{< relref "/event/250625_v_schmitz_jena/" >}})) sind zur [13. Konferenz](https://www.gw.uni-jena.de/69663/tagung-sshap-2025) der [International Society for Utilitarian Studies (ISUS)](http://sshap.org/about/) angenommen worden.
+Die Vorträge von {{% mention "inga.bones" %}} (["Why, this Logic is nothing but Common Sense!" – E.E.C. Jones on Ordinary Language and Common Sense]({{< relref "/event/250625_v_bones_jena/" >}})) und von {{% mention "cyriak.schmitz" %}} ([E. E. Constance Jones and the Dualism of Practical Reason]({{< relref "/event/250625_v_schmitz_jena/" >}})) sind zur [13. Jahrestagung](https://www.gw.uni-jena.de/69663/tagung-sshap-2025) der [Society for the Study of the History of Analytical Philosophy](http://sshap.org/about/) angenommen worden.
 
 <!--more-->
 
