@@ -2,8 +2,8 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: Inga Bones zu Gast bei Deutschlandfunk Kultur
-subtitle: '[Aktuelle Ausgabe des "Sein und Streit"-Podcasts](https://www.deutschlandfunkkultur.de/ganze-sendung-vom-13-april-2025-ueber-das-meckern-und-nostalgie-100.html) mit CompPHIL²MMA-Beteiligung'  
-summary: '[Aktuelle Ausgabe des "Sein und Streit"-Podcasts](https://www.deutschlandfunkkultur.de/ganze-sendung-vom-13-april-2025-ueber-das-meckern-und-nostalgie-100.html) mit CompPHIL²MMA-Beteiligung'  
+subtitle: '[Aktuelle Ausgabe des "Sein und Streit"-Podcasts](https://www.deutschlandfunkkultur.de/ganze-sendung-vom-13-april-2025-ueber-das-meckern-und-nostalgie-100.html) mit CompPHIL²MMAE-Beteiligung'  
+summary: '[Aktuelle Ausgabe des "Sein und Streit"-Podcasts](https://www.deutschlandfunkkultur.de/ganze-sendung-vom-13-april-2025-ueber-das-meckern-und-nostalgie-100.html) mit CompPHIL²MMAE-Beteiligung'  
 authors: [inga.bones]
 tags: [highlight]
 categories: []
