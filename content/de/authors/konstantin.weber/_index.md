@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doktorand
+role: "[Alumni] Doktorand"
 
 # Organizations/Affiliations
 organizations:
@@ -40,6 +40,9 @@ education:
     - course: M.A. Philosophie
       institution: FAU Erlangen-Nürnberg
       year: 2018
+    - course: Promotion Dr. phil.
+      institution: FAU Erlangen-Nürnberg
+      year: 2025
 
 
 # Social/Academic Networking
@@ -85,12 +88,12 @@ user_groups:
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
-  - Doktorand:innen # Grad Students
-  - Assoziierte 
+  # - Doktorand:innen # Grad Students
+  # - Assoziierte 
   # - Gäste # Visitors
-  # - Alumni
+  - Alumni
 ---
 
-Konstantin Weber promoviert am Institut für Philosophie der Friedrich-Alexander-Universität Erlangen-Nürnberg zur Ethik zukünftiger Personen. Die Arbeit wurde mit einem Promotionsstipendium der Studienstiftung des deutschen Volkes gefördert.
+Konstantin Weber promovierte am Institut für Philosophie der Friedrich-Alexander-Universität Erlangen-Nürnberg zur Ethik zukünftiger Personen. Die Arbeit wurde mit einem Promotionsstipendium der Studienstiftung des deutschen Volkes gefördert.
 Konstantin studierte Philosophie und griechische Philologie in Erlangen. Ebendort war und ist er zunächst als wissenschaftliche Hilfskraft und später als wissenschaftlicher Mitarbeiter tätig.
 Konstantins philosophische Interessen sind im Bereich der praktischen Philosophie breit gestreut. Seine Forschungsschwerpunkte liegen im Bereich der Ethik zukünftiger Personen, philosophischer Theorien der Rationalität sowie der Metaethik und Metanormativität.
