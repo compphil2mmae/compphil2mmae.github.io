@@ -1,5 +1,5 @@
 ---
-title: 'Prof. Dr. Jörg Löscher (Stuttgart): "Warum wir am guten festhalten. Wertkonservatismus und rationale Handlungsfähigkeit"'
+title: 'Prof. Dr. Jörg Löschke (Stuttgart): "Warum wir am guten festhalten. Wertkonservatismus und rationale Handlungsfähigkeit"'
 subtitle: KIT Philosophie-Kolloquium SoSe 2025 [2/4] 
 event: KIT Philosophie-Kolloquium
 event_url: https://www.philosophie.kit.edu
