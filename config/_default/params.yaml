@@ -23,8 +23,8 @@ marketing:
     twitter: ''
   analytics:
     google_analytics: ''
-    baidu_tongji: ''
     google_tag_manager: ''
+    baidu_tongji: ''
     microsoft_clarity: ''
   verification:
     google: ''

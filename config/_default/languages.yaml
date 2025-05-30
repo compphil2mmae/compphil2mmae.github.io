@@ -11,7 +11,7 @@ de:
 en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en # »» copy content-folder to this place, then translate *everything*
+  contentDir: content # »» copy content-folder to this place, then translate *everything*
   title: CompPhil²MMAE # PhilMMAE 
   # params:
   #  description: Site description in Chinese...
