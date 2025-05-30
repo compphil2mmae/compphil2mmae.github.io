@@ -1,17 +1,17 @@
 ---
-title: 'Olaf Müller (Berlin): "Pazifismus. Eine Verteidigung"'
-subtitle: KIT Philosophie-Kolloquium SoSe 24 [1/3] 
-event: KIT Philosophie-Kolloquium
+title: 'Olaf Müller (Berlin): "Pazifismus. Eine Verteidigung (Pacifism. A defence)"'
+subtitle: KIT Colloquium on Philosophy SoSe 24 [1/3] 
+event: KIT Colloquium on Philosophy
 event_url: https://www.philosophie.kit.edu
 
-location: Franz-Schnabel-Haus (Geb. 30.91), Raum 012
+location: Franz-Schnabel-Haus (Building 30.91), Room 012
 address:
   street: Fritz-Haber-Weg 7
   city: Karlsruhe
   postcode: '76131'
 
-summary: KIT Philosophie-Kolloquium SoSe 24 [1/3] 
-# abstract: Im Sommersemester 2024 finden im Rahmen des KIT Philosophie-Kolloquium drei Vorträge statt.
+summary: KIT Colloquium on Philosophy SoSe 24 [1/3] 
+# abstract: In the summer semester 2024, three talks will take place as part of the KIT Philosophy Colloquium.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,7 +24,7 @@ all_day: false
 publishDate: '2024-03-31T08:00:00Z'
 
 authors: []
-tags: [Gastvortrag]
+tags: [Guest lecture]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -53,10 +53,10 @@ slides:
 projects:
 ---
 
-Das KIT Philosophie-Kolloquium wurde im Sommersemester 2024 nach Abstimmung mit der [Fachschaft](https://geistsoz.de/) und mit den akademischen Mitarbeiter:innen des [Departments für Philosophie](https://www.philosophie.kit.edu) organisiert von {{% mention "inga.bones" %}}. 
+The KIT Colloquium on Philosophy  was launched in the summer semester 2024 after coordination with the [Fachschaft](https://geistsoz.de/) and with the academic employees of the [Department of Philosophy](https://www.philosophie.kit.edu) organised by {{% mention "inga.bones" %}}. 
 
 {{% callout note%}}
-**Student:innen** sind herzlich willkommen!
+**Students** are very welcome!
 {{% /callout %}}
 
 

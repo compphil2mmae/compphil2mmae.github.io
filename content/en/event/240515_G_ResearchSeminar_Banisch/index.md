@@ -4,13 +4,13 @@ subtitle: CompPhil²MMAE Forschungsseminar
 event: CompPhil²MMAE Forschungsseminar
 event_url: https://ilias.studium.kit.edu/goto.php?target=crs_2340641&client_id=produktiv
 
-location: Department für Philosophie (Geb. 09.20, 4. OG), R. 511
+location: Department of Philosophy (Geb. 09.20, 4. OG), R. 511
 address:
   street: Douglasstraße 24
   city: Karlsruhe
   postcode: '76133'
 
-summary: CompPhil²MMAE Forschungsseminar
+summary: CompPhil²MMAE Research Seminar
 
 abstract: 'We combine empirical experimental research on biased argument processing with a computational theory of group deliberation to overcome the micro–macro problem of sociology and to clarify the role of biased processing in debates around energy. We integrate biased processing into the framework of argument communication theory in which agents exchange arguments about a certain topic and adapt opinions accordingly. Our derived mathematical model fits significantly better to the experimentally observed attitude changes than the neutral argument processing assumption made in previous models. Our approach provides new insight into the relationship between biased processing and opinion polarization. Our analysis reveals a sharp qualitative transition from attitude moderation to polarization at the individual level. At the collective level, we find that weak biased processing significantly accelerates group decision processes, whereas strong biased processing leads to a meta-stable conflictual state of bi-polarization that becomes persistent as the bias increases.'
 
@@ -56,14 +56,14 @@ slides:
 projects:
 ---
 
-Das CompPhil²MMAE-Forschungsseminar "Aktuelle Texte der Philosophie" ist zentraler Diskussions- und Reflexionsraum des CompPhil²MMAE-Teams und im Sinne der forschungsorientierten Lehre zugleich eine Lehrveranstaltung für fortgeschrittene Student:innen. 
+The CompPhil²MMAE research seminar ‘"Aktuelle Texte der Philosophie" is a central discussion and reflection space for the CompPhil²MMAE team and, in the spirit of research-oriented teaching, also a course for advanced students. 
 
-Im Forschungsseminar stellen CompPhil³MMAE-Mitglieder sowie auswärtige Referent:innen ihre Forschungsarbeiten aus der Philosophie sowie angrenzender Disziplinen (in der Regel in einem *Pre-Read*-Format) zur Diskussion. 
+In the research seminar, CompPhil³MMAE members and external speakers present their research work in philosophy and related disciplines (usually in a *pre-read* format) for discussion. 
 
-Das CompPhil²MMAE-Forschungsseminar wird organisiert von {{% mention "christian.seidel" %}} und {{% mention "gregor.betz" %}}. 
+The CompPhil²MMAE research seminar is organised by {{% mention "christian.seidel" %}} and {{% mention "gregor.betz" %}}. 
 
 {{% callout note%}}
-**Student:innen** und **Kolleg:innen** sind herzlich eingeladen!
+**Students** and **Colleagues** are very welcome!
 {{% /callout %}}
 
 

@@ -1,9 +1,9 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: Sebastian Cacean schließt Promotion ab
-subtitle:  CompPhil²MMAE gratuliert herzlich!
-summary: Sebastian Cacean hat seine Promotion zum Thema *Content Analysis of Argumentation Structures --The Role of Reliability in Argument Mapping* erfolgreich abgeschlossen. Das gesamte Team von CompPhil²MMAE gratuliert ganz herzlich!
+title: Sebastian Cacean completes his PhD
+subtitle:  Congratulations from CompPhil²MMAE!
+summary: Sebastian Cacean has successfully completed his PhD on the topic *Content Analysis of Argumentation Structures --The Role of Reliability in Argument Mapping*. The entire CompPhil²MMAE team would like to congratulate him!
 authors: [sebastian.cacean,gregor.betz]
 tags: [news, highlight]
 categories: []
@@ -30,10 +30,10 @@ image:
 # projects: [moral-progress]
 ---
 
-{{% mention "sebastian.cacean" %}} hat am 15. Juli 2024 seine Promotion erfolgreich abgeschlossen. Der Titel der Dissertation lautet *Content Analysis of Argumentation Structures -- The Role of Reliability in Argument Mapping*. 
+{{% mention "sebastian.cacean" %}} successfully completed his doctorate on July 15, 2024. The title of the dissertation is *Content Analysis of Argumentation Structures -- The Role of Reliability in Argument Mapping*. 
 
 <!--more-->
 
-Die Promotion wurde von {{% mention "gregor.betz" %}} betreut. [Georg Brun (Bern)](https://www.philosophie.unibe.ch/ueber_uns/personen/brun/index_ger.html) war Zweitgutachter. 
+The doctorate was supervised by {{% mention "gregor.betz" %}}. [Georg Brun (Bern)](https://www.philosophie.unibe.ch/ueber_uns/personen/brun/index_ger.html) was second reviewer. 
 
-Das gesamte Team von CompPhil²MMAE gratuliert ganz herzlich! 
+Congratulations from the entire CompPhil²MMAE team!

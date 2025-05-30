@@ -1,8 +1,8 @@
 ---
-title: 'Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse'
-summary: Dieses (von der Studienstiftung geförderte) Promotionsrojekt untersucht die Idee  moralischen Fortschritts in der utilitaristischen Tradition anhand einer Analyse der Konzeptionen von J.S. Mill, H. Sidgwick, P. Singer und D. Parfit).
+title: 'Utilitarianism and moral progress. A philosophical-historical analysis'
+summary: This doctoral project (funded by the Studienstiftung) examines the idea of moral progress in the utilitarian tradition by analyzing the conceptions of J.S. Mill, H. Sidgwick, P. Singer and D. Parfit).
 tags:
-  - Moralphilosophie
+  - Moral philosophy
   - BMSP19
 date: '2018-10-01T00:00:00Z'
 type: 'project'
@@ -35,19 +35,19 @@ url_video: ''
 slides: example
 ---
 
-Moralischer Fortschritt ist ein in der Philosophie stark vernachlässigtes Thema. Dies mag verwundern,
-da, zu wissen, was moralischer Fortschritt ist und wie er vonstatten geht, uns u.a. dabei helfen kann,
-positive moralische Entwicklungen zu identifizieren und zu fördern. Allein aus diesen Gründen scheint
-es bereits angebracht, einen Versuch zu unternehmen, sich dieses Themas anzunehmen. Die bisherige
-Vernachlässigung des Themas favorisiert eine historische Analyse, bei der die Untersuchung der
-Gedanken bedeutender Theoretikerinnen und Theoretiker im Mittelpunkt steht, um zu erfahren, was
-diese über das Thema dachten. In der Philosophiegeschichte kommt der Idee eines moralischen
-Fortschritts, insbesondere im Utilitarismus, eine bedeutende Rolle zu. Dies macht eine Untersuchung
-der utilitaristischen Tradition einen aussichtsreichen und gewinnbringenden Ausgangspunkt für eine
-eingehendere Analyse.
+Moral progress is a much neglected topic in philosophy. This may come as a surprise,
+because knowing what moral progress is and how it happens can help us, among other things, to
+identify and promote positive moral developments. For these reasons alone, it seems
+reasons alone, it seems appropriate to make an attempt to address this issue. The previous
+neglect of the topic favors a historical analysis in which the examination of the thoughts of important
+the thoughts of important theorists in order to find out what they thought about the subject.
+what they thought about the subject. In the history of philosophy, the idea of moral progress
+progress, especially in utilitarianism, plays an important role in the history of philosophy. This makes an investigation
+utilitarian tradition a promising and profitable starting point for a more in-depth analysis.
+in-depth analysis.
 
-Ziel dieses Projektes ist es, unter Rückgriff auf vier bedeutende utiltiaristische Denker (John
-Stuart Mill, Henry Sidgwick, Peter Singer und Derek Parfit) in Erfahrung zu bringen, was der
-Utilitarismus zu diesem Thema zu sagen hat. Die in der Regel impliziten Aussagen sollen dabei
-ausgearbeitet werden und stellen eine erste Annäherung dar, die uns bei der Erschließung dieses
-Themenkomplexes helfen.
+The aim of this project is to analyze, with recourse to four important utilitarian thinkers (John
+Stuart Mill, Henry Sidgwick, Peter Singer and Derek Parfit) to find out what utilitarianism has to say on this subject.
+utilitarianism has to say on this subject. The generally implicit statements are to be
+and represent a first approximation that will help us to open up this complex of topics.
+complex of topics.

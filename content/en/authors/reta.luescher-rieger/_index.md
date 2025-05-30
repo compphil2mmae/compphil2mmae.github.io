@@ -18,7 +18,7 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
- - name: Lehrstuhl für Philosophische Anthropologie
+ - name: Department of Philosophical Anthropology
    url: '' # https://debatelab.philosophie.kit.edu/
  - name: DebateLab
    url: https://debatelab.philosophie.kit.edu/
@@ -34,7 +34,7 @@ bio: '' #My research interests include distributed robotics, mobile computing an
 
 education:
   courses:
-    - course: Psychologie B.A.
+    - course: Psychology B.A.
 #      institution: Institution
 #      year: Jahr
 
@@ -80,11 +80,11 @@ user_groups:
   - Team
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
-  - Assistenz in Forschung, Lehre & Verwaltung # Administration
+  - Assistance in research, teaching & administration # Administration
   # - Doktorand:innen # Grad Students
   # - Assoziierte 
   # - Gäste # Visitors
   # - Alumni
 ---
 
-Resa Lüscher-Rieger unterstützt CompPhil²MMAE als studentische Hilfskraft und arbeitet derzeit im Projekt [**_KIDeKu_**]({{< relref "/research/KIDEKU" >}}).
+Resa Lüscher-Rieger supports CompPhil²MMAE as a student assistant and is currently working on the project [**_KIDeKu_**]({{< relref "/research/KIDEKU" >}}).

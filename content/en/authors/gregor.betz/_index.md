@@ -34,13 +34,13 @@ interests:
 education:
   courses:
     - course: M.A. Philosophy, Political Sciences, Mathematics
-      institution: Freie Universität Berlin
+      institution: Free University of Berlin
       year: 2002
     - course: Dr. phil (Ph.D.) Philosophy
-      institution: Freie Universität Berlin
+      institution: Free University of Berlin
       year: 2004
     - course: Dr. habil. (Habilitation) Philosophy
-      institution: Freie Universität Berlin
+      institution: Free University of Berlin
       year: 2008
 
 # Social/Academic Networking
@@ -79,7 +79,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Team
-  - Leitung # Chair | Principal Investigators
+  - leadership # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
   # - Doktorand:innen # Grad Students

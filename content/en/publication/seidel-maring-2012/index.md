@@ -1,6 +1,5 @@
 ---
-title: Klimawandel, globale Gerechtigkeit und die Ethik globaler öffentlicher Güter
-  -- einige grundlegende begriffliche Fragen
+title: Klimawandel, globale Gerechtigkeit und die Ethik globaler öffentlicher Güter -- einige grundlegende begriffliche Fragen (Climate change, global justice and the ethics of global public goods -- some fundamental conceptual questions)
 
 # Authors
 # A YAML list of author names
@@ -24,13 +23,13 @@ publication_types:
 - chapter
 
 # Publication name and optional abbreviated publication name.
-booktitle: '*Globale öffentliche Güter in interdisziplinären Perspektiven*'
+booktitle: '*Globale öffentliche Güter in interdisziplinären Perspektiven* (Global public goods in interdisciplinary perspectives)'
 
 address: 'Karlsruhe'
 editor: 'Matthias Maring'
 pages: '179--195'
 publisher: 'KIT Scientific Publishing'
-series: 'Schriftenreihe des Zentrums für Technik- und Wirtschaftsethik am Karlsruher Institut für Technologie, 5'
+series: 'Schriftenreihe des Zentrums für Technik- und Wirtschaftsethik am Karlsruher Institut für Technologie (Publication series of the Center for Technology and Business Ethics at the Karlsruhe Institute of Technology), 5'
 
 doi: ''
 

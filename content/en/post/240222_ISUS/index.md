@@ -1,9 +1,9 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: CompPhil²MMAE-Vorträge auf der ISUS 2024
+title: CompPhil²MMAE talks at the ISUS 2024
 subtitle: 
-summary: Mit Cyriak Schmitz und Christian Seidel werden zwei CompPhil²MMAE-Experten zur Ideengeschichte des Utilitarismus auf der [17. Konferenz](https://www.ucl.ac.uk/bentham-project/events/isus-conferences) der [International Society for Utilitarian Studies (ISUS)](https://www.ucl.ac.uk/bentham-project/international-society-utilitarian-studies) vortragen.  
+summary: Cyriak Schmitz and Christian Seidel, two CompPhil²MMAE experts on the history of ideas of utilitarianism, will speak at the [17th Conference](https://www.ucl.ac.uk/bentham-project/events/isus-conferences) of the [International Society for Utilitarian Studies (ISUS)](https://www.ucl.ac.uk/bentham-project/international-society-utilitarian-studies).  
 authors: [cyriak.schmitz,christian.seidel]
 tags: []
 categories: []
@@ -28,13 +28,13 @@ image:
 projects: [moral-progress,transformation]
 ---
 
-Die Vorträge von {{% mention "cyriak.schmitz" %}} ("What is the relation between the unified theory and the triple theory?") und von {{% mention "christian.seidel" %}} ("Sidgwickian Moral Theorizing: on the Teleological Relation between Principles and Methods") sind zur [17. Konferenz](https://www.ucl.ac.uk/bentham-project/events/isus-conferences) der [International Society for Utilitarian Studies (ISUS)](https://www.ucl.ac.uk/bentham-project/international-society-utilitarian-studies) angenommen worden.
+The talks by {{% mention "cyriak.schmitz" %}} ("What is the relation between the unified theory and the triple theory?") and by {{% mention "christian.seidel" %}} ("Sidgwickian Moral Theorizing: on the Teleological Relation between Principles and Methods") have been accepted for the [17th Conference](https://www.ucl.ac.uk/bentham-project/events/isus-conferences) of the [International Society for Utilitarian Studies (ISUS)](https://www.ucl.ac.uk/bentham-project/international-society-utilitarian-studies).
 
 <!--more-->
 
-Die Konferenz findet vom 18. bis zum 21. Juni 2024 in London  anlässlich des 150. Jubiläums der Publikation von Henry Sidgwicks *The Methods of Ethics* statt. 
+The conference will take place in London from June 18-21, 2024 to mark the 150th anniversary of the publication of Henry Sidgwick's *The Methods of Ethics*. 
 
 <!-- zur Ideengeschichte des utilitaristischen Tradition  -->
 
-Mit Christoph Schmidt-Petri, Michael Schefczyk und Lilly Osburg werden noch weitere Mitglieder des [Departments für Philosophie](https://www.philosophie.kit.edu/) auf der Konferenz vortragen.
+Christoph Schmidt-Petri, Michael Schefczyk and Lilly Osburg are other members of the [Department of Philosophy](https://www.philosophie.kit.edu/) who will be speaking at the conference.
 

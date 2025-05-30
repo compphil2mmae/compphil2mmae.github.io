@@ -1,6 +1,5 @@
 ---
-title: Eigene Gründe -- wozu eigentlich? Einige Überlegungen in Richtung einer deflationären
-  Auffassung
+title: Eigene Gründe -- wozu eigentlich? Einige Überlegungen in Richtung einer deflationären Auffassung (Own reasons -- why actually? Some considerations in the direction of a deflationary view)
 
 # Authors
 # A YAML list of author names
@@ -24,13 +23,13 @@ publication_types:
 - chapter
 
 # Publication name and optional abbreviated publication name.
-booktitle: '*Welt der Gründe. Kolloquienbeiträge*'
+booktitle: '*Welt der Gründe. Kolloquienbeiträge* (The world of reasons. Colloquium contributions)'
 
 address: 'Hamburg'
 editor: 'Julian Nida-Rümelin & Elif Özmen'
 pages: '986--1004'
 publisher: 'Meiner'
-series: 'Deutsches Jahrbuch Philosophie, 4'
+series: 'Deutsches Jahrbuch Philosophie (German Yearbook of Philosophy), 4'
 
 
 doi: ''

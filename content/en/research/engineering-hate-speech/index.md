@@ -1,9 +1,9 @@
 ---
 title: 'Engineering Hate Speech'
-summary: Ziel des Projekts ist es, die Frage zu beantworten, was genau Hate Speech eigentlich ist -- oder was wir unter dem Begriff Hate Speech verstehen sollten.
+summary: The aim of the project is to answer the question of what exactly hate speech actually is - or what we should understand by the term hate speech.
 tags:
-  - Philosophische Methoden
-  - Angewandte Ethik
+  - Philosophical methods
+  - Applied ethics
   - Norms of Public Reasoning
 date: '2019-04-01T00:00:00Z'
 type: 'project'
@@ -35,4 +35,4 @@ url_video: ''
 slides: example
 ---
 
-Ziel des Projekts ist es, die Frage zu beantworten, was genau Hate Speech eigentlich ist -- oder was wir unter dem Begriff Hate Speech verstehen sollten. Der Begriff *Hate Speech* ist kein juristischer Fachbegriff und sein Gebrauch in öffentlichen Medien und Fachpublikationen alles andere als einheitlich. Geleitet von der Frage, welche Zwecke ein sinnvoller Begriff von Hate Speech erfüllen sollte, formuliert das Projekt einen Vorschlag für eine Amelioration des Begriffs.
+The aim of the project is to answer the question of what exactly hate speech actually is -- or what we should understand by the term hate speech. The term *hate speech* is not a legal term and its use in public media and specialist publications is anything but uniform. Guided by the question of what purposes a meaningful concept of hate speech should fulfill, the project formulates a proposal for an amelioration of the term.

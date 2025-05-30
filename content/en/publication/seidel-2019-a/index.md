@@ -1,5 +1,5 @@
 ---
-title: Zwei (mal zwei) Perspektiven in der Zukunftsethik
+title: Zwei (mal zwei) Perspektiven in der Zukunftsethik (Two (times two) perspectives in future ethics)
 
 # Authors
 # A YAML list of author names
@@ -23,7 +23,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-journal: '*Zeitschrift für philosophische Forschung*'
+journal: '*Zeitschrift für philosophische Forschung* (Journal of Philosophical Research)'
 journal_short: ''
 
 volume: '73'

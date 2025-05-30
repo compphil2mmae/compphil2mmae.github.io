@@ -1,6 +1,6 @@
 ---
 title: 'J.S. Mill, H. Sidgwick and the Transformation of Utilitarianism'
-summary: Das Projekt untersucht, wie und warum sich der Charakter des utilitaristischen Projekts von Bentham und den Philosophic Radicals über John Stuart Mill bis hin zu Sidgwick verändert hat. 
+summary: The project examines how and why the character of the utilitarian project has changed from Bentham and the Philosophic Radicals to John Stuart Mill and Sidgwick. 
 tags:
   - BMSP19
 date: '2019-01-01T00:00:00Z'
@@ -33,8 +33,8 @@ url_video: ''
 slides: example
 ---
 
-Dieses längerfristig angelegt Projekt untersucht, wie und warum sich der Charakter des utilitaristischen Projekts von Bentham und den *Philosophic Radicals* über John Stuart Mill bis hin zu Sidgwick verändert hat. 
+This longer-term project examines how and why the character of the utilitarian project has changed from Bentham and the *Philosophic Radicals* to John Stuart Mill and Sidgwick. 
 
-Es rekonstruiert, wie sich der Geist des utilitaristischen Projekts in der kontinuierlichen Weiterentwicklung zentraler ideengeschichtlicher Leitplanken der utilitaristischen Tradition -- Bemühungen zur Säkularisierung, Verwissenschaftlichung und Professionalisierung der (Moral-)Philosophie -- unter der für das viktorianische Zeitalter charakteristischen Problemkonstellation aus Wissenschaft, Religion und Politik grundlegend gewandelt hat: Aus einer ursprünglich radikalen sozialreformerischen Bewegung wurde ein professionelles moraltheoretisches Forschungsprojekt. 
+It reconstructs how the spirit of the utilitarian project has fundamentally changed in the continuous development of central ideas of the utilitarian tradition -- efforts to secularize, scientify and professionalize (moral) philosophy -- under the constellation of problems of science, religion and politics characteristic of the Victorian age: An originally radical social reform movement became a professional moral-theoretical research project. 
 
-Das Projekt untersucht vor diesem Hintergrund u.a. Mills gesamtphilosophische Auseinandersetzung mit Whewells Intuitionismus, Mills Innovation des sog. "qualitativen Hedonismus" und Sidgwicks (auch von Whewell inspiriertes) Verständnis von der Aufgabe der moralphilosophischen Theoriebildung.
+Against this background, the project examines, among other things, Mill's overall philosophical engagement with Whewell's intuitionism, Mill's innovation of so-called "qualitative hedonism" and Sidgwick's (also Whewell-inspired) understanding of the task of moral philosophical theorizing.

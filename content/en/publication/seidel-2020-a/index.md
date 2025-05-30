@@ -1,5 +1,5 @@
 ---
-title: Die normative Grundlage intergenerationeller Unternehmensethik. Zwei Ansätze, zwei Schwierigkeiten
+title: Die normative Grundlage intergenerationeller Unternehmensethik. Zwei Ansätze, zwei Schwierigkeiten (The normative basis of intergenerational business ethics. Two approaches, two difficulties)
 
 # Authors
 # A YAML list of author names
@@ -23,7 +23,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-journal: '*Zeitschrift für Wirtschafts- und Unternehmensethik*'
+journal: '*Zeitschrift für Wirtschafts- und Unternehmensethik* (Journal of Business and Corporate Ethics)'
 journal_short: ''
 
 volume: '21'

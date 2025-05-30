@@ -1,5 +1,5 @@
 ---
-title: Altruismus und Unparteilichkeit. Ein Explikationsvorschlag
+title: Altruismus und Unparteilichkeit. Ein Explikationsvorschlag (Altruism and impartiality. A proposal for explication)
 
 # Authors
 # A YAML list of author names
@@ -35,7 +35,7 @@ doi: '10.1007/978-3-662-69384-1_8'
 abstract: ''
 
 # Summary. An optional shortened abstract.
-summary: 'Einer gängigen Vorstellung zufolge ist der moralische Standpunkt ein unparteilicher. Wie passt das dazu, dass Altruismus als besonders edle, dem Egoismus entgegengesetzte und über Unparteilichkeit hinausgehende moralische Gesinnung gilt? Dieser Beitrag untersucht das Verhältnis von Altruismus und Unparteilichkeit genauer. Innerhalb eines Rahmens zur Repräsentation praktischer Deliberation kann man zwischen formaler, struktureller und substantieller (Un-)Parteilichkeit unterscheiden. Altruistische Deliberation erweist sich darin als strukturell parteilich, wenn man sie konträr zum Egoismus versteht. Ein engerer Zusammenhang zwischen Altruismus und Unparteilichkeit hingegen ergibt sich aus einer Explikation, die der Tatsache, dass es einen selbst glücklich macht, andere glücklich zu machen, besondere moralische Relevanz einräumt. Altruismus steht dann in einem komplexen Verhältnis zum eigenen Wohl und zur Sorge um andere – ein Verhältnis, das vereinbar ist mit der Unparteilichkeit des moralischen Standpunkts.'
+summary: 'According to a common conception, the moral standpoint is an impartial one. How does this fit in with the fact that altruism is regarded as a particularly noble moral attitude that is opposed to egoism and goes beyond impartiality? This article examines the relationship between altruism and impartiality in more detail. Within a framework for representing practical deliberation, one can distinguish between formal, structural and substantive (non-)partisanship. Altruistic deliberation proves to be structurally partisan if it is understood in contrast to egoism. A closer connection between altruism and impartiality, on the other hand, results from an explication that gives special moral relevance to the fact that making others happy makes oneself happy. Altruism then stands in a complex relationship to one`s own well-being and concern for others - a relationship that is compatible with the impartiality of the moral standpoint.'
 
 tags: []
 

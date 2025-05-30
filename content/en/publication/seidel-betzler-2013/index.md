@@ -1,5 +1,5 @@
 ---
-title: Kommentierte Auswahlbibliographie
+title: Kommentierte Auswahlbibliographie (Annotated selected bibliography)
 
 # Authors
 # A YAML list of author names
@@ -23,7 +23,7 @@ publication_types:
 - review
 
 # Publication name and optional abbreviated publication name.
-booktitle: '*Personale Autonomie*'
+booktitle: '*Personale Autonomie* (Personal autonomy)'
 
 address: 'Münster'
 editor: 'Monika Betzler'

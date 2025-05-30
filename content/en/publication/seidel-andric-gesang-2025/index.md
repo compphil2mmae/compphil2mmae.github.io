@@ -1,5 +1,5 @@
 ---
-title: Henry Sidgwick. Philosophische Biographie, Werk, Wirkung -- und die Transformation des Utilitarismus
+title: Henry Sidgwick. Philosophische Biographie, Werk, Wirkung -- und die Transformation des Utilitarismus (Henry Sidgwick. Philosophical biography, work, impact -- and the transformation of utilitarianism)
 
 # Authors
 # A YAML list of author names
@@ -23,7 +23,7 @@ publication_types:
 - chapter
 
 # Publication name and optional abbreviated publication name.
-booktitle: '*Handbuch Utilitarismus*'
+booktitle: '*Handbuch Utilitarismus* (Utilitarianism handbook)'
 
 address: 'Berlin'
 editor: 'Vuko Andrić & Bernward Gesang'
@@ -33,7 +33,7 @@ note: '[Im Erscheinen.]'
 
 # doi: '10.1007/978-3-476-05930-7_9'
 
-abstract: 'Henry Sidgwick gilt im englischsprachigen Raum als einer der wichtigsten Vertreter der utilitaristischen Tradition und als einer der bedeutendsten Moralphilosophen überhaupt. Die Rezeption (die im deutschsprachigen Raum -- relativ zu anderen Utilitarist:innen wie auch absolut gesehen -- eher spärlich ausfällt) konzentriert sich dabei meist auf sein Hauptwerk *The Methods of Ethics* (*ME*). Um diese Schrift und die Impulse, die von ihr für die Ideengeschichte des Utilitarismus und für die Entwicklung der modernen Moralphilosophie ausgingen, besser verstehen und würdigen zu können, ist es wichtig, die *ME* in ihren biographischen Zusammenhang einzubetten, ihre Rolle in Sidgwicks philosophischem Gesamtprojekt darzustellen und zeit- und ideengeschichtlich in der britischen Moral- und Sozialphilosophie des 19. Jahrhunderts zu kontextualisieren.'
+abstract: 'In the English-speaking world, Henry Sidgwick is considered one of the most important representatives of the utilitarian tradition and one of the most important moral philosophers of all. The reception (which in German-speaking countries - relative to other utilitarians as well as in absolute terms - is rather sparse) usually concentrates on his main work *The Methods of Ethics* (*ME*). In order to better understand and appreciate this work and the impulses it provided for the history of ideas of utilitarianism and for the development of modern moral philosophy, it is important to embed *ME* in its biographical context, to present its role in Sidgwick`s overall philosophical project and to contextualize it in the history of ideas and time in 19th century British moral and social philosophy.'
 
 # Summary. An optional shortened abstract.
 summary: ''

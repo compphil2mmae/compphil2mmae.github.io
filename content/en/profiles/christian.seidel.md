@@ -13,7 +13,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: '[Publikationen](#pubs)'
+      - title: '[Publications](#pubs)'
         content: 
         align: center
         background:
@@ -23,7 +23,7 @@ sections:
               brightness: 0.5
           position: right
           color: '#666'
-      - title: '[Vorträge](#talks)'
+      - title: '[Talks](#talks)'
         content: 
         align: center
         background:
@@ -33,7 +33,7 @@ sections:
               brightness: 0.6
           position: center
           color: '#555'
-      - title: '[Aktuelles](#news)'
+      - title: '[News](#news)'
         content: 
         align: center
         background:
@@ -74,7 +74,7 @@ sections:
   - block: collection
     id: pubs
     content:
-      title: Publikationen 
+      title: Publications
       count: 0
       filters:
         author: ''
@@ -89,8 +89,8 @@ sections:
 
   - block: collection
     content:
-      title: Bücher 
-      subtitle: Monographien & Sammelbände
+      title: Books
+      subtitle: Monographes & Edited Collections
       text:   
       count: 0
       filters:
@@ -106,15 +106,15 @@ sections:
       page_type: publication
       archive:
         enable: false
-        text: Alle <strong>Vorträge</strong> 
+        text: All <strong>talks</strong> 
     design:
       columns: '2'
       view: citation # compact # showcase
 
   - block: collection
     content:
-      title: Aufsätze 
-      subtitle: in Zeitschriften
+      title: Articles 
+      subtitle: in journals
       text:   
       count: 0
       filters:
@@ -130,15 +130,15 @@ sections:
       page_type: publication
       archive:
         enable: false
-        text: Alle <strong>Vorträge</strong> 
+        text: All <strong>talks</strong> 
     design:
       columns: '2'
       view: citation # compact # showcase    
 
   - block: collection
     content:
-      title: Aufsätze 
-      subtitle: in Sammelbänden
+      title: Articles 
+      subtitle: in collections
       text:   
       count: 0
       filters:
@@ -154,15 +154,15 @@ sections:
       page_type: publication
       archive:
         enable: false
-        text: Alle <strong>Vorträge</strong> 
+        text: All <strong>talks</strong> 
     design:
       columns: '2'
       view: citation # compact # showcase    
 
   - block: collection
     content:
-      title: Rezensionen 
-      subtitle: Bibliographien etc.
+      title: Reviews
+      subtitle: Bibliographies etc.
       text:   
       count: 0
       filters:
@@ -178,7 +178,7 @@ sections:
       page_type: publication
       archive:
         enable: false
-        text: Alle <strong>Vorträge</strong> 
+        text: All <strong>talks</strong> 
     design:
       columns: '2'
       view: citation # compact # showcase    
@@ -187,7 +187,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Vorträge 
+      title: Talks
       subtitle: # 'des CompPhil²MMAE-Teams'
       text:   
       count: 0
@@ -204,7 +204,7 @@ sections:
       page_type: event
       archive:
         enable: false
-        text: Alle <strong>Vorträge</strong> 
+        text: All <strong>talks</strong> 
     design:
       columns: '2'
       view: compact # showcase
@@ -212,7 +212,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Neuigkeiten 
+      title: News 
       subtitle: 
       text:  
       count: 10
@@ -227,7 +227,7 @@ sections:
       page_type: post
       # archive:
       #   enable: true
-      #   text: Weitere <strong>Neuigkeiten</strong> 
+      #   text: Weitere <strong>News</strong> 
       #   position: center
       #   link: post/
     design:

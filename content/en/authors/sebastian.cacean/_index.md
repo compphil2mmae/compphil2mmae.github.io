@@ -19,7 +19,7 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
- - name: Lehrstuhl für Philosophische Anthropologie # DebateLab
+ - name: Department of Philosophical Anthropology # DebateLab
    url: '' # https://debatelab.philosophie.kit.edu/
  - name: DebateLab
    url: https://debatelab.philosophie.kit.edu/
@@ -36,8 +36,8 @@ interests:
 
 education:
   courses:
-    - course: Diplom Physik
-      institution: Freie Universität Berlin
+    - course: Diploma in Physics
+      institution: Free University of Berlin
       year: 2010
 
 # Social/Academic Networking
@@ -90,7 +90,7 @@ highlight_name: false
 user_groups:
   - Team
   # - Leitung # Chair | Principal Investigators
-  - Akademische Mitarbeiter:innen # Researchers
+  - Academic employees # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
   # - Doktorand:innen # Grad Students
   # - Assoziierte 
@@ -98,8 +98,8 @@ user_groups:
   # - Alumni
 ---
 
-Sebastian Cacean ist wissenschaftlicher Mitarbeiter im [Debatelab](https://debatelab.philosophie.kit.edu/) des Departments für Philosophie des Karlsruher Instituts für Technologie (KIT) und arbeitet derzeit im Projekt [**_KIDeKu_**]({{< relref "/research/KIDEKU" >}}). 
+Sebastian Cacean is a research assistant at the [Debatelab](https://debatelab.philosophie.kit.edu/) of the Department of Philosophy at the Karlsruhe Institute of Technology (KIT) and is currently working on the project [**_KIDeKu_**]({{< relref "/research/KIDEKU" >}}). 
 
-Nach seinem Studium der Physik und Philosophie war er in diversen Forschungsprojekten tätig, in denen er sich mit Fragen der angewandten Ethik (z.B. [Führungsethik als Ethik in den Wissenschaften](https://uni-tuebingen.de/forschung/zentren-und-institute/internationales-zentrum-fuer-ethik-in-den-wissenschaften/das-izew/archiv/abgeschlossene-projekte/projektseiten/fuehrungsethik-als-ethik-in-den-wissenschaften/), [Bürgderdelphi Keimbahntherapie](https://www.wmk.itz.kit.edu/2950.php)), Wissenschaftstheorie (z.B. [Limits and Objectivity of Scientific Foreknowledge: The Case of Energy Outlooks ](https://srg-lobster.philosophie.kit.edu/)) und Methoden der Philosophie (z.B. [How Far Does Reflective Equilibrium Take Us?](https://re-models.github.io/)) beschäftigte. In seiner Dissertation entwickelt er inhaltsanalytische Methoden zur Analyse von Argumentationsstrukturen, die es ermöglichen Interpretationsoffenheit mit dem Kriterium der Reliabilität in Einklang zu bringen. 
+After studying physics and philosophy, he was involved in various research projects in which he dealt with questions of applied ethics (e.g. [Leadership Ethics as Ethics in the Sciences](https://uni-tuebingen.de/forschung/zentren-und-institute/internationales-zentrum-fuer-ethik-in-den-wissenschaften/das-izew/archiv/abgeschlossene-projekte/projektseiten/fuehrungsethik-als-ethik-in-den-wissenschaften/), [Bürgderdelphi Germline Therapy](https://www.wmk.itz.kit.edu/2950.php)), philosophy of science (e.g. [Limits and Objectivity of Scientific Foreknowledge: The Case of Energy Outlooks ](https://srg-lobster.philosophie.kit.edu/)) and methods of philosophy (e.g. [How Far Does Reflective Equilibrium Take Us?](https://re-models.github.io/)). In his dissertation, he developed content-analytical methods for analysing argumentation structures that make it possible to reconcile openness of interpretation with the criterion of reliability.
 
-In Forschung und Lehre analysiert Sebastian gern gesellschaftsrelevante Debatten, überlegt, wie inhaltsanalytische Methoden mit Hilfe von Sprachmodellen angewendet werden können, um den öffentlichen Diskurs zu analysieren und befasst sich mit der Verwendung von Methoden der Argumentationstheorie zu Verbesserung unserer deliberativen Praxis.
+In his research and teaching, Sebastian enjoys analysing socially relevant debates, considering how content analysis methods can be applied using language models to analyse public discourse and looking at the use of argumentation theory methods to improve our deliberative practice.

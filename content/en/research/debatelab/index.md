@@ -6,9 +6,9 @@ summary: |2-
   - carry out logical analyses of policy debates and scientific controversies;
   - develop methods and tools to improve the argumentative quality of public reasoning.  
 tags:
-  - Computationale Philosophie
+  - Computational Philosophy
   - Norms of Public Reasoning
-  - Angewandte Ethik
+  - Applied Ethics
 date: '2012-04-01T00:00:00Z'
 type: 'project'
 authors: 

@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: people
     content:
-      title: Das CompPhil²MMAE-Team
+      title: The CompPhil²MMAE team
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -15,8 +15,8 @@ sections:
           # - Akademische Mitarbeiter:innen # Researchers
           # - Assistenz in Forschung, Lehre & Verwaltung  # Administration
           # - Doktorand:innen # Grad Students
-          - Assoziierte 
-          - Gäste # Visitors
+          - Associates 
+          - Guests # Visitors
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true

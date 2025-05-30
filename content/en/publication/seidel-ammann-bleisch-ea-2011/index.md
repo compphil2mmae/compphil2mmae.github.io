@@ -1,5 +1,5 @@
 ---
-title: 'Die gute Ethikerin und der Platz der Moral: Zwischen Moralismus und Willensschwäche'
+title: 'Die gute Ethikerin und der Platz der Moral: Zwischen Moralismus und Willensschwäche (The good ethicist and the place of morality: between moralism and weakness of will)'
 
 # Authors
 # A YAML list of author names
@@ -23,7 +23,7 @@ publication_types:
 - chapter
 
 # Publication name and optional abbreviated publication name.
-booktitle: '*Müssen Ethiker moralisch sein? Essays über Philosophie und Lebensführung*'
+booktitle: '*Müssen Ethiker moralisch sein? Essays über Philosophie und Lebensführung* (Do ethicists have to be moral? Essays on philosophy and lifestyle)'
 
 address: 'Frankfurt a. M./New York'
 editor: 'Christoph Ammann, Barbara Bleisch & Anna Goppel'
@@ -69,7 +69,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['moralismus']
+projects: ['moralism']
 ---
 
 <!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

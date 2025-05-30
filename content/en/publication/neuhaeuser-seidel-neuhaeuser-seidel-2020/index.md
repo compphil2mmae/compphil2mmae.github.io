@@ -1,5 +1,5 @@
 ---
-title: Kritik des Moralismus. Eine Landkarte zur Einleitung
+title: Kritik des Moralismus. Eine Landkarte zur Einleitung (Critique of Moralism. A map as an introduction)
 
 # Authors
 # A YAML list of author names
@@ -24,7 +24,7 @@ publication_types:
 - chapter
 
 # Publication name and optional abbreviated publication name.
-booktitle: '*Kritik des Moralismus*'
+booktitle: '*Kritik des Moralismus (Critique of Moralism)*'
 
 editor: 'Christian Neuhäuser & Christian Seidel'
 pages: '9--34'
@@ -70,7 +70,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['moralismus']
+projects: ['moralism']
 ---
 
 <!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

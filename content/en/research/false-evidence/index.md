@@ -1,8 +1,8 @@
 ---
 title: Reasoning with False Evidence
-summary: Wie können Wissenschaftler mit falschen Evidenzen vernünftig argumentieren und zuverlässig auf Hypothesen können?
+summary: How can scientists reason with false evidence and rely on hypotheses?
 tags:
-  - Computationale Philosophie
+  - Computational Philosophy
 
 date: '2016-10-01T00:00:00Z'
 type: 'project'
@@ -34,4 +34,4 @@ url_video: ''
 slides: ''
 ---
 
-Unter heutigen Wissenschaftsphilosophen sind die folgenden zwei Annahmen recht unkontrovers. Erstens, empirische Evidenzen sind fallibel und viele unserer heutigen und gestrigen empirischen Überzeugungen sind bzw. waren falsch. Zweitens, unsere Fähigkeit korrekt auf die Wahrheit oder Falschheit einer Hypothese zu schließen hängt ab von der Korrektheit unserer Evidenzmenge. Ausgehend von diesen zwei Annahmen stellt sich die Frage, wie Wissenschaftler mit falschen Evidenzen vernünftig argumentieren und zuverlässig auf Hypothesen schließen können.
+Among philosophers of science today, the following two assumptions are quite uncontroversial. First, empirical evidence is fallible and many of our present and past empirical beliefs are or were false. Second, our ability to correctly infer the truth or falsity of a hypothesis depends on the correctness of our evidence set. Based on these two assumptions, the question arises as to how scientists can reason with false evidence and reliably infer hypotheses.

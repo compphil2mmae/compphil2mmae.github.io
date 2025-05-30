@@ -1,8 +1,8 @@
 ---
 title: Impartialism 
-summary: Im Rahmen eines formalen Modells praktischer Deliberation untersucht das Projekt, wie sich verschiedene Arten von Unparteilichkeit unterscheiden lassen und welche Rolle sie in der moralischen Theoriebildung spielen.
+summary: Within the framework of a formal model of practical deliberation, the project examines how different types of impartiality can be distinguished and what role they play in moral theorizing.
 tags:
-  - Moralphilosophie
+  - Moral philosophy
 date: '2016-01-01T00:00:00Z'
 type: 'project'
 authors:
@@ -33,6 +33,6 @@ url_video: ''
 slides: example
 ---
 
-Unser ethisches Nachdenken schwankt zwischen der Betonung von Unparteilichkeit ("Das Wohl jeder Person zählt gleichermaßen.") und einer starken Akteurszentriertheit ("Es macht einen Unterschied, ob *ich* etwas tue oder ob ich dafür sorge, dass *jemand anderes* es tut."). Zählt moralisch, wer wer ist? 
+Our ethical thinking vacillates between emphasizing impartiality ("The good of every person counts equally.") and a strong actor-centeredness ("It makes a difference whether *I* do something or whether I make sure that *someone else* does it."). Does who is who count morally? 
 
-Im Rahmen eines formalen Modells praktischer Deliberation untersucht das Projekt, wie sich verschiedene Arten von Unparteilichkeit unterscheiden lassen und welche Rolle sie in der moralischen Theoriebildung spielen. Im Rahmen des Modells können verschiedene Spielarten von (Un-)Parteilichkeit ausbuchstabiert werden durch bestimmte Formen der (In-)Varianz deontischer Urteile unter Isomorphie zwischen relationalen Strukturen (wie Graphen), die moralische Situationen repräsentieren. Das eröffnet einen Differenzierungsspielraum für   "unparteilche" Ansätze, in denen die Anzahl der Personen, nicht aber die Identität der Personen moralisch relevant ist und die dennoch bestimmte (moralisch problematische) Formen der Aggregation (wie im Utilitarismus) vermeiden können.
+Within the framework of a formal model of practical deliberation, the project investigates how different types of impartiality can be distinguished and what role they play in moral theorizing. Within the model, different varieties of (im)partiality can be spelled out by certain forms of (in-)variance of deontic judgments under isomorphism between relational structures (such as graphs) that represent moral situations. This opens up a scope for differentiation for "non-partisan" approaches in which the number of persons, but not the identity of the persons, is morally relevant and which can nevertheless avoid certain (morally problematic) forms of aggregation (as in utilitarianism).

@@ -77,11 +77,11 @@ user_groups:
   - Team
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
-  - Assistenz in Forschung, Lehre & Verwaltung # Administration
+  - Assistance in research, teaching & administration # Administration
   # - Doktorand:innen # Grad Students
   # - Assoziierte 
   # - Gäste # Visitors
   # - Alumni
 ---
 
-Hanna Müller unterstützt CompPhil²MMAE als Tutorin im Modul "Ars Rationalis".
+Hanna Müller supports CompPhil²MMAE as a tutor in the module "Ars Rationalis".

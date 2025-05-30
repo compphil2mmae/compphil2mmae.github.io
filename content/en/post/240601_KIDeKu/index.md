@@ -1,9 +1,9 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "KIDeKu Projekt gestartet!"
+title: "KIDeKu Project started!"
 subtitle: 
-summary: "Unser BMFSFJ Projekt *Chancen von KI zur Stärkung unserer deliberativen Kultur* ist gestartet. Im Projekt untersuchen wir in Zusammenarbeit mit zivilgesellschaftlichen Akteur:innen die Potentiale großer Sprachmodelle, unsere demokratischen Praktiken zu stärken."
+summary: "Our BMFSFJ project *Opportunities of AI to strengthen our deliberative culture* has started. In the project, we are working with civil society actors to investigate the potential of large language models to strengthen our democratic practices."
 authors: [sebastian.cacean]
 tags: [news,highlight]
 categories: []
@@ -28,10 +28,10 @@ image:
 projects: [KIDEKU]
 ---
 
-Am 1.6.2024 ist unser Projekt **_KIDeKu_** gestartet. Das Projekt läuft bis zum 31.12.25 und wird vom [Bundesministerium für Familie, Senioren, Frauen und Jugend](https://www.bmfsfj.de/) im Rahmen der [Richtlinie zur Förderung von Künstlicher Intelligenz für das Gemeinwohl](https://www.bmfsfj.de/bmfsfj/richtlinie-zur-foerderung-von-kuenstlicher-intelligenz-fuer-das-gemeinwohl-198166) gefördert. 
+Our project **_KIDeKu_** started on 1.6.2024. The project runs until 31.12.25 and is funded by the [Federal Ministry for Family Affairs, Senior Citizens, Women and Youth](https://www.bmfsfj.de/) as part of the [Directive on the Promotion of Artificial Intelligence for the Common Good](https://www.bmfsfj.de/bmfsfj/richtlinie-zur-foerderung-von-kuenstlicher-intelligenz-fuer-das-gemeinwohl-198166). 
 
 
-Im Projekt konzeptionieren {{% mention "gregor.betz" %}} und {{% mention "sebastian.cacean" %}} in Zusammenarbeitet mit zivilgesellschaftlichen Akteur:innen Einsatzszenarien und entwickeln technischen Grundlagen (bspw. Demoapps) für die Verwendung von Large Language Models (wie ChapGPT) zu Stärkung unserer deliberativen Kultur.
+In the project, {{% mention "gregor.betz" %}} and {{% mention "sebastian.cacean" %}} are working with civil society actors to conceptualize deployment scenarios and develop technical foundations (e.g. demo apps) for the use of large language models (such as ChapGPT) to strengthen our deliberative culture.
 
-👉 [**Erfahre mehr!**]({{< relref "/research/KIDEKU" >}})
+👉 [**Find out more!**]({{< relref "/research/KIDEKU" >}})
 

@@ -1,9 +1,9 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: Christian Seidel in Auswahlausschuss der Humboldt-Stiftung berufen
+title: Christian Seidel appointed to the Humboldt Foundation's selection committee
 subtitle: 
-summary: Christian Seidel ist als Fachvertreter Philosophie in den Auswahlausschuss für Feodor Lynen-Forschungsstipendien der [Alexander von Humboldt-Stiftung](https://www.humboldt-foundation.de/) berufen worden. 
+summary: Christian Seidel has been appointed to the selection committee for Feodor Lynen Research Fellowships of the [Alexander von Humboldt-Stiftung](https://www.humboldt-foundation.de/) as a representative of the philosophy department. 
 authors: [christian.seidel]
 tags: [highlight]
 categories: []

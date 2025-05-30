@@ -1,6 +1,5 @@
 ---
-title: Werte und Wertvorstellungen in der Moral moralischer Rede. Einige Überlegungen
-  zum Phänomen des Moralismus
+title: Werte und Wertvorstellungen in der Moral moralischer Rede. Einige Überlegungen zum Phänomen des Moralismus (Values and value concepts in the morality of moral speech. Some reflections on the phenomenon of moralism)
 
 # Authors
 # A YAML list of author names
@@ -25,7 +24,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-journal: '*Zeitschrift für Didaktik der Philosophie und Ethik*'
+journal: '*Zeitschrift für Didaktik der Philosophie und Ethik* (Journal for Didactics of Philosophy and Ethics)'
 journal_short: ''
 
 volume: '2024'
@@ -71,7 +70,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['moralismus']
+projects: ['moralism']
 ---
 
 <!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

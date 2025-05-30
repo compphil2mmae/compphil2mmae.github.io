@@ -1,13 +1,13 @@
 ---
-title: Veranstaltungen
+title: Events
 type: landing
   
 sections:
 
   - block: collection
     content:
-      title: Veranstaltungen
-      subtitle: "[Anstehende Workshops](#workshops), [Vorträge](#talks), [Gäste](#guests)"
+      title: Events
+      subtitle: "[Upcoming Workshops](#workshops), [Talks](#talks), [Guests](#guests)"
       text: 
       count: 0
       filters:
@@ -86,7 +86,7 @@ sections:
       page_type: event
       archive:
         enable: true
-        text: Zurückliegende <strong>Workshops</strong> 
+        text: Previous <strong>Workshops</strong> 
     design:
       columns: '2'
       view: compact # showcase
@@ -94,7 +94,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Vorträge 
+      title: Talks
       subtitle: # 'des CompPhil²MMAE-Teams'
       text:   
       count: 0
@@ -103,7 +103,7 @@ sections:
         category: ''
         exclude_featured: false
         publication_type: ''
-        tag: Vortrag
+        tag: Lecture
         exclude_future: false
         exclude_past: true
       offset: 0
@@ -111,7 +111,7 @@ sections:
       page_type: event
       archive:
         enable: true
-        text: Zurückliegende <strong>Vorträge</strong> 
+        text: Previous <strong>talks</strong> 
     design:
       columns: '2'
       view: compact # showcase
@@ -119,7 +119,7 @@ sections:
   - block: collection
     id: guests
     content:
-      title: Gäste 
+      title: Guests 
       subtitle: '@ CompPhil²MMAE'
       text:   
       count: 0
@@ -128,7 +128,7 @@ sections:
         category: ''
         exclude_featured: false
         publication_type: ''
-        tag: Gastvortrag
+        tag: Guest Lecture
         exclude_future: false
         exclude_past: true
       offset: 0
@@ -136,7 +136,7 @@ sections:
       page_type: event
       archive:
         enable: true
-        text: Zurückliegende <strong>Gastvorträge</strong> 
+        text: Previous <strong>guest talks</strong> 
     design:
       columns: '2'
       view: compact # showcase

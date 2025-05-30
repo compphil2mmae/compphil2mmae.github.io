@@ -1,5 +1,5 @@
 ---
-title: Personale Autonomie als praktische Autorität
+title: Personale Autonomie als praktische Autorität (Personal autonomy as practical authority)
 
 # Authors
 # A YAML list of author names
@@ -23,7 +23,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-journal: '*Deutsche Zeitschrift für Philosophie*'
+journal: '*Deutsche Zeitschrift für Philosophie* (German Journal of Philosophy)'
 journal_short: ''
 
 volume: '59'
@@ -32,7 +32,7 @@ pages: '897--915'
 
 doi: ''
 
-abstract: 'Autonomie und Autorität werden oft als Gegensätze angesehen. In diesem Aufsatz argumentiere ich dafür, dass Autonomie vielmehr als eine bereichsspezifische Form von (praktischer) Autorität anzusehen ist und dass diese Sichtweise dabei hilft, Bedingungen für die Autonomie von Personen zu identifizieren. Dazu werden zunächst Parallelen zwischen den Funktionsweisen der beiden Begriffe AUTONOMIE und AUTORITÄT aufgezeigt und dann herausgearbeitet, welche Anforderungen sich daraus an eine Konzeption personaler Autonomie ergeben. Ich werde dann zeigen, dass die Schwierigkeiten, mit denen einige internalistische und externalistische Autonomiekonzeptionen konfrontiert sind, ihren Ursprung darin haben, dass beide Ansätze ein falsches Bild von der Grundlage haben, auf der die für Autonomie charakteristische Form praktischer Autorität beruht. Abschließend werde ich eine Konzeption vorstellen, in der diese Grundlage durch die Mündigkeit, Wehrhaftigkeit und Mitsprache einer Person konstituiert wird: Eine Person ist demnach in dem Maße autonom, in dem sie ihre eigenen Angelegenheiten regeln, sich gegen fremde Eingriffe zur Wehr setzen und in gemeinschaftlichen Angelegenheiten mitreden kann.'
+abstract: 'Autonomy and authority are often seen as opposites. In this essay, I argue that autonomy should rather be seen as a domain-specific form of (practical) authority and that this view helps to identify conditions for the autonomy of individuals. To this end, I will first show parallels between the functioning of the two terms AUTONOMY and AUTHORITY and then work out what requirements this places on a conception of personal autonomy. I will then show that the difficulties faced by some internalist and externalist conceptions of autonomy originate in the fact that both approaches have a false picture of the basis on which the form of practical authority characteristic of autonomy rests. Finally, I will present a conception in which this foundation is constituted by a person`s maturity, defensibility and participation: According to this, a person is autonomous to the extent that he or she can manage his or her own affairs, defend himself or herself against outside interference and have a say in communal affairs.'
 
 # Summary. An optional shortened abstract.
 summary: ''

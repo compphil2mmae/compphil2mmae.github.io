@@ -1,5 +1,5 @@
 ---
-title: Selbst bestimmen. Eine philosophische Untersuchung personaler Autonomie
+title: Selbst bestimmen. Eine philosophische Untersuchung personaler Autonomie (Self-determination. A philosophical examination of personal autonomy)
 
 # Authors
 # A YAML list of author names
@@ -28,7 +28,7 @@ publication_short: ''
 
 publisher: 'de Gruyter'
 address: 'Berlin/Boston'
-series: 'Ideen & Argumente'
+series: 'Ideen & Argumente (Ideas & arguments)'
 
 doi: ''
 

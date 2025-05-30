@@ -1,5 +1,5 @@
 ---
-title: Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse
+title: Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse (Utilitarianism and moral progress. A philosophical-historical analysis)
 
 # Authors
 # A YAML list of author names

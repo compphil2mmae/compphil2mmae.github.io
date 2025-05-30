@@ -1,5 +1,5 @@
 ---
-title: Der Klimawandel als ethische Herausforderung
+title: Der Klimawandel als ethische Herausforderung (The ethical challenge of climate change)
 
 # Authors
 # A YAML list of author names

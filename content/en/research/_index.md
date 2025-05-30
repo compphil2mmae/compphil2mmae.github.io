@@ -1,5 +1,5 @@
 ---
-title: Forschung
+title: Scientific research
 date: 2024-04-01
 
 type: landing
@@ -8,7 +8,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Forschungsprojekte
+      title: Research projects
       filters:
         folders:
           - research
@@ -20,21 +20,21 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: Alle
+        - name: All
           tag: '*'
-        - name: Computationale Philosophie
-          tag: Computationale Philosophie
+        - name: Computational Philosophy
+          tag: Computationale Philosophy
         - name: LLMs
           tag: LLMs
         - name: Norms of (Public) Reasoning
           tag: Norms of Public Reasoning
-        - name: Philosophische Methoden
-          tag: Philosophische Methoden
-        - name: Moralphilosophie
-          tag: Moralphilosophie
-        - name: Angewandte Ethik
-          tag: Angewandte Ethik
-        - name: Britische Moral- & Sozialphilosophie des 19. Jh.
+        - name: Philosophical Methods
+          tag: Philosophical Methods
+        - name: Moral philosophy
+          tag: Moral philosophy
+        - name: Applied Ethics
+          tag: Applied Ethics
+        - name: British moral and social philosophy of the 19th century
           tag: BMSP19
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.

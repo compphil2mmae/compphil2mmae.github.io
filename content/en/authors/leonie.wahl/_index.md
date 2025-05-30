@@ -18,7 +18,7 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
- - name: Lehrstuhl für Philosophische Anthropologie
+ - name: Department of Philosophical Anthropology
    url: '' # https://debatelab.philosophie.kit.edu/
  - name: DebateLab
    url: https://debatelab.philosophie.kit.edu/
@@ -34,8 +34,8 @@ bio: '' #My research interests include distributed robotics, mobile computing an
 
 education:
   courses:
-    - course: Informatik B.A.
-      institution: Karlsruher Institut für Technologie
+    - course: Computer Science B.A.
+      institution: Karlsruhe Institute of Technology
       year: 2023
 
 # Social/Academic Networking
@@ -80,11 +80,11 @@ user_groups:
   - Team
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
-  - Assistenz in Forschung, Lehre & Verwaltung # Administration
+  - Assistance in research, teaching & administration # Administration
   # - Doktorand:innen # Grad Students
   # - Assoziierte 
   # - Gäste # Visitors
   # - Alumni
 ---
 
-Leonie Wahl unterstützt CompPhil²MMAE als studentische Hilfskraft und arbeitet derzeit im Projekt [**_KIDeKu_**]({{< relref "/research/KIDEKU" >}}).
+Leonie Wahl supports CompPhil²MMAE as a student assistant and is currently working on the project [**_KIDeKu_**]({{< relref "/research/KIDEKU" >}}).

@@ -1,16 +1,16 @@
 ---
-title: 'Felicitas Krämer (Potsdam): "Emotional-motivationale Aspekte der Zukunftsverantwortung"'
-subtitle: CompPhil²MMAE Forschungsseminar
-event: CompPhil²MMAE Forschungsseminar
+title: 'Felicitas Krämer (Potsdam): "Emotional-motivationale Aspekte der Zukunftsverantwortung (Emotional-motivational aspects of responsibility for the future)"'
+subtitle: CompPhil²MMAE Research seminar
+event: CompPhil²MMAE Research seminar
 event_url: https://ilias.studium.kit.edu/goto.php?target=crs_2340641&client_id=produktiv
 
-location: Department für Philosophie (Geb. 09.20, 4. OG), R. 511
+location: Department of Philosophy (Building 09.20, 4. OG), R. 511
 address:
   street: Douglasstraße 24
   city: Karlsruhe
   postcode: '76133'
 
-summary: CompPhil²MMAE Forschungsseminar
+summary: CompPhil²MMAE Research seminar
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -52,15 +52,15 @@ slides:
 projects:
 ---
 
-Das CompPhil²MMAE-Forschungsseminar "Aktuelle Texte der Philosophie" ist zentraler Diskussions- und Reflexionsraum des CompPhil²MMAE-Teams und im Sinne der forschungsorientierten Lehre zugleich eine Lehrveranstaltung für fortgeschrittene Student:innen. 
+The CompPhil²MMAE research seminar ‘"Aktuelle Texte der Philosophie" is a central discussion and reflection space for the CompPhil²MMAE team and, in the spirit of research-oriented teaching, also a course for advanced students. 
 
-Im Forschungsseminar stellen CompPhil³MMAE-Mitglieder sowie auswärtige Referent:innen ihre Forschungsarbeiten aus der Philosophie sowie angrenzender Disziplinen (in der Regel in einem *Pre-Read*-Format) zur Diskussion. 
+In the research seminar, CompPhil³MMAE members and external speakers present their research work in philosophy and related disciplines (usually in a *pre-read* format) for discussion. 
 
-Das CompPhil²MMAE-Forschungsseminar wird organisiert von {{% mention "christian.seidel" %}} und {{% mention "gregor.betz" %}}. 
+The CompPhil²MMAE research seminar is organised by {{% mention "christian.seidel" %}} and {{% mention "gregor.betz" %}}. 
 
 {{% callout note%}}
-**Student:innen** und **Kolleg:innen** sind herzlich eingeladen!
+**Students** and **Colleagues** are very welcome!
 {{% /callout %}}
 
 
-<!-- <mark style=hlblue>Student:innen sind herzlich willkommen!</mark> -->
+<!-- <mark style=hlblue>Students are very welcome!</mark> -->

@@ -1,7 +1,7 @@
 ---
 title: 'Sidgwickian Moral Theorizing: On the Teleological Relation between Principles and Methods'
-subtitle: Vortrag
-event: 'XVII. Konferenz der International Society for Utilitarian Studies (ISUS)'
+subtitle: Lecture
+event: 'XVII. Conference of the International Society for Utilitarian Studies (ISUS)'
 event_url: https://www.ucl.ac.uk/bentham-project/events/isus-conferences
 
 location: University College London (UK)
@@ -10,7 +10,7 @@ location: University College London (UK)
 #   city: Karlsruhe
 #   postcode: '76133'
 
-summary: Vortrag auf der 17. Konferenz der International Society for Utilitarian Studies (ISUS)
+summary: Lecture for the 17th Conference of the International Society for Utilitarian Studies (ISUS)
 
 abstract: |2- 
   Sidgwick's *The Methods of Ethics* (ME) seems to be about methods of ethics. However, what exactly is meant by methods and how they are related to principles is notoriously in need of clarification. In this paper, I elaborate a Sidgwickian conception of moral theorizing that emerges from ME when these questions are examined more closely. Through a critical discussion of differing interpretations (e. g. by Schneewind 1977, Brink 1988, Daurio 1997, Crisp 2015), I argue that, according to Sidgwick,

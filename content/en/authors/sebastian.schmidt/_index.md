@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: "[Alumni] Doktorand | [now] Postdoc" 
+role: "[Alumni] PhD student | [now] Postdoc" 
 
 # Organizations/Affiliations
 organizations:
- - name: Universität Zürich # DebateLab
+ - name: University of Zurich # DebateLab
    url: 'https://www.philosophie.uzh.ch/de/seminar/people/research/theory_meylan/schmidt.html' # https://debatelab.philosophie.kit.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -89,4 +89,4 @@ user_groups:
   - Alumni
 ---
 
-Sebastian Schmidt war 2018--2020 Doktorand bei CompPhil²MMAE. Er ist inzwischen Postdoc an der [Zurich Epistemology Group on Rationality (ZEGRa)](https://zegra.ch/profile/s.schmidt/) der Universität Zürich.
+Sebastian Schmidt was a PhD student at CompPhil²MMAE in 2018--2020. He is now a postdoc at the [Zurich Epistemology Group on Rationality (ZEGRa)](https://zegra.ch/profile/s.schmidt/) of the University of Zurich.

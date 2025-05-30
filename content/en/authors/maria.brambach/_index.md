@@ -18,7 +18,7 @@ role: Research & Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
- - name: Lehrstuhl für Philosophische Anthropologie # DebateLab
+ - name: Department of Philosophical Anthropology # DebateLab
    url: '' # https://debatelab.philosophie.kit.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -77,11 +77,11 @@ user_groups:
   - Team
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
-  - Assistenz in Forschung, Lehre & Verwaltung # Administration
+  - Assistance in research, teaching & administration # Administration
   # - Doktorand:innen # Grad Students
   # - Assoziierte 
   # - Gäste # Visitors
   # - Alumni
 ---
 
-Maria Brambach unterstützt CompPhil²MMAE als studentische Hilfskraft und als Tutorin im Modul "Einführung in die Philosophie" ([{{< icon name="envelope" pack="fas" >}} Tutoriumsteam](mailto:tutorium.seidel@itz.kit.edu)).
+Maria Brambach supports CompPhil²MMAE as a student assistant and as a tutor in the module "Einführung in die Philosophie (Introduction to philosophy)" ([{{< icon name="envelope" pack="fas" >}} Tutoriumsteam](mailto:tutorium.seidel@itz.kit.edu)).

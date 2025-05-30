@@ -1,5 +1,5 @@
 ---
-title: Hedonismus
+title: Hedonism
 
 # Authors
 # A YAML list of author names
@@ -23,7 +23,7 @@ publication_types:
 - chapter
 
 # Publication name and optional abbreviated publication name.
-booktitle: '*Mill-Handbuch. Leben -- Werk -- Wirkung*'
+booktitle: '*Mill-Handbuch. Leben -- Werk -- Wirkung* (Mill Handbook. Life -- Work -- Impact)'
 
 address: 'Berlin'
 editor: 'Frauke Höntzsch'

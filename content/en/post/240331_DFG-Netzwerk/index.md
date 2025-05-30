@@ -1,9 +1,9 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: DFG-Netzwerk "Methoden Praktischer Ethik" bewilligt
-subtitle: CompPhil²MMAE mit Inga Bones und Christian Seidel beteiligt
-summary: CompPhil²MMAE ist an einem von der [DFG](https://www.dfg.de) geförderten Wissenschaftliches Netzwerk zu "Methoden Praktischer Ethik" beteiligt. Das Netzwerk wird moralphilosophische Methoden in angewandten ethischen Kontexten (wie KI, Datenschutz, Klimawandel etc.) untersuchen und die Rolle von Ethiker:innen in den entsprechenen öffentlichen Diskursen reflektieren.
+title: DFG network "Methods of Practical Ethics" approved
+subtitle: CompPhil²MMAE with Inga Bones and Christian Seidel involved
+summary: CompPhil²MMAE is involved in a scientific network on "Methods of Practical Ethics" funded by the [DFG](https://www.dfg.de). The network will investigate moral philosophical methods in applied ethical contexts (such as AI, data protection, climate change, etc.) and reflect on the role of ethicists in the corresponding public discourses.
 authors: [inga.bones,christian.seidel]
 tags: [highlight]
 categories: []
@@ -27,12 +27,12 @@ image:
 projects: ['DFG_Methoden-praktischer-Ethik']
 ---
 
-Die [DFG](https://www.dfg.de) hat ein Wissenschaftliches Netzwerk zum Thema "Methoden Praktischer Ethik" mit einer Laufzeit von 3 Jahren bewilligt. 
+The [DFG](https://www.dfg.de) has approved a scientific network on the topic of "Methods of Practical Ethics" for a period of 3 years. 
 
 <!--more-->
 
-Ziel des Netzwerks ist es, die Reflexion über Methoden der Praktischen Philosophie in gesellschaftlich diskutierten, angewandten Kontexten (wie KI, Datenschutz, Klimawandel etc.) wiederzubeleben und dabei Orientierung für ein reflektiertes Selbstverständnis des Beitrags von Ethiker:innen in den entsprechenen öffentlichen Diskursen zu gewinnen.
+The aim of the network is to revitalize reflection on methods of practical philosophy in socially discussed, applied contexts (such as AI, data protection, climate change, etc.) and to gain orientation for a reflected self-image of the contribution of ethicists in the corresponding public discourses.
 
-Unter den 20 beteiligten Philosoph:innen ist Comp²PhilMMAE mit {{% mention "inga.bones" %}} und {{% mention "christian.seidel" %}} sowie dem ehemaligen Team-Mitglied {{% mention "peter.koenigs" %}} gleich mehrfach vertreten.
+Among the 20 participating philosophers, Comp²PhilMMAE is represented several times with {{% mention "inga.bones" %}} and {{% mention "christian.seidel" %}} as well as former team member {{% mention "peter.koenigs" %}}.
 
-Das Kick-Off findet im April 2024 statt. Wir freuen uns auf den Austausch!
+The kick-off will take place in April 2024. We look forward to the exchange!

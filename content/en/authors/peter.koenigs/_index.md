@@ -89,4 +89,4 @@ user_groups:
   - Alumni
 ---
 
-Peter Königs war 2018--2019 Postdoc bei CompPhil²MMAE. Er ist inzwischen Professor für Praktische Philosophie mit Schwerpunkt Herausforderungen neuer Technologien an der TU Dortmund.
+Peter Königs was a postdoc at CompPhil²MMAE in 2018--2019. He is now Professor of Practical Philosophy with a focus on the challenges of new technologies at TU Dortmund University.

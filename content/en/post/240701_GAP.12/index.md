@@ -1,9 +1,9 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: 'Co-Leitung der Sektion Normative Ethik auf GAP.12-Kongress'
+title: 'Co-chair of the Normative Ethics section at the GAP.12 Congress'
 subtitle:  
-summary: Christian Seidel und Maike Albertzart übernehmen die Leitung der Sektion Normative Ethik auf dem 12. Kongress der Gesellschaft für Analytische Philosophie ([GAP.12](https://www.gap12.de/)). 
+summary: Christian Seidel and Maike Albertzart take over the leadership of the Normative Ethics section at the 12th Congress of the Society for Analytic Philosophy ([GAP.12](https://www.gap12.de/)). 
 authors: [christian.seidel]
 tags: []
 categories: []
@@ -28,9 +28,9 @@ image:
 projects: []
 ---
 
-{{% mention "christian.seidel" %}} und Maike Albertzart übernehmen die Leitung der Sektion Normative Ethik auf dem 12. Kongress der Gesellschaft für Analytische Philosophie ([GAP.12](https://www.gap12.de/)).
+{{% mention "christian.seidel" %}} and Maike Albertzart take over the leadership of the Normative Ethics section at the 12th Congress of the Society for Analytic Philosophy ([GAP.12](https://www.gap12.de/)).
 
 <!--more-->
 
-Der Kongress findet unter dem Leitthema "Pathways to Truth Wahrheit" vom 8. bis 11. September 2025 in Düsseldorf statt. 
-<!--- Exposés für Sektionsbeiträge können bis zum 30. April 2024 eingereicht werden (zum [Call for Papers](https://www.uni-muenster.de/DKPhil2024/kongress/cfp.html)). --->
+The congress will take place in Düsseldorf from September 8 to 11, 2025 under the motto "Pathways to Truth Wahrheit". 
+<!--- Exposés for section contributions can be submitted until April 30, 2024 (to the [Call for Papers](https://www.uni-muenster.de/DKPhil2024/kongress/cfp.html)). --->

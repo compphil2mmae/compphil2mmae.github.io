@@ -1,6 +1,5 @@
 ---
-title: 'Autonomie und prozedurale Unabhängigkeit: Eine Verhältnisbestimmung anhand
-  der Debatte um Menschenwürde'
+title: 'Autonomie und prozedurale Unabhängigkeit: Eine Verhältnisbestimmung anhand der Debatte um Menschenwürde (Autonomy and procedural independence: A definition of the relationship based on the debate about human dignity)'
 
 # Authors
 # A YAML list of author names

@@ -18,35 +18,35 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Lehrstuhl für Philosophische Anthropologie
+  - name: Department of Philosophical Anthropology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Grundlagenfragen der Moralphilosophie
-  - Angewandte Ethik
-  - Normen des öffentlichen Diskurses
-  - Britische Moral- & Sozialphilosophie des 19. Jh.
+  - Fundamental questions of moral philosophy
+  - Applied ethics
+  - Norms of public discourse
+  - British moral and social philosophy of the 19th century
 
 education:
   courses:
-  - course: Dr. phil. in Philosophie 
-    institution: Universität Bern
+  - course: Doctor of Philosophy 
+    institution: University of Bern
     #   year: 2010
-  - course: M.Phil. Philosophie, Logik & Wissenschaftstheorie, 
-  - course: Vordiplom Psychologie, 
-  - course: B.Sc. Mathematik & Ökonomie 
-    institution: München, Bologna, Berlin, London
+  - course: Master's degree in Philosophy, Logic & Philosophy of Science, 
+  - course: Intermediate diploma in psychology, 
+  - course: B.Sc. Mathematics & Economics 
+    institution: Munich, Bologna, Berlin, London
     # - course: B.Sc. Mathematics & Economics
     #   institution: University of London
     #   year: 2016
-    # - course: Vordiplom in Psychologie
-    #   institution: Ludwig-Maximilians-Universität München
+    # - course: Intermediate diploma in psychology
+    #   institution: Ludwig-Maximilians-University Munich
     #   year: 2006
-    # - course: MPhil in Philosophie, Logik & Wissenschaftstheorie
-    #   institution: Ludwig-Maximilians-Universität München
+    # - course: Master's degree in Philosophy, Logic & Philosophy of Science
+    #   institution: Ludwig-Maximilians-University Munich
     #   year: 2006
 
 # Social/Academic Networking
@@ -91,10 +91,10 @@ user_groups:
   # - Alumni
 ---
 
-Christian Seidel ist Professor für Philosophische Anthropologie am Department für Philosophie des Karlsruher Instituts für Technologie (KIT). Zusammen mit {{% mention "gregor.betz" %}} leitet er CompPhil²MMAE.
+Christian Seidel is Professor of Philosophical Anthropology at the Department of Philosophy at the Karlsruhe Institute of Technology (KIT). Together with {{% mention "gregor.betz" %}} he heads CompPhil²MMAE.
 
-Nach dem Studium der Philosophie, Logik & Wissenschaftstheorie, Psychologie, Mathematik und Ökonomie an Universitäten in München, Bologna, Berlin und London und der Promotion in Philosophie in Bern folgten Postdoc-Stationen in Zürich, Erlangen und Münster.
+After studying Philosophy, Logic & Philosophy of Science, Psychology, Mathematics and Economics at universities in Munich, Bologna, Berlin and London and completing his doctorate in Philosophy in Bern, he went on to postdoctoral positions in Zurich, Erlangen and Münster.
 
-Christian befasst sich in Forschung und Lehre u.a. mit Moraltheorie, Klimaethik, intergenerationeller Gerechtigkeit, Risikoethik, Selbstbestimmung, Moral (und Moralismus) in öffentlichen Diskursen sowie der britischen Moral- und Sozialphilosophie des 19. Jahrhunderts. Seine philosophischen Held:innen sind John Stuart & Harriet Taylor Mill, Henry Sidgwick und Derek Parfit.
+Christian's research and teaching interests include moral theory, climate ethics, intergenerational justice, risk ethics, self-determination, morality (and moralism) in public discourse, and 19th century British moral and social philosophy. His philosophical heroes are John Stuart & Harriet Taylor Mill, Henry Sidgwick and Derek Parfit.
 
 <!-- [A relative link from one post to another post]({{< relref "profiles/christian.seidel.md" >}}) -->

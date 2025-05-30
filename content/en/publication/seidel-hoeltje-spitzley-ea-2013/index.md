@@ -23,7 +23,7 @@ publication_types:
 - chapter
 
 # Publication name and optional abbreviated publication name.
-booktitle: '*Was dürfen wir glauben? Was sollen wir tun? Sektionsbeiträge des achten internationalen Kongresses der Gesellschaft für Analytische Philosophie e.V.*'
+booktitle: '*What can we believe? What should we do? Section contributions of the eighth international congress of the Society for Analytic Philosophy e.V.*'
 
 address: 'Duisburg-Essen'
 editor: 'Miguel Hoeltje, Thomas Spitzley & Wolfgang Spohn'

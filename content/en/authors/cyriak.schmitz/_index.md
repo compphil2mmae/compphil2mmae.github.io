@@ -14,26 +14,26 @@ authors:
 superuser: false
 
 # Role/position
-role: 'Lehrbeauftragter'
+role: 'Lecturer'
 # role: '[Alumni] Doktorand & Postdoc | [now] Lehrbeauftragter'
 
 # Organizations/Affiliations
 organizations:
-  - name: Lehrstuhl für Philosophische Anthropologie
+  - name: Department of Philosophical Anthropology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Philosophie Ciceros
-  - Wissenschaftstheorie
-  - Normative Ethik und Metaethik
+  - Cicero's philosophy
+  - Philosophy of science
+  - Normative ethics and metaethics
 
 education:
   courses:
-    - course: Dr. phil. 
-      institution: Karlsruher Institut für Technologie
+    - course: Doctor of Philosophy
+      institution: Karlsruhe Institute of Technology
       year: 2024
 #    - course: M.A. in ???
 #      institution: FAU Erlangen
@@ -66,12 +66,12 @@ user_groups:
   # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
   # - Doktorand:innen # Grad Students
-  - Assoziierte
+  - Associates
   # - Gäste # Visitors
   # - Alumni
 ---
 
-Cyriak Schmitz promovierte am Karlsruher Institut für Technologie zur Geschichte der Idee des moralischen Fortschritts in der utilitaristischen Tradition. Am KIT ist er ab Oktober 2024 auch als Lehrbeauftragter tätig. 
+Cyriak Schmitz completed his doctorate at the Karlsruhe Institute of Technology on the history of the idea of moral progress in the utilitarian tradition. He will also be working as a lecturer at KIT from October 2024. 
 
-Zu seinen Interessengebieten gehören die Philosophie Ciceros, die Wissenschaftstheorie, sowie Fragen der normativen Ethik und der Metaethik. Zurzeit beschäftigt er sich mit der Geschichte von Trostschriften und die in ihnen beinhalteten Argumenten. Er beteiligt sich auch am Projekt [**_E.E.C Jones and British Women Philosophers in an Age of Transition_**]({{< relref "/research/EECJones" >}}).
+His areas of interest include the philosophy of Cicero, the philosophy of science, as well as questions of normative ethics and metaethics. He is currently working on the history of comfort writings and the arguments they contain. He is also involved in the project [**_E.E.C Jones and British Women Philosophers in an Age of Transition_**]({{< relref "/research/EECJones" >}}).
 
