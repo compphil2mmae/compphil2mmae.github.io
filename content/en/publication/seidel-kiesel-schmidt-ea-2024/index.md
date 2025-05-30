@@ -27,9 +27,8 @@ booktitle: '*Altruismus. Interdisziplinäre Perspektiven*'
 
 address: 'Berlin'
 editor: 'Dagmar Kiesel, Sebastian Schmidt & Thomas Smettan'
-pages: '??--??'
+pages: '133--161'
 publisher: 'J.B. Metzler'
-note: '[Im Druck.]'
 
 doi: '10.1007/978-3-662-69384-1_8'
 

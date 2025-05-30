@@ -5,7 +5,7 @@
 # Default language
 de:
   languageCode: de
-  # contentDir: content/de
+  contentDir: content/de
 
 # Uncomment the lines below to configure your website in a second language.
 en:
