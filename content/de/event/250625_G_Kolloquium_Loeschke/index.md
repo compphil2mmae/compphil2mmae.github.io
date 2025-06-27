@@ -15,8 +15,8 @@ summary: KIT Philosophie-Kolloquium SoSe 2025 [2/4]
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-06-25T18:00:00Z'
-date_end: '2025-06-25T19:30:00Z'
+date: '2025-07-25T18:00:00Z'
+date_end: '2025-07-25T19:30:00Z'
 all_day: false
 
 
