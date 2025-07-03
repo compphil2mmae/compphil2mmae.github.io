@@ -28,10 +28,10 @@ image:
 projects: [EECJones]
 ---
 
-The talks of {{% mention "inga.bones" %}} (["Why, this Logic is nothing but Common Sense!" – E.E.C. Jones on Ordinary Language and Common Sense]({{< relref "/event/250625_v_bones_jena/" >}})) and {{% mention "cyriak.schmitz" %}} ([E. E. Constance Jones and the Dualism of Practical Reason]({{< relref "/event/250625_v_schmitz_jena/" >}})) have been accepted for the [13th annual conference](https://www.gw.uni-jena.de/69663/tagung-sshap-2025) der [International Society for Utilitarian Studies (ISUS)](http://sshap.org/about/).
+The talks of {{% mention "inga.bones" %}} (["Why, this Logic is nothing but Common Sense!" – E.E.C. Jones on Ordinary Language and Common Sense]({{< relref "/event/250725_v_bones_jena/" >}})) and {{% mention "cyriak.schmitz" %}} ([E. E. Constance Jones and the Dualism of Practical Reason]({{< relref "/event/250725_v_schmitz_jena/" >}})) have been accepted for the [13th annual conference](https://www.gw.uni-jena.de/69663/tagung-sshap-2025) der [International Society for Utilitarian Studies (ISUS)](http://sshap.org/about/).
 
 <!--more-->
 
-The conference will take place from 23 to 26 June 2025 in Jena -- to commemorate the exact centenary of Gottlob Frege’s death.
+The conference will take place from 23 to 26 July 2025 in Jena -- to commemorate the exact centenary of Gottlob Frege’s death.
 
 
