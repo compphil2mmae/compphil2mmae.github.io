@@ -8,7 +8,7 @@ authors: [konstantin.weber,christian.seidel]
 tags: [highlight]
 categories: []
 date: 2025-05-13T08:35:51+01:00
-lastmod: 2024-05-25T08:35:51+01:00
+lastmod: 2025-05-25T08:35:51+01:00
 featured: true
 draft: false
 
