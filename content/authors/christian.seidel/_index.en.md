@@ -35,8 +35,8 @@ education:
   - course: Doctor of Philosophy 
     institution: University of Bern
     #   year: 2010
-  - course: Master's degree in Philosophy, Logic & Philosophy of Science, 
-  - course: Intermediate diploma in psychology, 
+  - course: M.Phil. in Philosophy, Logic & Philosophy of Science, 
+  - course: 'pre-degree ("Vordiplom") in Psychology,'
   - course: B.Sc. Mathematics & Economics 
     institution: Munich, Bologna, Berlin, London
     # - course: B.Sc. Mathematics & Economics
@@ -91,10 +91,10 @@ user_groups:
   # - Alumni
 ---
 
-Christian Seidel is Professor of Philosophical Anthropology at the Department of Philosophy at the Karlsruhe Institute of Technology (KIT). Together with {{% mention "gregor.betz" %}} he heads CompPhil²MMAE.
+Christian Seidel is a professor of philosophical anthropology in the Department of Philosophy at the Karlsruhe Institute of Technology (KIT). He is, together with {{% mention "gregor.betz" %}}, co-head of CompPhil²MMAE.
 
-After studying Philosophy, Logic & Philosophy of Science, Psychology, Mathematics and Economics at universities in Munich, Bologna, Berlin and London and completing his doctorate in Philosophy in Bern, he went on to postdoctoral positions in Zurich, Erlangen and Münster.
+Having studied philosophy, logic & philosophy of science, psychology, mathematics and economics at universities in Munich, Bologna, Berlin and London, he completed his PhD in philosophy in Bern and held postdoctoral positions in Zurich, Erlangen and Münster.
 
-Christian's research and teaching interests include moral theory, climate ethics, intergenerational justice, risk ethics, self-determination, morality (and moralism) in public discourse, and 19th century British moral and social philosophy. His philosophical heroes are John Stuart & Harriet Taylor Mill, Henry Sidgwick and Derek Parfit.
+Christian's research and teaching interests include moral theory, climate ethics, intergenerational justice, risk ethics, autonomy, as well as  morality (and moralism) in public discourse. He also specialises in 19th-century British moral and social philosophy. His philosophical heroes are John Stuart & Harriet Taylor Mill, Henry Sidgwick and Derek Parfit.
 
 <!-- [A relative link from one post to another post]({{< relref "profiles/christian.seidel.md" >}}) -->
