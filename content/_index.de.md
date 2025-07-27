@@ -71,10 +71,10 @@ sections:
       text: |2-  # "|" stands for multi-line preserving newlines, adivsable for markdown; ">" stands for folded code, converting newlines into spaces; "2" is the indentation indicator (here: 2 chars); "-" strips trailing blank lines, https://stackoverflow.com/questions/3790454/how-do-i-break-a-string-in-yaml-over-multiple-lines
         <font size="+2"> Das Team des Arbeitsbereichs **Computationale Philosophie, Philosophische Methoden, Moralphilosophie & Angewandte Ethik (CompPhil²MMAE)** forscht und lehrt </font>
         <font size="+1"> 
+        - zur Reichtweite und Leistungsfähigkeit computationaler (LLM-basierter) Methoden in der Philosophie,  
         - zu normativen Modellen des Schlussfolgerns und Argumentierens,  
         - zur logischen Analyse politischer und wissenschaftlicher Debatten,  
-        - zu Methoden und Instrumenten, die die epistemische Qualität öffentlicher Deliberation verbessern, 
-        - zur Reichtweite und Leistungsfähigkeit computationaler Methoden in der Philosophie,
+        - zu Methoden und Instrumenten, die die epistemische Qualität öffentlicher Deliberation verbessern,  
         - zu grundlegenden moraltheoretischen Fragen,  
         - zur Ethik des öffentlichen Diskurses,  
         - zu normativen Problemen in gesellschaftlich relevanten, angewandten Kontexten wie Klimawandel, Überwachung oder künstlicher Intelligenz sowie  

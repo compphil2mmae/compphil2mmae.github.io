@@ -7,7 +7,7 @@ type: landing
 sections:   
   - block: hero
     content:
-      title: Department **Computational Philosophy, Philosophical Methods, Moral Philosophy & Applied Ethics**
+      title: Research Group **Computational Philosophy, Philosophical Methods, Moral Philosophy & Applied Ethics**
     design:
       spacing:
         padding: ['50px', '0', '40px', '0']        
@@ -69,16 +69,16 @@ sections:
   - block: markdown
     content:
       text: |2-  # "|" stands for multi-line preserving newlines, adivsable for markdown; ">" stands for folded code, converting newlines into spaces; "2" is the indentation indicator (here: 2 chars); "-" strips trailing blank lines, https://stackoverflow.com/questions/3790454/how-do-i-break-a-string-in-yaml-over-multiple-lines
-        <font size="+2"> The team of the research area **Computational Philosophy, Philosophical Methods, Moral Philosophy & Applied Ethics (CompPhil²MMAE)** researches and teaches </font>
+        <font size="+2"> The team of the research group **Computational Philosophy, Philosophical Methods, Moral Philosophy & Applied Ethics (CompPhil²MMAE)** works and teaches on </font>
         <font size="+1"> 
-        - on normative models of reasoning and argumentation,  
-        - on logically analyse political and scientific debates,  
-        - on methods and instruments that improve the epistemic quality of public deliberation, 
-        - on the scope and performance of computational methods in philosophy,
-        - on fundamental questions of moral theory,  
-        - on the ethics of public discourse,  
-        - on normative problems in socially relevant, applied contexts such as climate change, surveillance or artificial intelligence, and  
-        - on British moral and social philosophy of the 19th century.
+        - computational (LLM-based) methods in philosophy,  
+        - normative models of reasoning and argumentation,  
+        - the logical analysis of political and scientific debates,  
+        - methods and tools to enhance the epistemic quality of public deliberation,  
+        - fundamental questions in moral theory,  
+        - the ethics of public discourse,  
+        - normative challenges in socially relevant applied contexts such as climate change, surveillance, and artificial intelligence, and  
+        - 19th-century British moral and social philosophy.
         {.c .c2}
         </font>
         {{% cta cta_link="./research/" cta_text="Learn more about **Scientific Research** →" %}}
@@ -91,7 +91,7 @@ sections:
   - block: markdown
     content:
       text: |2-  # "|" stands for multi-line preserving newlines, adivsable for markdown; ">" stands for folded code, converting newlines into spaces; "2" is the indentation indicator (here: 2 chars); "-" strips trailing blank lines, https://stackoverflow.com/questions/3790454/how-do-i-break-a-string-in-yaml-over-multiple-lines       
-        <font size="+2"> **CompPhil²MMAE** is an amalgamation of the working groups of the Department of Philosophy of Science ([DebateLab](https://debatelab.philosophie.kit.edu)) and the Department of Philosophical Anthropology. As a part of the [Department of Philosophy](https://www.philosophie.kit.edu/) at the [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu) we are jointly responsible for basic philosophical education in teaching. {{% cta cta_link="./teaching/" cta_text="Learn more about our **Teaching** →" %}} </font>
+        <font size="+2"> **CompPhil²MMAE** is an association comprising the working groups of the Chair of Philosophy of Science ([DebateLab](https://debatelab.philosophie.kit.edu)) and the Chair of Philosophical Anthropology. As a part of the [Department of Philosophy](https://www.philosophie.kit.edu/) at the [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu) , we jointly teach the fundamentals of philosophy. {{% cta cta_link="./teaching/" cta_text="Learn more about our **Teaching** →" %}} </font>
     design:  
       # background:
       #   color: white
