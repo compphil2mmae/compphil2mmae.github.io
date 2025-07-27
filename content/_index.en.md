@@ -81,7 +81,8 @@ sections:
         - 19th-century British moral and social philosophy.
         {.c .c2}
         </font>
-        {{% cta cta_link="./research/" cta_text="Learn more about **Scientific Research** →" %}}
+        <font size="+2"> We are committed to and support the <a href="https://betterscience.ch/en/#/" target="_blank" rel="noopener">Better Science Initiative</a>.</font>
+        {{% cta cta_link="./research/" cta_text="Learn more about **our research** →" %}}
     design:  
       # background:
       #   color: white
@@ -91,12 +92,13 @@ sections:
   - block: markdown
     content:
       text: |2-  # "|" stands for multi-line preserving newlines, adivsable for markdown; ">" stands for folded code, converting newlines into spaces; "2" is the indentation indicator (here: 2 chars); "-" strips trailing blank lines, https://stackoverflow.com/questions/3790454/how-do-i-break-a-string-in-yaml-over-multiple-lines       
-        <font size="+2"> **CompPhil²MMAE** is an association comprising the working groups of the Chair of Philosophy of Science ([DebateLab](https://debatelab.philosophie.kit.edu)) and the Chair of Philosophical Anthropology. As a part of the [Department of Philosophy](https://www.philosophie.kit.edu/) at the [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu) , we jointly teach the fundamentals of philosophy. {{% cta cta_link="./teaching/" cta_text="Learn more about our **Teaching** →" %}} </font>
+        <font size="+2"> **CompPhil²MMAE** is an association comprising the working groups of the Chair of Philosophy of Science ([DebateLab](https://debatelab.philosophie.kit.edu)) and the Chair of Philosophical Anthropology. As a part of the [Department of Philosophy](https://www.philosophie.kit.edu/) at the [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu) , we jointly teach the fundamentals of philosophy. {{% cta cta_link="./teaching/" cta_text="Learn more about **our teaching** →" %}} </font>
     design:  
       # background:
       #   color: white
       spacing:
         padding: ['40px', '0', '10px', '0']        
+
   # - block: markdown
   #   content:
   #     text: |2-  # "|" stands for multi-line preserving newlines, adivsable for markdown; ">" stands for folded code, converting newlines into spaces; "2" is the indentation indicator (here: 2 chars); "-" strips trailing blank lines, https://stackoverflow.com/questions/3790454/how-do-i-break-a-string-in-yaml-over-multiple-lines
@@ -204,7 +206,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./team/" cta_text="Get to know our **team** →" %}}
+        {{% cta cta_link="./team/" cta_text="Get to know **our team** →" %}}
     design:
       columns: '1'
       spacing:

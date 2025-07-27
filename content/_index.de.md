@@ -81,6 +81,7 @@ sections:
         - zur britischen Moral- und Sozialphilosophie des 19. Jahrhunderts.
         {.c .c2}
         </font>
+        <font size="+2"> Wir unterstützen die Grundsätze der <a href="https://betterscience.ch/#/" target="_blank" rel="noopener">Better Science Initiative</a>.</font>
         {{% cta cta_link="./research/" cta_text="Mehr über unsere **Forschung** erfahren →" %}}
     design:  
       # background:
