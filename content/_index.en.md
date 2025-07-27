@@ -21,7 +21,7 @@ sections:
       background:
         color: white
         image: 
-          filename: welcome_new.jpg  
+          filename: welcome_en.jpg  
           filters:
             brightness: 1.07
           parallax: false
