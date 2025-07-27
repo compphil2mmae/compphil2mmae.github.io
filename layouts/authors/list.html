@@ -43,7 +43,7 @@
 <!-- TODO filter nach Tag "Vortrag"; richtige Section i.S.v widget; showcard format;  -->
 {{ if .File }}
 {{ $username := (path.Base .File.Dir) }}
-{{ $profilemd := printf "%s" (print "/profiles/" $username ".md") -}}
+{{ $profilemd := printf "%s" (print "/profiles/" $username ".de.md") -}}
   {{ if (fileExists $profilemd) }}
   <div class="container">
     <div class="row">
@@ -51,7 +51,7 @@
       </div>
       <div class="col-12 col-lg-8">
         <!-- <h2 class="mb-0"><a href="/profiles/{{ $username}}/"><i class="fas fa-circle-info big-icon"></i> Ausführliches Profil</a></h2> -->
-        <a href="../../profiles/{{$username}}/"><i class="fa-regular fa-circle-right"></i> Publikationen, Vorträge, Neuigkeiten</a>
+        <a href="../../profiles/{{$username}}/"><i class="fa-regular fa-circle-right"></i> {{ i18n "user_extended_profile" | default "Publikationen, Vorträge, Neuigkeiten" }}</a>
       </div>
     </div> 
     <!-- {{ $talks := first 20 (where .Pages "Type" "event") }}

@@ -97,4 +97,4 @@ Nach dem Studium der Philosophie, Logik & Wissenschaftstheorie, Psychologie, Mat
 
 Christian befasst sich in Forschung und Lehre u.a. mit Moraltheorie, Klimaethik, intergenerationeller Gerechtigkeit, Risikoethik, Selbstbestimmung, Moral (und Moralismus) in öffentlichen Diskursen sowie der britischen Moral- und Sozialphilosophie des 19. Jahrhunderts. Seine philosophischen Held:innen sind John Stuart & Harriet Taylor Mill, Henry Sidgwick und Derek Parfit.
 
-<!-- [A relative link from one post to another post]({{< relref "profiles/christian.seidel.md" >}}) -->
+<!-- [A relative link from one post to another post]({{< relref "profiles/christian.seidel.de.md" >}}) -->

@@ -97,4 +97,4 @@ Having studied philosophy, logic & philosophy of science, psychology, mathematic
 
 Christian's research and teaching interests include moral theory, climate ethics, intergenerational justice, risk ethics, autonomy, as well as  morality (and moralism) in public discourse. He also specialises in 19th-century British moral and social philosophy. His philosophical heroes are John Stuart & Harriet Taylor Mill, Henry Sidgwick and Derek Parfit.
 
-<!-- [A relative link from one post to another post]({{< relref "profiles/christian.seidel.md" >}}) -->
+<!-- [A relative link from one post to another post]({{< relref "profiles/christian.seidel.en.md" >}}) -->
