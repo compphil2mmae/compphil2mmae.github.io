@@ -5,13 +5,13 @@
 # Default language
 de:
   languageCode: de
-  contentDir: content/de
+  contentDir: content
 
 # Uncomment the lines below to configure your website in a second language.
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en # »» copy content-folder to this place, then translate *everything*
+  # Uncomment for multi-lingual sites
+  contentDir: content # different way: move English content into `content/en` sub-folder and copy content-folder into this subdir, then translate *everything*
   title: CompPhil²MMAE # PhilMMAE 
   # params:
   #  description: Site description in Chinese...
