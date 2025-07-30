@@ -23,7 +23,7 @@ all_day: false
 publishDate: '2025-04-16T08:00:00Z'
 
 authors: []
-tags: [Gastvortrag]
+tags: [Guest Lecture]
 
 # Is this a featured talk? (true/false)
 featured: true

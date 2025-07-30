@@ -1,30 +1,30 @@
 ---
-title: 'Stefan Gosepath (Berlin): "Warum Vererben ungerecht ist"'
-subtitle: KIT Philosophie-Kolloquium WiSe 24/25 [1/4] 
-event: KIT Philosophie-Kolloquium
-event_url: https://www.philosophie.kit.edu
+title: 'Argumentieren mit Andersdenkenden'
+subtitle: Gemeinsam philosophieren
+event: Gemeinsam philosophieren -- Workshop in der Kulturküche
+event_url: https://kalender.karlsruhe.de/db/termine/literatur/gemeinsam_philosophieren_workshop_in_der_kulturkuche
 
-location: Franz-Schnabel-Haus (Geb. 30.91), Raum 012
+location: Kulturküche Karlsruhe
 address:
-  street: Fritz-Haber-Weg 7
+  street: Kaiserstraße 47
   city: Karlsruhe
   postcode: '76131'
 
-summary: KIT Philosophie-Kolloquium WiSe 24/25 [1/4] 
+summary: Dieser Workshop soll unter anderem die Frage aufgreifen, wie man konstruktiv mit (insbesondere politisch) Andersdenkenden diskutieren kann.
 # abstract: Im Wintersemester 2024/2025 finden im Rahmen des KIT Philosophie-Kolloquium drei Vorträge statt.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-11-06T18:00:00Z'
-date_end: '2024-11-06T19:30:00Z'
+date: '2025-01-10T18:00:00Z'
+date_end: '2025-01-10T21:00:00Z'
 all_day: false
 
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-10-09T08:00:00Z'
+publishDate: '2024-12-13T08:00:00Z'
 
-authors: []
-tags: [Guest Lecture]
+authors: [inga.bones]
+tags: [Workshops]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -53,10 +53,12 @@ slides:
 projects:
 ---
 
-Das KIT Philosophie-Kolloquium wurde im Wintersemester 2024/2025 nach Abstimmung mit der [Fachschaft](https://geistsoz.de/) und mit den akademischen Mitarbeiter:innen des [Departments für Philosophie](https://www.philosophie.kit.edu) organisiert von {{% mention "inga.bones" %}}. 
+In Zeiten zunehmender gesellschaftlicher Polarisierung und politischer Radikalisierung ist Verständigung wichtiger denn je. Aber was zeichnet eine faire und konstruktive Diskussion überhaupt aus? Was sind gute Argumente – und was rhetorische Fallstricke?
+
+Dieser Workshop soll – neben Basics der Argumentationstheorie – die Frage aufgreifen, wie man konstruktiv mit (insbesondere politisch) Andersdenkenden diskutieren kann, wie man mit unfairen oder manipulativen Redebeiträgen umgehen kann, etc.  
 
 {{% callout note%}}
-**Student:innen** sind herzlich willkommen!
+Öffentliche Veranstaltung. Eintritt frei.
 {{% /callout %}}
 
 

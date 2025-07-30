@@ -26,7 +26,7 @@ all_day: true
 publishDate: '2025-04-11T08:00:00Z'
 
 authors: [christian.seidel]
-tags: [Vortrag]
+tags: [Lecture]
 
 # Is this a featured talk? (true/false)
 featured: true

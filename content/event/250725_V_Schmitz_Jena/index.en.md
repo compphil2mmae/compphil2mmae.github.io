@@ -25,7 +25,7 @@ all_day: false
 publishDate: '2025-04-07T08:00:00Z'
 
 authors: [cyriak.schmitz]
-tags: [Vortrag]
+tags: [Lecture]
 
 # Is this a featured talk? (true/false)
 featured: true

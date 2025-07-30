@@ -1,8 +1,8 @@
 ---
-title: 'Lise Bastian (Amsterdam): "The relation between conceptual and hermeneutical injustice"'
+title: 'Donal Khosrowi (Hannover): "Can Generative AI Produce Novel Evidence in the Historical Sciences?"'
 subtitle: CompPhil²MMAE Forschungsseminar
 event: CompPhil²MMAE Forschungsseminar
-event_url: https://ilias.studium.kit.edu/ilias.php?baseClass=ilrepositorygui&ref_id=2621870
+event_url: https://ilias.studium.kit.edu/ilias.php?baseClass=ilrepositorygui&ref_id=2472112
 
 location: Department für Philosophie (Geb. 09.20, 4. OG), R. 511
 address:
@@ -14,13 +14,13 @@ summary: CompPhil²MMAE Forschungsseminar
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-07-23T11:30:00Z'
-date_end: '2025-07-23T13:00:00Z'
+date: '2024-10-24T11:30:00Z'
+date_end: '2024-10-24T13:00:00Z'
 all_day: false
 
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-04-16T08:00:00Z'
+publishDate: '2024-10-22T08:00:00Z'
 
 authors: []
 tags: [Guest Lecture]

@@ -26,7 +26,7 @@ all_day: true
 publishDate: '2025-03-31T08:00:00Z'
 
 authors: [cyriak.schmitz]
-tags: [Vortrag]
+tags: [Lecture]
 
 image:
   caption: ''
