@@ -3,8 +3,8 @@
 
 title: Felix Kopecky completes his PhD
 subtitle:  CompPhil²MMAE congratulates!
-summary: Felix Kopecky has successfully completed his PhD on the subject of  *Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse* (Utilitarianism and moral progress. A philosophical-historical analysis) successfully completed. Congratulations from the entire CompPhil²MMAE team!
-authors: [felix.kopecky,christian.seidel]
+summary: Felix Kopecky has successfully completed his PhD on the subject of  *Polarisation, diversity, and dialectical structures* successfully completed. Congratulations from the entire CompPhil²MMAE team!
+authors: [felix.kopecky,gregor.betz]
 tags: [highlight]
 categories: []
 date: 2025-08-03T08:35:51+01:00
@@ -30,10 +30,10 @@ image:
 projects: []
 ---
 
-{{% mention "felix.kopecky" %}} has successfully completed his PhD with a lecture on *„What arguments and argumentation tell us about belief polarisation and opinion diversity in epistemically rational agents (and in humans, too)“*. The dissertation, entitled **Polarisation, diversity, and dialectical structures: An argumentation-based approach to computational social epistemology** is [published *open access*](https://publikationen.bibliothek.kit.edu/1000183401). 
+{{% mention "felix.kopecky" %}} has successfully completed his PhD with a presentation on *„What arguments and argumentation tell us about belief polarisation and opinion diversity in epistemically rational agents (and in humans, too)“*. The dissertation, entitled **Polarisation, diversity, and dialectical structures: An argumentation-based approach to computational social epistemology** is [published *open access*](https://publikationen.bibliothek.kit.edu/1000183401). 
 
 <!--more-->
 
-The PhD was supervised by {{% mention "gregor.betz" %}} (Karlsruher Institut für Philosophie) and [Dunja Šešelja](https://rub.academia.edu/DunjaSeselja/Papers) (Ruhr-Universität Bochum). 
+The PhD was supervised by {{% mention "gregor.betz" %}} (KIT) and [Dunja Šešelja](https://rub.academia.edu/DunjaSeselja/Papers) (Ruhr-Universität Bochum). 
 
 Congratulations from the entire CompPhil²MMAE team! 

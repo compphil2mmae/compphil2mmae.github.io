@@ -34,6 +34,6 @@ Konstantin Weber hat seine Promotion erfolgreich abgeschlossen. Der Titel der Di
 
 <!--more-->
 
-Die Promotion wurde von [Erasmus Mayr](https://www.philosophie.phil.fau.de/person/mayr/) (Friedrich-Alexander-Universität Erlangen-Nürnberg) und {{% mention "christian.seidel" %}} (Karlsruher Institut für Philosophie, Zweitbetreuer) betreut.
+Die Promotion wurde von [Erasmus Mayr](https://www.philosophie.phil.fau.de/person/mayr/) (Friedrich-Alexander-Universität Erlangen-Nürnberg) und {{% mention "christian.seidel" %}} (Karlsruher Institut für Technologie, Zweitbetreuer) betreut.
 
 Das gesamte Team von CompPhil²MMAE gratuliert ganz herzlich! 

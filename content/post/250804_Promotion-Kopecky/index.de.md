@@ -34,6 +34,6 @@ Mit einem Vortrag zum Thema *„What arguments and argumentation tell us about b
 
 <!--more-->
 
-Die Promotion wurde von {{% mention "gregor.betz" %}} (Karlsruher Institut für Philosophie) und [Dunja Šešelja](https://rub.academia.edu/DunjaSeselja/Papers) (Ruhr-Universität Bochum) betreut.
+Die Promotion wurde von {{% mention "gregor.betz" %}} (Karlsruher Institut für Technologie) betreut und [Dunja Šešelja](https://rub.academia.edu/DunjaSeselja/Papers) (Ruhr-Universität Bochum) begutachtet.
 
 Das gesamte Team von CompPhil²MMAE gratuliert ganz herzlich! 
