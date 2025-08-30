@@ -90,4 +90,4 @@ Overall, in **_KIdeKu_** we developed concepts and studies to create a suitable 
 *Project duration:* 01.06.2024--31.12.2025
 
 <!-- ![Logo BMFSFJ](BMFSFJ_Logo.svg) -->
-<img align="left" width="400" src="BMFSFJ_Logo.jpg">
+<img align="left" width="400" src="BMFSFJ_Logo.en.jpg">

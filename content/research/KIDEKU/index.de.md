@@ -90,4 +90,4 @@ Insgesamt erarbeiteten wir in **_KIdeKu_** damit Konzepte und Studien zur Schaff
 *Projektlaufzeit:* 01.06.2024--31.12.2025
 
 <!-- ![Logo BMFSFJ](BMFSFJ_Logo.svg) -->
-<img align="left" width="400" src="BMFSFJ_Logo.jpg">
+<img align="left" width="400" src="BMFSFJ_Logo.de.jpg">
