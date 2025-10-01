@@ -33,7 +33,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: 'event/251113_W_Kideku_Workshop/KI & Deliberation.pdf'
+url_pdf: 'event/251113_W_Kideku_Workshop/KI-und-Deliberation_workshop.pdf'
 url_slides: ''
 url_video: ''
 
@@ -51,12 +51,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects: ["KIDEKU"]
 
-
-# Hallo Basti, zum "Veröffentlichen" einfach die folgenden drei Zeilen löschen.
-_build:
-  render: always
-  list: never
-
 ---
 # Workshop: *AI & Deliberation*
 
@@ -72,17 +66,17 @@ The workshop promotes **networking and knowledge transfer**: by bringing in diff
 
 ---
 
-## Target audience
+## Target Audience
 
 The workshop is aimed at researchers and practitioners:
 
-**Research & science**
+**Research & Science**
 
 - Deliberation, discourse and argumentation research
 - Political science
 - AI community
 
-**Practice & civil society**
+**Practice & Civil Society**
 
 - Organisations that develop or want to develop LLM-based deliberation tools
 - Organisations that use and operate such tools in their civil society work
@@ -99,7 +93,7 @@ The following tools are presented and discussed:
 - [**PolicyCraft**](https://arxiv.org/abs/2409.15644): An LLM-based system for simulating political negotiation processes and policy development.
 - [**TITAN Chatbot**](https://www.titanthinking.eu/post/exploring-titan-s-approach-to-integrating-socratic-thinking-and-ai-in-chatbot-dialogue): An approach that combines Socratic questions with AI-supported dialogues to promote critical reflection and argumentative thinking.
 
-## Organisational details
+## Organisational Details
 
 - **When:** *13 November 2025, 2–7 p.m. & 14 November 2025, 9 a.m.–2 p.m.*
 - **Where:** Prinzessinnenstudio, Prinzessinnenstr. 16, 10969 Berlin
@@ -108,7 +102,7 @@ The following tools are presented and discussed:
   Participation is free of charge. However, registration is required (limited number of participants for on-site participation).
   Hybrid/online participation is possible.
 
-## Why participate?
+## Why Participate?
 
 - Learn about the latest tools and prototypes
 - Network with experts from research and civil society

@@ -33,7 +33,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: 'event/251113_W_Kideku_Workshop/KI & Deliberation.pdf'
+url_pdf: 'event/251113_W_Kideku_Workshop/KI-und-Deliberation_workshop.pdf'
 url_slides: ''
 url_video: ''
 
@@ -51,10 +51,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects: ["KIDEKU"]
 
-# Hallo Basti, zum "Veröffentlichen" einfach die folgenden drei Zeilen löschen.
-_build:
-  render: always
-  list: never
 
 ---
 # Workshop: *KI & Deliberation*
