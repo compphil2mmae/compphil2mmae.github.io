@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: [Alumna] PhD student"
+role: "[Alumna] PhD student"
 
 # Organizations/Affiliations
 organizations:
