@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 # role: PhD student
-role: "[Alumnus] Doktorand"
+role: "[Alumnus] PhD student"
 
 # Organizations/Affiliations
 organizations:
