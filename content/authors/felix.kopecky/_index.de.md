@@ -92,9 +92,9 @@ user_groups:
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
-  - Doktorand:innen # Grad Students
-  - Assoziierte 
+  # - Doktorand:innen # Grad Students
+  # - Assoziierte 
   # - Gäste # Visitors
-  # - Alumni
+  - Alumnae & Alumni
 ---
 
