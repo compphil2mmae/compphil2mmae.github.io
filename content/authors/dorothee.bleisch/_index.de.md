@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "[Alumni] Doktorandin"
+role: "[Alumna] Doktorandin"
 
 # Organizations/Affiliations
 organizations:
@@ -84,10 +84,10 @@ user_groups:
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
-  - Doktorand:innen # Grad Students
-  - Assoziierte 
+  # - Doktorand:innen # Grad Students
+  # - Assoziierte 
   # - Gäste # Visitors
-  #- Alumni
+  - Alumnae & Alumni
 ---
 
 Dorothee Bleisch promovierte betreut durch Prof. Erasmus Mayr (FAU Erlangen-Nürnberg) und Prof. {{%mention "christian.seidel" %}} (KIT). Im Rahmen ihres Promotionsprojekts forscht sie am Institut für Philosophie der Friedrich-Alexander-Universität Erlangen-Nürnberg zum sogenannten Usability Demand, dem zufolge Moraltheorien immer auch handlungsanleitend sein sollten. Daneben beschäftigt sie sich mit verschiedenen Themen im Bereich der (normativen) Ethik und forscht zu konsequentialistische Moraltheorien.
