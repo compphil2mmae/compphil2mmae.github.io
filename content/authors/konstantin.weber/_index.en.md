@@ -85,10 +85,10 @@ user_groups:
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
-  - PhD students # Grad Students
-  - Associates 
+  # - PhD students # Grad Students
+  # - Associates 
   # - Gäste # Visitors
-  # - Alumni
+  - Alumnae & Alumni
 ---
 
 Konstantin Weber is doing his doctorate at the Institute of Philosophy at Friedrich-Alexander-Universität Erlangen-Nürnberg on the ethics of future persons. The work was funded by a doctoral scholarship from the German National Academic Foundation.
