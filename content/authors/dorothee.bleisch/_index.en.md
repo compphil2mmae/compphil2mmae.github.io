@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doktorandin
+role: [Alumna] PhD student"
 
 # Organizations/Affiliations
 organizations:
@@ -84,10 +84,10 @@ user_groups:
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
-  - PhD students # Grad Students
-  - Associates
+  # - PhD students # Grad Students
+  # - Associates
   # - Gäste # Visitors
-  # - Alumni
+  - Alumnae & Alumni
 ---
 
 Dorothee Bleisch (M.A.) is a doctoral student (supervised by Prof Erasmus Mayr (FAU Erlangen-Nuremberg) and Prof {{%mention "christian.seidel" %}} (KIT)). As part of her doctoral project, she is conducting research at the Institute of Philosophy at Friedrich-Alexander-Universität Erlangen-Nürnberg on so-called usability demand, according to which moral theories should always also guide action. She is also working on various topics in the field of (normative) ethics and researching consequentialist moral theories.
