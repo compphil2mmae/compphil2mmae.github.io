@@ -88,10 +88,10 @@ user_groups:
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
-  - Doktorand:innen # Grad Students
-  - Assoziierte 
+  # - Doktorand:innen # Grad Students
+  # - Assoziierte 
   # - Gäste # Visitors
-  # - Alumni
+  - Alumnae & Alumni
 ---
 
 Konstantin Weber promovierte am Institut für Philosophie der Friedrich-Alexander-Universität Erlangen-Nürnberg zur Ethik zukünftiger Personen. Die Arbeit wurde mit einem Promotionsstipendium der Studienstiftung des deutschen Volkes gefördert.
