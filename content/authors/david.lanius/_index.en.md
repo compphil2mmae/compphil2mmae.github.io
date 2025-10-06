@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "[Alumni] Postdoc | [now] Professor"
+role: "[Alumnus] Postdoc | [now] Professor"
 
 # Organizations/Affiliations
 organizations:
@@ -80,7 +80,7 @@ user_groups:
   # - Doktorand:innen # Grad Students
   # - Assoziierte 
   # - Gäste # Visitors
-  - Alumni
+  - Alumnae & Alumni
 ---
 
 David Lanius ist Gründer und Leiter des [Forums für Streitkultur](https://forum-streitkultur.de) und war bis zum Sommersemester 2024 Postdoc bei CompPhil²MMAE. Seitdem ist er Assistenzprofessor für Praktische Philosophie und Philosophiedidaktik an der [Paris-Lodron-Universität Salzburg](https://www.plus.ac.at/).

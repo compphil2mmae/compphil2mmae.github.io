@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "[Alumni] PhD student | [now] Postdoc" 
+role: "[Alumnus] PhD student | [now] Postdoc" 
 
 # Organizations/Affiliations
 organizations:
@@ -86,7 +86,7 @@ user_groups:
   # - Doktorand:innen # Grad Students
   # - Assoziierte 
   # - Gäste # Visitors
-  - Alumni
+  - Alumnae & Alumni
 ---
 
 Sebastian Schmidt was a PhD student at CompPhil²MMAE in 2018--2020. He is now a postdoc at the [Zurich Epistemology Group on Rationality (ZEGRa)](https://zegra.ch/profile/s.schmidt/) of the University of Zurich.

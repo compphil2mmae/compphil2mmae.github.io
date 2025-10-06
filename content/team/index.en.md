@@ -17,7 +17,7 @@ sections:
           # - Doktorand:innen # Grad Students
           - Associates 
           - Guests # Visitors
-          - Alumni
+          - Alumnae & Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:

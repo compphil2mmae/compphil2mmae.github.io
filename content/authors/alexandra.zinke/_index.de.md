@@ -86,7 +86,7 @@ user_groups:
   # - Doktorand:innen # Grad Students
   # - Assoziierte 
   # - Gäste # Visitors
-  - Alumni
+  - Alumnae & Alumni
 ---
 
 Alexandra Zinke war 2017--2019 Postdoc bei CompPhil²MMAE. Sie ist inzwischen *Professorin für Theoretische Philosophie* an der Goethe-Universität Frankfurt.
