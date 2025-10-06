@@ -14,8 +14,8 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student
-# role: "[Alumni] Doktorand"
+# role: PhD student
+role: "[Alumnus] Doktorand"
 
 # Organizations/Affiliations
 organizations:
@@ -77,7 +77,7 @@ social:
   # - icon: blog
   #   icon_pack: fas
   #   link: https://debatelab.github.io/    
-  # - icon: house
+  # - icon: houseUpdate _index.de.md
   #   icon_pack: fas
   #   link: 'https://my-own-website.example'
   
@@ -97,9 +97,9 @@ user_groups:
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
-  - PhD students # Grad Students
-  - Associates 
+  # - PhD students # Grad Students
+  # - Associates 
   # - Gäste # Visitors
-  # - Alumni
+  - Alumnae & Alumni
 ---
 
