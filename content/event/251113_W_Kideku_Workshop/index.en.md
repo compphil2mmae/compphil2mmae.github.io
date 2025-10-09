@@ -33,7 +33,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: 'event/251113_W_Kideku_Workshop/KI-und-Deliberation_workshop.pdf'
+url_pdf: 'content/event/251113_W_Kideku_Workshop/KI-und-Deliberation_workshop.pdf'
 url_slides: ''
 url_video: ''
 
@@ -54,7 +54,7 @@ projects: ["KIDEKU"]
 ---
 # Workshop: *AI & Deliberation*
 
-**Can generative AI improve public discourse and democratic participation?**
+**How can generative AI improve public discourse and democratic participation?**
 
 ---
 
@@ -91,7 +91,7 @@ The following tools are presented and discussed:
 - **INDI DiscussBot Demo**: An AI assistant for reformulating discussion contributions from the [IndI project](https://www.diid.hhu.de/forschung/projekte/indi). Formulations are analysed and improved in terms of politeness, argumentative quality, empathy and factuality.
 - [**VISAR**](https://dl.acm.org/doi/pdf/10.1145/3586183.3606800): An AI writing assistant for formulating and revising discussion contributions. VISAR enables users to explore, test and validate their argumentative goals with the help of automatic draft prototypes.
 - [**PolicyCraft**](https://arxiv.org/abs/2409.15644): An LLM-based system for simulating political negotiation processes and policy development.
-- [**TITAN Chatbot**](https://www.titanthinking.eu/post/exploring-titan-s-approach-to-integrating-socratic-thinking-and-ai-in-chatbot-dialogue): An approach that combines Socratic questions with AI-supported dialogues to promote critical reflection and argumentative thinking.
+- [**TITAN Coach**](https://www.titanthinking.eu/post/exploring-titan-s-approach-to-integrating-socratic-thinking-and-ai-in-chatbot-dialogue): An approach that combines Socratic questions with AI-supported dialogues to promote critical reflection and argumentative thinking.
 
 ## Organisational Details
 

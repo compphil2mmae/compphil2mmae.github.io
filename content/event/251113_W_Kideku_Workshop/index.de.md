@@ -33,7 +33,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: 'event/251113_W_Kideku_Workshop/KI-und-Deliberation_workshop.pdf'
+url_pdf: 'content/event/251113_W_Kideku_Workshop/KI-und-Deliberation_workshop.pdf'
 url_slides: ''
 url_video: ''
 
@@ -55,7 +55,7 @@ projects: ["KIDEKU"]
 ---
 # Workshop: *KI & Deliberation*
 
-**Kann generative KI den öffentlichen Diskurs und demokratische Teilhabe verbessern?**
+**Wie kann generative KI den öffentlichen Diskurs und demokratische Teilhabe verbessern?**
 
 ---
 
@@ -92,7 +92,7 @@ Die folgenden Tools werden vorgestellt und diskutiert:
 - **INDI DiscussBot Demo**: Ein KI-Assistent zur Reformulierung von Diskussionsbeiträgen aus dem [IndI Projekt](https://www.diid.hhu.de/forschung/projekte/indi). Formulierungen werden bezüglich Höflichkeit, argumentativer Qualität, Einfühlungsvermögen und Faktizität analysiert und verbessert.
 - [**VISAR**](https://dl.acm.org/doi/pdf/10.1145/3586183.3606800): Ein KI-Schreibassistent zur Formulierung und Überarbeitung von Diskussionsbeiträgen. VISAR ermöglicht es den Nutzer:innen, ihre argumentativen Ziele mithilfe automatischer Entwurfsprototypen zu erkunden, auszuprobieren und zu validieren.
 - [**PolicyCraft**](https://arxiv.org/abs/2409.15644): Ein LLM-basiertes System zur Simulation politischer Aushandlungsprozesse und Policy-Entwicklung.
-- [**TITAN Chatbot**](https://www.titanthinking.eu/post/exploring-titan-s-approach-to-integrating-socratic-thinking-and-ai-in-chatbot-dialogue): Ein Ansatz, der sokratische Fragen mit KI-gestützten Dialogen verbindet, um kritische Reflexion und argumentatives Denken zu fördern.
+- [**TITAN Coach**](https://www.titanthinking.eu/post/exploring-titan-s-approach-to-integrating-socratic-thinking-and-ai-in-chatbot-dialogue): Ein Ansatz, der sokratische Fragen mit KI-gestützten Dialogen verbindet, um kritische Reflexion und argumentatives Denken zu fördern.
 
 ## Organisatorisches
 
