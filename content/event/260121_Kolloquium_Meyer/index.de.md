@@ -34,7 +34,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: '/event/251126_Kolloquium_Paulo/Kolloquium_WiSe25-26.pdf'
+url_pdf: 'uploads/Kolloquium_WiSe25-26.pdf'
 url_slides: ''
 url_video: ''
 
