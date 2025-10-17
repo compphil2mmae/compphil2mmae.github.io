@@ -88,11 +88,11 @@ Der Workshop richtet sich an Forschende und Praktiker:innen:
 
 Die folgenden Tools werden vorgestellt und diskutiert:
 
-- [**ReasonAide**](https://www.faktor-d.org/projekte/reasonaide): Ein KI-Tool zur Unterstützung argumentativer Prozesse in deliberativen Settings.
-- **INDI DiscussBot Demo**: Ein KI-Assistent zur Reformulierung von Diskussionsbeiträgen aus dem [IndI Projekt](https://www.diid.hhu.de/forschung/projekte/indi). Formulierungen werden bezüglich Höflichkeit, argumentativer Qualität, Einfühlungsvermögen und Faktizität analysiert und verbessert.
-- [**VISAR**](https://dl.acm.org/doi/pdf/10.1145/3586183.3606800): Ein KI-Schreibassistent zur Formulierung und Überarbeitung von Diskussionsbeiträgen. VISAR ermöglicht es den Nutzer:innen, ihre argumentativen Ziele mithilfe automatischer Entwurfsprototypen zu erkunden, auszuprobieren und zu validieren.
-- [**PolicyCraft**](https://arxiv.org/abs/2409.15644): Ein LLM-basiertes System zur Simulation politischer Aushandlungsprozesse und Policy-Entwicklung.
-- [**TITAN Coach**](https://www.titanthinking.eu/post/exploring-titan-s-approach-to-integrating-socratic-thinking-and-ai-in-chatbot-dialogue): Ein Ansatz, der sokratische Fragen mit KI-gestützten Dialogen verbindet, um kritische Reflexion und argumentatives Denken zu fördern.
+- [**reasonAide**](https://www.faktor-d.org/projekte/reasonaide) (dt.): *reasonAide* überbrückt Alltagsgespräche und Online-Diskurse. Statt repetitiver Debatten ermöglicht *reasonAide* mit KI-Assistenz an ein strukturiertes Netz von Diskussionspunkten anzuknüpfen, Perspektiven zu verstehen und sich konstruktiv am öffentlichen Diskurs zu beteiligen.
+- **INDI DiscussBot Demo** (dt): Ein KI-Assistent zur Reformulierung von Diskussionsbeiträgen aus dem [IndI Projekt](https://www.diid.hhu.de/forschung/projekte/indi). Formulierungen werden bezüglich Höflichkeit, Begründung und Einfühlungsvermögen analysiert. Im Falle von detektierter Unhöflichkeit oder fehlendem Einfühlungsvermögen kann ein Vorschlag zur Refomulierung generiert werden.
+- [**VISAR**](https://dl.acm.org/doi/pdf/10.1145/3586183.3606800) (engl.): Ein KI-Schreibassistent zur Formulierung und Überarbeitung von Diskussionsbeiträgen. *VISAR* ermöglicht es den Nutzer:innen, ihre argumentativen Ziele mithilfe automatischer Entwurfsprototypen zu erkunden, auszuprobieren und zu validieren.
+- [**PolicyCraft**](https://arxiv.org/abs/2409.15644) (engl.): Ein LLM basiertes System, das die kollaborative politische Entscheidungsfindung durch fallbezogene Beratungen strukturiert. Das Tool unterstützt Nutzer\:innen dabei, gemeinsam Richtlinien vorzuschlagen, zu kritisieren und zu überarbeiten, indem sie Fälle diskutieren und darüber abstimmen.
+- [**TITAN Chatbot**](https://www.titanthinking.eu/post/exploring-titan-s-approach-to-integrating-socratic-thinking-and-ai-in-chatbot-dialogue) (engl.): Der *TITAN-Chatbot* führt mit den Nutzern interaktive Dialoge im sokratischen Stil, die darauf abzielen, ihre Fähigkeit zu stärken, Falschinformationen zu erkennen. Er leitet die Gespräche durch kritische Fragen, bietet maßgeschneiderte Erklärungen und regt zum Nachdenken an, um das Verständnis zu vertiefen.
 
 ## Organisatorisches
 
