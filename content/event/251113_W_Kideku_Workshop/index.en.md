@@ -131,7 +131,7 @@ For each tool there will be:
 
 ## Organisational Details
 
-- **When:** *13 November 2025, 2–7 p.m. & 14 November 2025, 9 a.m.–2 p.m.*
+- **When:** *13th November 2025, 2–7 PM & 14th November 2025, 8:30 AM – 1:30 PM*
 - **Where:** Prinzessinnenstudio, Prinzessinnenstr. 16, 10969 Berlin
 - **Language:** German / English
 - **Registration:** *kideku@itz.kit.edu*

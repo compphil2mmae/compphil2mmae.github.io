@@ -131,7 +131,7 @@ Die Tools werden jeweils im folgenden Format vorgestellt und diskutiert:
 
 ## Organisatorisches
 
-- **Wann:** *13.11.25, 14-19 Uhr & 14.11.25, 9-14 Uhr*
+- **Wann:** *13.11.25, 14-19 Uhr & 14.11.25, 8:30-13:30 Uhr*
 - **Wo:** Prinzessinnenstudio, Prinzessinnenstr. 16, 10969 Berlin
 - **Sprache:** Deutsch / Englisch
 - **Anmeldung:** *kideku@itz.kit.edu*  
