@@ -33,7 +33,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: '/uploads/events/251113_w_kideku_workshop/KI & Deliberation.pdf'
+url_pdf: '/uploads/events/251113_w_kideku_workshop/KI-und-Deliberation_workshop.pdf'
 url_slides: ''
 url_video: ''
 
