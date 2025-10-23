@@ -1,22 +1,22 @@
 ---
-title: 'Prof. Dr. Kirsten Meyer (Berlin): "Individual potential and good life"'
-subtitle: KIT Philosophy Colloquium WiSe 2025/2026 - talk in german
-event: KIT Philosophy Colloquium
+title: 'Prof. Dr. Héctor Wittwer (Magdeburg): "Moralische Verachtung – eine Apologie"'
+subtitle: KIT Philosophie-Kolloquium WiSe 2025/2026 
+event: KIT Philosophie-Kolloquium
 event_url: https://www.philosophie.kit.edu
 
-location: Franz-Schnabel-Haus (Bui. 30.91), Room 012
+location: Franz-Schnabel-Haus (Geb. 30.91), Raum 012
 address:
   street: Fritz-Haber-Weg 7
   city: Karlsruhe
   postcode: '76131'
 
-summary: KIT Philosophy Colloquium WiSe 2025/2026 - talk in german
+summary: KIT Philosophie-Kolloquium WiSe 2025/2026
 # abstract: Im Wintersemester 2024/2025 finden im Rahmen des KIT Philosophie-Kolloquium drei Vorträge statt.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-01-21T18:00:00Z'
-date_end: '2026-01-21T19:30:00Z'
+date: '2025-12-10T18:00:00Z'
+date_end: '2025-12-10T19:30:00Z'
 all_day: false
 
 
@@ -24,7 +24,7 @@ all_day: false
 publishDate: '2025-10-06T08:00:00Z'
 
 authors: []
-tags: [Guest Lecture]
+tags: [Gastvortrag]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -34,7 +34,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: 'uploads/Kolloquium_WiSe25-26.pdf'
+url_pdf: 'uploads/251126_g_kolloquium/Kolloquium_WiSe25-26.pdf'
 url_slides: ''
 url_video: ''
 
@@ -53,10 +53,10 @@ slides:
 projects:
 ---
 
-The KIT Philosophy Colloquium was organised in the winter semester of 2025/2026 by {{% mention "inga.bones" %}} in consultation with the [Fachschaft](https://geistsoz.de/) and the academic staff of the [Department of Philosophy](https://www.philosophie.kit.edu). 
+Das KIT Philosophie-Kolloquium wurde im Wintersemester 2025/2026 nach Abstimmung mit der [Fachschaft](https://geistsoz.de/) und mit den akademischen Mitarbeiter:innen des [Departments für Philosophie](https://www.philosophie.kit.edu) von {{% mention "inga.bones" %}} organisiert. 
 
 {{% callout note%}}
-**Students** are very welcome!
+**Student:innen** sind herzlich willkommen!
 {{% /callout %}}
 
 

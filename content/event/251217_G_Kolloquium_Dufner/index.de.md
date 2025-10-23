@@ -1,5 +1,5 @@
 ---
-title: 'Prof. Dr. Norbert Paulo (Ingolstadt): Gedankenexperimente in der Praktischen Philosophie'
+title: 'Prof. Dr. Annette Dufner (Bielefeld): "Begrenzte Aggregation. Überlegungen zum personen-neutralen Aspekt des interpersonellen Aufrechnens und Abwägens"'
 subtitle: KIT Philosophie-Kolloquium WiSe 2025/2026 
 event: KIT Philosophie-Kolloquium
 event_url: https://www.philosophie.kit.edu
@@ -15,8 +15,8 @@ summary: KIT Philosophie-Kolloquium WiSe 2025/2026
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-11-26T18:00:00Z'
-date_end: '2025-11-26T19:30:00Z'
+date: '2025-12-17T18:00:00Z'
+date_end: '2025-12-17T19:30:00Z'
 all_day: false
 
 
@@ -34,7 +34,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: 'uploads/Kolloquium_WiSe25-26.pdf'
+url_pdf: 'uploads/251126_g_kolloquium/Kolloquium_WiSe25-26.pdf'
 url_slides: ''
 url_video: ''
 
