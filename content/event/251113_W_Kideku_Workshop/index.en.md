@@ -87,7 +87,7 @@ The workshop is aimed at researchers and practitioners:
 
 The following tools are presented and discussed:
 
-- [**reasonAide**](https://www.faktor-d.org/projekte/reasonaide) (DE): *reasonAide* bridges everyday conversations and online discourse. Instead of repetitive debates, *reasonAide* provides AI assistance to connect to a structured network of discussion points, understand perspectives, and participate constructively in public discourse.
+- [**reasonAide**](https://www.faktor-d.org/projekte/reasonaide) (EN): *reasonAide* bridges everyday conversations and online discourse. Instead of repetitive debates, *reasonAide* provides AI assistance to connect to a structured network of discussion points, understand perspectives, and participate constructively in public discourse.
 - **IndI DiscussBot Demo** (DE): An AI assistant for reformulating discussion posts from the [IndI project](https://www.diid.hhu.de/forschung/projekte/indi). Formulations are analyzed in terms of politeness, reasoning, and empathy. If rudeness or a lack of empathy is detected, a suggestion for reformulation can be generated.
 - [**VISAR**](https://dl.acm.org/doi/pdf/10.1145/3586183.3606800) (EN): An AI writing assistant for formulating and revising discussion contributions. *VISAR* enables users to explore, test and validate their argumentative goals with the help of automatic draft prototypes.
 - [**PolicyCraft**](https://arxiv.org/abs/2409.15644) (EN): An LLM-based system that structures collaborative policy design through case-grounded deliberation. The tool supports users in collaboratively proposing, critiquing, and revising policies through discussion and voting on cases.
