@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Teaching Assistant
+role: Research & Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
