@@ -84,4 +84,4 @@ user_groups:
   # - Alumni
 ---
 
-Dilara Akyildiz supports CompPhil²MMAE as a tutor in the module "Ars Rationalis".
+Dilara Akyildiz supports CompPhil²MMAE as a student assistant and as a tutor in the module **Ars Rationalis**.
