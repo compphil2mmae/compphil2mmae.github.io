@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Hanna Müller
+title: Felix Warnke
 
 # Full name (for SEO)
-first_name: Hanna
-last_name: Müller
+first_name: Felix
+last_name: Warnke
 
 # Username (this should match the folder name)
 authors:
-  - hanna.mueller
+  - felix.warnke
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research & Teaching Assistant
+role: Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ bio: '' #My research interests include distributed robotics, mobile computing an
 #   - Schwerpunkt B
 #   - Schwerpunkt C
 
-#education:
+education:
 #  courses:
 #    - course: Abschluss
 #      institution: Institution
@@ -40,9 +40,9 @@ bio: '' #My research interests include distributed robotics, mobile computing an
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:hanna.mueller@student.kit.edu'
+  #- icon: envelope
+  #  icon_pack: fas
+  #  link: 'mailto:elias.hahn9@kit.edu'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -84,4 +84,4 @@ user_groups:
   # - Alumni
 ---
 
-Hanna Müller unterstützt CompPhil²MMAE als studentische Hilfskraft und Tutorin im Modul **Ars Rationalis**.
+Felix Warnke unterstützt CompPhil²MMAE als Tutor im Modul **Ars Rationalis**.

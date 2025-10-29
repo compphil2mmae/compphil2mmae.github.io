@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Teaching Assistant
+role: Research & Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -84,4 +84,4 @@ user_groups:
   # - Alumni
 ---
 
-Dilara Akyildiz unterstützt CompPhil²MMAE als Tutorin im Modul "Ars Rationalis".
+Dilara Akyildiz unterstützt CompPhil²MMAE als studentische Hilfskraft und Tutorin im Modul **Ars Rationalis**.

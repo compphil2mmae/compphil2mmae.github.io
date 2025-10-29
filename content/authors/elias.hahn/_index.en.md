@@ -18,7 +18,7 @@ role: Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
- - name: Chair of Philosophical Anthropology# DebateLab
+ - name: Chair of Philosophical Anthropology # DebateLab
    url: '' # https://debatelab.philosophie.kit.edu/
 
 # Short bio (displayed in user profile at end of posts)
