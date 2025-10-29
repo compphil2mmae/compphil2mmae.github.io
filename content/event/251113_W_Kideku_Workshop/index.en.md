@@ -88,7 +88,7 @@ The workshop is aimed at researchers and practitioners:
 The following tools are presented and discussed:
 
 - [**reasonAide**](https://www.faktor-d.org/projekte/reasonaide) (EN): *reasonAide* bridges everyday conversations and online discourse. Instead of repetitive debates, *reasonAide* provides AI assistance to connect to a structured network of discussion points, understand perspectives, and participate constructively in public discourse.
-- **IndI DiscussBot Demo** (DE): An AI assistant for reformulating discussion posts from the [IndI project](https://www.diid.hhu.de/forschung/projekte/indi). Formulations are analyzed in terms of politeness, reasoning, and empathy. If rudeness or a lack of empathy is detected, a suggestion for reformulation can be generated.
+- **IndI DiscussBot Demo** (EN): An AI assistant for reformulating discussion posts from the [IndI project](https://www.diid.hhu.de/forschung/projekte/indi). Formulations are analyzed in terms of politeness, reasoning, and empathy. If rudeness or a lack of empathy is detected, a suggestion for reformulation can be generated.
 - [**VISAR**](https://dl.acm.org/doi/pdf/10.1145/3586183.3606800) (EN): An AI writing assistant for formulating and revising discussion contributions. *VISAR* enables users to explore, test and validate their argumentative goals with the help of automatic draft prototypes.
 - [**PolicyCraft**](https://arxiv.org/abs/2409.15644) (EN): An LLM-based system that structures collaborative policy design through case-grounded deliberation. The tool supports users in collaboratively proposing, critiquing, and revising policies through discussion and voting on cases.
 - [**TITAN Chatbot**](https://www.titanthinking.eu/post/exploring-titan-s-approach-to-integrating-socratic-thinking-and-ai-in-chatbot-dialogue) (EN): The *TITAN Chatbot* engages users in interactive, Socratic-style dialogues designed to strengthen their ability to detect misinformation. It guides conversations through critical questioning, offers tailored explanations, and encourages reflection to deepen understanding.
@@ -112,9 +112,9 @@ For each tool there will be:
 | 2 PM | Opening & Welcome |
 | 2:15-3:30 PM | *Tool session (EN):* **Policy Craft**<br>Tzu-Sheng Kuo (Talk, online)<br>Julian Müller (Commentary) |
 | 3:30–4:00 PM | Coffee Break |
-| 4:00–5:15 PM | *Tool session (DE):* **IndI DiscussBot**<br>Maike Behrendt (Talk)<br>Franziska Maier (Commentary) |
+| 4:00–5:15 PM | *Tool session (EN):* **IndI DiscussBot**<br>Maike Behrendt (Talk)<br>Franziska Maier (Commentary) |
 | 5:15-5:45 PM | Coffee Break |
-| 5:45-7:00 PM | *Tool session (EN):* **VISAR Writing Assistant**<br>Zheng Zhang (Talk, online)<br>TBA (Commentary) |
+| 5:45-7:00 PM | *Tool session (EN):* **VISAR Writing Assistant**<br>Zheng Zhang (Talk, online)<br>Yannick von Ostheim (Commentary) |
 
 ### Friday, 14th November 2025
 
@@ -125,9 +125,10 @@ For each tool there will be:
 | 10:15–10:30 AM | Short Break |
 | 10:30-11:45 AM | *Tool session (EN):* **TITAN Chatbot**<br>Dora Katsamori (Talk)<br>Dennis Frieß (Commentary) |
 | 11:45-12:15 PM | Coffee Break |
-| 12:15-1:15 PM | **Discussion** <br> Jonas Fegert |
+| 12:15-1:15 PM | *Discussion (EN):* **Where do we go from here? Turning AI & deliberation into practice** <br> Jonas Fegert (Input & Moderation) |
 | 13:15-13:30 | Closing Remarks |
 
+*About the Discussion Session (12:15-1:15 PM):* In this closing discussion, we will take a step back from the tools and reflect on what we’ve learned across disciplines from current prototypes of AI-assisted deliberation. Together, we’ll explore real-world needs, promising use cases, and how ideas can turn into future collaborations, projects, and possible funding initiatives.
 
 ## Organisational Details
 

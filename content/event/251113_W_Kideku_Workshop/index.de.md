@@ -87,7 +87,7 @@ Der Workshop richtet sich an Forschende und Praktiker:innen:
 Die folgenden Tools werden vorgestellt und diskutiert:
 
 - [**reasonAide**](https://www.faktor-d.org/projekte/reasonaide) (engl.): *reasonAide* überbrückt Alltagsgespräche und Online-Diskurse. Statt repetitiver Debatten ermöglicht *reasonAide* mit KI-Assistenz an ein strukturiertes Netz von Diskussionspunkten anzuknüpfen, Perspektiven zu verstehen und sich konstruktiv am öffentlichen Diskurs zu beteiligen.
-- **IndI DiscussBot Demo** (dt): Ein KI-Assistent zur Reformulierung von Diskussionsbeiträgen aus dem [IndI Projekt](https://www.diid.hhu.de/forschung/projekte/indi). Formulierungen werden bezüglich Höflichkeit, Begründung und Einfühlungsvermögen analysiert. Im Falle von detektierter Unhöflichkeit oder fehlendem Einfühlungsvermögen kann ein Vorschlag zur Refomulierung generiert werden.
+- **IndI DiscussBot Demo** (engl.): Ein KI-Assistent zur Reformulierung von Diskussionsbeiträgen aus dem [IndI Projekt](https://www.diid.hhu.de/forschung/projekte/indi). Formulierungen werden bezüglich Höflichkeit, Begründung und Einfühlungsvermögen analysiert. Im Falle von detektierter Unhöflichkeit oder fehlendem Einfühlungsvermögen kann ein Vorschlag zur Refomulierung generiert werden.
 - [**VISAR**](https://dl.acm.org/doi/pdf/10.1145/3586183.3606800) (engl.): Ein KI-Schreibassistent zur Formulierung und Überarbeitung von Diskussionsbeiträgen. *VISAR* ermöglicht es den Nutzer:innen, ihre argumentativen Ziele mithilfe automatischer Entwurfsprototypen zu erkunden, auszuprobieren und zu validieren.
 - [**PolicyCraft**](https://arxiv.org/abs/2409.15644) (engl.): Ein LLM basiertes System, das die kollaborative politische Entscheidungsfindung durch fallbezogene Beratungen strukturiert. Das Tool unterstützt Nutzer\:innen dabei, gemeinsam Richtlinien vorzuschlagen, zu kritisieren und zu überarbeiten, indem sie Fälle diskutieren und darüber abstimmen.
 - [**TITAN Chatbot**](https://www.titanthinking.eu/post/exploring-titan-s-approach-to-integrating-socratic-thinking-and-ai-in-chatbot-dialogue) (engl.): Der *TITAN-Chatbot* führt mit den Nutzern interaktive Dialoge im sokratischen Stil, die darauf abzielen, ihre Fähigkeit zu stärken, Falschinformationen zu erkennen. Er leitet die Gespräche durch kritische Fragen, bietet maßgeschneiderte Erklärungen und regt zum Nachdenken an, um das Verständnis zu vertiefen.
@@ -111,9 +111,9 @@ Die Tools werden jeweils im folgenden Format vorgestellt und diskutiert:
 | 14 Uhr      | Eröffnung |
 | 14:15-15:30 | *Toolvorstellung (engl.):* **Policy Craft**<br>Tzu-Sheng Kuo (Kurzpräsentation, online)<br>Julian Müller (Kommentar) |
 | 15:30–16:00 | Kaffepause |
-| 16:00–17:15 | *Toolvorstellung (dt.):* **IndI DiscussBot**<br>Maike Behrendt (Kurzpräsentation)<br>Franziska Maier (Kommentar) |
+| 16:00–17:15 | *Toolvorstellung (engl.):* **IndI DiscussBot**<br>Maike Behrendt (Kurzpräsentation)<br>Franziska Maier (Kommentar) |
 | 17:15-17:45 | Kaffepause |
-| 17:45-19:00 | *Toolvorstellung (engl.):* **VISAR Writing Assistant**<br>Zheng Zhang (Kurzpräsentation, online)<br>TBA (Kommentar) |
+| 17:45-19:00 | *Toolvorstellung (engl.):* **VISAR Writing Assistant**<br>Zheng Zhang (Kurzpräsentation, online)<br>Yannick von Ostheim (Kommentar) |
 
 ### Freitag, 14.11.2025
 
@@ -124,10 +124,10 @@ Die Tools werden jeweils im folgenden Format vorgestellt und diskutiert:
 | 10:15–10:30 | Kurzpause |
 | 10:30-11:45 | *Toolvorstellung (engl.):* **TITAN Chatbot**<br>Dora Katsamori (Kurzpräsentation)<br>Dennis Frieß (Kommentar) |
 | 11:45-12:15 | Kaffepause |
-| 12:15-13:15 | **Diskussion** <br> Jonas Fegert |
+| 12:15-13:15 | *Diskussion (engl.):* **Wie geht es weiter? KI und Deliberation in die Praxis umsetzen**<br> Jonas Fegert (Input & Moderation)|
 | 13:15-13:30 | Abschluss |
 
-
+*Zur Diskussion (12:15-13:15 Uhr):* In dieser abschließenden Diskussion werden wir einen Schritt zurücktreten und überlegen, was wir disziplinübergreifend durch die diskutierten Prototypen zur KI-gestützten Deliberation gelernt haben. Gemeinsam werden wir Bedürfnisse und vielversprechende Anwendungsfälle explorieren, darüber nachdenken, wie unsere Ideen in zukünftige Kooperationen und Projekte umgesetzt werden können und welche Fördermöglichkeiten dafür existieren.
 
 ## Organisatorisches
 
