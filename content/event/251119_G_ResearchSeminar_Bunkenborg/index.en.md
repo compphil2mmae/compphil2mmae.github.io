@@ -1,0 +1,67 @@
+---
+title: 'Francesca Bunkenborg (Göttingen): "On Commemorative Ethics"'
+subtitle: CompPhil²MMAE Research Seminar
+event: CompPhil²MMAE Research Seminar
+event_url: https://ilias.studium.kit.edu/goto.php/crs/2794184
+
+location: Department of Philosophy (Building 09.20, 4. OG), R. 511
+address:
+  street: Douglasstraße 24
+  city: Karlsruhe
+  postcode: '76133'
+
+summary: CompPhil²MMAE Research Seminar
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2025-11-19T11:30:00Z'
+date_end: '2025-11-19T13:00:00Z'
+all_day: false
+
+
+# Schedule page publish date (NOT talk date).
+publishDate: '2025-10-24T17:30:00Z'
+
+authors: []
+tags: [Guest Lecture]
+
+# Is this a featured talk? (true/false)
+featured: true
+
+image:
+  filename: "/Events/CompPhil-ResearchSeminar.png"
+  alt: "CompPhil²MMAE Research Seminar"
+  caption: ''
+  focal_point: Right
+
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+
+# Markdown Slides (optional).
+#   Associate this talk with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides:
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+---
+
+The CompPhil²MMAE research seminar "Aktuelle Texte der Philosophie" is a central discussion and reflection space for the CompPhil²MMAE team and, in the spirit of research-oriented teaching, also a course for advanced students. 
+
+In the research seminar, CompPhil³MMAE members and external speakers present their research work in philosophy and related disciplines (usually in a *pre-read* format) for discussion. 
+
+The CompPhil²MMAE research seminar is organised by {{% mention "christian.seidel" %}} and {{% mention "gregor.betz" %}}.
+
+{{% callout note%}}
+**Students** and **Colleagues** are very welcome!
+{{% /callout %}}
+
+To stay tuned, get current texts and upcoming invitations, you can join the "forschungsseminar-philosophie" [mailing list](https://www.lists.kit.edu/sympa/help/user-subscribe.html "KIT research seminar mailing-list") or write [forschungsseminar-philosophie-request@lists.kit.edu](mailto:forschungsseminar-philosophie-request@lists.kit.edu).
