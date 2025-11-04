@@ -1,10 +1,10 @@
 ---
 title: 'Sven Banisch (ITZ-Soz/KIT) & Hawal Shamon (FZ Jülich): "Biased Processing and Opinion Polarization: Experimental Refinement of Argument Communication Theory in the Context of the Energy Debate"'
-subtitle: CompPhil²MMAE Forschungsseminar
-event: CompPhil²MMAE Forschungsseminar
+subtitle: CompPhil²MMAE Research Seminar
+event: CompPhil²MMAE Research Seminar
 event_url: https://ilias.studium.kit.edu/goto.php?target=crs_2340641&client_id=produktiv
 
-location: Department of Philosophy (Geb. 09.20, 4. OG), R. 511
+location: Department of Philosophy (Building 09.20, 4. OG), R. 511
 address:
   street: Douglasstraße 24
   city: Karlsruhe

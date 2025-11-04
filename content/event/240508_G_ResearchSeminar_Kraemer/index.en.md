@@ -1,7 +1,7 @@
 ---
 title: 'Felicitas Krämer (Potsdam): "Emotional-motivationale Aspekte der Zukunftsverantwortung (Emotional-motivational aspects of responsibility for the future)"'
-subtitle: CompPhil²MMAE Research seminar
-event: CompPhil²MMAE Research seminar
+subtitle: CompPhil²MMAE Research Seminar
+event: CompPhil²MMAE Research Seminar
 event_url: https://ilias.studium.kit.edu/goto.php?target=crs_2340641&client_id=produktiv
 
 location: Department of Philosophy (Building 09.20, 4. OG), R. 511
@@ -10,7 +10,7 @@ address:
   city: Karlsruhe
   postcode: '76133'
 
-summary: CompPhil²MMAE Research seminar
+summary: CompPhil²MMAE Research Seminar
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
