@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: Alina Jacobs spricht über "Surveillance and Knowledge. On the Epistemic Dimension of State Control"
+title: 'Alina Jacobs spricht über "Surveillance and Knowledge: On the Epistemic Dimension of State Control"'
 subtitle: Vortrag beim **2. SWIP Doktorand:innen-Workshop für FLINTA-Personen**
 summary: Beim 2. SWIP Doktorand:innen-Workshop für FLINTA-Personen wird Alina Jacobs ihr Dissertationsprojekt vorstellen. Die Veranstaltung in Flensburg soll mit kooperativer Atmosphäre der gemeinsamen philosophischen Diskussion und Vernetzung dienen.
 authors: [alina.jacobs]
@@ -20,6 +20,12 @@ image:
   focal_point: "Smart"
   preview_only: false
 
+links:
+  - icon: calendar-days
+    icon_pack: fas
+    text: The Event
+    url: /event/251127_w_swip_doctoral_workshop/
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -32,5 +38,5 @@ Beim **2. SWIP Doktorand:innen-Workshop für FLINTA-Personen** am 27. und 28. No
 Der Vortrag behandelt, inwieweit staatliche Massenüberwachung als epistemische Infrastruktur verstanden werden kann und wie sie sich auf die epistemische Autonomie der Überwachten auswirkt.
 
 Der Workshop wird von Anne Reichold und Adriana Pavić für [SWIP Germany e.V.](https://swip-philosophinnen.org/) organisiert.</br>
-{{% mention "alina.jacobs" %}}' Vortrag findet am [27. November um 14:30 Uhr](/event/251127_W_SWIP_Doctoral_Workshop) statt.
+{{% mention "alina.jacobs" %}}' Vortrag findet am [27. November um 14:30 Uhr](/event/251127_w_swip_doctoral_workshop/) statt.
 
