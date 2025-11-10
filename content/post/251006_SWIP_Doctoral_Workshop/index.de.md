@@ -28,13 +28,9 @@ image:
 projects: [eSMS]
 ---
 
-Beim **2. SWIP Doktorand:innen-Workshop für FLINTA-Personen** an der Europa-Universität Flensburg wird {{% mention "alina.jacobs" %}} ihr Dissertationsprojekt “Überwachung und Wissen: Zur epistemischen Dimension staatlicher Kontrolle”. 
+Beim **2. SWIP Doktorand:innen-Workshop für FLINTA-Personen** am 27. und 28. November an der Europa-Universität Flensburg wird {{% mention "alina.jacobs" %}} ihr Dissertationsprojekt “Überwachung und Wissen: Zur epistemischen Dimension staatlicher Kontrolle” vorstellen. 
 Der Vortrag behandelt, inwieweit staatliche Massenüberwachung als epistemische Infrastruktur verstanden werden kann und wie sie sich auf die epistemische Autonomie der Überwachten auswirkt.
 
-<!--more-->
-
-Der Workshop findet am 27. und 28. November statt und wird von Anne Reichold und Adriana Pavić für SWIP Germany e.V. organisiert.
-
-
-
+Der Workshop wird von Anne Reichold und Adriana Pavić für [SWIP Germany e.V.](https://swip-philosophinnen.org/) organisiert.</br>
+{{% mention "alina.jacobs" %}}' Vortrag findet am [27. November um 14:30 Uhr](/event/251127_W_SWIP_Doctoral_Workshop) statt.
 
