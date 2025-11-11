@@ -84,4 +84,4 @@ user_groups:
   # - Alumni
 ---
 
-Hanna Müller unterstützt CompPhil²MMAE als studentische Hilfskraft und Tutorin im Modul **Ars Rationalis**.
+Hanna Müller unterstützt CompPhil²MMAE als studentische Hilfskraft und Tutorin im Modul {{< link "current_ars-rationalis" >}}**Ars Rationalis**{{< /link >}}.

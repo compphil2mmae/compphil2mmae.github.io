@@ -84,4 +84,4 @@ user_groups:
   # - Alumni
 ---
 
-Dilara Akyildiz unterstützt CompPhil²MMAE als studentische Hilfskraft und Tutorin im Modul **Ars Rationalis**.
+Dilara Akyildiz unterstützt CompPhil²MMAE als studentische Hilfskraft und Tutorin im Modul {{< link "current_ars-rationalis" >}}**Ars Rationalis**{{< /link >}}.

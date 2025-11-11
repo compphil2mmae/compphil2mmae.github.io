@@ -84,4 +84,4 @@ user_groups:
   # - Alumni
 ---
 
-Maria Brambach unterstützt CompPhil²MMAE als studentische Hilfskraft und als Tutorin im Modul "Einführung in die Philosophie" ([{{< icon name="envelope" pack="fas" >}} Tutoriumsteam](mailto:tutorium.seidel@itz.kit.edu)).
+Maria Brambach unterstützt CompPhil²MMAE als studentische Hilfskraft und als Tutorin im Modul {{<link "philo1-ilias">}}"Einführung in die Philosophie"{{</link>}} ([{{<icon name="envelope" pack="fas">}} Tutoriumsteam](mailto:tutorium.seidel@itz.kit.edu)).

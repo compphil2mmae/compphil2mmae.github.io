@@ -84,4 +84,4 @@ user_groups:
   # - Alumni
 ---
 
-Elias Hahn supports CompPhil²MMAE as a tutor in the module "Einführung in die Philosophie (Introduction to Philosophy)"  ([{{< icon name="envelope" pack="fas" >}} Tutoriumsteam](mailto:tutorium.seidel@itz.kit.edu)).
+Elias Hahn supports CompPhil²MMAE as a tutor in the module {{<link "philo1-ilias">}}"Einführung in die Philosophie"{{</link>}} (Introduction to philosophy) ([{{<icon name="envelope" pack="fas">}} Tutoriumsteam](mailto:tutorium.seidel@itz.kit.edu)).

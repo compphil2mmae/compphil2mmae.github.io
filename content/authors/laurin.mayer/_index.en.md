@@ -84,4 +84,4 @@ user_groups:
   # - Alumni
 ---
 
-Laurin Mayer supports CompPhil²MMAE as a tutor in the module **Ars Rationalis**.
+Laurin Mayer supports CompPhil²MMAE as a tutor in the module {{< link "current_ars-rationalis" >}}**Ars Rationalis**{{< /link >}}.

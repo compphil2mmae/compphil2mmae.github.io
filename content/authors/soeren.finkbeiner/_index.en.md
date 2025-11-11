@@ -84,4 +84,4 @@ user_groups:
   # - Alumni
 ---
 
-Sören Finkbeiner supports CompPhil²MMAE as a student assistant and as a tutor in the module "Einführung in die Philosophie (Introduction to philosophy)" ([{{< icon name="envelope" pack="fas" >}} Tutoriumsteam](mailto:tutorium.seidel@itz.kit.edu)).
+Sören Finkbeiner supports CompPhil²MMAE as a student assistant and as a tutor in the module {{<link "philo1-ilias">}}"Einführung in die Philosophie"{{</link>}} (Introduction to philosophy) ([{{<icon name="envelope" pack="fas">}} Tutoriumsteam](mailto:tutorium.seidel@itz.kit.edu)).

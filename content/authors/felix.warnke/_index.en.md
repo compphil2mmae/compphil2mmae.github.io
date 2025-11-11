@@ -84,4 +84,4 @@ user_groups:
   # - Alumni
 ---
 
-Felix Warnke supports CompPhil²MMAE as a tutor in the module **Ars Rationalis**.
+Felix Warnke supports CompPhil²MMAE as a tutor in the module {{< link "current_ars-rationalis" >}}**Ars Rationalis**{{< /link >}}.

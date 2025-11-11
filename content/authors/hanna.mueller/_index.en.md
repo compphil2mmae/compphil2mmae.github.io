@@ -84,4 +84,4 @@ user_groups:
   # - Alumni
 ---
 
-Hanna Müller supports CompPhil²MMAE as a student assistant and as a tutor in the module **Ars Rationalis**.
+Hanna Müller supports CompPhil²MMAE as a student assistant and as a tutor in the module {{< link "current_ars-rationalis" >}}**Ars Rationalis**{{< /link >}}.
