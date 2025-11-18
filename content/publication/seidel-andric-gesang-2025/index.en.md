@@ -29,7 +29,7 @@ address: 'Berlin'
 editor: 'Vuko Andrić & Bernward Gesang'
 #pages: '??--??'
 publisher: 'J.B. Metzler'
-note: '[Im Erscheinen.]'
+note: '[In publication.]'
 
 # doi: '10.1007/978-3-476-05930-7_9'
 

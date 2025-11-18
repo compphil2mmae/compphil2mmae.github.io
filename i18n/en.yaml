@@ -210,10 +210,22 @@
 - id: pub_review
   translation: Review (or similar)
 
+- id: editor_abb
+  translation: Ed.
+
+- id: published_by_abb
+  translation: Pub. by
+
+- id: page_abb
+  translation: p.
+
 # Project details
 
 - id: open_project_site
   translation: Go to Project Site
+
+- id: project_collaborators
+  translation: Collaborators
 
 # Content types for default archive page titles and search results
 

@@ -45,7 +45,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">{{ i18n "published" }}</div>
-          <div class="col-12 col-md-9">{{ .Params.journal | markdownify }}. {{ .Params.volume | markdownify }} ({{- .Params.number | markdownify -}}), S. {{ .Params.pages | markdownify -}}.</div>
+          <div class="col-12 col-md-9">{{ .Params.journal | markdownify }}. {{ .Params.volume | markdownify }} ({{- .Params.number | markdownify -}}), {{ i18n "page_abb" | default "S." }} {{ .Params.pages | markdownify -}}.</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -59,7 +59,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">{{ i18n "published" }}</div>
-          <div class="col-12 col-md-9">{{- .Params.booktitle | markdownify -}}. Hrsg. von {{ .Params.editor | markdownify -}}. {{ .Params.address | markdownify -}}: {{ .Params.publisher | markdownify -}}, S. {{ .Params.pages | markdownify -}}. {{ .Params.note | markdownify }}</div>
+          <div class="col-12 col-md-9">{{- .Params.booktitle | markdownify -}}. {{ i18n "published_by_abb" | default "Hrsg. von" }} {{ .Params.editor | markdownify -}}. {{ .Params.address | markdownify -}}: {{ .Params.publisher | markdownify -}}{{ with .Params.pages }}, {{ i18n "page_abb" | default "S." }} {{ . | markdownify -}}{{ end }}.{{ with .Params.note }} {{ . | markdownify }}{{ end }}</div>
         </div>
       </div>
       <div class="col-md-1"></div>

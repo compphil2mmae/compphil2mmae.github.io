@@ -214,12 +214,24 @@
   translation: Patent
 
 - id: pub_review
-  translation: Rezension (o.Ä.)  
+  translation: Rezension (o.Ä.)
+
+- id: editor_abb
+  translation: Hg.
+
+- id: published_by_abb
+  translation: Hrsg. von
+
+- id: page_abb
+  translation: S.
 
 # Project details
 
 - id: open_project_site
   translation: Zur Projektseite
+
+- id: project_collaborators
+  translation: Beteiligte
 
 # Content types for default archive page titles and search results
 

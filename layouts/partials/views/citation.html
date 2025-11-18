@@ -11,7 +11,7 @@
     {{ partial "page_metadata_authors" $item }}
   </span>
   {{ if $item.Params.edited }}
-    (Hg.)
+    ({{ i18n "editor_abb" | default "Hg." }})
   {{ end }}
   ({{- $item.Date.Format "2006" -}}).
   <a href="{{ $item.RelPermalink }}">{{ $item.Title | markdownify -}}</a>.
@@ -22,7 +22,7 @@
     {{- $item.Params.booktitle | markdownify -}}.
   {{ end }}
   {{ if $item.Params.editor }}
-    Hrsg. von {{ $item.Params.editor | markdownify -}}.
+  {{ i18n "published_by_abb" | default "Hrsg. von" }} {{ $item.Params.editor | markdownify -}}.
   {{ end }}
   {{ if $item.Params.edition }}
     ({{- $item.Params.edition | markdownify -}})
@@ -34,7 +34,7 @@
     {{- $item.Params.address | markdownify -}}:
     {{ if $item.Params.publisher }}
         {{- $item.Params.publisher | markdownify -}}
-        {{ if $item.Params.pages }}, S. {{ $item.Params.pages | markdownify -}}.
+        {{ if $item.Params.pages }}, {{ i18n "page_abb" | default "S." }} {{ $item.Params.pages | markdownify -}}.
         {{ else }}.
         {{ end }}
     {{ end }}
@@ -46,12 +46,9 @@
     {{ end }}
   {{ if $item.Params.volume }}
     {{ $item.Params.volume | markdownify }}
-    {{ if $item.Params.number }}
-        ({{- $item.Params.number | markdownify -}})
-      {{ end }}  
-    {{ if $item.Params.pages }}, S. {{ $item.Params.pages | markdownify -}}.
+    {{ if $item.Params.number }}({{- $item.Params.number | markdownify -}}){{ end }}{{ if $item.Params.pages }}, {{ i18n "page_abb" | default "S." }} {{ $item.Params.pages | markdownify -}}.
     {{ else }}.
-    {{ end }}  
+    {{ end }}
   {{ end }}
   {{ if $item.Params.note }}
      {{- $item.Params.note | markdownify -}}
