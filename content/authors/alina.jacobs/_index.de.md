@@ -18,7 +18,7 @@ role: "Doktorandin"
 
 # Organizations/Affiliations
 organizations:
-  - name: Department für Philosophie
+#  - name: Department für Philosophie
    # url: 'https://www.plus.ac.at/'
 
 # Short bio (displayed in user profile at end of posts)

@@ -19,10 +19,8 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
- - name: Chair of Philosophical Anthropology # DebateLab
-   url: '' # https://debatelab.philosophie.kit.edu/
- - name: DebateLab
-   url: https://debatelab.philosophie.kit.edu/
+# - name: Chair of Philosophical Anthropology
+#   url: ''
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -98,7 +96,7 @@ user_groups:
   # - Alumni
 ---
 
-Sebastian Cacean is a research assistant at the [Debatelab](https://debatelab.philosophie.kit.edu/) of the Department of Philosophy at the Karlsruhe Institute of Technology (KIT) and is currently working on the project [**_KIDeKu_**]({{< relref "/research/KIDEKU" >}}). 
+Sebastian Cacean is a research assistant at the CompPhil²MMAE (former Debatelab) of the Department of Philosophy at the Karlsruhe Institute of Technology (KIT) and is currently working on the project [**_KIDeKu_**]({{< relref "/research/KIDEKU" >}}). 
 
 After studying physics and philosophy, he was involved in various research projects in which he dealt with questions of applied ethics (e.g. [Leadership Ethics as Ethics in the Sciences](https://uni-tuebingen.de/forschung/zentren-und-institute/internationales-zentrum-fuer-ethik-in-den-wissenschaften/das-izew/archiv/abgeschlossene-projekte/projektseiten/fuehrungsethik-als-ethik-in-den-wissenschaften/), [Bürgderdelphi Germline Therapy](https://www.wmk.itz.kit.edu/2950.php)), philosophy of science (e.g. [Limits and Objectivity of Scientific Foreknowledge: The Case of Energy Outlooks ](https://srg-lobster.philosophie.kit.edu/)) and methods of philosophy (e.g. [How Far Does Reflective Equilibrium Take Us?](https://re-models.github.io/)). In his dissertation, he developed content-analytical methods for analysing argumentation structures that make it possible to reconcile openness of interpretation with the criterion of reliability.
 

@@ -18,14 +18,14 @@ role: Research & Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
- - name: DebateLab
-   url: https://debatelab.philosophie.kit.edu/
+# - name: Chair of Philosophical Anthropology
+# - url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Schwerpunkt A
+interests:
+   - \"Ars Rationalis\"
 #   - Schwerpunkt B
 #   - Schwerpunkt C
 
@@ -84,4 +84,4 @@ user_groups:
   # - Alumni
 ---
 
-Dilara Akyildiz supports CompPhil²MMAE as a student assistant and as a tutor in the module **Ars Rationalis**.
+Dilara Akyildiz supports CompPhil²MMAE as a student assistant and as a tutor in the module {{< link "current_ars-rationalis" >}}**Ars Rationalis**{{< /link >}}.

@@ -18,30 +18,30 @@ role: "Doktorandin"
 
 # Organizations/Affiliations
 organizations:
-  - name: Department für Philosophie
+#  - name: Department für Philosophie
    # url: 'https://www.plus.ac.at/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-    - Angewandte Ethik
-    - Politische Philosophie
-    - Soziale Erkenntnistheorie
-    - Feministische Philosophie
-    - Zeitgenössische Metaphysik 
+    - Applied Ethics
+    - Political Philosophy
+    - Social Epistemology
+    - Feminist Philosophy
+    - Contemporary Metaphysics
 
 
 education:
   courses:
-    - course: MA Philosophie
-      institution: Universität Wien
+    - course: MA Philosophy
+      institution: University of Wien
       year: 2025
-    - course: MA Germanistik
-      institution: Universität Wien
+    - course: MA German studies
+      institution: University of Wien
       year: 2023
-    - course: BA Germanistik & Philosophie 
-      institution: Ruprecht-Karls-Universität Heidelberg
+    - course: BA German studies & Philosophy 
+      institution: Ruprecht-Karls-University Heidelberg
       year: 2020
 
 # Social/Academic Networking
@@ -77,12 +77,12 @@ user_groups:
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
-  - Doktorand:innen # Grad Students
-  # - Assoziierte 
+  - PhD students # Grad Students
+  # - Associates 
   # - Gäste # Visitors
-  # - Alumni
+  # - Alumnae & Alumni
 ---
+Alina Jacobs has been a research associate at the Department of Philosophy at the Karlsruhe Institute of Technology (KIT) since 2025. She is doing her Ph.D. in ethics with a focus on questions of mass surveillance and works at the intersection of ethics, political philosophy, and social epistemology.
 
-Alina Jacobs ist seit 2025 wissenschaftliche Mitarbeiterin am Department für Philosophie des Karlsruher Instituts für Technologie (KIT). Sie promoviert zu ethischen Fragen staatlicher Massenüberwachung und arbeitet an der Schnittstelle von Ethik, politischer Philosophie und sozialer Erkenntnistheorie.
-
-Zuvor war sie als Studienassistentin und Tutorin am [Institut für Philosophie](https://philosophie.univie.ac.at/) der Universität Wien tätig und leitete dort als Präsidentin das *Vienna Forum for Analytic Philosophy*. Ihre akademischen Stationen führten sie durch Heidelberg und Wien, wo sie Philosophie und Germanistik studierte. Ihre Arbeiten wurden u. a. auf dem Internationalen Wittgenstein-Symposium vorgestellt und veröffentlicht.
+Before that, she was a teaching assistant and tutor at the [Institute of Philosophy](https://philosophie.univie.ac.at/) at the University of Vienna, where she also served as the President of the *Vienna Forum for Analytic Philosophy*.
+Her academic career took her to Heidelberg and Vienna, where she studied philosophy and German language and literature. Her work has been presented and published at venues including the International Wittgenstein Symposium.

@@ -18,17 +18,15 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
- - name: Lehrstuhl für Philosophische Anthropologie
-   url: '' # https://debatelab.philosophie.kit.edu/
- - name: DebateLab
-   url: https://debatelab.philosophie.kit.edu/
+# - name: Lehrstuhl für Philosophische Anthropologie
+#   url: ''
 
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Schwerpunkt A
+interests:
+   - \"KIDeKu\"
 #   - Schwerpunkt B
 #   - Schwerpunkt C
 

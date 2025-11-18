@@ -19,8 +19,8 @@ role: 'Lehrbeauftragter'
 
 # Organizations/Affiliations
 organizations:
-  - name: Lehrstuhl für Philosophische Anthropologie
-    url: ''
+#  - name: Lehrstuhl für Philosophische Anthropologie
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
@@ -32,7 +32,7 @@ interests:
 
 education:
   courses:
-    - course: Dr. phil. 
+    - course: Dr. phil. in Philosophy
       institution: Karlsruher Institut für Technologie
       year: 2024
 #    - course: M.A. in ???

@@ -19,48 +19,53 @@ role: "[Alumnus] Postdoc | [now] Professor"
 # Organizations/Affiliations
 organizations:
   - name: Paris-Lodron-Universität Salzburg
-    url: 'https://www.plus.ac.at/'
+    url: 'https://www.plus.ac.at/philosophy-gw/the-department/personal/david-lanius/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' # My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Populismus, Fake News und Hassrede
-#   - Vagheit und Unbestimmtheit 
-#   - Vermittlung argumentativer und epistemischer Kompetenzen
+interests:
+  - Populism, fake news and hate speech
+  - Epistemology
+  - Logic
+  - Argumentation theory
 
-# education:
-#   courses:
-#     - course: Dr. phil. Philosophie 
-#       institution: Humboldt-Universität zu Berlin
-#       year: 2016
-#     - course: Logic Year, Logik 
-#       institution: Institute of Logic, Language and Computation, Universiteit van Amsterdam
-#       year: 2011
-#     - course: M.Phil. Philosophie, Logik und Wissenschaftstheorie
-#       institution: Ludwig-Maximilian-Universität München
-#       year: 2010
-#     - course: Grundstudium M.A., Philosophie und Volkswirtschaftslehre 
-#       institution: Universität Regensburg
-#       year: 2007
+education:
+  courses:
+    - course: Assistent Professor Assistant Professor of Practical Philosophy & Didactics of Philosophy
+      institution: Paris-Lodron-University of Salzburg
+      year: now
+    - course: PostDoc
+      institution: Karlsruher Institute of Technologie (KIT)
+      year: 2024
+    - course: Doctor of Philosophy 
+      institution: Humboldt-University of Berlin
+      year: 2017
+    - course: M.Phil. in Philosophy, Logic and Philosophy of Science
+      institution: Ludwig-Maximilian-Universität (LMU) München
+      year: 2010
+    - course: M.A., Philosophy and economics 
+      institution: University of Regensburg
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:david.lanius@kit.edu'
+  - icon: house
+    icon_pack: fas
+    link: 'https://davidlanius.de'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:david.lanius@plus.ac.at'
   # - icon: address-card
   #   icon_pack: fas
   #   link: 'https://www.philosophie.kit.edu/mitarbeiter_805.php'
   # - icon: phone
   #   icon_pack: fas
   #   link: 'https://www.philosophie.kit.edu/mitarbeiter_805.php' 
-  - icon: house
-    icon_pack: fas
-    link: 'https://davidlanius.de'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -83,4 +88,4 @@ user_groups:
   - Alumnae & Alumni
 ---
 
-David Lanius ist Gründer und Leiter des [Forums für Streitkultur](https://forum-streitkultur.de) und war bis zum Sommersemester 2024 Postdoc bei CompPhil²MMAE. Seitdem ist er Assistenzprofessor für Praktische Philosophie und Philosophiedidaktik an der [Paris-Lodron-Universität Salzburg](https://www.plus.ac.at/).
+David Lanius is cone of the founders and co-director of the "[Forum für Streitkultur](https://forum-streitkultur.de)" (Forum for Debate Culture) and was a postdoctoral researcher at CompPhil²MMAE until the summer semester of 2024. Since then, he has been an assistant professor of practical philosophy and philosophy didactics at the [Paris-Lodron-University of Salzburg](https://www.plus.ac.at/philosophy-gw/the-department/personal/david-lanius/).

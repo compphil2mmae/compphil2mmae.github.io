@@ -18,17 +18,15 @@ role: Research & Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
- - name: Lehrstuhl für Philosophische Anthropologie
-   url: '' # https://debatelab.philosophie.kit.edu/
- - name: DebateLab
-   url: https://debatelab.philosophie.kit.edu/
+# - name: Lehrstuhl für Philosophische Anthropologie
+#   url: ''
 
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Schwerpunkt A
+interests:
+   - \"Ars Rationalis\"
 #   - Schwerpunkt B
 #   - Schwerpunkt C
 
@@ -87,4 +85,4 @@ user_groups:
   # - Alumni
 ---
 
-Pia Blau unterstützt CompPhil²MMAE als studentische Hilfskraft und als Tutorin im Modul "Ars Rationalis".
+Pia Blau unterstützt CompPhil²MMAE als studentische Hilfskraft und als Tutorin im Modul {{< link "current_ars-rationalis" >}}**Ars Rationalis**{{< /link >}}.

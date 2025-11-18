@@ -18,14 +18,14 @@ role: Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
- - name: DebateLab
-   url: https://debatelab.philosophie.kit.edu/
+# - name: CompPhil²MMAE
+#   url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Schwerpunkt A
+interests:
+   - \"Ars Rationalis\"
 #   - Schwerpunkt B
 #   - Schwerpunkt C
 

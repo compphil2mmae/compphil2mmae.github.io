@@ -18,8 +18,8 @@ role: Office Management
 
 # Organizations/Affiliations
 organizations:
-  - name: Lehrstuhl für Philosophische Anthropologie
-    url: ''
+#  - name: Lehrstuhl für Philosophische Anthropologie
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' # Anja Reinke ist zuständig für das Office Management des Lehrstuhls für Philosophische Anthropologie. 
@@ -31,7 +31,7 @@ bio: '' # Anja Reinke ist zuständig für das Office Management des Lehrstuhls f
 
 education:
   courses:
-    - course: Dipl.-Übers.
+    - course: Diplom-Übersetzerin
       institution: Universität Heidelberg
       # year: 2000
 

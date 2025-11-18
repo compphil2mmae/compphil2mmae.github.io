@@ -18,8 +18,8 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Lehrstuhl für Philosophische Anthropologie
-    url: ''
+#  - name: Lehrstuhl für Philosophische Anthropologie
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
@@ -69,6 +69,11 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=6L4ZgWoAAAAJ
+  - icon: envelope-circle-check
+    icon_pack: fas
+    link: uploads/Seidel_public-encrypt.key
+    link_attributes: "download='Seidel_public-encrypt.key'"
+    link_label: "Öffentlichen PGP Schlüssel herunterladen"  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

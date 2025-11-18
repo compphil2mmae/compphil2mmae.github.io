@@ -17,9 +17,9 @@ superuser: false
 role: "[Alumna] Doktorandin" 
 
 # Organizations/Affiliations
-# organizations:
-#  - name: # DebateLab
-#    url: # https://debatelab.philosophie.kit.edu/
+organizations:
+  - name: CompPhil²MMAE
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
@@ -29,11 +29,11 @@ bio: '' #My research interests include distributed robotics, mobile computing an
 #   - Schwerpunkt B
 #   - Schwerpunkt C
 
-# education:
-#   courses:
-#     - course: Abschluss
-#       institution: Institution
-#       year: Jahr
+education:
+  courses:
+    - course: Dr. phil. in Philosophie
+      institution:  Karlsruher Institut für Technologie (KIT)
+      year: 2023
 #     - course: Abschluss
 #       institution: Institution
 #       year: Jahr

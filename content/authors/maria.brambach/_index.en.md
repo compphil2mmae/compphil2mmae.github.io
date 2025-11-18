@@ -18,14 +18,14 @@ role: Research & Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
- - name: Chair of Philosophical Anthropology # DebateLab
-   url: '' # https://debatelab.philosophie.kit.edu/
+# - name: Chair of Philosophical Anthropology
+#   url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Schwerpunkt A
+interests:
+   - \"Einführung in die Philosophie\" (Introduction to philosophy)
 #   - Schwerpunkt B
 #   - Schwerpunkt C
 
