@@ -6,6 +6,8 @@ Das Repo `compphil2maae.github.io` ist öffentlich und enthält im branch `main`
 
 Über einen github-internen workflow in `.github/workflows/publish.yml` wird bei jedem push ins remote über hugo ein statische gitpages-html-Seite erzeugt. Der html-Output der  `/public` und `/resources` directories wird ignoriert. Die Website ist unter https://compphil2mmae.github.io/ erreichbar.
 
+Unter `/data/links.yml` liegt eine Sammlung an Links, die mit `{{< link "link-id" >}}Optionaler Text{{< /link >}}` referenziert werden können. Gedacht ist das insbesondere für Verweise auf Ilias Kurse o. Ä. die sich regelmäßig ändern, um diese nur an einer einzigen Stelle anpassen zu müssen und nichts zu übersehen.
+
 ## Vorgehen bei Änderungsvorschlägen
 
 - Typos, kleine Bugs etc. können gern gleich direkt korrigiert werden.
@@ -17,8 +19,8 @@ Das Repo `compphil2maae.github.io` ist öffentlich und enthält im branch `main`
 
 1. Pull from `compphil2maae.github.io` 
 2. Change website locally
-3. check changes by running `hugo server --disableFastRender`
+3. check changes by running `hugo server --disableFastRender` or `hugo server --ignoreCache --disableFastRender` (falls Probleme auftauchen)
 5. Commit locally
 6. Push commit to remote repository `compphil2maae.github.io`
-7. wait a couple of minutes & check auto deployment by visiting https://compphil2mmae.github.io
+7. wait a couple of minutes & check auto deployment by visiting https://compphil2mmae.github.io/actions
 
