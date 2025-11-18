@@ -69,11 +69,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=6L4ZgWoAAAAJ
-  - icon: envelope-circle-check
-    icon_pack: fas
-    link: uploads/Seidel_public-encrypt.key
-    link_attributes: "download='Seidel_public-encrypt.key'"
-    link_label: "Öffentlichen PGP Schlüssel herunterladen"  
+  - icon: protected-mail
+    icon_pack: 
+    link: https://compphil2mmae.github.io/uploads/personal/Christian-Seidel_public-keys.zip # absolute link to prevent faulty german link (github.io/de/uploads/...)
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
