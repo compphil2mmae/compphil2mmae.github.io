@@ -37,7 +37,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: To the ILIAS-course
-          url: https://ilias.studium.kit.edu/goto.php?target=crs_2342049&client_id=produktiv  
+          url: https://ilias.studium.kit.edu/goto.php/crs/2748649
       - title: Einführung in die Philosophie (Introduction to philosophy)
         content: 'Das Wahre & das Gute -- über die großen Fragen nachdenken (The true & the good -- thinking about the big questions)'
         align: right
@@ -53,7 +53,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: To the ILIAS module information page
-          url: https://ilias.studium.kit.edu/goto.php?target=crs_1616180&client_id=produktiv
+          url: https://ilias.studium.kit.edu/goto.php/crs/1616180
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -69,8 +69,8 @@ sections:
       title: "Mission Statement"
       text: |2-
          <font size="+1"> In the [Department of Philosophy](https://www.philosophie.kit.edu/), CompPhil²MMAE is jointly responsible for the **philosophical foundation**. We are responsible for the specialised modules in the first year of study:
-        - **Ars Rationalis**: This [module](https://ilias.studium.kit.edu/goto.php?target=crs_2342049&client_id=produktiv) aims to teach critical thinking and develop argumentative skills. These skills are central to all academic disciplines and so the module is also part of other degree programmes.  
-        - **Introduction to Philosophy**: This [module](https://ilias.studium.kit.edu/goto.php?target=crs_1616180&client_id=produktiv) offers an initial introduction to the major questions of philosophy and provides important basic knowledge for the further study of philosophy. It is part of all degree programmes in which Philosophy can be studied as a major or minor subject, and is also open to the [Studium Generale](https://www.zak.kit.edu/studium_generale.php).
+        - **Ars Rationalis**: This {{< link "current_ars-rationalis" >}}module{{< /link >}} aims to teach critical thinking and develop argumentative skills. These skills are central to all academic disciplines and so the module is also part of other degree programmes.  
+        - **Introduction to Philosophy**: This {{< link "modul-info_einführung-philo" >}}module{{< /link >}} offers an initial introduction to the major questions of philosophy and provides important basic knowledge for the further study of philosophy. It is part of all degree programmes in which Philosophy can be studied as a major or minor subject, and is also open to the [Studium Generale](https://www.zak.kit.edu/studium_generale.php).
 
         In teaching, we rely on **innovative teaching formats** and **activating methods** such as inverted classroom, live feedback, argument reconstruction in teamwork, peer assessment, small group tutorials for discussing essays or study projects. Some of our courses (such as the [CompPhil²MMAE project seminar]({{< relref "/event/240508_W_Blockseminar_Argumentationsanalyse" >}}) organised in cooperation with the University of Bern and most of our interdisciplinary courses in cooperation with the Department of Computer Science) are **project-based**. 
 
@@ -83,8 +83,7 @@ sections:
   - block: markdown
     id: ressources
     content:
-      title: "Materials for students"
       text: |2-
         {{% staticref "uploads/hinweise-essays.pdf" "newtab" %}} Some tips on writing philosophical essays{{% /staticref %}}
-     
+      title: "Materials for students"
 ---
