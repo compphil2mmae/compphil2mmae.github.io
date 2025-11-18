@@ -18,8 +18,8 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Chair of Philosophical Anthropology
-    url: ''
+#  - name: Chair of Philosophical Anthropology
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
@@ -69,6 +69,51 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=6L4ZgWoAAAAJ
+  - icon: fingerprint
+    icon_pack: fas
+    link: /uploads/personal/Christian-Seidel_public-keys.zip
+#  - icon: envelope-circle-check
+#    icon_pack: fas
+#    link: /uploads/Seidel_public-encrypt.key
+#  - icon: signature
+#    icon_pack: fas
+#    link: /uploads/Seidel_public-encrypt.key
+#  - icon: award
+#    icon_pack: fas
+#    link: /uploads/Seidel_public-encrypt.key
+#  - icon: file-contract
+#    icon_pack: fas
+#    link: /uploads/Seidel_public-encrypt.key
+#  - icon: file-signature
+#    icon_pack: fas
+#    link: /uploads/Seidel_public-encrypt.key
+#  - icon: file-shield
+#    icon_pack: fas
+#    link: /uploads/Seidel_public-encrypt.key
+#  - icon: vault
+#    icon_pack: fas
+#    link: /uploads/Seidel_public-encrypt.key
+#  - icon: user-shield
+#    icon_pack: fas
+#    link: /uploads/Seidel_public-encrypt.key
+#  - icon: shield-halved
+#    icon_pack: fas
+#    link: /uploads/Seidel_public-encrypt.key
+#  - icon: square-envelope
+#    icon_pack: fas
+#    link: /uploads/Seidel_public-encrypt.key
+#  - icon: square-binary
+#    icon_pack: fas
+#    link: /uploads/Seidel_public-encrypt.key
+#  - icon: image-portrait
+#    icon_pack: fas
+#    link: /uploads/Seidel_public-encrypt.key
+#  - icon: user-lock
+#    icon_pack: fas
+#    link: /uploads/Seidel_public-encrypt.key
+#  - icon: lock
+#    icon_pack: fas
+#    link: /uploads/Seidel_public-encrypt.key
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

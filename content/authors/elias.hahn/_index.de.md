@@ -18,14 +18,14 @@ role: Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
- - name: Lehrstuhl für Philosophische Anthropologie # DebateLab
-   url: '' # https://debatelab.philosophie.kit.edu/
+# - name: Lehrstuhl für Philosophische Anthropologie
+#   url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Schwerpunkt A
+interests:
+   - \"Einführung in die Philosophie\"
 #   - Schwerpunkt B
 #   - Schwerpunkt C
 
@@ -84,4 +84,4 @@ user_groups:
   # - Alumni
 ---
 
-Elias Hahn unterstützt CompPhil²MMAE als Tutor im Modul "Einführung in die Philosophie" ([{{< icon name="envelope" pack="fas" >}} Tutoriumsteam](mailto:tutorium.seidel@itz.kit.edu)).
+Elias Hahn unterstützt CompPhil²MMAE als Tutor im Modul {{<link "philo1-ilias">}}"Einführung in die Philosophie"{{</link>}} ([{{<icon name="envelope" pack="fas">}} Tutoriumsteam](mailto:tutorium.seidel@itz.kit.edu)).

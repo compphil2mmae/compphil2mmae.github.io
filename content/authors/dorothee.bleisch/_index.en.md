@@ -18,10 +18,10 @@ role: "[Alumna] PhD student"
 
 # Organizations/Affiliations
 organizations:
- - name: Chair of Philosophical Anthropology (KIT) # DebateLab
-   url: '' # https://debatelab.philosophie.kit.edu/
- - name: Chair of Practical Philosophy (FAU Erlangen) # DebateLab
-   url: 'https://www.philosophie.phil.fau.de/person/bleisch/' # https://debatelab.philosophie.kit.edu/
+ - name: Chair of Philosophical Anthropology (KIT)
+   url: ''
+ - name: Chair of Practical Philosophy (FAU Erlangen)
+   url: 'https://www.philosophie.phil.fau.de/person/bleisch/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
@@ -30,11 +30,14 @@ interests:
   - Moral philosophy/meta-normative theory
   - normative ethics, especially consequentialist moral theories
 
-#education:
-#  courses:
-#    - course: Abschluss
-#      institution: Institution
-#      year: Jahr
+education:
+  courses:
+#    - course: Dr. phil. in Philosophy
+#      institution: Friedrich-Alexander-Universität Erlangen-Nürnberg
+    - course: M.A. in Philosophy
+      institution: Friedrich-Alexander-Universität Erlangen-Nürnberg
+#    - course: B.A. in Philosophy and Political Science
+#      institution: Friedrich-Alexander-Universität Erlangen-Nürnberg
 #    - course: Abschluss
 #      institution: Institution
 #      year: Jahr
@@ -47,6 +50,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: house
+    icon_pack: fas
+    link: 'https://www.philosophie.phil.fau.de/person/bleisch/'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:dorothee.bleisch@fau.de'
@@ -65,9 +71,6 @@ social:
   # - icon: blog
   #   icon_pack: fas
   #   link: https://debatelab.github.io/    
-  - icon: house
-    icon_pack: fas
-    link: 'https://www.philosophie.phil.fau.de/person/bleisch/'
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

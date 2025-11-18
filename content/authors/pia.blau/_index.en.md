@@ -18,17 +18,15 @@ role: Research & Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
- - name: Chair of Philosophical Anthropology
-   url: '' # https://debatelab.philosophie.kit.edu/
- - name: DebateLab
-   url: https://debatelab.philosophie.kit.edu/
+# - name: Chair of Philosophical Anthropology
+#   url: ''
 
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Schwerpunkt A
+interests:
+   - \"Ars Rationalis\"
 #   - Schwerpunkt B
 #   - Schwerpunkt C
 
@@ -45,7 +43,7 @@ bio: '' #My research interests include distributed robotics, mobile computing an
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:pia.blau@kit.edu'
+    link: 'mailto:pia.blau9@kit.edu'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -87,4 +85,4 @@ user_groups:
   # - Alumni
 ---
 
-Pia Blau supports CompPhil²MMAE as a student assistant and as a tutor in the module "Ars Rationalis".
+Pia Blau supports CompPhil²MMAE as a student assistant and as a tutor in the module {{< link "current_ars-rationalis" >}}**Ars Rationalis**{{< /link >}}.

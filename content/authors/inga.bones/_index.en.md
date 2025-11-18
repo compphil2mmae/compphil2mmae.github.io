@@ -18,8 +18,8 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
- - name: Chair of Philosophical Anthropology # DebateLab
-   url: '' # https://debatelab.philosophie.kit.edu/
+# - name: Chair of Philosophical Anthropology
+#   url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.

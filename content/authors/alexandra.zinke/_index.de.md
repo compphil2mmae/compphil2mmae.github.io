@@ -18,37 +18,47 @@ role: "[Alumna] Postdoc | [now] Professor"
 
 # Organizations/Affiliations
 organizations:
- - name: Goethe-Universität Frankfurt # DebateLab
-   url: 'https://qis.server.uni-frankfurt.de/qisserver/rds?moduleCall=webInfo&personal.pid=28022&publishConfFile=webInfoPerson&publishSubDir=personal&state=verpublish&status=init&topitem=members&vmfile=no' # https://debatelab.philosophie.kit.edu/
+ - name: Goethe-Universität Frankfurt
+   url: 'https://qis.server.uni-frankfurt.de/qisserver/rds?moduleCall=webInfo&personal.pid=28022&publishConfFile=webInfoPerson&publishSubDir=personal&state=verpublish&status=init&topitem=members&vmfile=no'
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Schwerpunkt A
-#   - Schwerpunkt B
+interests:
+  - Erkenntnistheorie
+  - Philosophie der Logik
+  - Wissenschaftsphilosophie 
 #   - Schwerpunkt C
 
-# education:
-#   courses:
-#     - course: Abschluss
-#       institution: Institution
-#       year: Jahr
-#     - course: Abschluss
-#       institution: Institution
-#       year: Jahr
-#     - course: Abschluss
-#       institution: Institution
-#       year: Jahr
+education:
+  courses:
+    - course: Professorin für Theoretische Philosophie
+      institution: Goethe-Universität Frankfurt
+      year: seit 2022
+    - course: Juniorprofessorin für Theoretische Philosophie
+      institution: Universität Stuttgart
+      year: ­2021-2022
+    - course: Juniorprofessorin für Philosophie
+      institution: Universität Tübingen
+      year: 2019-2021
+    - course: Postdoc
+      institution: Karlsruher Institut für Technologie (KIT)
+      year: 2017-2019
+    - course: Dr. phil. in Philosophie
+      institution: Universität Konstanz
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:template.name@kit.edu'
+  - icon: house
+    icon_pack: fas
+    link: 'https://www.alexandrazinke.de/'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:zinke@em.uni-frankfurt.de'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -64,9 +74,6 @@ social:
   # - icon: blog
   #   icon_pack: fas
   #   link: https://debatelab.github.io/    
-  - icon: house
-    icon_pack: fas
-    link: 'https://www.alexandrazinke.de/'
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -89,4 +96,4 @@ user_groups:
   - Alumnae & Alumni
 ---
 
-Alexandra Zinke war 2017--2019 Postdoc bei CompPhil²MMAE. Sie ist inzwischen *Professorin für Theoretische Philosophie* an der Goethe-Universität Frankfurt.
+Alexandra Zinke war von 2017 bis 2019 als Postdoktorandin bei CompPhil²MMAE tätig. Anschließend wurde sie Juniorprofessorin für Philosophie an der Universität Tübingen (2019-2021) und Tenure-Track-Professorin für Theoretische Philosophie an der Universität Stuttgart (2021-2022). Seit 2022 hat sie die W3-Professur für Theoretische Philosophie an der Goethe-Universität Frankfurt inne. Ihre Forschungsschwerpunkte liegen in den Bereichen Erkenntnistheorie, Philosophie der Logik und Wissenschaftsphilosophie.

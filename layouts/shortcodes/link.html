@@ -1,0 +1,8 @@
+<!--Shortcode for inserting centralized (often changing) links like ilias courses-->
+{{ $linkKey := .Get 0 }}
+{{ $link := index site.Data.links $linkKey }}
+{{ if $link }}
+  <a href="{{ $link }}" {{ with .Get 1 }}class="{{ . }}"{{ end }}>{{ .Inner | markdownify }}</a>
+{{ else }}
+  {{ errorf "Link '%s' not found in data/links.yml" $linkKey }}
+{{ end }}

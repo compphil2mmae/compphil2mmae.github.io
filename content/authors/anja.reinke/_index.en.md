@@ -18,8 +18,8 @@ role: Office Management
 
 # Organizations/Affiliations
 organizations:
-  - name: Chair of Philosophical Anthropology
-    url: ''
+#  - name: Chair of Philosophical Anthropology
+#    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' # Anja Reinke is responsible for the office management of the Chair of Philosophical Anthropology. 

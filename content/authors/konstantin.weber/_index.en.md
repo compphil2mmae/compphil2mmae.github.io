@@ -18,10 +18,10 @@ role: "[Alumnus] PhD student | [now] Postdoc"
 
 # Organizations/Affiliations
 organizations:
- - name: Chair of Philosophical Anthropology (KIT) # DebateLab
-   url: '' # https://debatelab.philosophie.kit.edu/
- - name: Chair of Practical Philosophy (FAU Erlangen) # DebateLab
-   url: 'https://www.philosophie.phil.fau.de/person/weber/' # https://debatelab.philosophie.kit.edu/
+# - name: Chair of Philosophical Anthropology (KIT)
+#   url: ''
+ - name: Chair of Practical Philosophy (FAU Erlangen)
+   url: 'https://www.philosophie.phil.fau.de/person/weber/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
@@ -34,12 +34,15 @@ interests:
 
 education:
   courses:
-    - course: B.A. Philosophy & Greek Philology
-      institution: FAU Erlangen-Nürnberg
-#      year: Jahr
+    - course: Doctor in Philosophy
+      institution: Friedrich-Alexander-University Erlangen-Nürnberg
+      year: 2025
     - course: M.A. Philosophy
-      institution: FAU Erlangen-Nürnberg
+      institution: Friedrich-Alexander-University Erlangen-Nürnberg
       year: 2018
+    - course: B.A. Philosophy & Greek Philology
+      institution: Friedrich-Alexander-University Erlangen-Nürnberg
+#      year: Jahr
 
 
 # Social/Academic Networking
@@ -47,6 +50,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: house
+    icon_pack: fas
+    link: 'https://www.philosophie.phil.fau.de/person/weber/'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:konstantin.weber@gmx.de'
@@ -66,9 +72,6 @@ social:
   # - icon: blog
   #   icon_pack: fas
   #   link: https://debatelab.github.io/    
-  - icon: house
-    icon_pack: fas
-    link: 'https://www.philosophie.phil.fau.de/person/weber/'
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -91,6 +94,6 @@ user_groups:
   - Alumnae & Alumni
 ---
 
-Konstantin Weber is doing his doctorate at the Institute of Philosophy at Friedrich-Alexander-Universität Erlangen-Nürnberg on the ethics of future persons. The work was funded by a doctoral scholarship from the German National Academic Foundation.
+Konstantin Weber did his doctorate at the Institute of Philosophy at Friedrich-Alexander-Universität Erlangen-Nürnberg on the ethics of future persons. The work was funded by a doctoral scholarship from the German National Academic Foundation.
 Konstantin studied philosophy and Greek philology in Erlangen. He initially worked there as a research assistant and later as a research assistant.
 Konstantin's philosophical interests are broadly diversified in the field of practical philosophy. His research focusses on the ethics of future persons, philosophical theories of rationality, metaethics and metanormativity.

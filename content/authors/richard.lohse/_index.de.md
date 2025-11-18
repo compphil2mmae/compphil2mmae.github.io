@@ -19,8 +19,8 @@ role: "[Alumnus] Doktorand"
 
 # Organizations/Affiliations
 organizations:
- - name: Lehrstuhl für Philosophische Anthropologie # DebateLab
-   url: '' # https://debatelab.philosophie.kit.edu/
+ - name: Lehrstuhl für Philosophische Anthropologie
+   url: ''
  - name: DebateLab
    url: https://debatelab.philosophie.kit.edu/
 
@@ -31,21 +31,20 @@ bio: '' #My research interests include distributed robotics, mobile computing an
 interests:
   - Formale Erkenntnistheorie
   - Politische Philosophie
-#  - Schwerpunkt C
 
 education:
   courses:
-    - course: Promotion Philosophie
-      #institution: Institution
+    - course: Dr. phil. in Philosophie
+      institution: Karlsruher Institut für Technology (KIT)
       year: 2024
     - course: M.Ed. Physik und Ethik/Philosophie 
-      #institution: Institution
+      institution: Universität Konstanz
       year: 2020
     - course: M.A. Philosophie
-      #institution: Institution
+      institution: Universität Konstanz
       year: 2018
-    - course: B.A. Physik 
-      #institution: Institution
+    - course: B.S. Physik 
+      institution: Universität Konstanz
       year: 2015
 
 # Social/Academic Networking
@@ -53,13 +52,13 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:richard.lohse@kit.edu'
   - icon: house
     icon_pack: fas
     link: 'https://richard-lohse.com/'
-  - icon: address-card
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:richard.lohse@kit.edu'
+  - icon: file-invoice
     icon_pack: fas
     link: 'https://re-models.github.io/'
   # - icon: phone

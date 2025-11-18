@@ -18,25 +18,31 @@ role: "[Alumnus] Doktorand | [now] Postdoc"
 
 # Organizations/Affiliations
 organizations:
- - name: Universität Zürich # DebateLab
-   url: 'https://www.philosophie.uzh.ch/de/seminar/people/research/theory_meylan/schmidt.html' # https://debatelab.philosophie.kit.edu/
+ - name: Universität Zürich
+   url: 'https://www.philosophie.uzh.ch/de/seminar/people/research/theory_meylan/schmidt.html'
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Schwerpunkt A
-#   - Schwerpunkt B
-#   - Schwerpunkt C
+interests:
+  - Erkenntnistheorie
+  - Metaethik
+  - Philosophie des Geistes
 
-# education:
-#   courses:
-#     - course: Abschluss
-#       institution: Institution
-#       year: Jahr
-#     - course: Abschluss
-#       institution: Institution
-#       year: Jahr
+education:
+  courses:
+    - course: Postdoc
+      institution: Universität Zürich (UZH)
+      year: 2025
+    - course: Dr. phil. in Philosophie
+      institution: Friedrich-Alexander-Universität Erlangen-Nürnberg
+      year: 2020
+    - course: M.A. in Philosophie
+      institution: Friedrich-Alexander-Universität Erlangen-Nürnberg
+      year: 2015
+    - course: B.A. in Philosophie und Germanistik
+      institution: Friedrich-Alexander-Universität Erlangen-Nürnberg
+      year: 2014
 #     - course: Abschluss
 #       institution: Institution
 #       year: Jahr
@@ -46,9 +52,12 @@ bio: '' #My research interests include distributed robotics, mobile computing an
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:template.name@kit.edu'
+  - icon: house
+    icon_pack: fas
+    link: 'https://www.philosophie.uzh.ch/de/seminar/people/research/theory_meylan/schmidt.html'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:sebastian.schmidt@philos.uzh.ch'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -64,9 +73,6 @@ social:
   # - icon: blog
   #   icon_pack: fas
   #   link: https://debatelab.github.io/    
-  - icon: house
-    icon_pack: fas
-    link: 'https://www.philosophie.uzh.ch/de/seminar/people/research/theory_meylan/schmidt.html'
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

@@ -19,8 +19,8 @@ role: "[Alumnus] PhD student"
 
 # Organizations/Affiliations
 organizations:
- - name: Chair of Philosophical Anthropology # DebateLab
-   url: '' # https://debatelab.philosophie.kit.edu/
+ - name: Chair of Philosophical Anthropology
+   url: ''
  - name: DebateLab
    url: https://debatelab.philosophie.kit.edu/
 
@@ -28,37 +28,39 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#  - Schwerpunkt A
-#  - Schwerpunkt B
-#  - Schwerpunkt C
+interests:
+  - formal epistemology
+  - political philosophy
 
-#education:
-#  courses:
-#    - course: Abschluss
-#      institution: Institution
-#      year: Jahr
-#    - course: Abschluss
-#      institution: Institution
-#      year: Jahr
-#    - course: Abschluss
-#      institution: Institution
-#      year: Jahr
+education:
+  courses:
+    - course: Doctor in Philosophy
+      institution: Karlsruhe Institute of Technology (KIT)
+      year: 2024
+    - course: M.Ed. Physics and Ethics/Philosophy 
+      institution: University of Konstanz
+      year: 2020
+    - course: M.A. Philosophy
+      institution: University of Konstanz
+      year: 2018
+    - course: B.S. Physics 
+      institution: University of Konstanz
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:richard.lohse@kit.edu'
   - icon: house
     icon_pack: fas
     link: 'https://richard-lohse.com/'
-  # - icon: address-card
-  #   icon_pack: fas
-  #   link: 'https://www.philosophie.kit.edu/mitarbeiter_1031.php'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:richard.lohse@kit.edu'
+  - icon: file-invoice
+    icon_pack: fas
+    link: 'https://re-models.github.io/'
   # - icon: phone
   #   icon_pack: fas
   #   link: 'https://www.philosophie.kit.edu/mitarbeiter_1031.php'   

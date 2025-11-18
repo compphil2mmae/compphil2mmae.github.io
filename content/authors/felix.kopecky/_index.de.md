@@ -18,8 +18,8 @@ role: "[Alumnus] Doktorand | [now] Postdoc"
 
 # Organizations/Affiliations
 organizations:
- - name: Debate Lab
-   url: 'https://debatelab.philosophie.kit.edu/'
+ - name: Heinrich Heine Universität Düsseldorf
+   url: 'https://www.philosophie.hhu.de/professuren/philosophie-vi-philosophie-des-geistes'
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
@@ -31,9 +31,18 @@ interests:
 
 education:
   courses:
+    - course: Postdoc
+      institution: Heinrich-Heine-Universität Düsseldorf
+      year: jetzt
+    - course: Dr. phil. in Philosophie
+      institution: Karlsruher Institut für Technologie (KIT)
+      year: 2025
     - course: M.A. Philosophie
       institution: Humboldt-Universität zu Berlin
       year: 2019
+    - course: B.A. Philosophie
+      institution: Freie Universität Berlin
+      year: 2015
 #     - course: Abschluss
 #       institution: Institution
 #       year: Jahr
@@ -46,18 +55,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: philpapers
-    icon_pack: ai
-    link: https://philpeople.org/profiles/felix-kopecky
   - icon: house
     icon_pack: fas
     link: https://kopeckyf.github.io/
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:felix.kopecky@hhu.de'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/FelixKopecky/
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:f.kopecky@kit.edu'
+  - icon: philpapers
+    icon_pack: ai
+    link: https://philpeople.org/profiles/felix-kopecky
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

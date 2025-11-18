@@ -18,7 +18,7 @@ role: "Doktorandin"
 
 # Organizations/Affiliations
 organizations:
-  - name: Department für Philosophie
+#  - name: Department für Philosophie
    # url: 'https://www.plus.ac.at/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -85,4 +85,4 @@ user_groups:
 
 Alina Jacobs ist seit 2025 wissenschaftliche Mitarbeiterin am Department für Philosophie des Karlsruher Instituts für Technologie (KIT). Sie promoviert zu ethischen Fragen staatlicher Massenüberwachung und arbeitet an der Schnittstelle von Ethik, politischer Philosophie und sozialer Erkenntnistheorie.
 
-Zuvor war sie als Studienassistentin und Tutorin am [Institut für Philosophie](https://philosophie.univie.ac.at/) der Universität Wien tätig und leitete dort als Präsidentin das *Vienna Forum for Analytic Philosophy*. Ihre akademischen Stationen führten sie durch Heidelberg und Wien, wo sie Philosophie und Germanistik studierte. Ihre Arbeiten wurden u. a. auf dem Internationalen Wittgenstein-Symposium vorgestellt und veröffentlicht.
+Zuvor war sie als Studienassistentin und Tutorin am [Institut für Philosophie](https://philosophie.univie.ac.at/) der Universität Wien tätig und leitete dort als Präsidentin das *Vienna Forum for Analytic Philosophy*. Ihre akademischen Stationen führten sie durch Heidelberg und Wien, wo sie Philosophie und Germanistik studierte. Ihre Arbeiten wurden u.a. auf dem Internationalen Wittgenstein-Symposium vorgestellt und veröffentlicht.

@@ -18,37 +18,47 @@ role: "[Alumna] Postdoc | [now] Professor"
 
 # Organizations/Affiliations
 organizations:
- - name: Goethe-University Frankfurt # DebateLab
-   url: 'https://qis.server.uni-frankfurt.de/qisserver/rds?moduleCall=webInfo&personal.pid=28022&publishConfFile=webInfoPerson&publishSubDir=personal&state=verpublish&status=init&topitem=members&vmfile=no' # https://debatelab.philosophie.kit.edu/
+ - name: Goethe-University Frankfurt
+   url: 'https://qis.server.uni-frankfurt.de/qisserver/rds?moduleCall=webInfo&personal.pid=28022&publishConfFile=webInfoPerson&publishSubDir=personal&state=verpublish&status=init&topitem=members&vmfile=no'
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Schwerpunkt A
-#   - Schwerpunkt B
+interests:
+  - Epistemologie
+  - Philosophy of Logic
+  - Philosophy of Science
 #   - Schwerpunkt C
 
-# education:
-#   courses:
-#     - course: Abschluss
-#       institution: Institution
-#       year: Jahr
-#     - course: Abschluss
-#       institution: Institution
-#       year: Jahr
-#     - course: Abschluss
-#       institution: Institution
-#       year: Jahr
+education:
+  courses:
+    - course: Professor for Theoretical Philosophy
+      institution: Goethe-University Frankfurt
+      year: since 2022
+    - course: Tenure Track Professor for Theoretical Philosophy
+      institution: University of Stuttgart
+      year: 2021-2022
+    - course: Junior Professor for Philosophy
+      institution: University of Tübingen
+      year: 2019-2021
+    - course: Postdoctoral Researcher
+      institution: Karlsruhe Institute of Technology (KIT)
+      year: 2017-2019
+    - course: Doctor of Philosophy 
+      institution: University of Konstanz
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:template.name@kit.edu'
+  - icon: house
+    icon_pack: fas
+    link: 'https://www.alexandrazinke.de/'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:zinke@em.uni-frankfurt.de'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -64,9 +74,6 @@ social:
   # - icon: blog
   #   icon_pack: fas
   #   link: https://debatelab.github.io/    
-  - icon: house
-    icon_pack: fas
-    link: 'https://www.alexandrazinke.de/'
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -89,4 +96,4 @@ user_groups:
   - Alumnae & Alumni
 ---
 
-Alexandra Zinke was a postdoc at CompPhil²MMAE in 2017–2019. She is now *Full Professor for Theoretical Philosophy* at Goethe-University Frankfurt.
+Alexandra Zinke was a postdoctoral researcher at CompPhil²MMAE from 2017 to 2019. She then became a Junior Professor for Philosophy at the University of Tübingen (2019-2021) and a Tenure Track Professor for Theoretical Philosophy at the University of Stuttgart (2021-2022). Since 2022, she has been a Full Professor for Theoretical Philosophy at Goethe-University Frankfurt. Her research focuses on epistemology, philosophy of logic, and philosophy of science.

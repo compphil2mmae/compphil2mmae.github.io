@@ -18,14 +18,14 @@ role: Research & Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
- - name: Chair of Philosophical Anthropology # DebateLab
-   url: '' # https://debatelab.philosophie.kit.edu/
+# - name: Chair of Philosophical Anthropology
+#   url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
-# interests:
-#   - Schwerpunkt A
+interests:
+   - \"Einführung in die Philosophie\" (Introduction to philosophy)
 #   - Schwerpunkt B
 #   - Schwerpunkt C
 
@@ -84,4 +84,4 @@ user_groups:
   # - Alumni
 ---
 
-Sören Finkbeiner supports CompPhil²MMAE as a student assistant and as a tutor in the module "Einführung in die Philosophie (Introduction to philosophy)" ([{{< icon name="envelope" pack="fas" >}} Tutoriumsteam](mailto:tutorium.seidel@itz.kit.edu)).
+Sören Finkbeiner supports CompPhil²MMAE as a student assistant and as a tutor in the module {{<link "philo1-ilias">}}"Einführung in die Philosophie"{{</link>}} (Introduction to philosophy) ([{{<icon name="envelope" pack="fas">}} Tutoriumsteam](mailto:tutorium.seidel@itz.kit.edu)).
