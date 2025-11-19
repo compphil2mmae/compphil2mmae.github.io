@@ -8,36 +8,36 @@ sections:
   - block: slider
     content:
       slides:
-#      - title: '|{{< icon name="book-open-reader" pack="fas" >}} | {{< icon name="chalkboard-user" pack="fas" >}} | {{< icon name="laptop-code" pack="fas" >}} |  <br /> CompPhil²MMAE in der Lehre'
-#        content: Philosophische Grundlagenbildung
-#        align: center
-#        background:
-#          image:
-#            filename: lehre-1.jpg
-#            filters:
-#              brightness: 0.35
-#          position: center
-#          color: '#666'
-#        link:
-#          icon: graduation-cap
-#          icon_pack: fas
-#          text: Mehr erfahren
-#          url: '#mission'  
-#      - title: "Ars Rationalis" 
-#        content: 'Kritisches Denken lernen & argumentative Kompetenzen entwickeln'
-#        align: left
-#        background:
-#          image:
-#            filename: argdown_vscode_ars.png
-#            filters:
-#              brightness: 0.4
-#          position: center
-#          color: '#555'
-#        link:
-#          icon: graduation-cap
-#          icon_pack: fas
-#          text: Zum ILIAS-Kurs
-#          url: https://ilias.studium.kit.edu/goto.php/crs/2748649
+      - title: '|{{< icon name="book-open-reader" pack="fas" >}} | {{< icon name="chalkboard-user" pack="fas" >}} | {{< icon name="laptop-code" pack="fas" >}} |  <br /> CompPhil²MMAE in der Lehre'
+        content: Philosophische Grundlagenbildung
+        align: center
+        background:
+          image:
+            filename: lehre-1.jpg
+            filters:
+              brightness: 0.35
+          position: center
+          color: '#666'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Mehr erfahren
+          url: '#mission'  
+      - title: "Ars Rationalis" 
+        content: 'Kritisches Denken lernen & argumentative Kompetenzen entwickeln'
+        align: left
+        background:
+          image:
+            filename: argdown_vscode_ars.png
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#555'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Zum ILIAS-Kurs
+          url: https://ilias.studium.kit.edu/goto.php/crs/2748649
       - title: Einführung in die Philosophie
         content: 'Das Wahre & das Gute -- über die großen Fragen nachdenken'
         align: right
