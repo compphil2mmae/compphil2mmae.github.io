@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research & Teaching Assistant
+role: Doktorandin
 
 # Organizations/Affiliations
 organizations:
@@ -26,9 +26,10 @@ organizations:
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-   - \"Ars Rationalis\"
-#   - Schwerpunkt B
-#   - Schwerpunkt C
+   - Politische Philosophie
+   - Ethik
+   - Erkenntnistheorie
+   - Marxismus
 
 # education:
 #  courses:
@@ -75,14 +76,14 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team
+  # - Team
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
-  - Assistenz in Forschung, Lehre & Verwaltung # Administration
-  # - Doktorand:innen # Grad Students
-  # - Assoziierte 
+  # - Assistenz in Forschung, Lehre & Verwaltung # Administration
+  - Doktorand:innen # Grad Students
+  - Assoziierte 
   # - Gäste # Visitors
   # - Alumni
 ---
 
-Pia Blau unterstützt CompPhil²MMAE als studentische Hilfskraft und als Tutorin im Modul {{< link "current_ars-rationalis" >}}**Ars Rationalis**{{< /link >}}.
+Nachdem sie CompPhil²MMAE als studentische Hilfskraft und Tutorin unterstützt hat, ist sie nun seit November 2025 Doktorandin.

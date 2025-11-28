@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research & Teaching Assistant
+role: "PhD candidate"
 
 # Organizations/Affiliations
 organizations:
@@ -26,9 +26,10 @@ organizations:
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-   - \"Ars Rationalis\"
-#   - Schwerpunkt B
-#   - Schwerpunkt C
+   - Political Philosophy
+   - Ethics
+   - Epistemology
+   - Marxism
 
 # education:
 #  courses:
@@ -43,7 +44,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:pia.blau9@kit.edu'
+    link: 'mailto:pia.blau97@kit.edu'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -75,14 +76,14 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team
+  # - Team
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
-  - Assistance in research, teaching & administration # Administration
-  # - Doktorand:innen # Grad Students
-  # - Assoziierte 
+  # - Assistance in research, teaching & administration # Administration
+  - Doktorand:innen # Grad Students
+  - Associates 
   # - Gäste # Visitors
   # - Alumni
 ---
 
-Pia Blau supports CompPhil²MMAE as a student assistant and as a tutor in the module {{< link "current_ars-rationalis" >}}**Ars Rationalis**{{< /link >}}.
+After supporting CompPhil²MMAE as a student assistant and as a tutor, she is now a doctoral student since November 2025.
