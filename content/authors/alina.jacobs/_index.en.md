@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Doktorandin"
+role: "PhD candidate"
 
 # Organizations/Affiliations
 organizations:
