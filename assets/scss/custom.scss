@@ -4,7 +4,6 @@
     font-style: normal;
     font-weight: 100;
     src: local('Fira Sans'),
-         url('/fonts/fira-sans-v17-latin-100.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 /* fira-sans-100italic - latin */
 @font-face {
@@ -143,7 +142,7 @@
          url('/fonts/fira-sans-v17-latin-900italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-h1, h2, h3, h4 { 
+h1, h2, h3, h4 {
     font-family: 'Fira Sans', sans-serif;
 }
 
@@ -156,21 +155,21 @@ h1, h2, h3, h4 {
 .c {
     column-gap: 2em;
 }
-  
+
 ul.c,
 ol.c {
     column-gap: 3em;
     width: fit-content;
 }
-  
+
 .c2 {
     column-count: 2;
 }
-  
+
 // .c3 {
 //     column-count: 3;
 // }
-  
+
 // .c4 {
 //     column-count: 4;
 // }
@@ -188,6 +187,12 @@ a:hover {
 
 p.a {
     font-style: normal;
+}
+/* Add space below each author in the people block */
+.people-widget {
+  .people-person {
+    margin-bottom: 1rem;
+  }
 }
 
 // mark, .hlblue {
