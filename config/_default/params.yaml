@@ -17,8 +17,8 @@ appearance:
 marketing:
   seo:
     site_type: Organization
-    local_business_type: ''
-    org_name: ''
+    local_business_type: 'Research'
+    org_name: 'CompPhil²MMAE'
     description: 'A Computational Philosophy and Moral Philosophy research group'
     twitter: ''
   analytics:
@@ -41,8 +41,8 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
-  # on_scroll: "disappear" 
-  on_scroll: "sticky"  
+  # on_scroll: "disappear"
+  on_scroll: "sticky"
 # Site footer
 
 footer:
@@ -103,7 +103,7 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
-  
+
 # Extensions
 
 extensions:

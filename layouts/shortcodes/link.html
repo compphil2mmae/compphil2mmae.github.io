@@ -4,5 +4,5 @@
 {{ if $link }}
   <a href="{{ $link }}" {{ with .Get 1 }}class="{{ . }}"{{ end }}>{{ .Inner | markdownify }}</a>
 {{ else }}
-  {{ errorf "Link '%s' not found in data/links.yml" $linkKey }}
+  {{ errorf "Link '%s' not found in data/links.yaml" $linkKey }}
 {{ end }}
