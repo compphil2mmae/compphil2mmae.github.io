@@ -89,4 +89,6 @@ user_groups:
   # - Alumni
 ---
 
-Nachdem sie CompPhil²MMAE als studentische Hilfskraft und Tutorin unterstützt hat, ist sie nun seit November 2025 Doktorandin.
+Nachdem sie CompPhil²MMAE als studentische Hilfskraft und Tutorin unterstützt hat, ist Pia Blau nun seit November 2025 Doktorandin. 
+Sie arbeitet an einem externen Forschungsprojekt zu hermeneutischer Ungerechtigkeit, Narrativen, Ideologien und Klassismus. 
+Neben ihrer wissenschaftlichen Qualifizierung ist sie im schulischen Bereich tätig.

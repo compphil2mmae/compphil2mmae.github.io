@@ -89,4 +89,6 @@ user_groups:
   # - Alumni
 ---
 
-After supporting CompPhil²MMAE as a student assistant and as a tutor, she is now a doctoral student since November 2025.
+After supporting CompPhil²MMAE as a student assistant and as a tutor, Pia Blau is now a doctoral student since November 2025. 
+She is working on an external research project on hermeneutical injustice, narratives, ideologies, and classism. 
+Alongside her academic qualification, she is working in the school sector.
