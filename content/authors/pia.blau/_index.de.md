@@ -31,11 +31,14 @@ interests:
    - Erkenntnistheorie
    - Marxismus
 
-# education:
-#  courses:
-#    - course: Abschluss
-#      institution: Institution
-#      year: Jahr
+education:
+  courses:
+    - course: M.Ed. Deutsch, Philosophie
+      institution: Karlsruher Institut für Technologie (KIT)
+      year: 2025
+    - course: M.Ed. Mathematik
+      institution: Karlsruher Institut für Technologie (KIT)
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +47,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:pia.blau9@kit.edu'
+    link: 'mailto:pia.blau@kit.edu'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -86,4 +89,6 @@ user_groups:
   # - Alumni
 ---
 
-Nachdem sie CompPhil²MMAE als studentische Hilfskraft und Tutorin unterstützt hat, ist sie nun seit November 2025 Doktorandin.
+Nachdem sie CompPhil²MMAE als studentische Hilfskraft und Tutorin unterstützt hat, ist Pia Blau nun seit November 2025 Doktorandin. 
+Sie arbeitet an einem externen Forschungsprojekt zu hermeneutischer Ungerechtigkeit, Narrativen, Ideologien und Klassismus. 
+Neben ihrer wissenschaftlichen Qualifizierung ist sie im schulischen Bereich tätig.

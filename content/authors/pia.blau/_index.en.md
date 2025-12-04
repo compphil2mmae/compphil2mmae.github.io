@@ -31,11 +31,14 @@ interests:
    - Epistemology
    - Marxism
 
-# education:
-#  courses:
-#    - course: Abschluss
-#      institution: Institution
-#      year: Jahr
+education:
+  courses:
+    - course: M.Ed. German Language, Philosophy
+      institution: Karlsruhe Institute of Technology (KIT)
+      year: 2025
+    - course: M.Ed. Mathematics
+      institution: Karlsruhe Institute of Technology (KIT)
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +47,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:pia.blau97@kit.edu'
+    link: 'mailto:pia.blau@kit.edu'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -86,4 +89,6 @@ user_groups:
   # - Alumni
 ---
 
-After supporting CompPhil²MMAE as a student assistant and as a tutor, she is now a doctoral student since November 2025.
+After supporting CompPhil²MMAE as a student assistant and as a tutor, Pia Blau is now a doctoral student since November 2025. 
+She is working on an external research project on hermeneutical injustice, narratives, ideologies, and classism. 
+Alongside her academic qualification, she is working in the school sector.
