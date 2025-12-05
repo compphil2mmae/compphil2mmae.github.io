@@ -1,9 +1,9 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Job listing: postdoctoral or doctoral researchers"
+title: "Stellenausschreibung: Postdoktoranden oder Doktoranden"
 # subtitle: "Das CompPhil²MMAE-Team sucht Verstärkung!"
-summary: "CompPhil²MMAE is seeking to recruit *two postdoctoral or doctoral researchers* (f/m/d, full-time, German TV-L E13 pay scale) for a period of three years (with the perspective for two more years) to start flexibly at around January 2026."
+summary: "CompPhil²MMAE sucht *zwei Postdoktoranden oder Doktoranden* (w/m/d, Vollzeit, Vergütung nach TV-L E13) für einen Zeitraum von drei Jahren (mit der Aussicht auf zwei weitere Jahre) mit flexiblem Arbeitsbeginn um Januar 2026."
 authors: [christian.seidel, gregor.betz]
 tags: []
 categories: []
@@ -27,24 +27,23 @@ image:
 # projects: ['eSMS']
 ---
 
-The research group *Computational Philosophy, Philosophical Methods, Moral Philosophy & Applied Ethics* (CompPhil²MMAE) at the *Karlsruhe Institute of Technology* (KIT) is seeking to recruit **two postdoctoral or doctoral researchers** (f/m/d, full-time, German TV-L E13 pay scale) for a period of three years (with the perspective for two more years) to start flexibly at around January 2026.
+Die Forschungsgruppe *Computational Philosophy, Philosophical Methods, Moral Philosophy & Applied Ethics* (CompPhil²MMAE) am *Karlsruher Institut für Technologie* (KIT) sucht **zwei Postdoktoranden oder Doktoranden** (w/m/d, Vollzeit, Vergütung nach TV-L E13) für einen Zeitraum von drei Jahren (mit der Aussicht auf zwei weitere Jahre) mit flexiblem Arbeitsbeginn um Januar 2026.
 
-Successful candidates will hold an excellent Master's degree or a PhD in Philosophy or a related discipline with a strong affinity to philosophy.
+Erfolgreiche Bewerber verfügen über einen ausgezeichneten Master-Abschluss oder einen Doktortitel in Philosophie oder einem verwandten Fachgebiet mit starker Affinität zur Philosophie.
 
-CompPhil²MMAE offers a dynamic, collaborative, and interdisciplinary working environment. In our research and teaching, we focus on
+CompPhil²MMAE bietet ein dynamisches, kooperatives und interdisziplinäres Arbeitsumfeld. In unserer Forschung und Lehre konzentrieren wir uns auf
 
-- computational (LLM-based) methods in philosophy;
-- normative models of reasoning and argumentation;
-- the logical analysis of political and scientific debates;
-- methods and tools to enhance the epistemic quality of public deliberation;
-- fundamental questions in moral theory;
-- the ethics of public discourse;
-- normative challenges in socially relevant applied contexts such as
-climate change, surveillance, and artificial intelligence;
-- 19th-century British moral and social philosophy.
+- computergestützte (LLM-basierte) Methoden in der Philosophie
+- normative Modelle des Denkens und Argumentierens
+- die logische Analyse politischer und wissenschaftlicher Debatten
+- Methoden und Werkzeuge zur Verbesserung der epistemischen Qualität öffentlicher Debatten
+- grundlegende Fragen der Moraltheorie
+- die Ethik des öffentlichen Diskurses
+- normative Herausforderungen in gesellschaftlich relevanten Anwendungsbereichen wie Klimawandel, Überwachung und künstliche Intelligenz
+- britische Moral- und Sozialphilosophie des 19. Jahrhunderts
 
-For descriptions of ongoing and past research projects, as well as information about the CompPhil²MMAE team, feel free to browse around.
+Beschreibungen laufender und abgeschlossener [Forschungsprojekte]({{% ref "/research" %}}) sowie Informationen zum [CompPhil²MMAE-Team]({{% ref "/team" %}}) finden Sie auf unserer Website.
 
-If you have any further questions about the positions, please contact Gregor Betz (gregor.betz@kit.edu) or Christian Seidel (christian.seidel@kit.edu).
+Wenn Sie weitere Fragen zu den Stellen haben, wenden Sie sich bitte an Gregor Betz (gregor.betz@kit.edu) oder Christian Seidel (christian.seidel@kit.edu).
 
-To apply for the postdoctoral or doctoral research position, please submit your application (cover letter, CV, list of publications and two text samples) via the online application platform (https://www.pse.kit.edu/english/karriere/joboffer.php?id=165239) by 24 August 2025. Interviews with shortlisted candidates (based on a research project proposal of around three pages) are expected to take place at the end of September or beginning of October.
+Um sich für die Postdoc- oder Doktorandenstelle zu bewerben, reichen Sie bitte Ihre Bewerbung (Anschreiben, Lebenslauf, Publikationsliste und zwei Textproben) bis zum 24. August 2025 über die Online-Bewerbungsplattform (https://www.pse.kit.edu/english/karriere/joboffer.php?id=165239) ein. Die Vorstellungsgespräche mit den in die engere Wahl gekommenen Bewerbern (auf der Grundlage eines etwa dreiseitigen Forschungsprojektvorschlags) finden voraussichtlich Ende September oder Anfang Oktober statt.

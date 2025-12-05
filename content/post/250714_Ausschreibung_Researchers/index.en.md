@@ -33,17 +33,16 @@ Successful candidates will hold an excellent Master's degree or a PhD in Philoso
 
 CompPhil²MMAE offers a dynamic, collaborative, and interdisciplinary working environment. In our research and teaching, we focus on
 
-- computational (LLM-based) methods in philosophy;
-- normative models of reasoning and argumentation;
-- the logical analysis of political and scientific debates;
-- methods and tools to enhance the epistemic quality of public deliberation;
-- fundamental questions in moral theory;
-- the ethics of public discourse;
-- normative challenges in socially relevant applied contexts such as
-climate change, surveillance, and artificial intelligence;
-- 19th-century British moral and social philosophy.
+- computational (LLM-based) methods in philosophy
+- normative models of reasoning and argumentation
+- the logical analysis of political and scientific debates
+- methods and tools to enhance the epistemic quality of public deliberation
+- fundamental questions in moral theory
+- the ethics of public discourse
+- normative challenges in socially relevant applied contexts such as climate change, surveillance, and artificial intelligence
+- 19th-century British moral and social philosophy
 
-For descriptions of ongoing and past research projects, as well as information about the CompPhil²MMAE team, feel free to browse around.
+For descriptions of ongoing and past [research projects]({{% ref "/research" %}}), as well as information about the [CompPhil²MMAE team]({{% ref "/team" %}}), feel free to browse around.
 
 If you have any further questions about the positions, please contact Gregor Betz (gregor.betz@kit.edu) or Christian Seidel (christian.seidel@kit.edu).
 
