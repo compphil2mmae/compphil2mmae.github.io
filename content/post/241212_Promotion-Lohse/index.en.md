@@ -23,7 +23,7 @@ links:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  filename: Stock-images/Doktorhut.png
+  filename: symbolic-images/graduation/symbolic.png
   preview_only: true
   alt_text: "symbolic PhD hat"
 

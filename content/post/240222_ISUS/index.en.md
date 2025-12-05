@@ -17,8 +17,9 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  filename: Logos/ISUS/utilitarian-flag.png
   preview_only: false
+  alt_text: "utilitarian Flag"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

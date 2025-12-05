@@ -19,7 +19,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  filename: Stock-images/Doktorhut.png
+  filename: symbolic-images/graduation/symbolic.png
   preview_only: false
   alt_text: "symbolic PhD hat"
 

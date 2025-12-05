@@ -16,8 +16,10 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+#  caption: "german research foundation (Deutsche Forschungsgesellschaft)"
+  filename: Logos/DFG/featured.en.png
   preview_only: false
+  alt_text: "Logo of the german research foundation (Deutsche Forschungsgesellschaft)"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
