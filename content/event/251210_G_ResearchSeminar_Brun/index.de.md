@@ -29,7 +29,7 @@ tags: [Gastvortrag]
 featured: true
 
 image:
-  filename: "Logo_ResearchSeminar-transparent.png"
+  filename: "Logos/Logo_ResearchSeminar/Logo_ResearchSeminar-transparent.png"
   alt: "CompPhil²MMAE Forschungsseminar"
   caption: ''
   focal_point: Right
@@ -56,7 +56,7 @@ projects:
 
 Das CompPhil²MMAE-Forschungsseminar "Aktuelle Texte der Philosophie" ist zentraler Diskussions- und Reflexionsraum des CompPhil²MMAE-Teams und im Sinne der forschungsorientierten Lehre zugleich eine Lehrveranstaltung für fortgeschrittene Student:innen. 
 
-Im Forschungsseminar stellen CompPhil³MMAE-Mitglieder sowie auswärtige Referent:innen ihre Forschungsarbeiten aus der Philosophie sowie angrenzender Disziplinen (in der Regel in einem *Pre-Read*-Format) zur Diskussion. 
+Im Forschungsseminar stellen CompPhil³MMAE-Mitglieder sowie auswärtige Referent:innen ihre Forschungsarbeiten aus der Philosophie sowie angrenzender Disziplinen (in der Regel in einem *Pre-Read*-Format) zur Diskussion. An diesem Termin wird [Georg Brun](https://www.georgbrun.ch/) von der [Universität Bern](https://www.philosophie.unibe.ch/index_ger.html) präsentieren.
 
 Das CompPhil²MMAE-Forschungsseminar wird organisiert von {{% mention "christian.seidel" %}} und {{% mention "gregor.betz" %}}. 
 

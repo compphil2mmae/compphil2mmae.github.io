@@ -33,7 +33,7 @@ tags: [Gastvortrag]
 featured: true
 
 image:
-  filename: "/Events/CompPhil-ResearchSeminar.png"
+  filename: "Logos/Logo_ResearchSeminar/Logo_ResearchSeminar-transparent.png"
   alt: "CompPhil²MMAE Research Seminar"
   caption: ''
   focal_point: Right

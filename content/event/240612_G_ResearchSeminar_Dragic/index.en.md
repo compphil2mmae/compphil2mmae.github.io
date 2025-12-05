@@ -29,7 +29,7 @@ tags: [Lecture]
 featured: true
 
 image:
-  filename: "Logo_ResearchSeminar-transparent.png"
+  filename: "Logos/Logo_ResearchSeminar/Logo_ResearchSeminar-transparent.png"
   alt: "CompPhil²MMAE Research Seminar"
   caption: ''
   focal_point: Right
