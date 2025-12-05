@@ -22,8 +22,7 @@ image:
 
 links:
   - icon: calendar-days
-    icon_pack: fas
-    text: The Event
+    name: 27.11.
     url: /event/251127_w_swip_doctoral_workshop/
 
 # Projects (optional).

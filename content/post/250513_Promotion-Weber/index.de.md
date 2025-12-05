@@ -9,7 +9,7 @@ tags: [highlight]
 categories: []
 date: 2025-05-13T08:35:51+01:00
 lastmod: 2025-05-25T08:35:51+01:00
-featured: true
+featured: false
 draft: false
 
 #doi: '10.5445/IR/1000169559'
@@ -31,7 +31,7 @@ image:
 projects: [action-guidance]
 ---
 
-Konstantin Weber hat seine Promotion erfolgreich abgeschlossen. Der Titel der Dissertation lautet *Assigning Existence. Creating Persons without Reasons*.
+{{% mention "konstantin.weber" %}} hat seine Promotion erfolgreich abgeschlossen. Der Titel der Dissertation lautet *Assigning Existence. Creating Persons without Reasons*.
 
 <!--more-->
 

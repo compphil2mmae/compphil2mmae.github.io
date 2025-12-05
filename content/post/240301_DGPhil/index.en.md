@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: Christian Seidel heads section on theory of action at DGhil congress 
+title: Christian Seidel heads section on theory of action at DGPhil congress 
 subtitle:  
 summary: Christian Seidel takes over the leadership of the section on action theory at the [XXVI German Congress of Philosophy](https://www.uni-muenster.de/DKPhil2024/) of the [German Philosophical Society](https://www.dgphil.de/). 
 authors: [christian.seidel]
@@ -29,8 +29,14 @@ image:
 projects: []
 ---
 
-{{% mention "christian.seidel" %}} takes over the leadership of the section on action theory at the [XXVI German Congress of Philosophy](https://www.uni-muenster.de/DKPhil2024/) of the [Deutschen Gesellschaft für Philosophie](https://www.dgphil.de/). 
+{{< figure src="Logos/DGPhil/dkphil2024_logo.svg" alt="XXVI. German Congress of Philosophy Logo" >}}
+
+{{% mention "christian.seidel" %}} takes over the leadership of the section on action theory at the [XXVI. German Congress of Philosophy](https://www.uni-muenster.de/DKPhil2024/) of the [Deutschen Gesellschaft für Philosophie](https://www.dgphil.de/). 
 
 <!--more-->
 
-The congress will take place in Münster from September 22 to 26, 2024 under the theme "# digital | thinking". Exposés for section contributions can be submitted until April 30, 2024 (to [Call for Papers](https://www.uni-muenster.de/DKPhil2024/kongress/cfp.html)).
+The congress will take place in Münster from September 22 to 26, 2024 under the theme "#digital|thinking". Exposés for section contributions can be submitted until April 30, 2024 (to [Call for Papers](https://www.uni-muenster.de/DKPhil2024/kongress/cfp.html)).
+
+{{< figure src="poster.png" alt="XXVI. German Congress of Philosophy Poster" caption="XXVI. German Congress of Philosophy" >}}
+
+[//]: # (<img src="/media/Logos/DGPhil/dgphil_logo.png" alt="Deutsche Gesellschaft für Philosophie Logo" class="logo-mention">)

@@ -31,7 +31,7 @@ image:
 projects: [moral-progress]
 ---
 
-With a lecture on "Two lines of tradition within the utilitarian tradition: What explains their division into radicals and conservatives? Discussed on the basis of the reformer John Stuart Mill and the conservative Henry Sidgwick." has {{% mention "cyriak.schmitz" %}} successfully completed his PhD. The dissertation, entitled *Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse* is [*open access* published]({{< relref "/publication/schmitz-2024" >}}). 
+With a lecture on "Two lines of tradition within the utilitarian tradition: What explains their division into radicals and conservatives? Discussed on the basis of the reformer John Stuart Mill and the conservative Henry Sidgwick." {{% mention "cyriak.schmitz" %}} has successfully completed his PhD. The dissertation, entitled *Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse* is [*open access* published]({{< relref "/publication/schmitz-2024" >}}). 
 
 <!--more-->
 

@@ -12,7 +12,13 @@ lastmod: 2024-12-14T12:35:51+01:00
 featured: false
 draft: false
 
-#doi:
+links:
+  - icon: calendar-days
+    name: 10.01.
+    url: /event/250110_w_gemeinsamphilosophieren2025_a
+  - icon: calendar-days
+    name: 24.01.
+    url: /de/event/250124_w_gemeinsamphilosophieren2025_b
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

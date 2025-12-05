@@ -12,8 +12,10 @@ lastmod: 2025-02-11T12:35:51+01:00
 featured: true
 draft: false
 
-#doi:
-
+links:
+  - icon: newspaper
+    name: BNN Artikel
+    url: /uploads/debattenabend.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
