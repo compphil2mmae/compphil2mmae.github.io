@@ -24,3 +24,15 @@ Unter `/data/links.yml` liegt eine Sammlung an Links, die mit `{{< link "link-id
 6. Push commit to remote repository `compphil2maae.github.io`
 7. wait a couple of minutes & check auto deployment by visiting https://compphil2mmae.github.io/actions
 
+## Editing
+### Front matter
+Ist das definieren vom Aufbau der Seite in Yaml & parametern. Wichtigste Optionen sind in der Doku von [Hug Blox](https://docs.hugoblox.com/reference/front-matter/) festgehalten
+- `image` Objekte können entweder:
+  1. in zweisprachigen Versionen im selben Ordner als `featured.en.png/jpg` & `featured.de.png/jpg` abgelegt werden
+  2. universalsprachig im selben Ordner als `featured.png/jpg` abgelegt werden
+  3. zur Vermeidung von Redundanzen relativ aus den `/assets/media/` Dateien referenziert werden, z.B. `filename: Logos/ISUS/utilitarian-flag.png`
+     - Soll das Bild aus dem Markdown selber (außerhalb des Front-Matter/---) referenziert werden kann es sein, dass der Pfad inclusive `/media/` angegeben werden muss
+
+### Shortcodes
+Sind kleine html snippets die zur Wiederverwendung unter `/layouts/shortcodes/` definiert werden und einfach mit `{{< shortcode-id >}}` und ggf. parametern in den Markdown-Texten aufgerufen werden können.
+Einige hilfreiche vordefinierte utilities sind in den [Hugo Docs](https://gohugo.io/content-management/shortcodes/) ausführlich beschrieben.
