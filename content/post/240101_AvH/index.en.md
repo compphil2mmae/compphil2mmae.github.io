@@ -5,7 +5,7 @@ title: "Christian Seidel appointed to Humboldt Foundation's selection committee"
 subtitle: 
 summary: Christian Seidel has been appointed to the selection committee for Feodor Lynen Research Fellowships of the [Alexander von Humboldt-Stiftung](https://www.humboldt-foundation.de/). 
 authors: [christian.seidel]
-tags: [highlight]
+tags: []
 categories: []
 date: 2024-01-01T16:35:51+01:00
 lastmod: 2024-01-01T16:35:51+01:00

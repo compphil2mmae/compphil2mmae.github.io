@@ -5,7 +5,7 @@ title: Sebastian Cacean completes his PhD
 subtitle:  Congratulations from CompPhil²MMAE!
 summary: Sebastian Cacean has successfully completed his PhD on the topic *Content Analysis of Argumentation Structures -- The Role of Reliability in Argument Mapping*. The entire CompPhil²MMAE team would like to congratulate him!
 authors: [sebastian.cacean,gregor.betz]
-tags: [news, highlight]
+tags: [news]
 categories: []
 date: 2024-07-15T13:35:51+01:00
 lastmod: 2024-07-15T13:35:51+01:00

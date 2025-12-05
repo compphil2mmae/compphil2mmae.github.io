@@ -5,7 +5,7 @@ title: Cyriak Schmitz completes his PhD
 subtitle:  CompPhil²MMAE congratulates!
 summary: Cyriak Schmitz has successfully completed his PhD on the subject of  *Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse* (Utilitarianism and moral progress. A philosophical-historical analysis) successfully completed. Congratulations from the entire CompPhil²MMAE team!
 authors: [cyriak.schmitz,christian.seidel]
-tags: [highlight]
+tags: []
 categories: []
 date: 2024-01-25T16:35:51+01:00
 lastmod: 2024-01-25T16:35:51+01:00

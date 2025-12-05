@@ -5,7 +5,7 @@ title: Dorothee Bleisch schließt Promotion ab
 subtitle:  CompPhil²MMAE gratuliert herzlich!
 summary: Dorothee Bleisch hat ihre Promotion zum Thema *Must Moral Theories Tell Us What to Do?* erfolgreich abgeschlossen. Das gesamte Team von CompPhil²MMAE gratuliert ganz herzlich!
 authors: [dorothee.bleisch,christian.seidel]
-tags: [highlight]
+tags: []
 categories: []
 date: 2025-01-14T08:35:51+01:00
 lastmod: 2025-01-14T08:35:51+01:00
@@ -35,6 +35,6 @@ Dorothee Bleisch hat am 16. Dezember 2024 ihre Promotion erfolgreich abgeschloss
 
 <!--more-->
 
-Die Promotion wurde von [Erasmus Mayr](https://www.philosophie.phil.fau.de/person/mayr/) (Friedrich-Alexander-Universität Erlangen-Nürnberg, Erstbetreuer) und {{% mention "christian.seidel" %}} (Karlsruher Institut für Philosophie, Zweitbetreuer) betreut.
+Die Promotion wurde von [Erasmus Mayr](https://www.philosophie.phil.fau.de/person/mayr/) (Friedrich-Alexander-Universität Erlangen-Nürnberg, Erstbetreuer) und {{% mention "christian.seidel" %}} (Karlsruher Institut für Technologie, Zweitbetreuer) betreut.
 
 Das gesamte Team von CompPhil²MMAE gratuliert ganz herzlich! 

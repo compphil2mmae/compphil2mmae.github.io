@@ -5,7 +5,7 @@ title: Konstantin Weber completes his PhD
 subtitle:  Congratulations from CompPhil²MMAE!
 summary: Konstantin Weber has successfully completed his PhD on the topic *Assigning Existence. Creating Persons without Reasons*. The entire CompPhil²MMAE team would like to congratulate him!
 authors: [konstantin.weber,christian.seidel]
-tags: [highlight]
+tags: [highlight, news]
 categories: []
 date: 2025-05-13T08:35:51+01:00
 lastmod: 2025-12-05

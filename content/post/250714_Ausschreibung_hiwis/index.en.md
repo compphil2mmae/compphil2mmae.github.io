@@ -5,7 +5,7 @@ title: "Ausschreibung: Studentische Hilfskräfte"
 subtitle: "Das CompPhil²MMAE-Team sucht Verstärkung!"
 summary: "Die Arbeitsgruppe **CompPhil²MMAE** am Department für Philosophie sucht für das akademische Jahr 2025/26 *studentische Hilfskräfte*, die unser Team in Lehre und Forschung unterstützen"
 authors: [christian.seidel, gregor.betz]
-tags: [highlight]
+tags: []
 categories: []
 date: 2025-07-14T12:00:00+01:00
 # lastmod: 2024-12-20T12:26:14+01:00

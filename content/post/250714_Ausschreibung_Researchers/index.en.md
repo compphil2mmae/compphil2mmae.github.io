@@ -5,7 +5,7 @@ title: "Job listing: postdoctoral or doctoral researchers"
 # subtitle: "Das CompPhil²MMAE-Team sucht Verstärkung!"
 summary: "CompPhil²MMAE is seeking to recruit *two postdoctoral or doctoral researchers* (f/m/d, full-time, German TV-L E13 pay scale) for a period of three years (with the perspective for two more years) to start flexibly at around January 2026."
 authors: [christian.seidel, gregor.betz]
-tags: [highlight]
+tags: []
 categories: []
 date: 2025-07-14T13:00:00+01:00
 # lastmod: 2024-12-20T12:26:14+01:00

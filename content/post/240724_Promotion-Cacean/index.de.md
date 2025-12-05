@@ -5,7 +5,7 @@ title: Sebastian Cacean schließt Promotion ab
 subtitle:  CompPhil²MMAE gratuliert herzlich!
 summary: Sebastian Cacean hat seine Promotion zum Thema *Content Analysis of Argumentation Structures -- The Role of Reliability in Argument Mapping* erfolgreich abgeschlossen. Das gesamte Team von CompPhil²MMAE gratuliert ganz herzlich!
 authors: [sebastian.cacean,gregor.betz]
-tags: [news, highlight]
+tags: [news]
 categories: []
 date: 2024-07-15T13:35:51+01:00
 lastmod: 2024-07-15T13:35:51+01:00

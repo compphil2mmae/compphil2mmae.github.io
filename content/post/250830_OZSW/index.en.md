@@ -5,7 +5,7 @@ title: Gregor Betz on "Data-driven Methods in Philosophy"
 subtitle: Keynote-Speaker at the **OZSW Summer School**
 summary: Gregor Betz will deliver the keynotes at the OZSW Summer School on "Data-driven Methods in Philosophy". The event in Utrecht aims to assist in the development of original research projects.
 authors: [gregor.betz]
-tags: []
+tags: [highlight]
 categories: []
 date: 2025-08-30T09:00:00+01:00
 # lastmod: 2025-04-07T16:35:51+01:00

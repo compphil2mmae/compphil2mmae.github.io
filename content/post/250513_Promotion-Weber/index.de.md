@@ -5,7 +5,7 @@ title: Konstantin Weber schließt Promotion ab
 subtitle:  CompPhil²MMAE gratuliert herzlich!
 summary: Konstantin Weber hat seine Promotion zum Thema *Assigning Existence. Creating Persons without Reasons* erfolgreich abgeschlossen. Das gesamte Team von CompPhil²MMAE gratuliert ganz herzlich!
 authors: [konstantin.weber,christian.seidel]
-tags: [highlight]
+tags: [highlight, news]
 categories: []
 date: 2025-05-13T08:35:51+01:00
 lastmod: 2025-05-25T08:35:51+01:00

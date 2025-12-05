@@ -5,7 +5,7 @@ title: 'Im Januar 2025: "Gemeinsam philosophieren"'
 subtitle:  Workshop mit CompPhil²MMAE-Beteiligung!
 summary: Inga Bones wird im Januar zwei Termine der Veranstaltungsreihe "Gemeinsam philosophieren" leiten. Gemeinsam philosophiert wird über Fragen wie "Was zeichnet eine faire und konstruktive Diskussion überhaupt aus?" oder "Was sind gute Argumente – und was rhetorische Fallstricke?".
 authors: [inga.bones]
-tags: [highlight]
+tags: []
 categories: []
 date: 2024-12-14T12:35:51+01:00
 lastmod: 2024-12-14T12:35:51+01:00

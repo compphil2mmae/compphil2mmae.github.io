@@ -5,7 +5,7 @@ title: Richard Lohse schließt Promotion ab
 subtitle:  CompPhil²MMAE gratuliert herzlich!
 summary: Richard Lohse hat seine Promotion zum Thema *Pluralism, Consensus, and Justification. A Simulation Study on Overlapping Consensus in Liberal Democracies* erfolgreich abgeschlossen. Das gesamte Team von CompPhil²MMAE gratuliert ganz herzlich!
 authors: [richard.lohse,gregor.betz]
-tags: [highlight]
+tags: []
 categories: []
 date: 2024-11-27T16:35:51+01:00
 lastmod: 2024-12-13T16:35:51+01:00

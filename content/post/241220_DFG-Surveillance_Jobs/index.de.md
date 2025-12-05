@@ -5,7 +5,7 @@ title: "Stellenausschreibung: 3 Forschungs-Doktorandenstellen"
 subtitle: "DFG-Projekt „Die Ethik staatlicher Massenüberwachung” @ CompPhil²MMAE/TU Dortmund"
 summary: "Das neu gegründete, von der [DFG](https://www.dfg.de) geförderte Projekt „Die Ethik staatlicher Massenüberwachung“ (Leitung: Peter Königs, Christian Neuhäuser, Christian Seidel) schreibt drei Doktorandenstellen für einen Zeitraum von drei Jahren aus. Von diesen drei Stellen werden zwei an der TU Dortmund (Fachbereich Philosophie und Politikwissenschaft) und eine am Karlsruher Institut für Technologie (Fachbereich Philosophie) angesiedelt sein. Die Beschäftigung kann zum frühestmöglichen Zeitpunkt beginnen. Die Vergütung erfolgt nach Entgeltgruppe E 13 TV-L bei 65 % der regulären Arbeitszeit."
 authors: [christian.seidel]
-tags: [highlight]
+tags: []
 categories: []
 date: 2024-12-20T12:26:14+01:00
 lastmod: 2024-12-20T12:26:14+01:00
