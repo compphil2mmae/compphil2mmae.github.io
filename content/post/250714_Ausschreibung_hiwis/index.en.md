@@ -1,9 +1,9 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Ausschreibung: Studentische Hilfskräfte"
-subtitle: "Das CompPhil²MMAE-Team sucht Verstärkung!"
-summary: "Die Arbeitsgruppe **CompPhil²MMAE** am Department für Philosophie sucht für das akademische Jahr 2025/26 *studentische Hilfskräfte*, die unser Team in Lehre und Forschung unterstützen"
+title: "Job posting: Student assistants"
+subtitle: "The CompPhil²MMAE team is looking for new members!"
+summary: "The **CompPhil²MMAE** working group at the Department of Philosophy is looking for *student assistants* for the 2025/26 academic year to support our team in teaching and research."
 authors: [christian.seidel, gregor.betz]
 tags: []
 categories: []
@@ -27,11 +27,11 @@ image:
 # projects: ['eSMS']
 ---
 
-Die Arbeitsgruppe **CompPhil²MMAE** am Department für Philosophie sucht für das akademische Jahr 2025/26 *studentische Hilfskräfte*, die unser Team in Lehre und Forschung unterstützen:
+The **CompPhil²MMAE** working group at the Department of Philosophy is looking for *student assistants* for the 2025/26 academic year to support our team in teaching and research:
 
-- Tutor:innen *Ars Rationalis*
-- Tutor:innen *Einführung in die Philosophie*
-- EDV (ILIAS, Webseite, GitHub, LLM Apps)
-- Recherchen & Literaturverwaltung, Redaktionsarbeiten, Workshoporganisation
+- Tutors for *Ars Rationalis*
+- Tutors for *Introduction to Philosophy*
+- IT (ILIAS, website, GitHub, LLM Apps)
+- Research & literature management, editorial work, workshop organization
 
-Bitte bewerben Sie sich bis zum 27.7.25 informell mit einer Email an Anja Reinke (office.seidel@itz.kit.edu) und geben Sie an, für welche der genannten Tätigkeiten Sie sich insbesondere interessieren (Mehrfachnennungen sind möglich). Fragen können Sie direkt an christian.seidel@kit.edu oder gregor.betz@kit.edu richten.
+Please apply informally by July 27, 2025, by sending an email to Anja Reinke (office.seidel@itz.kit.edu) and indicating which of the above activities you are particularly interested in (multiple selections are possible). Questions can be directed to christian.seidel@kit.edu or gregor.betz@kit.edu.
