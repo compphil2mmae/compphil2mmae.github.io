@@ -1,15 +1,15 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: Konstantin Weber schließt Promotion ab
-subtitle:  CompPhil²MMAE gratuliert herzlich!
-summary: Konstantin Weber hat seine Promotion zum Thema *Assigning Existence. Creating Persons without Reasons* erfolgreich abgeschlossen. Das gesamte Team von CompPhil²MMAE gratuliert ganz herzlich!
+title: Konstantin Weber completes his PhD
+subtitle:  Congratulations from CompPhil²MMAE!
+summary: Konstantin Weber has successfully completed his PhD on the topic *Assigning Existence. Creating Persons without Reasons*. The entire CompPhil²MMAE team would like to congratulate him!
 authors: [konstantin.weber,christian.seidel]
 tags: [highlight]
 categories: []
 date: 2025-05-13T08:35:51+01:00
-lastmod: 2025-05-25T08:35:51+01:00
-featured: true
+lastmod: 2025-12-05
+featured: false
 draft: false
 
 #doi: '10.5445/IR/1000169559'
@@ -30,10 +30,10 @@ image:
 projects: [action-guidance]
 ---
 
-Konstantin Weber hat seine Promotion erfolgreich abgeschlossen. Der Titel der Dissertation lautet *Assigning Existence. Creating Persons without Reasons*.
+{{% mention "konstantin.weber" %}} successfully completed his doctorate. The title of his dissertation is *Assigning Existence. Creating Persons without Reasons*.
 
 <!--more-->
 
-Die Promotion wurde von [Erasmus Mayr](https://www.philosophie.phil.fau.de/person/mayr/) (Friedrich-Alexander-Universität Erlangen-Nürnberg) und {{% mention "christian.seidel" %}} (Karlsruher Institut für Technologie, Zweitbetreuer) betreut.
+The doctorate was supervised by [Erasmus Mayr](https://www.philosophie.phil.fau.de/person/mayr/) (Friedrich-Alexander-Universität Erlangen-Nürnberg) und {{% mention "christian.seidel" %}} (Karlsruhe Institute of Technology, Zweitbetreuer).
 
-Das gesamte Team von CompPhil²MMAE gratuliert ganz herzlich! 
+Congratulations from the entire CompPhil²MMAE team!
