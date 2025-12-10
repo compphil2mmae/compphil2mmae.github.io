@@ -1,5 +1,5 @@
 ---
-title: Chancen von KI zur Stärkung unser deliberativen Kultur (Opportunities of AI to strengthen our deliberative culture) (KIdeKu)
+title: Chancen von KI zur Stärkung unserer deliberativen Kultur (Opportunities of AI to strengthen our deliberative culture) (KIdeKu)
 summary: KIdeKu examines the opportunities offered by these technologies to strengthen our deliberative culture, and in particular to increase participation in civil society and political debates.
 tags:
   - LLMs
