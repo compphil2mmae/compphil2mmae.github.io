@@ -83,8 +83,27 @@ We strive to achieve the following goals:
    **Demoapps** that illustrate the use of LLMs and can be the starting point for the development of ready-to-use apps. 
 3. 📋 **Action orientation:** A final report summarizes the current state of knowledge on the use of LLMs in deliberative democracies to strengthen our deliberative culture, compiles project results and formulates recommendations and best practices for civil society and political actors.
 
-
 Overall, in **_KIdeKu_** we developed concepts and studies to create a suitable operational framework for the development and use of AI for the common good in our democratic practice and hope that the results and ideas will be taken up and further developed. 
+
+
+## Outcomes
+
+### 🕵️‍♀️ EvidenceSeeker Boilerplate
+
+A code template for building AI-based apps that fact-check statements against a given knowledge base.
+
+📖 Docs: <https://debatelab.github.io/evidence-seeker/>
+
+📊 Example results: <https://debatelab.github.io/evidence-seeker-results/>
+
+🧩 Code: <https://github.com/debatelab/evidence-seeker>
+
+🤗 Gradio DemoApp: <https://huggingface.co/spaces/DebateLabKIT/evidence-seeker-demo>
+
+### 📣 Toxicity Detektor 
+
+Coming soon ...
+
 
 ---
 *Project duration:* 01.06.2024--31.12.2025

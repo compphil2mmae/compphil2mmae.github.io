@@ -1,5 +1,5 @@
 ---
-title: Chancen von KI zur Stärkung unser deliberativen Kultur (KIdeKu)
+title: Chancen von KI zur Stärkung unserer deliberativen Kultur (KIdeKu)
 summary: KIdeKu untersucht die Chancen dieser Technologien zur Stärkung unserer deliberativen Kultur, und insbesondere zur Steigerung der Teilhabe an zivilgesellschaftlichen und politischen Debatten.
 tags:
   - LLMs
@@ -85,6 +85,27 @@ Wie streben die folgenden Ziele an:
 
 
 Insgesamt erarbeiteten wir in **_KIdeKu_** damit Konzepte und Studien zur Schaffung eines geeigneten operativen Rahmens für die Entwicklung und den Einsatz gemeinwohlorientierter KI in unserer demokratischen Praxis und hoffen, dass die Ergebnisse und Ideen aufgegriffen sowie weiterentwickelt werden. 
+
+## Projektergebnisse
+
+Im Projekt wurden die folgenden Prototypen entwickelt:
+
+### 🕵️‍♀️ EvidenceSeeker Boilerplate
+
+Ein Code Template für eine RAG/LLM-basierte Fact-Checking-App relativ zu einer gegebenen Datenbasis. 
+
+📖 Dokumentation: <https://debatelab.github.io/evidence-seeker/>
+
+📊 Webseite mit Beispielergebnissen: <https://debatelab.github.io/evidence-seeker-results/>
+
+🧩 Code: <https://github.com/debatelab/evidence-seeker>
+
+🤗 Gradio DemoApp: <https://huggingface.co/spaces/DebateLabKIT/evidence-seeker-demo>
+
+### 📣 Toxicity Detektor 
+
+Coming soon ...
+
 
 ---
 *Projektlaufzeit:* 01.06.2024--31.12.2025
