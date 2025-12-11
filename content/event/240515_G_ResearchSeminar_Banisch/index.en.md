@@ -33,7 +33,7 @@ tags: [Guest Lecture]
 featured: true
 
 image:
-  filename: "Logos/Logo_ResearchSeminar/Logo_ResearchSeminar-transparent.png"
+  filename: "logos/research-seminar/transparent.png"
   alt: "CompPhil²MMAE Research Seminar"
   caption: ''
   focal_point: Right

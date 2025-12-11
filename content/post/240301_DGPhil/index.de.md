@@ -17,7 +17,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  filename: Logos/DGPhil/dgphil_logo.png #Logos/DGPhil/DKPhil+DGPhil-transparent.png
+  filename: logos/dgphil/dgphil_logo.png #logos/dgphil/DKPhil+DGPhil-transparent.png
   preview_only: true
   alt_text: "symbolic PhD hat"
 

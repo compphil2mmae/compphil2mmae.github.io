@@ -17,7 +17,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  filename: Logos/DGPhil/dgphil_logo.png #Logos/DGPhil/DKPhil+DGPhil-transparent.png
+  filename: logos/dgphil/dgphil_logo.png #logos/dgphil/DKPhil+DGPhil-transparent.png
   preview_only: true
   alt_text: "symbolic PhD hat"
 
@@ -29,7 +29,7 @@ image:
 projects: []
 ---
 
-{{< figure src="Logos/DGPhil/dkphil2024_logo.svg" alt="XXVI. German Congress of Philosophy Logo" >}}
+{{< figure src="logos/dgphil/dkphil2024_logo.svg" alt="XXVI. German Congress of Philosophy Logo" >}}
 
 {{% mention "christian.seidel" %}} takes over the leadership of the section on action theory at the [XXVI. German Congress of Philosophy](https://www.uni-muenster.de/DKPhil2024/) of the [Deutschen Gesellschaft für Philosophie](https://www.dgphil.de/). 
 

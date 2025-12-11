@@ -17,7 +17,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
 #  caption: "german research foundation (Deutsche Forschungsgesellschaft)"
-  filename: Logos/DFG/featured.en.png
+  filename: logos/dfg/transparent.en.png
   preview_only: false
   alt_text: "Logo of the german research foundation (Deutsche Forschungsgesellschaft)"
 

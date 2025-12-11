@@ -30,8 +30,9 @@ Ist das definieren vom Aufbau der Seite in Yaml & parametern. Wichtigste Optione
 - `image` Objekte können entweder:
   1. in zweisprachigen Versionen im selben Ordner als `featured.en.png/jpg` & `featured.de.png/jpg` abgelegt werden
   2. universalsprachig im selben Ordner als `featured.png/jpg` abgelegt werden
-  3. zur Vermeidung von Redundanzen relativ aus den `/assets/media/` Dateien referenziert werden, z.B. `filename: Logos/ISUS/utilitarian-flag.png`
+  3. zur Vermeidung von Redundanzen relativ aus den `/assets/media/` Dateien referenziert werden, z.B. `filename: Logos/isus/utilitarian-flag.png`
      - Soll das Bild aus dem Markdown selber (außerhalb des Front-Matter/---) referenziert werden kann es sein, dass der Pfad inclusive `/media/` angegeben werden muss
+     - > aus irgendeinem Grund kann es zu Fehlern führen, wenn die Ordnerstruktur nicht lower-case a-z (ohne Sonderzeichen) ist! Datei selber kann anders benannt werden.
 
 ### Shortcodes
 Sind kleine html snippets die zur Wiederverwendung unter `/layouts/shortcodes/` definiert werden und einfach mit `{{< shortcode-id >}}` und ggf. parametern in den Markdown-Texten aufgerufen werden können.

@@ -17,7 +17,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
 #  caption: "Deutsche Forschungsgesellschaft"
-  filename: Logos/DFG/featured.de.png
+  filename: logos/dfg/transparent.de.png
   preview_only: false
   alt_text: "Logo der Deutschen Forschungsgesellschaft"
 

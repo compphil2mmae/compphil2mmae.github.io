@@ -17,7 +17,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  filename: Logos/ISUS/utilitarian-flag.png
+  filename: logos/isus/utilitarian-flag.png
   preview_only: false
   alt_text: "utilitaristische Flagge"
 
