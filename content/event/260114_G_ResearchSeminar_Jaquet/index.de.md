@@ -14,8 +14,8 @@ summary: CompPhil²MMAE Forschungsseminar
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-01-14T11:30:00Z'
-date_end: '2026-01-14T13:00:00Z'
+date: '2026-01-21T11:30:00Z'
+date_end: '2026-01-21T13:00:00Z'
 all_day: false
 
 
