@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: "[Alumna] Postdoc"
 
 # Organizations/Affiliations
 organizations:
@@ -47,18 +47,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:inga.bones@kit.edu'
   - icon: house
     icon_pack: fas
     link: 'http://www.ibones.de/'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:inga.bones@kit.edu'
   - icon: address-card
     icon_pack: fas
     link: 'https://www.philosophie.kit.edu/mitarbeiter_921.php'
   - icon: phone
     icon_pack: fas
     link: 'https://www.philosophie.kit.edu/mitarbeiter_921.php'   
+  - icon: comments
+    icon_pack: fas
+    link: 'https://forum-streitkultur.de/'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -87,16 +90,16 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team
+  # - Team
   # - Leitung # Chair | Principal Investigators
-  - Akademische Mitarbeiter:innen # Researchers
+  # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
   # - Doktorand:innen # Grad Students
   # - Assoziierte 
   # - Gäste # Visitors
-  # - Alumni
+  - Alumnae & Alumni
 ---
 
-Inga Bones ist seit 2018 wissenschaftliche Mitarbeiterin am Department für Philosophie des Karlsruher Instituts für Technologie (KIT) und arbeitet vor allem zu Themen der angewandten Sprachphilosophie und der philosophischen Methodologie. Seit 2020 arbeitet Inga außerdem als Trainerin des [Forums für Streitkultur](https://forum-streitkultur.de/). Seit 2022 absolviert sie eine Weiterbildung zur philosophischen Praktikerin an der Universität Wien.
+Inga Bones war seit 2018 wissenschaftliche Mitarbeiterin am Department für Philosophie des Karlsruher Instituts für Technologie (KIT) und arbeitete vor allem zu Themen der angewandten Sprachphilosophie und der philosophischen Methodologie. Von 2020 an arbeitete Inga außerdem als Trainerin des [Forums für Streitkultur](https://forum-streitkultur.de/). Seit 2022 absolviert sie eine Weiterbildung zur philosophischen Praktikerin an der Universität Wien.
 Nach ihrem Studium der Philosophie, Germanistik und Linguistik in Düsseldorf und Stuttgart wurde Inga an der Universität Erlangen-Nürnberg mit einem Dissertationsprojekt zu Vagheit und dem [Sorites-Paradox](https://forum-streitkultur.de/) promoviert. Ihr Buch "[How To Swim in Sinking Sands: The Sorites Paradox and the Nature and Logic of Vague Language](https://brill.com/display/title/57559)" ist 2021 bei Brill|mentis erschienen. Eine Buchbesprechung ist 2021 in der [Zeitschrift für philosophische Forschung (Nr. 75, Heft 3)](https://www.klostermann.de/epages/63574303.sf/de_DE/?ObjectPath=/Shops/63574303/Products/2575) erschienen.
 Im Rahmen ihres Forschungsprojekts zu Hate Speech hat Inga 2021 eine von der Fritz-Thyssen-Stiftung geförderte Tagung organisiert, deren Beiträge 2023 in einer [Sonderausgabe des Journal of Applied Philosophy](https://onlinelibrary.wiley.com/toc/14685930/2023/40/5) herausgegeben wurden. In der Lehre verantwortet Inga die Einführung in die Theoretische Philosophie. Ihre anderen Lehrveranstaltungen umfassen Themen aus der Sprachphilosophie, der Philosophie des Geistes und Erkenntnistheorie. 
