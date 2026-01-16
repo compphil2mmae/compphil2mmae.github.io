@@ -38,5 +38,3 @@ projects: []
 The congress will take place in Münster from September 22 to 26, 2024 under the theme "#digital|thinking". Exposés for section contributions can be submitted until April 30, 2024 (to [Call for Papers](https://www.uni-muenster.de/DKPhil2024/kongress/cfp.html)).
 
 {{< figure src="poster.png" alt="XXVI. German Congress of Philosophy Poster" caption="XXVI. German Congress of Philosophy" >}}
-
-[//]: # (<img src="/media/Logos/DGPhil/dgphil_logo.png" alt="Deutsche Gesellschaft für Philosophie Logo" class="logo-mention">)
