@@ -1,6 +1,6 @@
 ---
 title: 'Stefan Gosepath (Berlin): "Warum Vererben ungerecht ist"'
-subtitle: KIT Philosophie-Kolloquium WiSe 24/25 [1/4] 
+subtitle: KIT Philosophie-Kolloquium WiSe 24/25 [1/4] - talk in german
 event: KIT Philosophie-Kolloquium
 event_url: https://www.philosophie.kit.edu
 
@@ -10,7 +10,7 @@ address:
   city: Karlsruhe
   postcode: '76131'
 
-summary: KIT Philosophie-Kolloquium WiSe 24/25 [1/4] 
+summary: KIT Philosophie-Kolloquium WiSe 24/25 [1/4] - talk in german
 # abstract: Im Wintersemester 2024/2025 finden im Rahmen des KIT Philosophie-Kolloquium drei Vorträge statt.
 
 # Talk start and end times.
@@ -30,11 +30,13 @@ tags: [Guest Lecture]
 featured: true
 
 image:
+  filename: "events/kolloquium/WiSe24-25.png"
+  alt: "Philosophie Kolloquium WiSe 24-25"
   caption: ''
   focal_point: Right
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'uploads/events/Kolloquium/WiSe24-25.pdf'
 url_slides: ''
 url_video: ''
 

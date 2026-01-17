@@ -30,11 +30,13 @@ tags: [Gastvortrag]
 featured: true
 
 image:
+  filename: "events/kolloquium/WiSe24-25.png"
+  alt: "Philosophie Kolloquium WiSe 24-25"
   caption: ''
   focal_point: Right
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'uploads/events/Kolloquium/WiSe24-25.pdf'
 url_slides: ''
 url_video: ''
 

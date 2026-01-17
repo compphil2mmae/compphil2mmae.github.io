@@ -1,6 +1,6 @@
 ---
 title: 'Prof. Dr. Annette Dufner (Bielefeld): "Begrenzte Aggregation. Überlegungen zum personen-neutralen Aspekt des interpersonellen Aufrechnens und Abwägens"'
-subtitle: KIT Philosophie-Kolloquium WiSe 2025/2026 
+subtitle: KIT Philosophie-Kolloquium WiSe 2025/2026 [3/4]
 event: KIT Philosophie-Kolloquium
 event_url: https://www.philosophie.kit.edu
 
@@ -10,7 +10,7 @@ address:
   city: Karlsruhe
   postcode: '76131'
 
-summary: KIT Philosophie-Kolloquium WiSe 2025/2026
+summary: KIT Philosophie-Kolloquium WiSe 2025/2026 [3/4]
 # abstract: Im Wintersemester 2024/2025 finden im Rahmen des KIT Philosophie-Kolloquium drei Vorträge statt.
 
 # Talk start and end times.
@@ -30,11 +30,13 @@ tags: [Gastvortrag]
 featured: true
 
 image:
+  filename: "events/kolloquium/WiSe25-26.png"
+  alt: "Philosophie Kolloquium WiSe 25-26"
   caption: ''
   focal_point: Right
 
 url_code: ''
-url_pdf: 'uploads/events/251126_g_kolloquium/Kolloquium_WiSe25-26.pdf'
+url_pdf: 'uploads/events/Kolloquium/WiSe25-26.pdf'
 url_slides: ''
 url_video: ''
 

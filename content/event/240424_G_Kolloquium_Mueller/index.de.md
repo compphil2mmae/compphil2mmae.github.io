@@ -30,11 +30,13 @@ tags: [Gastvortrag]
 featured: true
 
 image:
+  filename: "events/kolloquium/SoSe24.png"
+  alt: "Philosophie Kolloquium SoSe 2024"
   caption: ''
   focal_point: Right
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'uploads/events/Kolloquium/SoSe24.pdf'
 url_slides: ''
 url_video: ''
 
