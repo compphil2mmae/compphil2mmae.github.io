@@ -30,11 +30,13 @@ tags: [Guest Lecture]
 featured: true
 
 image:
+  filename: "events/kolloquium/SoSe25.png"
+  alt: "Philosophie Kolloquium SoSe 2025"
   caption: ''
   focal_point: Right
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'uploads/events/Kolloquium/SoSe25.pdf'
 url_slides: ''
 url_video: ''
 

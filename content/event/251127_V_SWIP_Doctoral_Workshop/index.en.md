@@ -23,7 +23,7 @@ all_day: false
 publishDate: '2025-11-04T13:00:00Z'
 
 authors: [alina.jacobs]
-tags: [Workshops]
+tags: [Lecture]
 
 # Is this a featured talk? (true/false)
 featured: true

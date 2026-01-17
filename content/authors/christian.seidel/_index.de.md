@@ -71,7 +71,7 @@ social:
     link: https://scholar.google.com/citations?user=6L4ZgWoAAAAJ
   - icon: fingerprint
     icon_pack: fas
-    link: https://compphil2mmae.github.io/uploads/personal/Christian-Seidel_public-keys.zip # absolute link to prevent faulty german link (github.io/de/uploads/...)
+    link: https://compphil2mmae.github.io/author/christian-seidel/Christian-Seidel_public-keys.zip # absolute link to prevent faulty german link (github.io/de/author/...)
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

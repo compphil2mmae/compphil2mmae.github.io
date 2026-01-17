@@ -1,6 +1,6 @@
 ---
 title: 'Elke Elisabeth Schmidt (Siegen): "Kant und die Liebe (Kant and  Love)"'
-subtitle: KIT Philosophie-Kolloquium SoSe 24 [2/3] 
+subtitle: KIT Philosophie-Kolloquium SoSe 24 [2/3] - talk in german
 event: KIT Colloquium on Philosophy
 event_url: https://www.philosophie.kit.edu
 
@@ -10,7 +10,7 @@ address:
   city: Karlsruhe
   postcode: '76131'
 
-summary: KIT Colloquium on Philosophy SoSe 24 [2/3] 
+summary: KIT Colloquium on Philosophy SoSe 24 [2/3] - talk in german
 # abstract: Im Sommersemester 2024 finden im Rahmen des KIT Philosophie-Kolloquium drei Vorträge statt.
 
 # Talk start and end times.
@@ -30,11 +30,13 @@ tags: [Guest lecture]
 featured: true
 
 image:
+  filename: "events/kolloquium/SoSe24.png"
+  alt: "Philosophie Kolloquium SoSe 2024"
   caption: ''
   focal_point: Right
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'uploads/events/Kolloquium/SoSe24.pdf'
 url_slides: ''
 url_video: ''
 

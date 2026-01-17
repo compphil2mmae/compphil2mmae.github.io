@@ -1,6 +1,6 @@
 ---
 title: 'Olaf Müller (Berlin): "Pazifismus. Eine Verteidigung (Pacifism. A defence)"'
-subtitle: KIT Colloquium on Philosophy SoSe 24 [1/3] 
+subtitle: KIT Colloquium on Philosophy SoSe 24 [1/3] - talk in german
 event: KIT Colloquium on Philosophy
 event_url: https://www.philosophie.kit.edu
 
@@ -10,7 +10,7 @@ address:
   city: Karlsruhe
   postcode: '76131'
 
-summary: KIT Colloquium on Philosophy SoSe 24 [1/3] 
+summary: KIT Colloquium on Philosophy SoSe 24 [1/3] - talk in german
 # abstract: In the summer semester 2024, three talks will take place as part of the KIT Philosophy Colloquium.
 
 # Talk start and end times.
@@ -30,11 +30,13 @@ tags: [Guest Lecture]
 featured: true
 
 image:
+  filename: "events/kolloquium/SoSe24.png"
+  alt: "Philosophie Kolloquium SoSe 2024"
   caption: ''
   focal_point: Right
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'uploads/events/Kolloquium/SoSe24.pdf'
 url_slides: ''
 url_video: ''
 

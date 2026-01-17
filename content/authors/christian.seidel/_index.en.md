@@ -71,7 +71,7 @@ social:
     link: https://scholar.google.com/citations?user=6L4ZgWoAAAAJ
   - icon: fingerprint
     icon_pack: fas
-    link: /uploads/personal/Christian-Seidel_public-keys.zip
+    link: /author/christian-seidel/Christian-Seidel_public-keys.zip
 #  - icon: envelope-circle-check
 #    icon_pack: fas
 #    link: /uploads/Seidel_public-encrypt.key
