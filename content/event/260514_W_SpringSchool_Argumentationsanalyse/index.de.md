@@ -57,7 +57,7 @@ politischen Diskus und in Alltagssituationen eine zentrale Rolle. Sie
 sind aber oft nicht einfach zu analysieren, unter anderem, weil sie erst
 aus Texten extrahiert werden müssen, weil in fast allen Argumenten
 Begründungen oder Schlussfolgerungen nicht ausdrücklich genannt sind und
-weil Philsoph:innen sich in der Regel nicht mit einzelnen Argumenten
+weil Philosoph*innen sich in der Regel nicht mit einzelnen Argumenten
 beschäftigen, sondern komplexe Argumentationen entwickeln und in
 Debatten Argumente mit anderen Argumenten konfrontieren.  
 <br>
@@ -91,7 +91,7 @@ Studierende verschiedener Universitäten gehören können.
 
 ## Zeitplan
 - **Bewerbung** bis zum 20. Februar 2026
-- Teilnahmezusage bis Ende Februar
+- Teilnehmer*innen Zusage bis Ende Februar
 - Erstes Treffen (hybrid) aller Teilnehmer:innen: 5. März 2026
 - Teamfindung Anfang März 2026
 - Selbstständiges Einarbeiten in Grundlagen der Argumentationsanalyse
@@ -122,4 +122,4 @@ Teilnahme (inkl. Unterkunft und Verpflegung) kostenlos. Reisekosten können ante
 - [Argdown](https://argdown.org)
 
 ---
-Bei Fragen können Sie sich gerne an {{% mention "gregor.betz" %}}, {{% mention "christian.seidel" %}} oder [georg.brun@unibe.ch](georg.brun@unibe.ch) wenden.
+Bei Fragen können Sie sich gerne an {{% mention "gregor.betz" %}}, {{% mention "christian.seidel" %}} oder [georg.brun@unibe.ch](mailto:georg.brun@unibe.ch) wenden.
