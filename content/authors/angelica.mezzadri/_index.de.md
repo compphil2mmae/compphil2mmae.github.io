@@ -27,12 +27,16 @@ organizations:
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+  - Metaphilosophie
+  - (soziale) Erkenntnistheorie
+  - Rationalitätsphilosophie
+  - Wissenschaftsphilosophie
 
 education:
-#  courses:
-#    - course: Diplom Physik
-#      institution: Freie Universität Berlin
-#      year: 2010
+  courses:
+    - course: Dr. phil. Philosophie
+      institution: Universität Turin
+      year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
