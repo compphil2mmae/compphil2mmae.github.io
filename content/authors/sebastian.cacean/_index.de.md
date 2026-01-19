@@ -27,10 +27,10 @@ organizations:
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Argumentation and Public Discourse
-  - Artificial Intelligence
-  - Content Analysis
-  - Democracy
+  - Argumentation and öffentlicher Diskurs
+  - Künstliche Intelligenz
+  - Inhaltsanalyse
+  - Demokratie
 
 education:
   courses:

@@ -18,28 +18,28 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Personal website
+  - name: Persönliche Website
     url: 'https://gregorbetz.de'
 
 # Short bio (displayed in user profile at end of posts)
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Philosophy of Science
-  - Computational Philosophy
+  - Künstliche Intelligenz
+  - Wissenschaftsphilosophie
+  - Computergestützte Philosophie (Computational Philosophy)
   - Argumentation
-  - Democracy
+  - Demokratie
 
 education:
   courses:
-    - course: M.A. Philosophy, Political Sciences, Mathematics
+    - course: M.A. Philosophie, Politikwissenschaft, Mathematik
       institution: Freie Universität Berlin
       year: 2002
-    - course: Dr. phil (Ph.D.) Philosophy
+    - course: Dr. phil (Ph.D.) Philosophie
       institution: Freie Universität Berlin
       year: 2004
-    - course: Dr. habil. (Habilitation) Philosophy
+    - course: Dr. habil. (Habilitation) Philosophie
       institution: Freie Universität Berlin
       year: 2008
 
@@ -89,10 +89,8 @@ user_groups:
   # - Assoziierte 
   # - Gäste # Visitors
   # - Alumni
-# [View my full profile]({{< relref "/authors/gregor.betz/test/" >}})
 ---
 
-Gregor Betz is professor of philosophy of science at the Karlsruhe Institute of Technology. He is, together with {{%mention "christian.seidel" %}}, co-head of CompPhil²MMAE.
+Gregor Betz ist Professor für Wissenschaftsphilosophie am Karlsruher Institut für Technologie. Er ist gemeinsam mit {{%mention "christian.seidel" %}} Co-Leiter von CompPhil²MMAE.
 
-{{< icon name="blog" pack="fas" >}} Check his [blog](https://debatelab.github.io/) for updates about recent computational philosophy projects.
-
+{{< icon name="blog" pack="fas" >}} Besuchen Sie seinen [Blog](https://debatelab.github.io/) für Neuigkeiten zu aktuellen Projekten der computergestützten Philosophie.
