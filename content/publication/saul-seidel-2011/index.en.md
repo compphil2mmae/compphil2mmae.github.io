@@ -35,7 +35,7 @@ doi: ''
 
 abstract: 'In the run-up to the Copenhagen negotiations, commentators, politicians and the public had great expectations of some state taking the lead towards a new  global climate deal. Is there something in such a call for leadership? In two steps, this article provides an empirically informed answer to that question. The first part develops a theoretical account of the relation between leadership and cooperation in international climate change mitigation policy (ICCMP). Starting from a five-dimensional  leadership account and a simple game-theoretical analysis of the impediments to  cooperation, it is predicted that (1) increased leadership facilitates cooperation in ICCMP and (2) different leadership modes contribute to cooperation in varying degrees. The second part tests these hypotheses: a new leadership index measures the extent to which the EU exhibited leadership at the negotiations of the Conference  of the Parties (COP) between 1995 and 2008. This positively correlates with the level of cooperation arrived at. The result also holds for four out of five leadership modes.'
 
-# Summary. An optional shortened abstract.
+# Summary. An optional shortened abstract to preview e.g. in list views.
 summary: ''
 
 tags: []
@@ -74,3 +74,17 @@ projects: []
 ---
 
 <!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->
+
+```
+This is the description of what the code block changes:
+<changeDescription>
+Updated the summary description to reflect the new text.
+</changeDescription>
+
+This is the code block that represents the suggested code change:
+```markdown
+# Summary. An optional shortened abstract to preview e.g. in list views.
+```
+<userPrompt>
+Provide the fully rewritten file, incorporating the suggested code change. You must produce the complete file.
+</userPrompt>
