@@ -152,7 +152,7 @@ Die Tools werden jeweils im folgenden Format vorgestellt und diskutiert:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-top: 30px;">
   <div style="flex: 1; min-width: 100px; text-align: center;">
-    {{< figure src="logos/bmbfsfj/BMBFSFJ_de_v1_farbig.png" alt="Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend" width="350px" >}}
+    {{< figure src="logos/bmbfsfj/BMFSFJ_Logo_de.svg" alt="Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend" width="350px" >}}
   </div>
   <div style="flex: 1; min-width: 100px; text-align: center;">
     {{< figure src="logos/fzi/squared.png" alt="FZI Logo" width="90px" >}}

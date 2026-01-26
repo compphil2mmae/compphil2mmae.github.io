@@ -110,8 +110,8 @@ Coming soon ...
 ---
 *Projektlaufzeit:* 01.06.2024--31.12.2025
 
-Gefördert durch:
-{{< figure src="/logos/bmbfsfj/BMFSFJ_Logo.svg" 
+*Gefördert durch:*
+{{< figure src="/logos/bmbfsfj/BMFSFJ_Logo_de.svg" 
     alt="Bundesministerium für Familie, Senioren, Frauen und Jugend" 
     width="350px" 
     class="float-left mt-0"
