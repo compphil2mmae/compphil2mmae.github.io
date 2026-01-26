@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-01-01'
+date: '2024-12-31'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2025-01-14T08:00:16.558926Z'
@@ -20,13 +20,13 @@ publishDate: '2025-01-14T08:00:16.558926Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- book
+- thesis
 
 # Publication name and optional abbreviated publication name.
 publication: ''
 publication_short: ''
 
-publisher: 'KIT'
+publisher: 'Karlsruhe Institute of Technology (KIT)'
 address: 'Karlsruhe'
 
 #doi: '10.5445/IR/1000169559'
@@ -59,8 +59,9 @@ url_video: ''
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  filename: 'symbolic-images/graduation/symbolic.png'
+  alt: 'Symbolic graduation cap'
   caption: ''
-  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
@@ -70,5 +71,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-<!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->
