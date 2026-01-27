@@ -18,6 +18,8 @@ doi: '10.1007/978-3-476-05930-7'
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
+  filename: 'covers/Mill-Handbuch.jpg'
+  alt: 'Cover vom Mill-Handbuch'
   caption: ""
   focal_point: "Smart"
   preview_only: false
