@@ -108,5 +108,8 @@ Coming soon ...
 ---
 *Project duration:* 01.06.2024--31.12.2025
 
-<!-- ![Logo BMFSFJ](BMFSFJ_Logo.svg) -->
-<img align="left" width="400" src="/uploads/events/251113_w_kideku_workshop/BMBFSFJ_en_v1_farbig.png">
+{{< figure src="/logos/bmbfsfj/BMBFSFJ_en_v1_farbig.png" 
+    alt="Federal Ministry of Education, Family Affairs, Senior Citizens, Women and Youth" 
+    width="350px" 
+    class="float-left mt-0"
+    >}}

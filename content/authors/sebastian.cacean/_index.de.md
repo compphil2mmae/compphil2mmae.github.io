@@ -14,8 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc 
-# role: "[Alumni] Doktorand & Postdoc"
+role: "[Alumni] Doktorand & Postdoc"
 
 # Organizations/Affiliations
 organizations:
@@ -27,10 +26,10 @@ organizations:
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Argumentation and Public Discourse
-  - Artificial Intelligence
-  - Content Analysis
-  - Democracy
+  - Argumentation and öffentlicher Diskurs
+  - Künstliche Intelligenz
+  - Inhaltsanalyse
+  - Demokratie
 
 education:
   courses:
@@ -45,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sebastian.cacean@kit.edu'
+    link: 'mailto:sebastian.cacean@partner.kit.edu'
   - icon: house
     icon_pack: fas
     link: 'http://sebastiancacean.de/'
@@ -86,14 +85,14 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team
+  # - Team
   # - Leitung # Chair | Principal Investigators
-  - Akademische Mitarbeiter:innen # Researchers
+  # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
   # - Doktorand:innen # Grad Students
   # - Assoziierte 
   # - Gäste # Visitors
-  # - Alumni
+  - Alumnae & Alumni
 ---
 
 Sebastian Cacean ist wissenschaftlicher Mitarbeiter im CompPhil²MMAE (ehemals Debatelab) des Departments für Philosophie des Karlsruher Instituts für Technologie (KIT) und arbeitet derzeit im Projekt [**_KIDeKu_**]({{< relref "/research/KIDEKU" >}}). 

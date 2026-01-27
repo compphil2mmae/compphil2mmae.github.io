@@ -1,6 +1,6 @@
 ---
 title: 'Prof. Dr. Jörg Löschke (Stuttgart): "Warum wir am Guten festhalten. Wertkonservatismus und rationale Handlungsfähigkeit"'
-subtitle: KIT Philosophie-Kolloquium SoSe 2025 [2/4] 
+subtitle: KIT Philosophie-Kolloquium SoSe 2025 [2/4] - talk in german
 event: KIT Philosophie-Kolloquium
 event_url: https://www.philosophie.kit.edu
 
@@ -10,7 +10,7 @@ address:
   city: Karlsruhe
   postcode: '76131'
 
-summary: KIT Philosophie-Kolloquium SoSe 2025 [2/4] 
+summary: KIT Philosophie-Kolloquium SoSe 2025 [2/4] - talk in german
 # abstract: Im Wintersemester 2024/2025 finden im Rahmen des KIT Philosophie-Kolloquium drei Vorträge statt.
 
 # Talk start and end times.
@@ -30,11 +30,13 @@ tags: [Guest Lecture]
 featured: true
 
 image:
+  filename: "events/kolloquium/SoSe25.png"
+  alt: "Philosophie Kolloquium SoSe 2025"
   caption: ''
   focal_point: Right
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'uploads/events/Kolloquium/SoSe25.pdf'
 url_slides: ''
 url_video: ''
 

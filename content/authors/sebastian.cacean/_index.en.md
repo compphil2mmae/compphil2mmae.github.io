@@ -14,8 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc 
-# role: "[Alumni] Doktorand & Postdoc"
+role: "[Alumni] PhD Student & Postdoc"
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sebastian.cacean@kit.edu'
+    link: 'mailto:sebastian.cacean@partner.kit.edu'
   - icon: house
     icon_pack: fas
     link: 'http://sebastiancacean.de/'
@@ -86,14 +85,14 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team
+  # - Team
   # - Leitung # Chair | Principal Investigators
-  - Researchers
+  # - Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
   # - Doktorand:innen # Grad Students
   # - Assoziierte 
   # - Gäste # Visitors
-  # - Alumni
+  - Alumnae & Alumni
 ---
 
 Sebastian Cacean is a research assistant at the CompPhil²MMAE (former Debatelab) of the Department of Philosophy at the Karlsruhe Institute of Technology (KIT) and is currently working on the project [**_KIDeKu_**]({{< relref "/research/KIDEKU" >}}). 

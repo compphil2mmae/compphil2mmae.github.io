@@ -5,8 +5,8 @@ tags:
   - LLMs
   - Angewandte Ethik
   - Deliberation
-  - Computationale Philosophie
-  - Norms of Public Reasoning
+  - Computergestützte Philosophie
+  - Normen der öffentlichen Argumentation
 date: '2024-06-01'
 type: 'project'
 authors:
@@ -21,7 +21,7 @@ authors:
 # external_link: ''
 
 image:
-  caption: Photo by playground.com (generated with Stable Diffusion XL)
+  caption: Foto von playground.com (generated with Stable Diffusion XL)
   focal_point: Smart
 
 links:
@@ -110,5 +110,9 @@ Coming soon ...
 ---
 *Projektlaufzeit:* 01.06.2024--31.12.2025
 
-<!-- ![Logo BMFSFJ](BMFSFJ_Logo.svg) -->
-<img align="left" width="400" src="/uploads/events/251113_w_kideku_workshop/BMBFSFJ_de_v1_farbig.png">
+*Gefördert durch:*
+{{< figure src="/logos/bmbfsfj/BMFSFJ_Logo_de.svg" 
+    alt="Bundesministerium für Familie, Senioren, Frauen und Jugend" 
+    width="350px" 
+    class="float-left mt-0"
+    >}}

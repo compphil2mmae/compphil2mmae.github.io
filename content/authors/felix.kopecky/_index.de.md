@@ -25,8 +25,8 @@ organizations:
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Formal and Computational Social Epistemology
-  - Argumentation Theory
+  - Formale und rechnergestützte soziale Erkenntnistheorie
+  - Argumentationstheorie
 #   - Schwerpunkt C
 
 education:

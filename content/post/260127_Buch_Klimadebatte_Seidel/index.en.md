@@ -5,7 +5,7 @@ title: 'New book release: "Besser um die Zukunft streiten" (How to argue better 
 subtitle: "5 philosophers on common statements in the climate debate"
 summary: "How can we discuss the future in a better way – in a more differentiated, argument-oriented and level-headed manner?
 In their joint book, Barbara Bleisch, Kirsten Meyer, Stefan Riedener, Dominic Roser and Christian Seidel take a philosophical look at twenty common statements on the climate debate."
-authors: [christian.seidel, Barbara Bleisch]
+authors: [christian.seidel]
 tags: [highlight]
 categories: []
 date: 2026-01-27

@@ -15,7 +15,7 @@ draft: false
 links:
   - icon: newspaper
     name: BNN Artikel
-    url: /uploads/debattenabend.pdf
+    url: debattenabend.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -36,4 +36,4 @@ Am 06. Februar haben die Badischen Neuesten Nachrichten (BNN) einen Abend zur Bu
 
 Die Debatte war thematisch vielfältig und trotz Ernsthaftigkeit stets respektvoll. Gregor Betz betont: "Auf dem Weg zu einem Kompromiss ist der Austausch mit anderen Meinungen wichtig." Das hat Richard Lohse zufolge gut funktioniert: "Man hat sich zugehört." Sowohl die BNN als auch das **CompPhil²MMAE**-Team empfinden die Veranstaltung als Erfolg. Gregor Betz zieht das Fazit: "Als Veranstaltung ist es ein wichtiger Beitrag, um die demokratische Kultur am Leben zu halten".
 
-{{% staticref "uploads/debattenabend.pdf" "newtab" %}}Zum Artikel der BNN{{% /staticref %}}
+{{% staticref "post/250211_bnn-aktion/debattenabend.pdf" "newtab" %}}Zum Artikel der BNN{{% /staticref %}}

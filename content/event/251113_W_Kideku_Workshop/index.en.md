@@ -31,9 +31,13 @@ featured: true
 image:
   caption: ''
   focal_point: Right
+  
+links:
+  - name: PDF
+    url: KI-und-Deliberation_workshop.pdf
 
 url_code: ''
-url_pdf: '/uploads/events/251113_w_kideku_workshop/KI-und-Deliberation_workshop.pdf'
+#url_pdf: '/uploads/events/251113_w_kideku_workshop/KI-und-Deliberation_workshop.pdf'
 url_slides: ''
 url_video: ''
 
@@ -149,12 +153,12 @@ For each tool there will be:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-top: 30px;">
   <div style="flex: 1; min-width: 100px; text-align: center;">
-    <img src="/uploads/events/251113_w_kideku_workshop/BMBFSFJ_en_v1_farbig.png" alt="Description 1" style="width: 100%; max-width: 300px; height: auto;">
+    {{< figure src="logos/bmbfsfj/BMBFSFJ_en_v1_farbig.png" alt="Federal Ministry of Education, Family Affairs, Senior Citizens, Women and Youth" width="350px" >}}
   </div>
   <div style="flex: 1; min-width: 100px; text-align: center;">
-    <img src="/uploads/events/251113_w_kideku_workshop/fzi-logo.jpg" alt="Description 2" style="width: 100%; max-width: 200px; height: auto;">
+    {{< figure src="logos/fzi/squared.png" alt="FZI Logo" width="90px" >}}
   </div>
   <div style="flex: 1; min-width: 100px; text-align: center;">
-    <img src="/uploads/events/251113_w_kideku_workshop/kit-logo.jpg" alt="Description 3" style="width: 100%; max-width: 150px; height: auto;">
+    {{< figure src="logos/kit/Faecher+KIT.jpg" alt="KIT Logo" width="150px" >}}
   </div>
 </div>
