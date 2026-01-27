@@ -5,7 +5,7 @@ title: 'Neuerscheinung: "Besser um die Zukunft streiten"'
 subtitle: "5 Philosoph*innen zu verbreiteten Aussagen in der Klimadebatte"
 summary: "Wie kann man besser - differenzierter, argumentorientierter und besonnener - über die Zukunft diskutieren?
 Barbara Bleisch, Kirsten Meyer, Stefan Riedener, Dominic Roser und Christian Seidel nehmen in Ihrem gemeinsamen Buch zwanzig verbreitete Aussagen zur Klimadebatte unter die philosophische Lupe."
-authors: [christian.seidel, Barbara Bleisch]
+authors: [christian.seidel]
 tags: [highlight]
 categories: []
 date: 2026-01-27
