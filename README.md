@@ -92,7 +92,7 @@ To help import (multiple) new publications, the [academic tool](https://github.c
    `title`, `authors`, `author_notes`, `date`, `publishDate`, `publication_types`, `publication`, `publication_short`, `doi`, `abstract`, `summary`, `tags`, `featured`, `url_pdf	url_code`, `url_dataset`, `url_poster`, `url_project`, `url_slides`, `url_source`, `url_video`, `image`, `projects`
    </details>
    
-   **author needs to be corrected if has an own page**
+   **author needs to be corrected if has an own page** (from Prename Name --> prename.name)
    
    optional additional parameters (need for manual transfer):
      - volume, number, pages (for articles)
