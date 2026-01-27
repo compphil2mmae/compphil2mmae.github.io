@@ -26,7 +26,7 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication: 'KIT'
 publication_short: ''
-publisher: 'Karlsruher Institut für Technology (KIT)'
+publisher: 'Karlsruher Institut für Technologie (KIT)'
 address: 'Karlsruhe'
 
 doi: '10.5445/IR/1000183401'
