@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-01-01'
+date: '2025-12-31'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-07-01T15:00:16.352939Z'
@@ -27,18 +27,27 @@ booktitle: '*Handbuch Utilitarismus*'
 
 address: 'Berlin'
 editor: 'Vuko Andrić & Bernward Gesang'
-#pages: '??--??'
+pages: '289--300'
 publisher: 'J.B. Metzler'
-note: '[Im Erscheinen.]'
+#note: '[Im Erscheinen.]'
 
-# doi: '10.1007/978-3-476-05930-7_9'
+doi: '10.1007/978-3-662-71326-6_26'
+isbn: '978-3-662-71326-6'
 
-abstract: 'Henry Sidgwick gilt im englischsprachigen Raum als einer der wichtigsten Vertreter der utilitaristischen Tradition und als einer der bedeutendsten Moralphilosophen überhaupt. Die Rezeption (die im deutschsprachigen Raum -- relativ zu anderen Utilitarist:innen wie auch absolut gesehen -- eher spärlich ausfällt) konzentriert sich dabei meist auf sein Hauptwerk *The Methods of Ethics* (*ME*). Um diese Schrift und die Impulse, die von ihr für die Ideengeschichte des Utilitarismus und für die Entwicklung der modernen Moralphilosophie ausgingen, besser verstehen und würdigen zu können, ist es wichtig, die *ME* in ihren biographischen Zusammenhang einzubetten, ihre Rolle in Sidgwicks philosophischem Gesamtprojekt darzustellen und zeit- und ideengeschichtlich in der britischen Moral- und Sozialphilosophie des 19. Jahrhunderts zu kontextualisieren.'
+abstract: 'Henry Sidgwick gilt im englischsprachigen Raum als einer der wichtigsten Vertreter der utilitaristischen Tradition und als einer der bedeutendsten Moralphilosophen überhaupt. Die Rezeption (die im deutschsprachigen Raum – relativ zu anderen Utilitarist:innen wie auch absolut gesehen – eher spärlich ausfällt) konzentriert sich dabei meist auf sein Hauptwerk *The Methods of Ethics* (*ME*). Um diese Schrift und die Impulse, die von ihr für die Ideengeschichte des Utilitarismus und für die Entwicklung der modernen Moralphilosophie ausgingen, besser verstehen und würdigen zu können, ist es wichtig, die *ME* in ihren biografischen Zusammenhang einzubetten, ihre Rolle in Sidgwicks philosophischem Gesamtprojekt darzustellen und zeit- und ideengeschichtlich in der britischen Moral- und Sozialphilosophie des 19. Jahrhunderts zu kontextualisieren.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Henry Sidgwick
+- Biografie
+- Methoden der Ethik
+- Politik
+- Ökonomie
+- John Stuart Mill
+- Geschichte des Utilitarismus
+- Intuitionismus
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -54,9 +63,11 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL
+  icon: springer
+  icon_pack: ai
+  url: https://link.springer.com/chapter/10.1007/978-3-662-71326-6_26
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
@@ -72,5 +83,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: ['transformation']
 ---
-
-<!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

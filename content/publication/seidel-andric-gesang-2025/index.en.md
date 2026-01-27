@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-01-01'
+date: '2025-12-31'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-07-01T15:00:16.352939Z'
@@ -27,18 +27,26 @@ booktitle: '*Handbuch Utilitarismus* (Utilitarianism handbook)'
 
 address: 'Berlin'
 editor: 'Vuko Andrić & Bernward Gesang'
-#pages: '??--??'
+pages: '289--300'
 publisher: 'J.B. Metzler'
-note: '[In publication.]'
+#note: '[In publication.]'
 
-# doi: '10.1007/978-3-476-05930-7_9'
+doi: '10.1007/978-3-662-71326-6_26'
 
 abstract: 'In the English-speaking world, Henry Sidgwick is considered one of the most important representatives of the utilitarian tradition and one of the most important moral philosophers of all. The reception (which in German-speaking countries - relative to other utilitarians as well as in absolute terms - is rather sparse) usually concentrates on his main work *The Methods of Ethics* (*ME*). In order to better understand and appreciate this work and the impulses it provided for the history of ideas of utilitarianism and for the development of modern moral philosophy, it is important to embed *ME* in its biographical context, to present its role in Sidgwick`s overall philosophical project and to contextualize it in the history of ideas and time in 19th century British moral and social philosophy.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Henry Sidgwick
+- Biography
+- Methods of Ethics
+- Politics
+- Economics
+- John Stuart Mill
+- History of Utilitarianism
+- Intuitionism
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -54,9 +62,11 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL
+  icon: springer
+  icon_pack: ai
+  url: https://link.springer.com/chapter/10.1007/978-3-662-71326-6_26
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
@@ -72,5 +82,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: ['transformation']
 ---
-
-<!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->
