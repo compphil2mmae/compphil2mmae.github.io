@@ -1,5 +1,5 @@
 ---
-title: Arguments as Drivers of Issue Polarisation in Debates Among Artificial Agents
+title: Arguments as Drivers of Issue Polarisation in Debates Among Artificial Agents (Argumente als Treiber der Polarisierung von Themen in Debatten zwischen künstlichen Agenten)
 
 # Authors
 # A YAML list of author names
@@ -32,12 +32,14 @@ pages: 4
 doi: '10.18564/jasss.4767'
 issn: '1460-7425'
 
-abstract: 'Can arguments and their properties influence the development of issue polarisation in debates among artificial agents? This paper presents an agent-based model of debates with logical constraints based on the theory of dialectical structures. Simulations on this model reveal that the exchange of arguments can drive polarisation even without social influence, and that the usage of different argumentation strategies can influence the obtained levels of polarisation.'
+abstract: 'Können Argumente und ihre Eigenschaften die Entwicklung einer Polarisierung von Themen in Debatten zwischen künstlichen Agenten beeinflussen? Dieser Artikel stellt ein agentenbasiertes Modell von Debatten mit logischen Einschränkungen vor, das auf der Theorie dialektischer Strukturen basiert. Simulationen dieses Modells zeigen, dass der Austausch von Argumenten auch ohne sozialen Einfluss zu einer Polarisierung führen kann und dass die Verwendung unterschiedlicher Argumentationsstrategien den Grad der Polarisierung beeinflussen kann.
+
+(*Orginalsprache Englisch*)'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [Polarization, Opinion dynamics, Argumentation strategies, Arguments, Belief systems]
+tags: [Polarisierung, Meinungsdynamik, Argumentationsstrategien, Argumente, Glaubenssysteme]
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -51,6 +53,8 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+# Custom links (uncomment lines below)
 links:
 - name: URL
   icon: open-access
@@ -60,11 +64,6 @@ links:
   icon: philpapers
   icon_pack: ai
   url: https://philpapers.org/rec/KOPAAD-2
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

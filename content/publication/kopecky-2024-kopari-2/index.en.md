@@ -50,16 +50,17 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+# Custom links (uncomment lines below)
 links:
 - name: URL
   icon: springer
   icon_pack: ai
   url: https://link.springer.com/article/10.1007/s11098-023-02059-6
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/KOPARI-2
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

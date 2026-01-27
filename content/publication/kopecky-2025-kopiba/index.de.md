@@ -1,5 +1,5 @@
 ---
-title: Inconsistent Belief Aggregation in Diverse and Polarised Groups
+title: Inconsistent Belief Aggregation in Diverse and Polarised Groups (Inkonsistente Meinungsbildung in vielfältigen und polarisierten Gruppen)
 
 # Authors
 # A YAML list of author names
@@ -32,12 +32,14 @@ pages: 40--58
 
 doi: '10.1017/psa.2024.29'
 
-abstract: 'How do opinion diversity and belief polarisation affect epistemic group decision-making, particularly if decisions must be made without delay and on the basis of permissive evidence? In an agent-based model, we track the consistency of group opinions aggregated through sentence-wise majority voting. Simulations on the model reveal that high opinion diversity, but not polarisation, incurs a significant inconsistency risk. These results indicate that epistemic group decisions based on permissive evidence can be particularly difficult for diverse groups. The results also improve our understanding of what can reasonably be expected of expert groups, and where expert advice might have limits.'
+abstract: 'Wie wirken sich Meinungsvielfalt und Polarisierung der Überzeugungen auf die epistemische Entscheidungsfindung in Gruppen aus, insbesondere wenn Entscheidungen unverzüglich und auf der Grundlage von zulässigen Beweisen getroffen werden müssen? In einem agentenbasierten Modell verfolgen wir die Konsistenz von Gruppenmeinungen, die durch mehrheitliche Abstimmung auf Satzebene aggregiert werden. Simulationen des Modells zeigen, dass eine hohe Meinungsvielfalt, nicht jedoch eine Polarisierung, ein erhebliches Risiko für Inkonsistenz mit sich bringt. Diese Ergebnisse deuten darauf hin, dass epistemische Gruppenentscheidungen auf der Grundlage von zulässigen Beweisen für heterogene Gruppen besonders schwierig sein können. Die Ergebnisse verbessern auch unser Verständnis davon, was von Expertengruppen vernünftigerweise erwartet werden kann und wo Expertenrat möglicherweise an seine Grenzen stößt.
+
+(*Originalsprache Englisch*)'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [Opinion diversity, Judgment aggregation, Expert advice, Belief polarization, Political Epistemology, Social Epistemology]
+tags: [Meinungsvielfalt, Urteilsaggregation, Expertenrat, Polarisierung von Überzeugungen, Politische Erkenntnistheorie, Soziale Erkenntnistheorie]
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -51,6 +53,8 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+# Custom links (uncomment lines below)
 links:
 - name: URL
   icon: open-access
@@ -61,16 +65,11 @@ links:
   icon_pack: ai
   url: https://philpapers.org/rec/KOPIBA
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
   filename: Cover-Philosophy_of_Science.jpg
-  alt: 'Cover of "Philosophy of Science"'
+  alt: 'Cover von "Philosophy of Science" (Wissenschaftsphilosophie)'
   caption: ''
   focal_point: ''
   preview_only: false
