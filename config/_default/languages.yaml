@@ -8,9 +8,9 @@ en:
   languageCode: en-us
   contentDir: content # different way: move English content into `content/en` sub-folder and copy content-folder into this subdir, then translate *everything*
   title: CompPhil²MMAE
-  weight: 1
-  taxonomies:
-    tag: tags
+#  weight: 1
+#  taxonomies:
+#    tag: tags
   # params:
   #  description: Site description in Chinese...
   # menu:
@@ -24,6 +24,6 @@ de:
   languageCode: de
   contentDir: content
   title: CompPhil²MMAE
-  weight: 2
-  taxonomies:
-    tag: tags
+#  weight: 2
+#  taxonomies:
+#    tag: tags
