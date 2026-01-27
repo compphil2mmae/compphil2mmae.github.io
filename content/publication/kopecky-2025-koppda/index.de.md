@@ -52,7 +52,7 @@ Diese Dissertation untersucht zwar Überzeugungen und deren Dynamik bei künstli
 
 Epistemisch rationale Polarisierung von Überzeugungen und inkonsistente Aggregation von Überzeugungen sind Beispiele für ein umfassenderes Phänomen. Dabei handelt es sich um Fälle, in denen die Anhäufung individuell rationaler Fähigkeiten nicht zu einem optimalen Ergebnis für die Gemeinschaft führt. Durch die weitere Erforschung solcher faszinierenden Phänomene können wir hoffen, Einblicke in bemerkenswerte Bedingungen des menschlichen Denkens, der Rationalität und der Entscheidungsfindung zu gewinnen.
 
-(*Orginalsprache Englisch*)"
+(*Originalsprache Englisch*)"
 
 # Summary. An optional shortened abstract.
 summary: ''

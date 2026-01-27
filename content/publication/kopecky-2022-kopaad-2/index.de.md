@@ -34,7 +34,7 @@ issn: '1460-7425'
 
 abstract: 'Können Argumente und ihre Eigenschaften die Entwicklung einer Polarisierung von Themen in Debatten zwischen künstlichen Agenten beeinflussen? Dieser Artikel stellt ein agentenbasiertes Modell von Debatten mit logischen Einschränkungen vor, das auf der Theorie dialektischer Strukturen basiert. Simulationen dieses Modells zeigen, dass der Austausch von Argumenten auch ohne sozialen Einfluss zu einer Polarisierung führen kann und dass die Verwendung unterschiedlicher Argumentationsstrategien den Grad der Polarisierung beeinflussen kann.
 
-(*Orginalsprache Englisch*)'
+(*Originalsprache Englisch*)'
 
 # Summary. An optional shortened abstract.
 summary: ''

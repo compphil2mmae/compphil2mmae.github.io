@@ -72,19 +72,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-<!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->
-
-```
-This is the description of what the code block changes:
-<changeDescription>
-Updated the summary description to reflect the new text.
-</changeDescription>
-
-This is the code block that represents the suggested code change:
-```markdown
-# Summary. An optional shortened abstract to preview e.g. in list views.
-```
-<userPrompt>
-Provide the fully rewritten file, incorporating the suggested code change. You must produce the complete file.
-</userPrompt>

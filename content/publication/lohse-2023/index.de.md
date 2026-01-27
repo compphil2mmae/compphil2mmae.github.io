@@ -41,7 +41,7 @@ Erstens wird argumentiert, dass eine Perspektive der begrenzten Rationalität an
 Zweitens formuliert der Artikel die offene Frage nach dem vollständigen reflektierten Gleichgewicht nach Rawls im Hinblick auf das Modell neu. Die Frage wird eingegrenzt, indem der Fokus auf die inferentiellen Verbindungen zwischen umfassenden Doktrinen und politischen Konzepten gelegt wird. Rawls selbst stellt eine anspruchsvolle Annahme darüber auf, welche Verbindungen für ein vollständiges reflektiertes Gleichgewicht notwendig sind.
 Drittens wird ein Simulationsstudienentwurf vorgestellt, der auf Einfachheit ausgerichtet ist. Die Ergebnisse werden diskutiert und stimmen mit Rawls' Annahme überein. Aufgrund der starken Idealisierungen bieten sie jedoch eher einen nützlichen Maßstab als eine endgültige Antwort. Der Artikel enthält Vorschläge für ausführlichere Studienentwürfe.
 
-(*Orginalsprache Englisch*)"
+(*Originalsprache Englisch*)"
 
 # Summary. An optional shortened abstract to preview e.g. in list views.
 summary: ''
