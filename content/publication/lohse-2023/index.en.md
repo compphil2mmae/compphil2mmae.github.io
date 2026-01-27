@@ -1,6 +1,5 @@
 ---
-title: 'Overlapping consensus in pluralist societies: simulating Rawlsian full reflective
-  equilibrium'
+title: 'Overlapping consensus in pluralist societies: simulating Rawlsian full reflective equilibrium'
 
 # Authors
 # A YAML list of author names
@@ -70,16 +69,13 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+# Custom links (uncomment lines below)
 links:
 - name: URL
   icon: springer
   icon_pack: ai
   url: https://link.springer.com/article/10.1007/s11229-023-04415-9
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

@@ -1,5 +1,6 @@
 ---
-title: Pluralism, Consensus, and Justification. A Simulation Study on Overlapping Consensus in Liberal Democracies
+title: Pluralism, Consensus, and Justification (Pluralismus, Konsens und Rechtfertigung)
+subtitle: A Simulation Study on Overlapping Consensus in Liberal Democracies (Eine Simulationsstudie zu sich überschneidenden Konsensen in liberalen Demokratien)
 
 # Authors
 # A YAML list of author names
@@ -26,7 +27,7 @@ publication_types:
 publication: ''
 publication_short: ''
 
-publisher: 'Karlsruhe Institute of Technology (KIT)'
+publisher: 'Karlsruher Institut für Technologie (KIT)'
 address: 'Karlsruhe'
 
 #doi: '10.5445/IR/1000169559'
@@ -60,7 +61,7 @@ url_video: ''
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
   filename: 'symbolic-images/graduation/symbolic.png'
-  alt: 'Symbolic graduation cap'
+  alt: 'symbolischer Doktorhut'
   caption: ''
   preview_only: false
 
