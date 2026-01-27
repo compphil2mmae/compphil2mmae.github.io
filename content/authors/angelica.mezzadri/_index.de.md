@@ -28,8 +28,8 @@ bio: '' #My research interests include distributed robotics, mobile computing an
 
 interests:
   - Metaphilosophie
-  - (soziale) Erkenntnistheorie
   - Rationalitätsphilosophie
+  - (Soziale) Erkenntnistheorie
   - Wissenschaftsphilosophie
 
 education:
@@ -37,6 +37,12 @@ education:
     - course: Dr. phil. Philosophie
       institution: Universität Turin
       year: 2025
+    - course: M.A. Philosophie
+      institution: Universität Mailand
+      year: 2020
+    - course: B.A. Philosophie
+      institution: Universität Bologna
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:angelica.mezzadri@unito.it'
+    link: 'mailto:angelica.mezzadri@kit.edu'
 #  - icon: house
 #    icon_pack: fas
 #    link: 'http://sebastiancacean.de/'
@@ -95,3 +101,9 @@ user_groups:
   # - Gäste # Visitors
   # - Alumni
 ---
+
+Angelica Mezzadri ist seit 2026 Postdoktorandin am Karlsruher Institut für Technologie (KIT). Sie promovierte 2025 in Philosophie an der Universität Turin.
+
+Ihre aktuelle Forschung konzentriert sich auf erkenntnistheoretische Rationalität in paradoxen Kontexten. Insbesondere untersucht sie, wie Akteure inkonsistente Glaubenssätze im Laufe der Zeit rational handhaben können, geleitet von der Frage, was rational ist zu glauben, wenn man mit einer paradoxen Reihe von Aussagen konfrontiert wird.
+
+Allgemeiner gesagt liegt der Schwerpunkt ihrer Forschung an der Schnittstelle zwischen Metaphilosophie und Erkenntnistheorie, wobei sie sich auf philosophische Methoden, Gedankenexperimente, Paradoxien und hypothetische Szenarien konzentriert und untersucht, wie diese Instrumente zur philosophischen Forschung und zu unserem Verständnis von Rationalität und Argumentation beitragen. Angelica hat in Fachzeitschriften wie Synthese und Behavioral and Brain Sciences veröffentlicht und ihre Arbeiten auf internationalen Konferenzen und Workshops vorgestellt. Außerdem war sie Gastwissenschaftlerin an der Universität Bochum und der Universität Hongkong.

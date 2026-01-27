@@ -34,13 +34,13 @@ interests:
 
 education:
   courses:
-    - course: MA Philosophie
+    - course: M.A. Philosophie
       institution: Universität Wien
       year: 2025
-    - course: MA Germanistik
+    - course: M.A. Germanistik
       institution: Universität Wien
       year: 2023
-    - course: BA Germanistik & Philosophie 
+    - course: B.A. Germanistik & Philosophie 
       institution: Ruprecht-Karls-Universität Heidelberg
       year: 2020
 

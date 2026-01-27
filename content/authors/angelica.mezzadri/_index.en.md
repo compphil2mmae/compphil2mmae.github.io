@@ -27,16 +27,22 @@ organizations:
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - metaphilosophy
-  - (social) epistemology
-  - philosophy of rationality
-  - philosophy of science
+  - Metaphilosophy
+  - Philosophy of rationality
+  - (Social) epistemology
+  - Philosophy of science
 
 education:
   courses:
     - course: Dr. phil. Philosophy
       institution: University of Turin
       year: 2025
+    - course: M.A. Philosophy
+      institution: University of Milan
+      year: 2020
+    - course: B.A. Philosophy
+      institution: University of Bologna
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:angelica.mezzadri@unito.it'
+    link: 'mailto:angelica.mezzadri@kit.edu'
 #  - icon: house
 #    icon_pack: fas
 #    link: 'http://sebastiancacean.de/'
@@ -95,3 +101,9 @@ user_groups:
   # - Gäste # Visitors
   # - Alumni
 ---
+
+Angelica Mezzadri has been a postdoctoral researcher at the Karlsruhe Institute of Technology (KIT) since 2026. She received her Ph.D. in Philosophy from the University of Turin in 2025.
+
+Her current research focuses on epistemic rationality in paradoxical contexts. In particular, she investigates how agents can rationally manage inconsistent sets of beliefs over time, guided by the question of what it is rational to believe when confronted with a paradoxical set of propositions.
+
+More broadly, her research lies at the intersection of metaphilosophy and epistemology, with a focus on philosophical methods, thought experiments, paradoxes, and hypothetical scenarios, and on how these tools contribute to philosophical inquiry and to our understanding of rationality and reasoning. Angelica has published in journals such as Synthese and Behavioral and Brain Sciences, and has presented her work at international conferences and workshops. She has also been a visiting researcher at the University of Bochum and the University of Hong Kong.
