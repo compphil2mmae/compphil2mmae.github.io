@@ -14,6 +14,11 @@ draft: false
 
 doi: '10.5445/IR/1000183401'
 
+links:
+  - name: Veröffentlichung
+    icon: file-lines
+    url: /de/publication/kopecky-2025-koppda/
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -31,9 +36,7 @@ image:
 projects: []
 ---
 
-Mit einem Vortrag zum Thema *„What arguments and argumentation tell us about belief polarisation and opinion diversity in epistemically rational agents (and in humans, too)“* hat {{% mention "felix.kopecky" %}} am 09. Juli 2025 seine Promotion erfolgreich abgeschlossen. Die Dissertation mit dem Titel **Polarisation, diversity, and dialectical structures: An argumentation-based approach to computational social epistemology** ist per KIT Bibliothek [*open access* publiziert](https://publikationen.bibliothek.kit.edu/1000183401).
-
-<!--more-->
+Mit einem Vortrag zum Thema *„What arguments and argumentation tell us about belief polarisation and opinion diversity in epistemically rational agents (and in humans, too)“* hat {{% mention "felix.kopecky" %}} am 09. Juli 2025 seine Promotion erfolgreich abgeschlossen. Die Dissertation mit dem Titel **Polarisation, diversity, and dialectical structures: An argumentation-based approach to computational social epistemology** ist per KIT Bibliothek [*open access* publiziert](/de/publication/kopecky-2025-koppda/).
 
 Die Promotion wurde von {{% mention "gregor.betz" %}} (Karlsruher Institut für Technologie) betreut und [Dunja Šešelja](https://rub.academia.edu/DunjaSeselja/Papers) (Ruhr-Universität Bochum) begutachtet.
 

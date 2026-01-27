@@ -14,6 +14,11 @@ draft: false
 
 doi: '10.5445/IR/1000183401'
 
+links:
+  - name: Publication
+    icon: file-lines
+    url: /publication/kopecky-2025-koppda/
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -31,9 +36,7 @@ image:
 projects: []
 ---
 
-{{% mention "felix.kopecky" %}} has successfully completed his PhD with a presentation on *„What arguments and argumentation tell us about belief polarisation and opinion diversity in epistemically rational agents (and in humans, too)“*. The dissertation, entitled **Polarisation, diversity, and dialectical structures: An argumentation-based approach to computational social epistemology** is [published *open access*](https://publikationen.bibliothek.kit.edu/1000183401). 
-
-<!--more-->
+{{% mention "felix.kopecky" %}} has successfully completed his PhD with a presentation on *„What arguments and argumentation tell us about belief polarisation and opinion diversity in epistemically rational agents (and in humans, too)“*. The dissertation, entitled **Polarisation, diversity, and dialectical structures: An argumentation-based approach to computational social epistemology** is [published *open access*](/publication/kopecky-2025-koppda/). 
 
 The doctorate was supervised by {{% mention "gregor.betz" %}} (KIT) and [Dunja Šešelja](https://rub.academia.edu/DunjaSeselja/Papers) (Ruhr-Universität Bochum). 
 

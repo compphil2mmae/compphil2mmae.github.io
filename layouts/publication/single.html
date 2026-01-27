@@ -30,6 +30,7 @@
           <div class="col-12 col-md-9">
             <a href="{{ (site.GetPage "section" "publication").RelPermalink }}#{{ $pub_type_csl | anchorize }}">
               {{ $pub_type_display }}
+<!--            TODO: eventually change link to paper resource and not to publication section -->
             </a>
           </div>
         </div>
@@ -71,6 +72,7 @@
 
     <div class="article-style">{{ .Content }}</div>
 
+<!--TODO add reference/link to project if associated-->
     {{ partial "page_footer" . }}
 
   </div>

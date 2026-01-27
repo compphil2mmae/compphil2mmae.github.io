@@ -60,6 +60,8 @@ url_video: ''
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  filename: 'covers/Mill-Handbuch.jpg'
+  alt: 'Cover vom Mill-Handbook'
   caption: ''
   focal_point: ''
   preview_only: false
@@ -71,5 +73,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: ['transformation']
 ---
-
-<!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

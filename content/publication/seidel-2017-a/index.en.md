@@ -34,7 +34,7 @@ doi: ''
 
 abstract: ''
 
-# Summary. An optional shortened abstract.
+# Summary. An optional shortened abstract to preview e.g. in list views.
 summary: ''
 
 tags: []

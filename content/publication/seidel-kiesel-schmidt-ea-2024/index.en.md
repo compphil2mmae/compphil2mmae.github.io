@@ -32,10 +32,10 @@ publisher: 'J.B. Metzler'
 
 doi: '10.1007/978-3-662-69384-1_8'
 
-abstract: ''
+abstract: 'According to a common conception, the moral standpoint is an impartial one. How does this fit in with the fact that altruism is regarded as a particularly noble moral attitude that is opposed to egoism and goes beyond impartiality? This article examines the relationship between altruism and impartiality in more detail. Within a framework for representing practical deliberation, one can distinguish between formal, structural and substantive (non-)partisanship. Altruistic deliberation proves to be structurally partisan if it is understood in contrast to egoism. A closer connection between altruism and impartiality, on the other hand, results from an explication that gives special moral relevance to the fact that making others happy makes oneself happy. Altruism then stands in a complex relationship to one`s own well-being and concern for others - a relationship that is compatible with the impartiality of the moral standpoint.'
 
-# Summary. An optional shortened abstract.
-summary: 'According to a common conception, the moral standpoint is an impartial one. How does this fit in with the fact that altruism is regarded as a particularly noble moral attitude that is opposed to egoism and goes beyond impartiality? This article examines the relationship between altruism and impartiality in more detail. Within a framework for representing practical deliberation, one can distinguish between formal, structural and substantive (non-)partisanship. Altruistic deliberation proves to be structurally partisan if it is understood in contrast to egoism. A closer connection between altruism and impartiality, on the other hand, results from an explication that gives special moral relevance to the fact that making others happy makes oneself happy. Altruism then stands in a complex relationship to one`s own well-being and concern for others - a relationship that is compatible with the impartiality of the moral standpoint.'
+# Summary. An optional shortened abstract to preview e.g. in list views.
+summary: ''
 
 tags: []
 
@@ -71,5 +71,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: ['impartialism']
 ---
-
-<!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->
