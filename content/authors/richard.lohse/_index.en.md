@@ -58,9 +58,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:richard.lohse@kit.edu'
-  - icon: file-invoice
-    icon_pack: fas
-    link: 'https://re-models.github.io/'
+#  - icon: file-invoice
+#    icon_pack: fas
+#    link: 'https://re-models.github.io/'
   # - icon: phone
   #   icon_pack: fas
   #   link: 'https://www.philosophie.kit.edu/mitarbeiter_1031.php'   
@@ -105,3 +105,4 @@ user_groups:
   - Alumnae & Alumni
 ---
 
+Richard Lohse's core philosophical interest is: How can collectives shape their future? This involves questions about democracy, collective agency, societal progress, utopianism, long-termism, and others. Thus far, his focus has been on the epistemological aspect, in particular, on disagreement and consensus formation. In his master thesis, he investigated in how far considerations about the accuracy of Bayesian credences limit the room for rational disagreement. His PhD project was concerned with the realisability of an overlapping consensus in liberal democracies.
