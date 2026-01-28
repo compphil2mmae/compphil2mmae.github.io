@@ -12,7 +12,19 @@ lastmod: 2024-03-15T16:35:51+01:00
 featured: false
 draft: false
 
-doi: '10.1007/978-3-476-05930-7'
+#doi: '10.1007/978-3-476-05930-7'
+
+# Custom links (uncomment lines below)
+links:
+- name: Book
+  icon: book
+  url: https://doi.org/10.1007/978-3-476-05930-7
+- name: Moral Intuitionism
+  icon: file-lines
+  url: /publication/seidel-hoentzsch-2024/
+- name: Hedonism
+  icon: file-lines
+  url: /publication/seidel-hoentzsch-2024-a/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

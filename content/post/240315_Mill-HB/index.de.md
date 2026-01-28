@@ -12,7 +12,19 @@ lastmod: 2024-03-15T16:35:51+01:00
 featured: false
 draft: false
 
-doi: '10.1007/978-3-476-05930-7'
+#doi: '10.1007/978-3-476-05930-7'
+
+# Custom links (uncomment lines below)
+links:
+- name: Book
+  icon: book
+  url: https://doi.org/10.1007/978-3-476-05930-7
+- name: Moralischer Intuitionismus
+  icon: file-lines
+  url: /de/publication/seidel-hoentzsch-2024/
+- name: Hedonismus
+  icon: file-lines
+  url: /de/publication/seidel-hoentzsch-2024-a/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -20,7 +32,7 @@ doi: '10.1007/978-3-476-05930-7'
 image:
   filename: 'covers/Mill-Handbuch.jpg'
   alt: 'Cover vom Mill-Handbuch'
-  caption: ""
+  caption: ''
   focal_point: "Smart"
   preview_only: false
 
@@ -33,7 +45,5 @@ projects: [transformation]
 ---
 
 Am von Frauke Höntzsch herausgegebenen Mill-Handbuch ist das Department für Philosophie mit insgesamt sieben Beiträgen maßgeblich beteiligt.  
-
-<!--more-->
 
 Christoph Schmidt-Petri hat Beiträge zu Mills Biographie, zu *Utilitarianism* sowie zu Nutzen/Glück beigesteuert; Michael Schefczyk hat über Freiheit und über Eigentum geschrieben und {{% mention "christian.seidel" %}} die Beiträge [zum moralischen Intuitionismus]({{< relref "/publication/seidel-hoentzsch-2024/" >}}) und [zum Hedonismus]({{< relref "/publication/seidel-hoentzsch-2024-a/" >}}) verfasst.
