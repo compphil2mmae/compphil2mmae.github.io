@@ -66,9 +66,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sebastian-cacean/
-  # - icon: blog
-  #   icon_pack: fas
-  #   link: https://debatelab.github.io/    
+  - icon: philpapers
+    icon_pack: ai
+    link: https://philpeople.org/profiles/sebastian-cacean
   # - icon: house
   #   icon_pack: fas
   #   link: 'https://my-own-website.example'

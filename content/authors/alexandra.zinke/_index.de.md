@@ -65,6 +65,9 @@ social:
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
+  - icon: philpapers
+    icon_pack: ai
+    link: https://philpeople.org/profiles/alexandra-zinke-3
   # - icon: orcid
   #   icon_pack: ai
   #   link: https://orcid.org/0000-0001-5802-5030

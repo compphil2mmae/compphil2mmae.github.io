@@ -68,9 +68,12 @@ social:
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
-  # - icon: orcid
-  #   icon_pack: ai
-  #   link: https://orcid.org/0000-0001-5802-5030
+  - icon: philpapers
+    icon_pack: ai
+    link: https://philpeople.org/profiles/peter-konigs
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-7267-4675
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/in/gregor-betz/

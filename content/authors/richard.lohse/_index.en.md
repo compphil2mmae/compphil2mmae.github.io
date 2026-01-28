@@ -70,9 +70,9 @@ social:
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
-  # - icon: orcid
-  #   icon_pack: ai
-  #   link: https://orcid.org/0000-0001-5802-5030
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0000-6479-6229
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/in/gregor-betz/

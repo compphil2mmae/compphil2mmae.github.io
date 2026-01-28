@@ -67,9 +67,12 @@ social:
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/xylomorph
-  # - icon: orcid
-  #   icon_pack: ai
-  #   link: https://orcid.org/0000-0001-5802-5030
+  - icon: philpapers
+    icon_pack: ai
+    link: https://philpeople.org/profiles/angelica-mezzadri
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0008-3448-6535
 #  - icon: linkedin
 #    icon_pack: fab
 #    link: https://www.linkedin.com/in/sebastian-cacean/

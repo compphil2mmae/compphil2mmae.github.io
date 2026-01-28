@@ -65,10 +65,16 @@ social:
     link: 'https://www.philosophie.kit.edu/mitarbeiter_894.php'
   - icon: calendar-days
     icon_pack: fas
-    link: 'mailto:sprechstunde.seidel@itz.kit.edu'  
+    link: 'mailto:sprechstunde.seidel@itz.kit.edu'
+  - icon: philpapers
+    icon_pack: ai
+    link: https://philpeople.org/profiles/christian-seidel
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=6L4ZgWoAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-5866-9861
   - icon: fingerprint
     icon_pack: fas
     link: /author/christian-seidel/Christian-Seidel_public-keys.zip

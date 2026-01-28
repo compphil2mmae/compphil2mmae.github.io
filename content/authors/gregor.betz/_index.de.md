@@ -54,12 +54,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'https://www.gregorbetz.de/#contact'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=EPjtT9cAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/ggbetz
+  - icon: philpapers
+    icon_pack: ai
+    link: https://philpeople.org/profiles/gregor-betz
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=EPjtT9cAAAAJ
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-5802-5030

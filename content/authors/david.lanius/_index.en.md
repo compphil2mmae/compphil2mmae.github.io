@@ -59,6 +59,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:david.lanius@plus.ac.at'
+  - icon: philpapers
+    icon_pack: ai
+    link: https://philpeople.org/profiles/david-lanius
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-3761-9531
   # - icon: address-card
   #   icon_pack: fas
   #   link: 'https://www.philosophie.kit.edu/mitarbeiter_805.php'
