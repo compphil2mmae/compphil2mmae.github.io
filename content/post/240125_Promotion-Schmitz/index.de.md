@@ -12,7 +12,12 @@ lastmod: 2024-01-25T16:35:51+01:00
 featured: false
 draft: false
 
-doi: '10.5445/IR/1000169559'
+#doi: '10.5445/IR/1000169559'
+
+links:
+  - name: Dissertation
+    icon: book
+    url: /de/publication/schmitz-2024/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -20,7 +25,7 @@ doi: '10.5445/IR/1000169559'
 image:
   caption: ""
   filename: symbolic-images/graduation/symbolic.png
-  preview_only: true
+  preview_only: false
   alt_text: "symbolischer Doktorhut"
 
 # Projects (optional).

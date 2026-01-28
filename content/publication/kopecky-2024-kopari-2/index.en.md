@@ -31,6 +31,8 @@ pages: 83--107
 
 doi: 10.1007/s11098-023-02059-6
 
+language: english
+
 abstract: 'Computational models have shown how polarisation can rise among deliberating agents as they approximate epistemic rationality. This paper provides further support for the thesis that polarisation can rise under condition of epistemic rationality, but it does not depend on limitations that extant models rely on, such as memory restrictions or biased evaluation of other agents’ testimony. Instead, deliberation is modelled through agents’ purposeful introduction of arguments and their rational reactions to introductions of others. This process induces polarisation dynamics on its own. A second result is that the effect size of polarisation dynamics correlates with particular types of argumentative behaviour. Polarisation effects can be soothed when agents take into account the opinions of others as premises, and they are amplified as agents fortify their own beliefs. These results underpin the relevance of argumentation as a factor in social-epistemic processes and indicate that rising issue polarisation is not a reliable indicator of epistemic shortcomings.'
 
 # Summary. An optional shortened abstract to preview e.g. in list views.
@@ -53,6 +55,9 @@ url_video: ''
 
 # Custom links (uncomment lines below)
 links:
+- name: PDF
+  icon: file-pdf
+  url: Argumentation-Induced-Rational-Issue-Polarization.pdf
 - name: URL
   icon: springer
   icon_pack: ai

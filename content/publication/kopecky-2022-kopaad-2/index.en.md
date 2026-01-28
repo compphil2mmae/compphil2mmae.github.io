@@ -24,10 +24,12 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*Journal of Artificial Societies and Social Simulation (JASSS)*'
-publication_short: ''
+publication_short: 'JASSS'
 volume: 25
 number: 1
 pages: 4
+
+language: english
 
 doi: '10.18564/jasss.4767'
 issn: '1460-7425'
@@ -44,7 +46,7 @@ featured: false
 
 # Links
 url_pdf: ''
-url_code: 'https://zenodo.org/records/6448599'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -54,6 +56,12 @@ url_video: ''
 
 # Custom links (uncomment lines below)
 links:
+- name: PDF
+  icon: file-pdf
+  url: Argumentation-Induced-Rational-Issue-Polarization.pdf
+- name: Code
+  icon: file-code
+  url: https://zenodo.org/records/6448599
 - name: URL
   icon: open-access
   icon_pack: ai

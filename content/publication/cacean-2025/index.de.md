@@ -67,6 +67,9 @@ url_video: ''
 
 # Custom links (uncomment lines below)
 links:
+- name: PDF
+  icon: file-pdf
+  url: Content-Analysis-of-Argumentation-Structures.pdf
 - name: URL
   icon: open-access
   icon_pack: ai

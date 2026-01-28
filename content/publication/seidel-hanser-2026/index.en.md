@@ -67,7 +67,7 @@ url_video: ''
 
 # Custom links (uncomment lines below)
 links:
-- name: Buch
+- name: Book
   icon: book
   url: https://www.hanser-literaturverlage.de/buch/besser-um-die-zukunft-streiten-9783446285637-t-5875
 

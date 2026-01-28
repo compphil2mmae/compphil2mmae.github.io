@@ -32,6 +32,8 @@ pages: 40--58
 
 doi: '10.1017/psa.2024.29'
 
+language: english
+
 abstract: 'Wie wirken sich Meinungsvielfalt und Polarisierung der Überzeugungen auf die epistemische Entscheidungsfindung in Gruppen aus, insbesondere wenn Entscheidungen unverzüglich und auf der Grundlage von zulässigen Beweisen getroffen werden müssen? In einem agentenbasierten Modell verfolgen wir die Konsistenz von Gruppenmeinungen, die durch mehrheitliche Abstimmung auf Satzebene aggregiert werden. Simulationen des Modells zeigen, dass eine hohe Meinungsvielfalt, nicht jedoch eine Polarisierung, ein erhebliches Risiko für Inkonsistenz mit sich bringt. Diese Ergebnisse deuten darauf hin, dass epistemische Gruppenentscheidungen auf der Grundlage von zulässigen Beweisen für heterogene Gruppen besonders schwierig sein können. Die Ergebnisse verbessern auch unser Verständnis davon, was von Expertengruppen vernünftigerweise erwartet werden kann und wo Expertenrat möglicherweise an seine Grenzen stößt.
 
 (*Originalsprache Englisch*)'
@@ -56,6 +58,9 @@ url_video: ''
 
 # Custom links (uncomment lines below)
 links:
+- name: PDF
+  icon: file-pdf
+  url: Inconsistent-Belief-Aggregation-in-Diverse-and-Polarised-Groups.pdf
 - name: URL
   icon: open-access
   icon_pack: ai
@@ -68,7 +73,7 @@ links:
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
-  filename: Cover-Philosophy_of_Science.jpg
+  filename: covers/Cover-Philosophy_of_Science.jpg
   alt: 'Cover von "Philosophy of Science" (Wissenschaftsphilosophie)'
   caption: ''
   focal_point: ''

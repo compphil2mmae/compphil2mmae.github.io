@@ -12,7 +12,12 @@ lastmod: 2024-07-15T13:35:51+01:00
 featured: false
 draft: false
 
-# doi: '10.5445/IR/1000169559'
+#doi: '10.5445/IR/1000182475'
+
+links:
+  - name: Dissertation
+    icon: book
+    url: /publication/cacean-2025/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

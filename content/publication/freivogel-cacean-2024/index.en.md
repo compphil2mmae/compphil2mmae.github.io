@@ -59,7 +59,7 @@ summary: 'In philosophy, and especially in ethics, reflective equilibrium (RE) i
 tags:
 - Reflective equilibrium
 - Philosophical method
-- Rawls
+- John Rawls
 - Formal epistemology
 - Formal methods
 - Moral reasoning
@@ -73,7 +73,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://re-models.github.io/'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -97,15 +97,18 @@ links:
   icon: philpapers
   icon_pack: ai
   url: https://philpapers.org/rec/FREAAF-3
+- name: Project
+  icon: folder-tree
+  icon_pack: fas
+  url: https://re-models.github.io/
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
-image:
-  filename: 'uploads/zenodo-logo.png'
-  alt: 'Zenodo Logo'
-  caption: 'Zenodo - Open Science Repository'
-  focal_point: ''
-  preview_only: false
+#image:
+#  filename: 'Reflective-Equilibrium.jpeg'
+#  alt: 'Title - How Far Does Reflective Equilibrium Take Us?'
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

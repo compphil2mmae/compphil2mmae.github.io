@@ -12,11 +12,11 @@ date: 2025-08-03T08:35:51+01:00
 featured: true
 draft: false
 
-doi: '10.5445/IR/1000183401'
+#doi: '10.5445/IR/1000183401'
 
 links:
-  - name: Veröffentlichung
-    icon: file-lines
+  - name: Dissertation
+    icon: book
     url: /de/publication/kopecky-2025-koppda/
 
 # Featured image

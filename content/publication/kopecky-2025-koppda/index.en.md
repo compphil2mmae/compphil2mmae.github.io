@@ -24,12 +24,17 @@ publication_types:
 - thesis
 
 # Publication name and optional abbreviated publication name.
-publication: 'KIT'
-publication_short: ''
-publisher: 'Karlsruhe Institute of Technology (KIT)'
-address: 'Karlsruhe'
+publication: '*Karlsruhe Institute of Technology (KIT)*'
+publication_short: 'KIT'
 
-doi: '10.5445/IR/1000183401'
+publisher: 'Karlsruhe Institute of Technology (KIT)'
+school: 'Karlsruhe Institute of Technology (KIT)'
+address: Karlsruhe
+
+language: english
+pagetotal: 178
+
+doi: 10.5445/IR/1000183401
 
 # double line break needed for correct markdown rendering
 abstract: "This dissertation is about the study of belief polarisation and opinion diversity in agent-based, computational models. Simulations on these models reveal that beliefs of artificial agents can polarise through deliberation – even if all agents hold a productive mindset and adhere to standards of epistemic rationality. Different deliberative practices affect polarisation dynamics differently in these models. Polarisation dynamics are soothed as agents engage with the beliefs of others in their reasoning. The largest polarisation effect is observed in agents who continuously fortify their own beliefs.
@@ -62,9 +67,20 @@ While this dissertation studies beliefs and their dynamics in artificial, episte
 Epistemically rational belief polarisation and inconsistent belief aggregation are instances of a broader phenomenon. These are cases in which the accumulation of individually rational capabilities does not yield an optimal outcome for the collective. By continuing the study of such intriguing phenomena, we can hope to gain insights into noteworthy conditions of human reasoning, rationality, and decision-making."
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'This dissertation investigates belief polarisation and opinion diversity through computational models of argumentation. Key findings show that even epistemically rational agents can polarise through deliberation, with egocentric argumentation strategies driving polarisation while allocentric strategies reduce it. The research also reveals that diverse groups face challenges in collective decision-making, as majority voting often yields inconsistent outcomes. The study introduces "taupy," a new Python implementation for dialectical structures analysis, and demonstrates how computational modeling can reveal dynamic aspects of philosophical concepts that traditional methods cannot access.'
 
-tags: []
+tags:
+- Social epistemology
+- Polarization
+- Argumentation
+- Deliberation
+- Agent-based model (ABM)
+- Opinion dynamics
+- Epistemic rationality
+- Belief polarization
+- Opinion diversity
+- Dialectical structures
+- Collective decision-making
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -81,6 +97,9 @@ url_video: ''
 
 # Custom links (uncomment lines below)
 links:
+- name: PDF
+  icon: file-pdf
+  url: Polarisation-Diversity-and-Dialectical-Structures.pdf
 - name: URL
   icon: open-access
   icon_pack: ai

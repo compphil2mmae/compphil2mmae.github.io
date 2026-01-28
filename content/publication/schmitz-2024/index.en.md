@@ -1,5 +1,6 @@
 ---
-title: Utilitarismus und moralischer Fortschritt. Eine philosophiehistorische Analyse (Utilitarianism and moral progress. A philosophical-historical analysis)
+title: Utilitarismus und moralischer Fortschritt (Utilitarianism and moral progress)
+subtitle: Eine philosophiehistorische Analyse (A philosophical-historical analysis)
 
 # Authors
 # A YAML list of author names
@@ -12,7 +13,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2024-01-01'
+date: '2024-04-02'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-04-10T15:00:16.558926Z'
@@ -23,20 +24,33 @@ publication_types:
 - book
 
 # Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
+publication: 'Karlsruhe Institute of Technology (KIT)'
+publication_short: 'KIT'
 
-publisher: 'KIT'
-address: 'Karlsruhe'
+publisher: 'Karlsruhe Institute of Technology (KIT)'
+school: 'Karlsruhe Institute of Technology (KIT)'
+address: Karlsruhe
 
-doi: '10.5445/IR/1000169559'
+language: deutsch
+pagetotal: 212
+
+doi: 10.5445/IR/1000169559
 
 abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+  - Moral progress
+  - Utilitarianism
+  - John Stuart Mill
+  - Henry Sidgwick
+  - Peter Singer
+  - Derek Parfit
+  - Moral improvement
+  - History of ethics
+  - History of ideas
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -52,14 +66,20 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  icon: file-pdf
+  url: Utilitarismus-und-moralischer-Fortschritt.pdf
+- name: URL
+  icon: open-access
+  icon_pack: ai
+  url: https://publikationen.bibliothek.kit.edu/1000169559
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
-  caption: ''
+  filename: symbolic-images/graduation/symbolic.png
+  alt: 'symbolic graduation cap'
   focal_point: ''
   preview_only: false
 
@@ -70,5 +90,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: ['moral-progress']
 ---
-
-<!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

@@ -24,7 +24,7 @@ publication_types:
 - thesis
 
 # Publication name and optional abbreviated publication name.
-publication: '*Karlsruher Institut für Technologie (KIT)*'
+publication: '*Karlsruhe Institute of Technology (KIT)*'
 publication_short: 'KIT'
 
 publisher: Karlsruhe Institute of Technology (KIT)
@@ -68,6 +68,9 @@ url_video: ''
 
 # Custom links (uncomment lines below)
 links:
+- name: PDF
+  icon: file-pdf
+  url: Content-Analysis-of-Argumentation-Structures.pdf
 - name: URL
   icon: open-access
   icon_pack: ai

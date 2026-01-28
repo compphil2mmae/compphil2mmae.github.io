@@ -24,12 +24,17 @@ publication_types:
 - thesis
 
 # Publication name and optional abbreviated publication name.
-publication: 'KIT'
-publication_short: ''
-publisher: 'Karlsruher Institut für Technologie (KIT)'
-address: 'Karlsruhe'
+publication: '*Karlsruher Institut für Technologie (KIT)*'
+publication_short: 'KIT'
 
-doi: '10.5445/IR/1000183401'
+publisher: 'Karlsruher Institut für Technologie (KIT)'
+school: 'Karlsruher Institut für Technologie (KIT)'
+address: Karlsruhe
+
+language: english
+pagetotal: 178
+
+doi: 10.5445/IR/1000183401
 
 # double line break needed for correct markdown rendering
 abstract: "Diese Dissertation befasst sich mit der Untersuchung von Glaubenspolarisierung und Meinungsvielfalt in agentenbasierten Computermodellen. Simulationen dieser Modelle zeigen, dass sich die Überzeugungen künstlicher Agenten durch Deliberation polarisieren können – selbst wenn alle Agenten eine produktive Denkweise haben und sich an Standards epistemischer Rationalität halten. Unterschiedliche deliberative Praktiken wirken sich in diesen Modellen unterschiedlich auf die Polarisierungsdynamik aus. Die Polarisierungsdynamik wird gemildert, wenn Agenten die Überzeugungen anderer in ihre Überlegungen einbeziehen. Der größte Polarisierungseffekt wird bei Agenten beobachtet, die ihre eigenen Überzeugungen kontinuierlich festigen.
@@ -65,9 +70,20 @@ Epistemisch rationale Polarisierung von Überzeugungen und inkonsistente Aggrega
 (*Originalsprache Englisch*)"
 
 # Summary. An optional shortened abstract.
-summary: ''
+summary: 'Diese Dissertation untersucht die Polarisierung von Überzeugungen und Meinungsvielfalt anhand von computergestützten Argumentationsmodellen. Die wichtigsten Ergebnisse zeigen, dass selbst epistemisch rationale Akteure durch Deliberation polarisieren können, wobei egozentrische Argumentationsstrategien die Polarisierung fördern, während allozentrische Strategien sie verringern. Die Forschung zeigt auch, dass vielfältige Gruppen bei der kollektiven Entscheidungsfindung vor Herausforderungen stehen, da Mehrheitsentscheidungen oft zu inkonsistenten Ergebnissen führen. Die Studie stellt „taupy“ vor, eine neue Python-Implementierung für die Analyse dialektischer Strukturen, und zeigt, wie computergestützte Modelle dynamische Aspekte philosophischer Konzepte aufzeigen können, die mit traditionellen Methoden nicht zugänglich sind.'
 
-tags: []
+tags:
+- Soziale Erkenntnistheorie
+- Polarisierung
+- Argumentation
+- Debatte
+- Agent-basiertes Modell (ABM)
+- Meinungsdynamik
+- Epistemische Rationalität
+- Meinungspolarisierung
+- Meinungsvielfalt
+- Dialektische Strukturen
+- Kollektive Entscheidungsfindung
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -84,6 +100,9 @@ url_video: ''
 
 # Custom links (uncomment lines below)
 links:
+- name: PDF
+  icon: file-pdf
+  url: Polarisation-Diversity-and-Dialectical-Structures.pdf
 - name: URL
   icon: open-access
   icon_pack: ai

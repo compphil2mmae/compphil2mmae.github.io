@@ -32,6 +32,8 @@ pages: 40--58
 
 doi: '10.1017/psa.2024.29'
 
+language: english
+
 abstract: 'How do opinion diversity and belief polarisation affect epistemic group decision-making, particularly if decisions must be made without delay and on the basis of permissive evidence? In an agent-based model, we track the consistency of group opinions aggregated through sentence-wise majority voting. Simulations on the model reveal that high opinion diversity, but not polarisation, incurs a significant inconsistency risk. These results indicate that epistemic group decisions based on permissive evidence can be particularly difficult for diverse groups. The results also improve our understanding of what can reasonably be expected of expert groups, and where expert advice might have limits.'
 
 # Summary. An optional shortened abstract.
@@ -54,6 +56,9 @@ url_video: ''
 
 # Custom links (uncomment lines below)
 links:
+- name: PDF
+  icon: file-pdf
+  url: Inconsistent-Belief-Aggregation-in-Diverse-and-Polarised-Groups.pdf
 - name: URL
   icon: open-access
   icon_pack: ai
@@ -66,7 +71,7 @@ links:
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
-  filename: Cover-Philosophy_of_Science.jpg
+  filename: covers/Cover-Philosophy_of_Science.jpg
   alt: 'Cover of "Philosophy of Science"'
   caption: ''
   focal_point: ''

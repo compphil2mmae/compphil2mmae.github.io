@@ -6,7 +6,7 @@ title: 'Overlapping consensus in pluralist societies: simulating Rawlsian full r
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Richard Lohse
+- richard.lohse
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -28,6 +28,8 @@ publication_short: ''
 volume: 203
 number: 1
 pages: 11
+
+language: english
 
 doi: 10.1007/s11229-023-04415-9
 issn: 1573-0964
@@ -63,10 +65,17 @@ url_video: ''
 
 # Custom links (uncomment lines below)
 links:
+- name: PDF
+  icon: file-pdf
+  url: Overlapping-Consensus-in-pluralist-Societies.pdf
 - name: URL
   icon: springer
   icon_pack: ai
   url: https://link.springer.com/article/10.1007/s11229-023-04415-9
+- name: Projekt
+  icon: folder-tree
+  icon_pack: fas
+  url: https://re-models.github.io/
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
@@ -81,5 +90,5 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [DFG_RE]
 ---

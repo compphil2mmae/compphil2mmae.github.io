@@ -24,7 +24,7 @@ links:
 image:
   caption: ""
   filename: symbolic-images/graduation/symbolic.png
-  preview_only: true
+  preview_only: false
   alt_text: "symbolic PhD hat"
 
 # Projects (optional).

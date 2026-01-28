@@ -24,20 +24,34 @@ publication_types:
 - thesis
 
 # Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
+publication: '*Karlsruhe Institute of Technology (KIT)*'
+publication_short: 'KIT'
 
 publisher: 'Karlsruhe Institute of Technology (KIT)'
-address: 'Karlsruhe'
+school: 'Karlsruhe Institute of Technology (KIT)'
+address: Karlsruhe
+
+language: english
+pagetotal: 228
 
 #doi: '10.5445/IR/1000169559'
 
-abstract: ''
+abstract: 'This dissertation investigates the conditions for overlapping consensus in pluralistic societies, addressing the fundamental tension between pluralism, consensus, and justification in constitutional matters. Combining philosophical analysis with formal modeling and computational simulation, the study explores how citizens can achieve justified consensus on constitutional issues despite diverse worldviews. The work develops novel definitions for different stages of overlapping consensus, distinguishing between global and local forms, and proposes a justification concept based on reflective equilibrium within dialectical situations. Through an extensive simulation study of artificial societies, the dissertation tests the hypothesis that only constitution-supporting worldviews enable global overlapping consensus, while local consensus permits neutral worldviews. The findings reveal that global consensus requires excluding incompatible and neutral worldviews from public debate—a potentially illiberal consequence—whereas local consensus offers more promising prospects. This research provides essential conceptual foundations and methodological tools for further empirical and theoretical investigations into democratic legitimacy in pluralistic societies.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Overlapping consensus
+- Reflective equilibrium
+- John Rawls
+- Computational philosophy
+- Formal methods
+- Modelling
+- Pluralism
+- Constitutional theory
+- Democratic legitimacy
+- Political philosophy
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -53,9 +67,18 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  icon: file-pdf
+  url: Pluralism-Consensus-and-Justification.pdf
+- name: Book
+  icon: book
+  icon_pack: fas
+  url: https://katalog.bibliothek.kit.edu/cgi-bin/koha/opac-detail.pl?biblionumber=1444370
+- name: Project
+  icon: folder-tree
+  icon_pack: fas
+  url: https://re-models.github.io/
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
@@ -70,5 +93,5 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [DFG_RE]
 ---
