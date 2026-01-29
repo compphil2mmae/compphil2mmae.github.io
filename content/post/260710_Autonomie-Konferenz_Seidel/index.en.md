@@ -25,7 +25,7 @@ image:
 links:
   - name: 10.07.
     icon: calendar-days
-    url: /event/260710_V_Seidel_Freiburg
+    url: /event/260710_v_seidel_freiburg/
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
