@@ -15,7 +15,7 @@ draft: false
 links:
   - icon: calendar-days
     name: 10.01.
-    url: /event/250110_w_gemeinsamphilosophieren2025_a
+    url: /de/event/250110_w_gemeinsamphilosophieren2025_a
   - icon: calendar-days
     name: 24.01.
     url: /de/event/250124_w_gemeinsamphilosophieren2025_b
@@ -39,8 +39,8 @@ In Zeiten zunehmender gesellschaftlicher Polarisierung und politischer Radikalis
 
 {{% mention "inga.bones" %}} lädt in der Veranstaltungsreihe „Gemeinsam philosophieren“ der Initiative „Inspiration Philosophie“ des [Philosophischen Seminars der Universität Heidelberg](https://www.uni-heidelberg.de/fakultaeten/philosophie/philsem/) zum gemeinsamen Philosophieren darüber ein.
 
-Die beiden Veranstaltungen finden am [10. Januar](/event/250110_w_gemeinsamphilosophieren2025_a) und am [24. Januar](/event/250124_w_gemeinsamphilosophieren2025_b) statt.
-Nähere Informationen gibt es in unserer [Eventübersicht](/event).
+Die beiden Veranstaltungen finden am [10. Januar]({{< relref "/event/250110_W_GemeinsamPhilosophieren2025_a" >}}) und am [24. Januar]({{< relref "/event/250124_W_GemeinsamPhilosophieren2025_b" >}}) statt.
+Nähere Informationen gibt es in unserer [Eventübersicht]({{< relref "/event" >}}).
 
 <!--more-->
 

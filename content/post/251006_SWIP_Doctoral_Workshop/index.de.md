@@ -23,7 +23,7 @@ image:
 links:
   - icon: calendar-days
     name: 27.11.
-    url: /event/251127_w_swip_doctoral_workshop/
+    url: /de/event/251127_w_swip_doctoral_workshop/
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
