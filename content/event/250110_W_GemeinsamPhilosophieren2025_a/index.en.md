@@ -1,16 +1,16 @@
 ---
-title: 'Argumentieren mit Andersdenkenden'
-subtitle: Gemeinsam philosophieren
-event: Gemeinsam philosophieren -- Workshop in der Kulturküche
+title: 'Argumentieren mit Andersdenkenden (Arguing with those who think differently)'
+subtitle: Gemeinsam philosophieren (Philosophising together)
+event: Gemeinsam philosophieren -- Workshop at the Kulturküche
 event_url: https://kalender.karlsruhe.de/db/termine/literatur/gemeinsam_philosophieren_workshop_in_der_kulturkuche
 
-location: Kulturküche Karlsruhe
+location: '[Kulturküche Karlsruhe](https://kulturkueche-karlsruhe.de/)'
 address:
   street: Kaiserstraße 47
   city: Karlsruhe
   postcode: '76131'
 
-summary: Dieser Workshop soll unter anderem die Frage aufgreifen, wie man konstruktiv mit (insbesondere politisch) Andersdenkenden diskutieren kann.
+summary: Among other things, this workshop will address the question of how to engage constructively in discussion with those who hold different views (particularly political ones).
 # abstract: Im Wintersemester 2024/2025 finden im Rahmen des KIT Philosophie-Kolloquium drei Vorträge statt.
 
 # Talk start and end times.
@@ -30,8 +30,16 @@ tags: [Workshops]
 featured: true
 
 image:
+  filename: '/events/Gemeinsam_Philosophieren/Gemeinsam_Philosophieren_2025_Karlsruhe.png'
+  alt: 'Aushang Gemeinsam Philosophieren 2025'
   caption: ''
   focal_point: Right
+
+# Custom links (uncomment lines below)
+links:
+- name: Poster
+  icon: file-arrow-down
+  url: '/uploads/events/GemeinsamPhilosophieren/Gemeinsam_Philosophieren_2025_Karlsruhe.pdf'
 
 url_code: ''
 url_pdf: ''
@@ -53,13 +61,10 @@ slides:
 projects:
 ---
 
-In Zeiten zunehmender gesellschaftlicher Polarisierung und politischer Radikalisierung ist Verständigung wichtiger denn je. Aber was zeichnet eine faire und konstruktive Diskussion überhaupt aus? Was sind gute Argumente – und was rhetorische Fallstricke?
+In times of increasing social polarisation and political radicalisation, understanding is more important than ever. But what actually characterises a fair and constructive discussion? What are good arguments – and what are rhetorical pitfalls?
 
-Dieser Workshop soll – neben Basics der Argumentationstheorie – die Frage aufgreifen, wie man konstruktiv mit (insbesondere politisch) Andersdenkenden diskutieren kann, wie man mit unfairen oder manipulativen Redebeiträgen umgehen kann, etc.  
+In addition to covering the basics of argumentation theory, this workshop will address questions such as how to engage constructively in discussions with people who hold different views (especially political ones), how to deal with unfair or manipulative statements, etc.
 
 {{% callout note%}}
-Öffentliche Veranstaltung. Eintritt frei.
+Public event. Admission free.
 {{% /callout %}}
-
-
-<!-- <mark style=hlblue>Student:innen sind herzlich willkommen!</mark> -->

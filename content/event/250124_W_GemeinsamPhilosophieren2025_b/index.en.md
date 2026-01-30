@@ -1,16 +1,16 @@
 ---
-title: 'Die Macht der Sprache'
-subtitle: Gemeinsam philosophieren
-event: Gemeinsam philosophieren -- Workshop in der Kulturküche
+title: 'Die Macht der Sprache (The power of language)'
+subtitle: Gemeinsam philosophieren (Philosophising together)
+event: Gemeinsam philosophieren -- Workshop at the Kulturküche
 event_url: https://kalender.karlsruhe.de/db/termine/literatur/gemeinsam_philosophieren_workshop_in_der_kulturkuche-1
 
-location: Kulturküche Karlsruhe
+location: '[Kulturküche Karlsruhe](https://kulturkueche-karlsruhe.de/)'
 address:
   street: Kaiserstraße 47
   city: Karlsruhe
   postcode: '76131'
 
-summary: In diesem Workshop soll es um Phänomene wie Framing, Dogwhistling oder Hate Speech -- sowie Gegenstrategien -- gehen.
+summary: This workshop will focus on phenomena such as framing, dog whistling and hate speech, as well as counter-strategies.
 # abstract: Im Wintersemester 2024/2025 finden im Rahmen des KIT Philosophie-Kolloquium drei Vorträge statt.
 
 # Talk start and end times.
@@ -30,20 +30,21 @@ tags: [Workshops]
 featured: true
 
 image:
+  filename: '/events/Gemeinsam_Philosophieren/Gemeinsam_Philosophieren_2025_Karlsruhe.png'
+  alt: 'Aushang Gemeinsam Philosophieren 2025'
   caption: ''
   focal_point: Right
+
+# Custom links (uncomment lines below)
+links:
+- name: Poster
+  icon: file-arrow-down
+  url: '/uploads/events/GemeinsamPhilosophieren/Gemeinsam_Philosophieren_2025_Karlsruhe.pdf'
 
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides:
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -53,13 +54,10 @@ slides:
 projects:
 ---
 
-In Zeiten zunehmender gesellschaftlicher Polarisierung und politischer Radikalisierung ist Verständigung wichtiger denn je. Aber was zeichnet eine faire und konstruktive Diskussion überhaupt aus? Was sind gute Argumente – und was rhetorische Fallstricke?
+In times of increasing social polarisation and political radicalisation, understanding is more important than ever. But what actually characterises a fair and constructive discussion? What are good arguments – and what are rhetorical pitfalls?
 
-Im zweiten Teil unseres Workshops soll es um Phänomene wie Framing, Dogwhistling oder Hate Speech gehen. Ziel ist es, die Teilnehmer:innen für die Phänomene zu sensibilisieren und gemeinsam über Gegenstrategien nachzudenken.   
+The second part of our workshop will focus on phenomena such as framing, dog whistling and hate speech. The aim is to raise participants' awareness of these phenomena and to work together to develop counterstrategies.
 
 {{% callout note%}}
-Öffentliche Veranstaltung. Eintritt frei.
+Public event. Admission free.
 {{% /callout %}}
-
-
-<!-- <mark style=hlblue>Student:innen sind herzlich willkommen!</mark> -->

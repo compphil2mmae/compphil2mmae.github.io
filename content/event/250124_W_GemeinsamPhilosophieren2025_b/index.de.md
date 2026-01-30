@@ -4,7 +4,7 @@ subtitle: Gemeinsam philosophieren
 event: Gemeinsam philosophieren -- Workshop in der Kulturküche
 event_url: https://kalender.karlsruhe.de/db/termine/literatur/gemeinsam_philosophieren_workshop_in_der_kulturkuche-1
 
-location: Kulturküche Karlsruhe
+location: '[Kulturküche Karlsruhe](https://kulturkueche-karlsruhe.de/)'
 address:
   street: Kaiserstraße 47
   city: Karlsruhe
@@ -30,20 +30,21 @@ tags: [Workshops]
 featured: true
 
 image:
+  filename: '/events/Gemeinsam_Philosophieren/Gemeinsam_Philosophieren_2025_Karlsruhe.png'
+  alt: 'Aushang Gemeinsam Philosophieren 2025'
   caption: ''
   focal_point: Right
+
+# Custom links (uncomment lines below)
+links:
+- name: Poster
+  icon: file-arrow-down
+  url: '/uploads/events/GemeinsamPhilosophieren/Gemeinsam_Philosophieren_2025_Karlsruhe.pdf'
 
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides:
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -60,6 +61,3 @@ Im zweiten Teil unseres Workshops soll es um Phänomene wie Framing, Dogwhistlin
 {{% callout note%}}
 Öffentliche Veranstaltung. Eintritt frei.
 {{% /callout %}}
-
-
-<!-- <mark style=hlblue>Student:innen sind herzlich willkommen!</mark> -->
