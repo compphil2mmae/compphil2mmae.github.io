@@ -53,9 +53,14 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL
+  icon: springer
+  icon_pack: ai
+  url: https://link.springer.com/chapter/10.1007/978-3-476-05930-7_9
+- name: Book
+  icon: book
+  url: https://link.springer.com/book/10.1007/978-3-476-05930-7
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
