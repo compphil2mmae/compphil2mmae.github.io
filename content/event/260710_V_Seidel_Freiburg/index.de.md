@@ -1,16 +1,16 @@
 ---
-title: "Epistemische Autonomie und LLM-gestützte Deliberation"
-subtitle: 'Paper Vorstellung auf der Konferenz zu "*Autonomie und ihre Herausforderungen*" am Freitag, den 10. Juli'
-event: 'Konferenz "Autonomie und ihre Herausforderungen"'
+title: "Epistemische Autonomie & LLM-gestützte Deliberation"
+subtitle: 'Vortrag auf der Konferenz *Autonomy and its Challenges Herausforderungen*'
+event: 'Konferenz *Autonomy and its Challenges Herausforderungen*'
 #event_url:
 
-location: '[Max Planck Institut zur Erforschung von Kriminalität, Sicherheit und Recht, Freiburg i. Br.](https://csl.mpg.de/oeffnungszeiten-und-anfahrt)'
+location: 'Max Planck Institut zur Erforschung von Kriminalität, Sicherheit und Recht, Freiburg i. Br.'
 #address:
 #  street:
 #  city:
 #  postcode:
 
-summary: 'Präsentation des Papers auf der Konferenz "*Autonomie und ihre Herausforderungen*" vom Max-Planck-Institut zur Erforschung von Kriminalität, Sicherheit und Recht'
+summary: 'Vortrag auf der Konferenz *Autonomie and its Challenges* ([Max-Planck-Institut zur Erforschung von Kriminalität, Sicherheit und Recht](https://csl.mpg.de/oeffnungszeiten-und-anfahrt))'
  
 date: 2026-07-09
 date_end: 2026-07-10

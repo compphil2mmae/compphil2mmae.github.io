@@ -1,7 +1,7 @@
 ---
 title: Dürfen wir die Zukunft vergessen? Ein Versuch über moralische Verzweiflung und das gute Leben in moralischer Eintracht
 subtitle: Vortrag
-event: Lehrstuhl für Praktische Philosophie
+event: Kolloquium für Praktische Philosophie
 event_url: 
 
 location: Ludwig-Maximilians-Universität München 
