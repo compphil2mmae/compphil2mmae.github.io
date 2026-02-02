@@ -10,7 +10,7 @@ location: Universität Göttingen
 #   city: Karlsruhe
 #   postcode: '76133'
 
-summary: Vortrag im Kolloquium zur Praktischen Philosophie der Universität Göttingen
+summary: Vortrag im Kolloquium für Praktische Philosophie der Universität Göttingen
 
 abstract: Die Zukunft unserer Gesellschaft und die zukünftigen Lebensgrundlagen der Menschheit liegen manchen Menschen besonders am Herzen. Zugleich kann die moralisch motivierte Sorge um die Zukunft angesichts kollektiven Versagens auch zur Verzweiflung treiben und zu einer quälenden Bürde im eigenen Leben werden. Wie sollte man reagieren, wenn ein persönliches moralisches Lebensprojekt zu scheitern droht, weil andere nicht moralisch mitziehen? Welche Einstellung gegenüber der Zukunft ist dann alles in allem betrachtet angemessen? Darf man -- wenn es zum Verzweifeln ist -- die Zukunft vielleicht manchmal doch vergessen? Auf Grundlage einer Explikation von Zukunftsvergessenheit als Verformung kollektiver Deliberation in Diskursen möchte ich ausloten, was schlecht an Zukunftsvergessenheit ist -- und warum es doch zulässig sein kann, selbst die Zukunft anderer zu vergessen. Diese Analyse erlaubt es, die Ambivalenz der Zukunftsvergessenheit besser verstehen, führt aber auch zu einer tieferen Spannung im Ideal des guten Lebens in moralischer Eintracht. Und sie legt einen zusätzlichen Grund offen, was eigentlich moralisch so schlimm daran ist, zu kollektiver Zukunftsvergessenheit beizutragen.
 
