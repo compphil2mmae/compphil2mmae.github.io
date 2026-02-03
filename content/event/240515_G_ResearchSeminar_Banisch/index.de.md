@@ -55,7 +55,7 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: []
 ---
 
 Das CompPhil²MMAE-Forschungsseminar "Aktuelle Texte der Philosophie" ist zentraler Diskussions- und Reflexionsraum des CompPhil²MMAE-Teams und im Sinne der forschungsorientierten Lehre zugleich eine Lehrveranstaltung für fortgeschrittene Student:innen. 

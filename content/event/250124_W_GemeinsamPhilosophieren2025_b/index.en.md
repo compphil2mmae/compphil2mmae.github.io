@@ -51,7 +51,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: []
 ---
 
 In times of increasing social polarisation and political radicalisation, understanding is more important than ever. But what actually characterises a fair and constructive discussion? What are good arguments – and what are rhetorical pitfalls?

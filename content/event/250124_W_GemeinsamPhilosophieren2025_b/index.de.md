@@ -51,7 +51,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: []
 ---
 
 In Zeiten zunehmender gesellschaftlicher Polarisierung und politischer Radikalisierung ist Verständigung wichtiger denn je. Aber was zeichnet eine faire und konstruktive Diskussion überhaupt aus? Was sind gute Argumente – und was rhetorische Fallstricke?

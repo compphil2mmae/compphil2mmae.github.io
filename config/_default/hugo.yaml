@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: CompPhil²MMAE # PhilMMAE 
+title: CompPhil²MMAE # PhilMMAE
 # baseURL: 'https://compphil2mmae.github.io/' # Website URL
 
 ############################
