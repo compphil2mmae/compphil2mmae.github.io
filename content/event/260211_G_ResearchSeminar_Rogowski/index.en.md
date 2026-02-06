@@ -1,5 +1,5 @@
 ---
-title: 'Wolf Rogowski (Bremen)'
+title: 'Wolf Rogowski (Bremen): "Gute Wege aus der Klimakrise" (Good ways out of the climate crisis) - Ethics of economics'
 subtitle: CompPhil²MMAE Research Seminar
 event: CompPhil²MMAE Research Seminar
 event_url: https://ilias.studium.kit.edu/goto.php/crs/2794184
@@ -57,6 +57,8 @@ projects:
 The CompPhil²MMAE research seminar "Aktuelle Texte der Philosophie" is a central discussion and reflection space for the CompPhil²MMAE team and, in the spirit of research-oriented teaching, also a course for advanced students. 
 
 In the research seminar, CompPhil³MMAE members and external speakers present their research work in philosophy and related disciplines (usually in a *pre-read* format) for discussion. 
+
+This weeks talk is on Chapter 2 "Ethik der Ökonomie" (Ethics of economics) of Wolf Rogowski's book "Gute Wege aus der Klimakrise" (Good ways out of the climate crisis).
 
 The CompPhil²MMAE research seminar is organised by {{% mention "christian.seidel" %}} and {{% mention "gregor.betz" %}}.
 
