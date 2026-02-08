@@ -27,7 +27,7 @@ publication_types:
 booktitle: '*Globale öffentliche Güter in interdisziplinären Perspektiven*'
 
 address: 'Karlsruhe'
-editor: 'Matthias Maring'
+editors: ['Matthias Maring']
 pages: '179--195'
 publisher: 'KIT Scientific Publishing'
 series: 'Schriftenreihe des Zentrums für Technik- und Wirtschaftsethik am Karlsruher Institut für Technologie, 5'

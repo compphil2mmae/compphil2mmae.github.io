@@ -26,10 +26,9 @@ publication_types:
 booktitle: '*Handbuch Utilitarismus* (Utilitarianism handbook)'
 
 address: 'Berlin'
-editor: 'Vuko Andrić & Bernward Gesang'
+editors: ['Vuko Andrić', 'Bernward Gesang']
 pages: '289--300'
 publisher: 'J.B. Metzler'
-#note: '[In publication.]'
 
 doi: '10.1007/978-3-662-71326-6_26'
 

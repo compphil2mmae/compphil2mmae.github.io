@@ -26,7 +26,7 @@ publication_types:
 booktitle: '*Climate Justice in a Non-Ideal World*'
 
 address: 'Oxford/New York'
-editor: 'Clare Heyward & Dominic Roser'
+editors: ['Clare Heyward', 'Dominic Roser']
 pages: '277--295'
 publisher: 'Oxford University Press'
 

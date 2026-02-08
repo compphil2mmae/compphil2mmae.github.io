@@ -27,7 +27,7 @@ publication_types:
 booktitle: '*Diercke Weltaltlas: Klimawandel im Geographieunterricht. Bewusstseinsbildung für eine nachhaltige Entwicklung*'
 
 address: 'Braunschweig'
-editor: 'Christiane  Meyer, Andreas Eberth & Barbara Warner'
+editors: ['Christiane  Meyer', 'Andreas Eberth', 'Barbara Warner']
 pages: '174--181'
 publisher: 'Westermann'
 

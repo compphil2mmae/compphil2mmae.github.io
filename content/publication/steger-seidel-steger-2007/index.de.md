@@ -27,7 +27,7 @@ publication_types:
 booktitle: '*Was ist krank? Stigmatisierung und Diskriminierung in Medizin und Psychotherapie*'
 
 pages: '31--48'
-editor: 'Florian Steger'
+editors: ['Florian Steger']
 address: 'Gießen'
 publisher: 'Psychosozial Verlag'
 

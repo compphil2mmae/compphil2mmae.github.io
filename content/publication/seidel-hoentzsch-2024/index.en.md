@@ -26,7 +26,7 @@ publication_types:
 booktitle: '*Mill-Handbuch. Leben -- Werk -- Wirkung* (Mill Handbook. Life -- Work -- Impact)'
 
 address: 'Berlin'
-editor: 'Frauke Höntzsch'
+editors: ['Frauke Höntzsch']
 pages: '63--77'
 publisher: 'J.B. Metzler'
 

@@ -24,7 +24,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 journal: '*Philosophical Studies*'
-publication_short: ''
+journal_short: ''
 volume: 181
 number: 1
 pages: 83--107

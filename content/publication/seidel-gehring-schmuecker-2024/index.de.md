@@ -25,12 +25,13 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 booktitle: '*Moral und Zeit*'
 
-editor: 'Petra Gehring & Reinold Schmücker'
+editors: ['Petra Gehring', 'Reinold Schmücker']
 
 publisher: 'Meiner'
 address: 'Hamburg'
-pages: ''
-note: '[Im Erscheinen.]'
+pages: '--'
+pubstate: 'inpress'
+#note: '[Im Erscheinen.]'
 
 doi: ''
 

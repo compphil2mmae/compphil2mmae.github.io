@@ -26,7 +26,7 @@ publication_types:
 booktitle: '*What can we believe? What should we do? Section contributions of the eighth international congress of the Society for Analytic Philosophy e.V.*'
 
 address: 'Duisburg-Essen'
-editor: 'Miguel Hoeltje, Thomas Spitzley & Wolfgang Spohn'
+editors: ['Miguel Hoeltje', 'Thomas Spitzley', 'Wolfgang Spohn']
 pages: '525--535'
 publisher: 'DuEPublico'
 

@@ -24,8 +24,8 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Philosophy of Science*'
-publication_short: ''
+journal: '*Philosophy of Science*'
+journal_short: ''
 volume: 92
 number: 1
 pages: 40--58

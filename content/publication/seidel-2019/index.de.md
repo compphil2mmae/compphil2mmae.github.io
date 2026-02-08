@@ -6,7 +6,7 @@ title: 'Consequentialism: New Directions, New Problems'
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- christian.seidel
+- 'christian.seidel'
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -22,12 +22,10 @@ publishDate: '2024-04-05T15:00:16.459854Z'
 publication_types:
 - book
 
-edited: true
-
 # Publication name and optional abbreviated publication name.
 publication: ''
 publication_short: ''
-
+editors: ['christian.seidel']
 publisher: 'Oxford University Press'
 address: 'Oxford/New York'
 series: 'Oxford Moral Theory'

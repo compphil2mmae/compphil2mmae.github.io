@@ -26,8 +26,9 @@ publication_types:
 publication: ''
 publication_short: ''
 
-publisher: 'KIT'
-address: 'Karlsruhe'
+publisher: 'Karlsruhe Institute of Technology'
+publisher_short: 'KIT'
+location: 'Karlsruhe'
 
 doi: '10.5445/IR/1000158210'
 

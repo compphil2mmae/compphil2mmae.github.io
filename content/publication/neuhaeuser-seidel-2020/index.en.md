@@ -23,12 +23,11 @@ publishDate: '2024-04-05T15:00:16.432348Z'
 publication_types:
 - book
 
-edited: true
-
 # Publication name and optional abbreviated publication name.
 publication: 
 publication_short: ''
 
+editors: [Christian Neuhäuser, christian.seidel]
 address: 'Berlin'
 publisher: 'Suhrkamp'
 series: 'stw, 2328'

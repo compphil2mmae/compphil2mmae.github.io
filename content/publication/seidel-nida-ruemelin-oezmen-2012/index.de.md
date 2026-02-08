@@ -27,7 +27,7 @@ publication_types:
 booktitle: '*Welt der Gründe. Kolloquienbeiträge*'
 
 address: 'Hamburg'
-editor: 'Julian Nida-Rümelin & Elif Özmen'
+editors: ['Julian Nida-Rümelin', 'Elif Özmen']
 pages: '986--1004'
 publisher: 'Meiner'
 series: 'Deutsches Jahrbuch Philosophie, 4'

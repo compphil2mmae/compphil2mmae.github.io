@@ -26,7 +26,7 @@ publication_types:
 booktitle: '*Personale Autonomie*'
 
 address: 'Münster'
-editor: 'Monika Betzler'
+editors: ['Monika Betzler']
 pages: '221--226'
 publisher: 'Mentis'
 series: 'mentis anthologien philosophie'

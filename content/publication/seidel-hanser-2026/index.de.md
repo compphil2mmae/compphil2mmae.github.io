@@ -27,11 +27,10 @@ publication_types:
 - book
 
 # Publication name and optional abbreviated publication name.
-publication: '*Carl Hanser Verlag GmbH & Co. KG*'
-publication_short: 'Hanser Verlag'
-
-address: 'München'
 publisher: 'Carl Hanser Verlag GmbH & Co. KG'
+publisher_short: 'Hanser Verlag'
+location: 'München'
+pagetotal: '136'
 
 isbn: '978-3-446-28563-7'
 

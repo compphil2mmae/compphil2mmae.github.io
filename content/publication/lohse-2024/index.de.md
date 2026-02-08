@@ -30,7 +30,8 @@ publication_short: 'KIT'
 publisher: 'Karlsruher Institut für Technologie (KIT)'
 school: 'Karlsruher Institut für Technologie (KIT)'
 address: Karlsruhe
-
+type: 'Doktorarbeit'
+defenseDate: '2024-11-27'
 language: english
 pagetotal: 228
 

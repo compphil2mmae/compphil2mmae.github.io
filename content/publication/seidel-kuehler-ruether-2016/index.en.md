@@ -26,7 +26,7 @@ publication_types:
 booktitle: '*Handbuch Handlungstheorie* (Handbook of action theory)'
 
 address: 'Stuttgart'
-editor: 'Michael Kühler & Markus Rüther'
+editors: ['Michael Kühler', 'Markus Rüther']
 pages: '309--315'
 publisher: 'J.B. Metzler'
 

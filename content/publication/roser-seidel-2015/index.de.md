@@ -28,8 +28,8 @@ publication: ''
 publication_short: ''
 
 publisher: 'Wissenschaftliche Buchgesellschaft'
-address: 'Darmstadt'
-edition: '2., erweiterte Auflage'
+location: 'Darmstadt'
+edition: '2., erweiterte'
 
 doi: ''
 

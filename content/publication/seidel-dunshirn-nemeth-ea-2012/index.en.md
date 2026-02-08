@@ -26,7 +26,7 @@ publication_types:
 booktitle: '*Crossing Borders - Grenzen (über)denken - Thinking (across) Boundaries. Beiträge zum 9. Kongress der Österreichischen Gesellschaft für Philosophie*'
 
 address: 'Wien'
-editor: 'Alfred Dunshirn, Elisabeth Nemeth & Gerhard Unterthurner'
+editors: ['Alfred Dunshirn', 'Elisabeth Nemeth', 'Gerhard Unterthurner']
 pages: '619--629'
 publisher: 'Österreichische Gesellschaft für Philosophie'
 

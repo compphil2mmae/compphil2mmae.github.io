@@ -29,7 +29,7 @@ publication_short: 'KIT'
 
 publisher: 'Karlsruher Institut für Technologie (KIT)'
 school: 'Karlsruher Institut für Technologie (KIT)'
-address: Karlsruhe
+location: Karlsruhe
 
 language: deutsch
 pagetotal: 212

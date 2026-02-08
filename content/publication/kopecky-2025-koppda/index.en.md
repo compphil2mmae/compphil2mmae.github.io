@@ -30,7 +30,9 @@ publication_short: 'KIT'
 publisher: 'Karlsruhe Institute of Technology (KIT)'
 school: 'Karlsruhe Institute of Technology (KIT)'
 address: Karlsruhe
-
+database: 'OpenAlex'
+type: 'Doctoral Dissertation'
+defenseDate: '2025-07-09'
 language: english
 pagetotal: 178
 

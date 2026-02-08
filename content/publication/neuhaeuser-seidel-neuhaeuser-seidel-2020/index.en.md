@@ -26,7 +26,7 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 booktitle: '*Kritik des Moralismus (Critique of Moralism)*'
 
-editor: 'Christian Neuhäuser & Christian Seidel'
+editors: ['Christian Neuhäuser', 'christian.seidel']
 pages: '9--34'
 publisher: 'Suhrkamp'
 address: 'Berlin'

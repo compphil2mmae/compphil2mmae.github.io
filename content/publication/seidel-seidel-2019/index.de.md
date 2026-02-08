@@ -26,7 +26,7 @@ publication_types:
 booktitle: '*Consequentialism: New Directions, New Problems*'
 
 address: 'Oxford/New York'
-editor: 'Christian Seidel'
+editors: ['christian.seidel']
 pages: '1--28'
 publisher: 'Oxford University Press'
 

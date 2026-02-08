@@ -26,7 +26,7 @@ publication_types:
 booktitle: '*Müssen Ethiker moralisch sein? Essays über Philosophie und Lebensführung*'
 
 address: 'Frankfurt a. M./New York'
-editor: 'Christoph Ammann, Barbara Bleisch & Anna Goppel'
+editors: ['Christoph Ammann', 'Barbara Bleisch', 'Anna Goppel']
 pages: '85--100'
 publisher: 'Campus'
 
