@@ -72,8 +72,19 @@
 
     <div class="article-style">{{ .Content }}</div>
 
-<!--TODO add reference/link to project if associated-->
     {{ partial "page_footer" . }}
+
+    {{ if .Params.projects }}
+    <div class="project-related-pages content-widget-hr">
+      <h2>{{ i18n "projects" | default "Projects" }}</h2>
+      {{ range $index, $project := .Params.projects }}
+        {{ $project_page := site.GetPage (printf "research/%s" . | lower) }}
+        {{ if $project_page }}
+          {{ partial "functions/render_view" (dict "page" . "item" $project_page "view" "compact" "index" $index) }}
+        {{ end }}
+      {{ end }}
+    </div>
+    {{ end }}
 
   </div>
 </div>
