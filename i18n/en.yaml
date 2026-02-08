@@ -183,14 +183,17 @@
 - id: location
   translation: Location
 
-- id: pub_paper_conference
+- id: pub_uncategorized
+  translation: Uncategorized
+
+- id: pub_conference_paper
   translation: Conference paper
 
 - id: pub_article_journal
   translation: Journal article
 
-- id: pub_article
-  translation: Preprint
+- id: pub_preprint
+  translation: Preprint / Working Paper
 
 - id: pub_report
   translation: Report
@@ -210,14 +213,44 @@
 - id: pub_review
   translation: Review (or similar)
 
+- id: inpreparation
+  translation: In preparation.
+
+- id: submitted
+  translation: In review.
+
+- id: forthcoming
+  translation: Reviewed & accepted.
+
+- id: inpress
+  translation: In publication.
+
+- id: prepublished
+  translation: Online‑First
+
+- id: published
+  translation: Published.
+
+- id: conference_presentation
+  translation: Conference presentation
+
 - id: editor_abb
   translation: Ed.
+
+- id: editors_abb
+  translation: Eds.
+
+- id: edition_abb
+  translation: ed.
 
 - id: published_by_abb
   translation: Pub. by
 
 - id: page_abb
   translation: p.
+
+- id: kit_long
+  translation: Karlsruhe Institute of Technology
 
 # Project details
 

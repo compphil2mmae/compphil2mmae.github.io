@@ -1,13 +1,14 @@
 # Publication types.
-# Each item in the list corresponds to an item in the language packs.
+# Each item in the list corresponds to an item in the language packs and results from the frontmatter publication_types parsed as pub_<publication_type> with "_" replacing any non-alphanumeric characters.
+# Only used ones are displayed in the selector of the publication form.
 # Using the "Academic" import tool, they are parsed from the bibtex publication_types as follows. (in comments)
-types = [ "pub_uncat",
-          "pub_conf", # conference, inproceedings
-          "pub_journal", # article
+types = [ "pub_uncategorized",
+          "pub_conference_paper", # conference, inproceedings
+          "pub_article_journal", # article
           "pub_preprint",
           "pub_report", # report, techreport
           "pub_book", # book, manual, proceedings
-          "pub_book_section", # inbook, incollection
+          "pub_chapter", # inbook, incollection
           "pub_thesis", # phdthesis, masterthesis, thesis
           "pub_patent", # patent
           "pub_review"
