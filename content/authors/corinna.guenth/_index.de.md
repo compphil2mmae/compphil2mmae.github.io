@@ -89,4 +89,4 @@ user_groups:
   - Alumnae & Alumni
 ---
 
-Corinna Günth war bis 2023 Doktorandin bei CompPhil²MMAE. Ihre Dissertation handelt von ["Reasoning with False Evidence"](https://publikationen.bibliothek.kit.edu/1000158210).
+Corinna Günth war bis 2023 Doktorandin bei CompPhil²MMAE. Ihre Dissertation handelt von ["Reasoning with False Evidence"](https://publikationen.bibliothek.kit.edu/1000158210) (Argumentieren mit falschen Beweisen).
