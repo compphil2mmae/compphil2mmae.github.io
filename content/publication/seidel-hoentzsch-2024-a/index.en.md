@@ -1,5 +1,5 @@
 ---
-title: Hedonism
+title: Hedonismus (Hedonism)
 
 # Authors
 # A YAML list of author names
@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2024-01-01'
+date: '2024-03-16'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-04-05T15:00:16.365538Z'
@@ -25,14 +25,17 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 booktitle: '*Mill-Handbuch. Leben -- Werk -- Wirkung* (Mill Handbook. Life -- Work -- Impact)'
 
-address: 'Berlin'
+location: 'Berlin'
 editors: ['Frauke Höntzsch']
 pages: '273--281'
 publisher: 'J.B. Metzler'
 
-doi: '10.1007/978-3-476-05930-7_29'
+language: german
 
-abstract: ''
+doi: '10.1007/978-3-476-05930-7_29'
+isbn: '978-3-476-05930-7'
+
+abstract: "According to a widespread view, Mill contributed a conceptual innovation to the utilitarian tradition with his distinction between higher and lower pleasures, basing his utilitarianism essentially on the resulting axiology, known as 'qualitative hedonism'. However, this is inconsistent, intellectualistic and – due to the lexical primacy of higher pleasures – ultimately absurd. This prejudice in the history of philosophy is distorted in several respects. It ignores the historical context of ideas, misunderstands the content of 'qualitative hedonism' and overestimates its systematic role in Mill's work."
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -61,6 +64,10 @@ links:
 - name: Book
   icon: book
   url: https://link.springer.com/book/10.1007/978-3-476-05930-7
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/SEIHQU  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

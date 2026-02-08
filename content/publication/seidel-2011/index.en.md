@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2011-01-01'
+date: '2011-12-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-04-05T15:00:16.723137Z'
@@ -25,14 +25,17 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 journal: '*Deutsche Zeitschrift für Philosophie* (German Journal of Philosophy)'
 journal_short: ''
-
 volume: '59'
 number: '6'
 pages: '897--915'
 
-doi: ''
+publisher: 'De Gruyter'
 
-abstract: 'Autonomy and authority are often seen as opposites. In this essay, I argue that autonomy should rather be seen as a domain-specific form of (practical) authority and that this view helps to identify conditions for the autonomy of individuals. To this end, I will first show parallels between the functioning of the two terms AUTONOMY and AUTHORITY and then work out what requirements this places on a conception of personal autonomy. I will then show that the difficulties faced by some internalist and externalist conceptions of autonomy originate in the fact that both approaches have a false picture of the basis on which the form of practical authority characteristic of autonomy rests. Finally, I will present a conception in which this foundation is constituted by a person`s maturity, defensibility and participation: According to this, a person is autonomous to the extent that he or she can manage his or her own affairs, defend himself or herself against outside interference and have a say in communal affairs.'
+language: german
+
+doi: '10.1524/dzph.2011.59.6.897'
+
+abstract: 'Autonomy and authority are often regarded as opposites. In this paper, I argue that autonomy should be conceived of as a specific form of (practical) authority and that this perspective is useful for identifying the conditions of personal autonomy. I will first highlight some structural analogies in the functioning of the concepts AUTONOMY and AUTHORITY and explain the resulting constraints on accounts of personal autonomy. I will then show that the problems of certain internalist and externalist accounts of autonomy are rooted in a false understanding of the foundation on which the authority that is characteristic of autonomy rests. To conclude, I present an account in which this foundation is given by a person’s maturity (Mündigkeit), defensiveness (Wehrhaftigkeit) and participation (Mitsprache): Thus, a person is autonomous to the extent that she can cope with her own affairs, can defend herself against external encroachments and can participate in common affairs.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -53,15 +56,25 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  icon: file-pdf
+  url: Personale_Autonomie_als_praktische_Autorität.pdf  # add the pdf file to the folder of the publication
+- name: URL  # name required for citation
+  icon: closed-access  #/closed-access if no more specific icon, e.g. springer from https://jpswalsh.github.io/academicons/ is applicable
+  icon_pack: ai
+  url: https://www.degruyterbrill.com/document/doi/10.1524/dzph.2011.59.6.897/html  # where to find the publication online/link to the publishers website
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/SEIPAA-3  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  filename: '/covers/Deutsche-Zeitschrift-für-Philosophie.png'  # references to /assets/media/covers/ (or place and link to image in publications folder)
+  alt: 'Cover - <Publications Title>'
   caption: ''
-  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).

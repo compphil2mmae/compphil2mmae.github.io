@@ -26,10 +26,11 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 journal: '*Climate Policy*'
 journal_short: ''
-
 volume: '11'
 number: '2'
 pages: '901--921'
+
+language: english
 
 doi: ''
 

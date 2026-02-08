@@ -24,11 +24,10 @@ publication_types:
 - book
 
 # Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
-
 publisher: 'Wissenschaftliche Buchgesellschaft'
-address: 'Darmstadt'
+location: 'Darmstadt'
+
+language: german
 
 doi: ''
 

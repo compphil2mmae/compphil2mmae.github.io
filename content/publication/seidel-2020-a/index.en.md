@@ -30,6 +30,10 @@ volume: '21'
 number: '2'
 pages: '128--164'
 
+publisher: 'Nomos Verlag'
+
+language: german
+
 doi: 10.5771/1439-880x-2020-2-128
 
 abstract: ''

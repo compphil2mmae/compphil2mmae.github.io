@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2017-02-01'
+date: '2017-04-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-04-05T15:00:16.525977Z'
@@ -25,12 +25,16 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 journal: '*Zeitschrift für philosophische Forschung* (Journal of Philosophical Research)'
 journal_short: ''
-
-volume: '21'
+volume: '71'
 number: '2'
 pages: '289--293'
 
-doi: ''
+publisher: 'Vittorio Klostermann'
+location: 'Franfurt am Main'
+
+language: german
+
+doi: '10.3196/004433017821280449'
 
 abstract: ''
 
@@ -53,15 +57,26 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL  # name required for citation
+  icon: closed-access  #/closed-access if no more specific icon, e.g. springer from https://jpswalsh.github.io/academicons/ is applicable
+  icon_pack: ai
+  url: https://www.jstor.org/stable/44647960  # where to find the publication online/link to the publishers website
+- name: Volume
+  icon: book-bookmark
+  icon_pack: fas
+  url: https://www.jstor.org/stable/i40194241  # for external information about the book/publication (not direct access)
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/SEIPZS-2  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  filename: '/covers/Zeitschrift-für-philosophische-Forschung_Band71-Nr2.jpeg'  # references to /assets/media/covers/ (or place and link to image in publications folder)
+  alt: 'Cover - Deutsche Zeitschrift für philosophische Forschung (Journal of Philosophical Research), Volume 71 Edition 2'
   caption: ''
-  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).

@@ -24,12 +24,11 @@ publication_types:
 - book
 
 # Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
-
 publisher: 'Wissenschaftliche Buchgesellschaft (Scientific Book Society)'
 location: 'Darmstadt'
 edition: '2nd, extended'
+
+language: german
 
 doi: ''
 

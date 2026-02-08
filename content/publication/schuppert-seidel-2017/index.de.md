@@ -1,5 +1,5 @@
 ---
-title: 'Feasibility, normative heuristics and the proper place of historical responsibility -- a reply to Ohndorf *et al.*'
+title: 'Feasibility, normative heuristics and the proper place of historical responsibility — a reply to Ohndorf *et al.*'
 
 # Authors
 # A YAML list of author names
@@ -26,10 +26,13 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 journal: '*Climatic Change*'
 journal_short: ''
-
 volume: '140'
 number: '2'
 pages: '101--107'
+
+publisher: 'Springer Nature'
+
+language: english
 
 doi: 10.1007/s10584-016-1861-4
 

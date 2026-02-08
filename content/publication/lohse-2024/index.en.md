@@ -13,7 +13,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2024-12-31'
+date: '2024-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2025-01-14T08:00:16.558926Z'
@@ -24,13 +24,11 @@ publication_types:
 - thesis
 
 # Publication name and optional abbreviated publication name.
-publication: '*Karlsruhe Institute of Technology (KIT)*'
-publication_short: 'KIT'
-
-publisher: 'Karlsruhe Institute of Technology (KIT)'
+publisher: 'Karlsruhe Institute of Technology'
+publisher_short: 'KIT'
 school: 'Karlsruhe Institute of Technology (KIT)'
-address: Karlsruhe
 type: 'Doctoral Dissertation'
+location: Karlsruhe
 defenseDate: '2024-11-27'
 language: english
 pagetotal: 228

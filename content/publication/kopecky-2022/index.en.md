@@ -1,5 +1,5 @@
 ---
-title: Arguments as Drivers of Issue Polarisation in Debates Among Artificial Agents (Argumente als Treiber der Polarisierung von Themen in Debatten zwischen künstlichen Agenten)
+title: Arguments as Drivers of Issue Polarisation in Debates Among Artificial Agents
 
 # Authors
 # A YAML list of author names
@@ -23,7 +23,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-journal: '*Journal of Artificial Societies and Social Simulation (JASSS)*'
+journal: '*Journal of Artificial Societies and Social Simulation*'
 journal_short: 'JASSS'
 volume: 25
 number: 1
@@ -34,14 +34,12 @@ language: english
 doi: '10.18564/jasss.4767'
 issn: '1460-7425'
 
-abstract: 'Können Argumente und ihre Eigenschaften die Entwicklung einer Polarisierung von Themen in Debatten zwischen künstlichen Agenten beeinflussen? Dieser Artikel stellt ein agentenbasiertes Modell von Debatten mit logischen Einschränkungen vor, das auf der Theorie dialektischer Strukturen basiert. Simulationen dieses Modells zeigen, dass der Austausch von Argumenten auch ohne sozialen Einfluss zu einer Polarisierung führen kann und dass die Verwendung unterschiedlicher Argumentationsstrategien den Grad der Polarisierung beeinflussen kann.
-
-(*Originalsprache Englisch*)'
+abstract: 'Can arguments and their properties influence the development of issue polarisation in debates among artificial agents? This paper presents an agent-based model of debates with logical constraints based on the theory of dialectical structures. Simulations on this model reveal that the exchange of arguments can drive polarisation even without social influence, and that the usage of different argumentation strategies can influence the obtained levels of polarisation.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [Polarisierung, Meinungsdynamik, Argumentationsstrategien, Argumente, Glaubenssysteme]
+tags: [Polarization, Opinion dynamics, Argumentation strategies, Arguments, Belief systems]
 
 # Display this page in a list of Featured pages?
 featured: false

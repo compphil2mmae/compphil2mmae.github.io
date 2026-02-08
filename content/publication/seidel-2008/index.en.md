@@ -15,7 +15,7 @@ author_notes: []
 date: '2008-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: ''
+publishDate: '2024-04-05'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -25,10 +25,11 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 journal: '*Zeitschrift für philosophische Forschung (Journal for philosophical research)*'
 journal_short: ''
-
 volume: '62'
 number: '4'
 pages: '609--614'
+
+language: german
 
 doi: ''
 

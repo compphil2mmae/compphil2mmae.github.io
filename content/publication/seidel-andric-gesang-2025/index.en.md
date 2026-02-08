@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-12-31'
+date: '2025-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-07-01T15:00:16.352939Z'
@@ -25,12 +25,15 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 booktitle: '*Handbuch Utilitarismus* (Utilitarianism handbook)'
 
-address: 'Berlin'
+location: 'Berlin'
 editors: ['Vuko Andrić', 'Bernward Gesang']
 pages: '289--300'
 publisher: 'J.B. Metzler'
 
+language: german
+
 doi: '10.1007/978-3-662-71326-6_26'
+isbn: "978-3-662-71326-6"
 
 abstract: 'In the English-speaking world, Henry Sidgwick is considered one of the most important representatives of the utilitarian tradition and one of the most important moral philosophers of all. The reception (which in German-speaking countries - relative to other utilitarians as well as in absolute terms - is rather sparse) usually concentrates on his main work *The Methods of Ethics* (*ME*). In order to better understand and appreciate this work and the impulses it provided for the history of ideas of utilitarianism and for the development of modern moral philosophy, it is important to embed *ME* in its biographical context, to present its role in Sidgwick`s overall philosophical project and to contextualize it in the history of ideas and time in 19th century British moral and social philosophy.'
 
@@ -66,6 +69,14 @@ links:
   icon: springer
   icon_pack: ai
   url: https://link.springer.com/chapter/10.1007/978-3-662-71326-6_26
+- name: Book
+  icon: book
+  icon_pack: fas
+  url: https://link.springer.com/book/10.1007/978-3-662-71326-6  # for external information about the book/publication (not direct access)
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/ANDHSP  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

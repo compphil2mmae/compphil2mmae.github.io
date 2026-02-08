@@ -24,12 +24,10 @@ publication_types:
 - book
 
 # Publication name and optional abbreviated publication name.
-publication: '*Karlsruhe Institute of Technology (KIT)*'
-publication_short: 'KIT'
-
-publisher: Karlsruhe Institute of Technology (KIT)
-school: Karlsruhe Institute of Technology (KIT)
-address: Karlsruhe
+publisher: '*KIT Scientific Publishing*'
+#publisher_short: 'KIT'
+institution: Karlsruhe Institute of Technology
+location: Karlsruhe
 
 language: english
 pagetotal: 158
@@ -70,7 +68,7 @@ links:
   icon: open-access
   icon_pack: ai
   url: https://publikationen.bibliothek.kit.edu/1000028245
-- name: Philpapers
+- name: PhilPapers
   icon: philpapers
   icon_pack: ai
   url: https://philpapers.org/rec/GREEAO-4
@@ -78,8 +76,9 @@ links:
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  filename: '/covers/Ethical-Aspects-of-Climate-Engineering.jpg'  # references to /assets/media/covers/ (or place and link to image in publications folder)
+  alt: 'Cover - Ethical Aspects of Climate Engineering'
   caption: ''
-  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).

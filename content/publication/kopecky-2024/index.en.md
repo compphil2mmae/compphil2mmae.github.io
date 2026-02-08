@@ -1,5 +1,5 @@
 ---
-title: Argumentation-Induced Rational Issue Polarisation (Durch Argumentation hervorgerufene rationale Polarisierung von Themen)
+title: Argumentation-Induced Rational Issue Polarisation
 
 # Authors
 # A YAML list of author names
@@ -29,18 +29,16 @@ volume: 181
 number: 1
 pages: 83--107
 
-doi: 10.1007/s11098-023-02059-6
-
 language: english
 
-abstract: 'Computermodelle haben gezeigt, wie es unter deliberierenden Akteuren zu einer Polarisierung kommen kann, wenn sie sich der epistemischen Rationalität annähern. Dieser Artikel liefert weitere Belege für die These, dass es unter Bedingungen epistemischer Rationalität zu einer Polarisierung kommen kann, die jedoch nicht von den Einschränkungen abhängt, auf denen bestehende Modelle beruhen, wie beispielsweise Gedächtnisbeschränkungen oder voreingenommene Bewertungen der Aussagen anderer Akteure. Stattdessen wird die Deliberation durch die gezielte Einbringung von Argumenten durch die Akteure und ihre rationalen Reaktionen auf die Einbringung anderer modelliert. Dieser Prozess induziert von sich aus eine Polarisierungsdynamik. Ein zweites Ergebnis ist, dass die Effektstärke der Polarisierungsdynamik mit bestimmten Arten von Argumentationsverhalten korreliert. Polarisierungseffekte können gemildert werden, wenn Akteure die Meinungen anderer als Prämissen berücksichtigen, und sie werden verstärkt, wenn Akteure ihre eigenen Überzeugungen festigen. Diese Ergebnisse untermauern die Relevanz der Argumentation als Faktor in sozial-epistemischen Prozessen und deuten darauf hin, dass eine zunehmende Polarisierung von Themen kein verlässlicher Indikator für epistemische Mängel ist.
+doi: 10.1007/s11098-023-02059-6
 
-(*Originalsprache Englisch*)'
+abstract: 'Computational models have shown how polarisation can rise among deliberating agents as they approximate epistemic rationality. This paper provides further support for the thesis that polarisation can rise under condition of epistemic rationality, but it does not depend on limitations that extant models rely on, such as memory restrictions or biased evaluation of other agents’ testimony. Instead, deliberation is modelled through agents’ purposeful introduction of arguments and their rational reactions to introductions of others. This process induces polarisation dynamics on its own. A second result is that the effect size of polarisation dynamics correlates with particular types of argumentative behaviour. Polarisation effects can be soothed when agents take into account the opinions of others as premises, and they are amplified as agents fortify their own beliefs. These results underpin the relevance of argumentation as a factor in social-epistemic processes and indicate that rising issue polarisation is not a reliable indicator of epistemic shortcomings.'
 
 # Summary. An optional shortened abstract to preview e.g. in list views.
 summary: ''
 
-tags: [Soziale Erkenntnistheorie, Polarisierung, Argumentation, Deliberation, Agentenbasiertes Modell (ABM), Meinungsdynamik, Epistemische Rationalität]
+tags: [Social epistemology, Polarization, Argumentation, Deliberation, Agent-based model (ABM), Opinion dynamics, Epistemic rationality]
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -73,7 +71,7 @@ links:
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
   filename: 'covers/Philosophical_Studies.jpg'
-  alt: 'Cover von "Philosophical Studies" (philosophische Studien) Eine internationale Zeitschrift für Philosophie in der analytischen Tradition'
+  alt: 'Cover of "Philosophical Studies" An International Journal for Philosophy in the Analytic Tradition'
   caption: ''
   preview_only: false
 

@@ -13,7 +13,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2020-01-01'
+date: '2020-12-16'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-04-05T15:00:16.432348Z'
@@ -23,16 +23,16 @@ publishDate: '2024-04-05T15:00:16.432348Z'
 publication_types:
 - book
 
-# Publication name and optional abbreviated publication name.
-publication: 
-publication_short: ''
-
 editors: [Christian Neuhäuser, christian.seidel]
-address: 'Berlin'
+location: 'Berlin'
 publisher: 'Suhrkamp'
 series: 'stw, 2328'
 
+language: german
+pagetotal: 490
+
 doi: ''
+isbn: '978-3-518-29928-9'
 
 abstract: ''
 
@@ -55,15 +55,22 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL  # name required for citation
+  icon: closed-access  #/closed-access if no more specific icon, e.g. springer from https://jpswalsh.github.io/academicons/ is applicable
+  icon_pack: ai
+  url: https://www.suhrkamp.de/buch/kritik-des-moralismus-t-9783518299289  # where to find the publication online/link to the publishers website
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/SEIKDM-2  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  filename: '/covers/Kritik-des-Moralismus.jpg'  # references to /assets/media/covers/ (or place and link to image in publications folder)
+  alt: 'Cover - Kritik des Moralismus'
   caption: ''
-  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).

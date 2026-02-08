@@ -32,6 +32,8 @@ publisher_short: 'Hanser Verlag'
 location: 'München'
 pagetotal: '136'
 
+language: german
+
 isbn: '978-3-446-28563-7'
 
 abstract: 'Klug über die Klimadebatte diskutieren – die 20 häufigsten Ausreden und wie man sie entkräftet  

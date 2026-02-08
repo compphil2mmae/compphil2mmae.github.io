@@ -24,12 +24,14 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 booktitle: '*Personale Autonomie*'
-
-address: 'Münster'
+series: 'mentis anthologien philosophie'
 editors: ['Monika Betzler']
 pages: '221--226'
+
 publisher: 'Mentis'
-series: 'mentis anthologien philosophie'
+location: 'Münster'
+
+language: 'german'
 
 doi: ''
 

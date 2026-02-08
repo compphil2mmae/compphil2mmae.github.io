@@ -24,12 +24,10 @@ publication_types:
 - thesis
 
 # Publication name and optional abbreviated publication name.
-publication: '*Karlsruhe Institute of Technology (KIT)*'
-publication_short: 'KIT'
-
-publisher: 'Karlsruhe Institute of Technology (KIT)'
-school: 'Karlsruhe Institute of Technology (KIT)'
-address: Karlsruhe
+publisher: 'Karlsruhe Institute of Technology'
+publisher_short: 'KIT'
+school: 'Karlsruhe Institute of Technology'
+location: Karlsruhe
 database: 'OpenAlex'
 type: 'Doctoral Dissertation'
 defenseDate: '2025-07-09'

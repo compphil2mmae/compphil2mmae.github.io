@@ -32,6 +32,8 @@ publisher_short: 'Hanser Verlag'
 location: 'Munich'
 pagetotal: '136'
 
+language: german
+
 isbn: '978-3-446-28563-7'
 
 abstract: "Discussing climate change intelligently – the 20 most common excuses and how to refute them  
@@ -47,8 +49,8 @@ abstract: "Discussing climate change intelligently – the 20 most common excuse
 summary: 'Discussing climate change intelligently – the 20 most common excuses and how to refute them.'
 
 tags:
-- Klimadebatte
-- Philosophie
+- Climate debate
+- Philosophy
 - Argumentation
 
 # Display this page in a list of Featured pages?

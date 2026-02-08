@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2024-01-01'
+date: '2024-03-16'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-04-05T15:00:16.365538Z'
@@ -25,14 +25,17 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 booktitle: '*Mill-Handbuch. Leben -- Werk -- Wirkung*'
 
-address: 'Berlin'
+location: 'Berlin'
 editors: ['Frauke Höntzsch']
 pages: '273--281'
 publisher: 'J.B. Metzler'
 
-doi: '10.1007/978-3-476-05930-7_29'
+language: german
 
-abstract: ''
+doi: '10.1007/978-3-476-05930-7_29'
+isbn: '978-3-476-05930-7'
+
+abstract: 'Einer verbreiteten Auffassung zufolge schenkte Mill der utilitaristischen Tradition mit der Unterscheidung zwischen höheren und niederen Vergnügen („pleasures“) eine begriffliche Innovation und stützte seinen Utilitarismus ganz wesentlich auf die daraus erwachsene Axiologie, den sogenannten ‚qualitativen Hedonismus‘. Dieser sei jedoch inkonsistent, intellektualistisch und – wegen des lexikalischen Vorrangs höherer Vergnügen – letztlich absurd. Dieses philosophiegeschichtliche Vorurteil ist in mehreren Hinsichten verzerrt. Es ignoriert den ideengeschichtlichen Rahmen, missversteht den Gehalt des ‚qualitativen Hedonismus‘ und überschätzt dessen systematische Rolle in Mills Werk.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -61,6 +64,10 @@ links:
 - name: Buch
   icon: book
   url: https://link.springer.com/book/10.1007/978-3-476-05930-7
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/SEIHQU  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

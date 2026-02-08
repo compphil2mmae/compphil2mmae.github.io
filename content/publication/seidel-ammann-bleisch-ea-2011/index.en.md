@@ -25,10 +25,12 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 booktitle: '*Müssen Ethiker moralisch sein? Essays über Philosophie und Lebensführung* (Do ethicists have to be moral? Essays on philosophy and lifestyle)'
 
-address: 'Frankfurt a. M./New York'
+location: 'Frankfurt a. M./New York'
 editors: ['Christoph Ammann', 'Barbara Bleisch', 'Anna Goppel']
 pages: '85--100'
 publisher: 'Campus'
+
+language: german
 
 doi: ''
 

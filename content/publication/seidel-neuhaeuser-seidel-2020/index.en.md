@@ -28,8 +28,9 @@ booktitle: '*Kritik des Moralismus* (Critique of moralism)'
 editors: ['Christian Neuhäuser', 'christian.seidel']
 pages: '206--240'
 publisher: 'Suhrkamp'
-address: 'Berlin'
+location: 'Berlin'
 
+language: german
 
 doi: ''
 

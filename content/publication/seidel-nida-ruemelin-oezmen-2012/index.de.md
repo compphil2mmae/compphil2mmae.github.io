@@ -26,12 +26,13 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 booktitle: '*Welt der Gründe. Kolloquienbeiträge*'
 
-address: 'Hamburg'
+location: 'Hamburg'
 editors: ['Julian Nida-Rümelin', 'Elif Özmen']
 pages: '986--1004'
 publisher: 'Meiner'
 series: 'Deutsches Jahrbuch Philosophie, 4'
 
+language: german
 
 doi: ''
 

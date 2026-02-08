@@ -28,8 +28,10 @@ booktitle: '*Was ist krank? Stigmatisierung und Diskriminierung in Medizin und P
 
 pages: '31--48'
 editors: ['Florian Steger']
-address: 'Gießen'
+location: 'Gießen'
 publisher: 'Psychosozial Verlag'
+
+language: german
 
 doi: ''
 

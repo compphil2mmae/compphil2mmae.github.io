@@ -1,5 +1,5 @@
 ---
-title: 'On "Imperfect" Imperfect Duties and the Epistemic Demands of Integrationist Approaches to Justice'
+title: 'On "Imperfect" Imperfect Duties and the Epistemic Demands of Integrationist Approaches to Justice (Über „unvollkommene“ unvollkommene Pflichten und die epistemischen Anforderungen integrativer Ansätze zur Gerechtigkeit)'
 
 # Authors
 # A YAML list of author names
@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2014-01-01'
+date: '2014-04-02'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-04-05T15:00:16.603688Z'
@@ -25,10 +25,11 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 journal: '*Ethics, Policy & Environment*'
 journal_short: ''
-
 volume: '17'
 number: '1'
 pages: '39--42'
+
+language: english
 
 doi: 10.1080/21550085.2014.885164
 
@@ -53,15 +54,26 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL  # name required for citation
+  icon: closed-access  #/closed-access if no more specific icon, e.g. springer from https://jpswalsh.github.io/academicons/ is applicable
+  icon_pack: ai
+  url: https://www.tandfonline.com/doi/full/10.1080/21550085.2014.885164  # where to find the publication online/link to the publishers website
+- name: Ausgabe
+  icon: book-bookmark
+  icon_pack: fas
+  url: https://www.tandfonline.com/toc/cepe21/17/1  # for external information about the book/publication (not direct access)
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/SEIOII  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  filename: '/covers/Ethics-Policy&Environment.png'  # references to /assets/media/covers/ (or place and link to image in publications folder)
+  alt: 'Journal Cover - Ethics, Policy & Environment'
   caption: ''
-  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).

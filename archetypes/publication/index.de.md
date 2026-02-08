@@ -49,7 +49,7 @@ translators: []
 
 publisher: '*Karlsruher Institut für Technologie*'
 publisher_short: 'KIT'
-school: ''  # '*Karlsruher Institut für Technologie (KIT)*'  # for thesis
+school: ''  # '*Karlsruher Institut für Technologie*'  # for thesis
 institution: ''  # for report and other
 address: ''
 location: 'Karlsruhe'

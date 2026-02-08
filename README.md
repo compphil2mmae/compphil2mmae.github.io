@@ -61,7 +61,7 @@ To help import (multiple) new publications, the [academic tool](https://github.c
         - `series` is the series of the publication
         - `volume` is the volume number
         - `number` is the issue number
-        - `pages` is the page range, if part of sth.
+        - `pages` is the page list or range, if part of sth.
         - `chapter` is the chapter number
         - `edition` is the edition (number) of the publication
         - `eventtitle` for conference papers

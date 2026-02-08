@@ -95,7 +95,11 @@ featured: false  # to feature this on the landingpage, add the tag 'highlight'
 #  icon: book
 #  icon_pack: fas
 #  url: https://katalog.bibliothek.kit.edu/cgi-bin/koha/opac-detail.pl?biblionumber=1444370  # for external information about the book/publication (not direct access)
-- name: Philpapers
+- name: Ausgabe/Volume
+  icon: book-bookmark
+  icon_pack: fas
+  url: https://www.jstor.org/stable/i40194241  # for external information about the book/publication (not direct access)
+- name: PhilPapers
   icon: philpapers
   icon_pack: ai
   url: https://philpapers.org/rec/GREEAO-4  # Philpapers entry
@@ -107,10 +111,10 @@ featured: false  # to feature this on the landingpage, add the tag 'highlight'
 # Featured image
 # To use, put the publications cover under /assets/media/covers/, add an image to the publication bundle/folder and reference it or name it `featured.jpg/png`.
 image:
-#  filename: '/covers/Title-of-the-publication.jpg'  # references to /assets/media/covers/ (or place and link to image in publications folder)
-#  alt: 'Cover - <Publications Title>'
-#  caption: ''
-#  preview_only: false
+  filename: '/covers/Title-of-the-publication.jpg'  # references to /assets/media/covers/ (or place and link to image in publications folder)
+  alt: 'Cover - <Publications Title>'
+  caption: ''
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -25,12 +25,16 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 journal: '*Zeitschrift für philosophische Forschung* (Journal of Philosophical Research)'
 journal_short: ''
-
 volume: '74'
 number: '1'
 pages: '124--140'
 
-doi: ''
+publisher: 'Vittorio Klostermann'
+location: 'Frankfurt am Main'
+
+language: english
+
+doi: '10.3196/004433020828856908'
 
 abstract: ''
 
@@ -53,15 +57,26 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL  # name required for citation
+  icon: closed-access  #/closed-access if no more specific icon, e.g. springer from https://jpswalsh.github.io/academicons/ is applicable
+  icon_pack: ai
+  url: https://www.jstor.org/stable/48592424  # where to find the publication online/link to the publishers website
+- name: Ausgabe
+  icon: book-bookmark
+  icon_pack: fas
+  url: https://www.jstor.org/stable/e48505125  # for external information about the book/publication (not direct access)
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/SEITPB-3  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  filename: '/covers/Zeitschrift-für-philosophische-Forschung_Band71-Nr2.jpeg'  # references to /assets/media/covers/ (or place and link to image in publications folder)
+  alt: 'Cover - Deutsche Zeitschrift für philosophische Forschung (Journal of Philosophical Research), Volume 71 Edition 2'
   caption: ''
-  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
@@ -71,5 +86,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: ['transformation', 'history-impartialism']
 ---
-
-<!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

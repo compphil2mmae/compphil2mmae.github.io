@@ -1,6 +1,12 @@
 {{ $item := .item }}
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
+{{/* Determine link target based on external_link */}}
+{{ $link := $item.RelPermalink }}
+{{ if $item.Params.external_link }}
+  {{ $link = $item.Params.external_link }}
+{{ end }}
+
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
   <!-- <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> -->
 
@@ -42,7 +48,7 @@
   {{ else }}
     ({{- $item.Date.Format "2006" -}}).
   {{ end }}
-  <a href="{{ $item.RelPermalink }}">{{ $item.Title | markdownify -}}</a>{{ if not (and (or $item.Params.series $item.Params.edition) (not (eq $pub_type "chapter"))) }}.{{ end }}
+  <a href="{{ $link }}">{{ $item.Title | markdownify -}}</a>{{ if not (and (or $item.Params.series $item.Params.edition) (not (eq $pub_type "chapter"))) }}.{{ end }}
 
   {{/* Journal Articles or review */}}
   {{ if eq $pub_type "article-journal" }}
@@ -73,7 +79,7 @@
 
   {{/* Conference Papers */}}
   {{ else if eq $pub_type "conference-paper" }}
-    [{{ i18n "conference_presentation" | default "Conference presentation" }}]. {{ $item.Params.eventtitle | markdownify -}},
+    [{{ i18n "conference_presentation" | default "Conference presentation" }}]. {{ $item.Params.eventtitle -}},
     {{ if $item.Params.location }}
       {{ $item.Params.location | markdownify -}}
     {{ end }}.
@@ -242,7 +248,7 @@
   <span class="article-metadata li-cite-author">
     {{ partial "page_metadata_authors" $item }}.
   </span>
-  <a href="{{ $item.RelPermalink }}">{{ $item.Title | markdownify -}}</a>.
+  <a href="{{ $link }}">{{ $item.Title | markdownify -}}</a>.
   {{ if $item.Params.publication_short }}
     {{- $item.Params.publication_short | markdownify -}},
   {{ else if $item.Params.publication }}

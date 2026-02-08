@@ -24,12 +24,14 @@ publication_types:
 - chapter
 
 # Publication name and optional abbreviated publication name.
-booktitle: '*Diercke Weltaltlas: Klimawandel im Geographieunterricht. Bewusstseinsbildung für eine nachhaltige Entwicklung*'
+booktitle: '*Diercke Weltaltlas: Klimawandel im Geographieunterricht. Bewusstseinsbildung für eine nachhaltige Entwicklung* (Diercke World Atlas: Climate change in geography lessons. Raising awareness for sustainable development)'
 
-address: 'Braunschweig'
-editors: ['Christiane  Meyer', 'Andreas Eberth', 'Barbara Warner']
-pages: '174--181'
+editors: ['Christiane Meyer', 'Andreas Eberth', 'Barbara Warner']
 publisher: 'Westermann'
+pages: '174--181'
+location: 'Braunschweig'
+
+language: german
 
 doi: ''
 
