@@ -30,9 +30,9 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-#  filename: /logos/mpi/MPI_Kriminalitaet-Sicherheit-und-Recht.png
-#  alt_text: 'Logo des Max-Planck-Institut zur Erforschung von Kriminalität, Sicherheit und Recht'
+image:
+  filename: /logos/uni-bern/logo.png
+  alt_text: 'Logo of the Univerity of Bern'
 #  caption: ""
 #  focal_point: ""
 #  preview_only: false
@@ -63,6 +63,19 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: [eSMS]
 ---
+At the high-profile workshop [AI as a Colleague? – Towards a Social Epistemology of AI](https://s8by70av.scispace.co/index.html) at the University of Bern, {{% mention alina.jacobs %}} will give a talk on epistemic paternalism. 
+
+She examines how epistemic paternalism provides a framework for assessing AI’s influence on inquiry. 
+She states that paternalistic structures arise across three domains of AI practice: the operation of AI systems, the design choices of AI developers, and the aims of AI alignment research. 
+1. Certain AI systems guide users’ inquiries without consultation, aiming to correct biases or improve epistemic outcomes. 
+2. AI developers form epistemic environments through interface design, data selection, or default configurations, thereby occupying paternalistic roles. 
+3. AI alignment initiatives presuppose preferred epistemic trajectories and pursue them with limited public input. 
+
+She argues that criteria from the debate on epistemic paternalism, such as whether an interference fosters genuine epistemic improvement, whether its benefits outweigh its costs, and whether it is sensitive to the agent’s needs and capabilities, offer tools for evaluating when AI supports, and when it constrains, epistemic autonomy.
+
+Her talk takes place on the first day, **Thursday, 26th March 2026 12:00-13:00**
+
+# About the Event
 
 The past few years have witnessed tremendous progress in the
 development of AI. DNNs and other AI tools have increasingly

@@ -11,7 +11,7 @@ address:
   city: Bern, Schweiz
 
 summary: "Dieser Workshop zielt darauf ab, KI-Anwendungen und ihre Funktionsweise anhand von Konzepten und Erkenntnissen aus der sozialen Erkenntnistheorie zu verstehen, wobei ein besonderer Schwerpunkt auf Anwendungen aus der Medizin liegt. Wir bringen führende Forscher zusammen, um grundlegende Fragen zur Rolle der KI bei der Wissensproduktion und -forschung zu erörtern."
- 
+
 date: 2026-03-26T09:00:00Z
 date_end: 2026-03-27T18:30:00Z
 all_day: false
@@ -30,9 +30,9 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
-#  filename: /logos/mpi/MPI_Kriminalitaet-Sicherheit-und-Recht.png
-#  alt_text: 'Logo des Max-Planck-Institut zur Erforschung von Kriminalität, Sicherheit und Recht'
+image:
+  filename: /logos/uni-bern/logo.png
+  alt_text: 'Logo der Universität Bern'
 #  caption: ""
 #  focal_point: ""
 #  preview_only: false
@@ -63,6 +63,22 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: [eSMS]
 ---
+Beim hochkarätig besetzten Workshop [AI as a Colleague? - Towards a Social Epistemology of AI](https://s8by70av.scispace.co/index.html) an der Universität Bern wird {{% mention alina.jacobs %}} einen Vortrag über epistemischen Paternalismus halten. 
+
+Genauer untersucht sie, wie epistemischer Paternalismus einen Rahmen für die Bewertung des Einflusses von KI auf die Wissensgewinnung bietet.
+Sie verfechtet den Standpunkt, dass paternalistische Strukturen in drei Bereichen der KI-Praxis auftreten: beim Betrieb von KI-Systemen, bei den Designentscheidungen von KI-Entwicklern und bei den Zielen der Forschung zur KI-Ausrichtung. 
+
+1. Erstens lenken bestimmte KI-Systeme die Suchanfragen der Nutzer ohne Rücksprache, mit dem Ziel, Verzerrungen zu korrigieren oder epistemische Ergebnisse zu verbessern. 
+2. Zweitens gestalten KI-Entwickler durch Schnittstellendesign, Datenauswahl oder Standardkonfigurationen epistemische Umgebungen und übernehmen damit paternalistische Rollen. 
+3. Drittens setzen Initiativen zur KI-Ausrichtung bevorzugte epistemische Entwicklungsverläufe voraus und verfolgen diese mit begrenzter öffentlicher Beteiligung. 
+
+Ich behaupte, dass Kriterien aus der Debatte über epistemischen Paternalismus – beispielsweise ob eine Einmischung eine echte epistemische Verbesserung fördert, ob ihre Vorteile die Kosten überwiegen und ob sie auf die Bedürfnisse und Fähigkeiten des Akteurs eingeht – Instrumente bieten, um zu bewerten, wann KI die epistemische Autonomie unterstützt und wann sie diese einschränkt.
+
+Der Vortag findet am ersten Tag, **Donnertsag, den 26.03.26 12:00-13:00 Uhr** statt.
+
+(Vortragssprache ist Englisch)
+
+# Über die Veranstaltung
 
 In den letzten Jahren wurden enorme Fortschritte in der
 Entwicklung der KI erzielt. DNNs und andere KI-Tools haben zunehmend
