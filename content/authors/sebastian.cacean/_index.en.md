@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: "[Alumni] PhD Student & Postdoc"
+role: "[Alumni] PhD Student & Postdoc | [now] Postdoc"
 
 # Organizations/Affiliations
 organizations:
-# - name: Chair of Philosophical Anthropology
-#   url: ''
+ - name: Heinrich Heine Universität Düsseldorf
+   url: 'https://www.philo.hhu.de/'
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -33,6 +33,9 @@ interests:
 
 education:
   courses:
+    - course: Doctor in Philosophy
+      institution: Karlsruher Institute of Technology (KIT)
+      year: 2025
     - course: Diploma in Physics
       institution: Free University of Berlin
       year: 2010
@@ -44,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sebastian.cacean@partner.kit.edu'
+    link: 'mailto:sebastian.cacean@hhu.de'
   - icon: house
     icon_pack: fas
     link: 'http://sebastiancacean.de/'
@@ -95,8 +98,8 @@ user_groups:
   - Alumnae & Alumni
 ---
 
-Sebastian Cacean is a research assistant at the CompPhil²MMAE (former Debatelab) of the Department of Philosophy at the Karlsruhe Institute of Technology (KIT) and is currently working on the project [**_KIDeKu_**]({{< relref "/research/KIDEKU" >}}). 
+Sebastian Cacean was a research assistant at the CompPhil²MMAE (former Debatelab) of the Department of Philosophy at the Karlsruhe Institute of Technology (KIT) and was working in the project [**_KIDeKu_**]({{< relref "/research/KIDEKU" >}}). 
 
-After studying physics and philosophy, he was involved in various research projects in which he dealt with questions of applied ethics (e.g. [Leadership Ethics as Ethics in the Sciences](https://uni-tuebingen.de/forschung/zentren-und-institute/internationales-zentrum-fuer-ethik-in-den-wissenschaften/das-izew/archiv/abgeschlossene-projekte/projektseiten/fuehrungsethik-als-ethik-in-den-wissenschaften/), [Bürgderdelphi Germline Therapy](https://www.wmk.itz.kit.edu/2950.php)), philosophy of science (e.g. [Limits and Objectivity of Scientific Foreknowledge: The Case of Energy Outlooks ](https://srg-lobster.philosophie.kit.edu/)) and methods of philosophy (e.g. [How Far Does Reflective Equilibrium Take Us?](https://re-models.github.io/)). In his dissertation, he developed content-analytical methods for analysing argumentation structures that make it possible to reconcile openness of interpretation with the criterion of reliability.
+After studying physics and philosophy, he was involved in various research projects in which he dealt with questions of applied ethics (e.g. [Leadership Ethics as Ethics in the Sciences](https://uni-tuebingen.de/forschung/zentren-und-institute/internationales-zentrum-fuer-ethik-in-den-wissenschaften/das-izew/archiv/abgeschlossene-projekte/projektseiten/fuehrungsethik-als-ethik-in-den-wissenschaften/), [Bürgderdelphi Germline Therapy](https://www.wmk.itz.kit.edu/2950.php)), philosophy of science (e.g. [Limits and Objectivity of Scientific Foreknowledge: The Case of Energy Outlooks ](https://srg-lobster.philosophie.kit.edu/)) and methods of philosophy (e.g. [How Far Does Reflective Equilibrium Take Us?](https://re-models.github.io/)). In his dissertation, he developed content-analytical methods for analysing argumentation structures that reconcile openness of interpretation with the criterion of reliability.
 
-In his research and teaching, Sebastian enjoys analysing socially relevant debates, considering how content analysis methods can be applied using language models to analyse public discourse and looking at the use of argumentation theory methods to improve our deliberative practice.
+In his research and teaching, Sebastian enjoys analysing socially relevant debates, considering how content analysis can leverage language models to analyse public discourse, and examining the use of argumentation theory methods to improve our deliberative practice.
