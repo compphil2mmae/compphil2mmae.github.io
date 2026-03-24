@@ -5,7 +5,7 @@ title: 'Alina Jacobs spricht über "Surveillance and Knowledge: On the Epistemic
 subtitle: Vortrag beim **2. SWIP Doktorand:innen-Workshop für FLINTA-Personen**
 summary: Beim 2. SWIP Doktorand:innen-Workshop für FLINTA-Personen wird Alina Jacobs ihr Dissertationsprojekt vorstellen. Die Veranstaltung in Flensburg soll mit kooperativer Atmosphäre der gemeinsamen philosophischen Diskussion und Vernetzung dienen.
 authors: [alina.jacobs]
-tags: [highlight]
+tags: []
 categories: []
 date: 2025-10-06T09:00:00+01:00
 # lastmod: 2025-08-30T16:35:51+01:00

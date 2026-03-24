@@ -5,7 +5,7 @@ title: 'Alina Jacobs on "Surveillance and Knowledge: On the Epistemic Dimension 
 subtitle: Speaker at the **2nd SWIP Doctoral Workshop for FLINTA** in November 2025
 summary: Alina Jacobs will present her dissertation project at the 2nd SWIP Doctoral Workshop for FLINTA. The event in Flensburg aims to provide a cooperative atmosphere for philosophical discussion and networking.
 authors: [alina.jacobs]
-tags: [highlight]
+tags: []
 categories: []
 date: 2025-10-06T09:00:00+01:00
 # lastmod: 2025-04-07T16:35:51+01:00
