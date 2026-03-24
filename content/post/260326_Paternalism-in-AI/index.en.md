@@ -2,7 +2,7 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: 'Alina Jacobs on "Paternalism in AI"'
-subtitle: 'Speaker at the orkshop **"AI as a Colleague? Towards a Social Epistemology of AI"**'
+subtitle: 'Speaker at the Workshop **"AI as a Colleague? Towards a Social Epistemology of AI"**'
 summary: This workshop aims to understand AI applications and their work using concepts and insights from social epistemology, with a special focus on applications from medicine. We bring together leading researchers to address fundamental questions about AI's role in knowledge production and inquiry.
 authors: [alina.jacobs]
 tags: [highlight]
