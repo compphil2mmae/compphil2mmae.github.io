@@ -1,9 +1,12 @@
 ---
-title: "AI as a Colleague?"
-subtitle: 'Towards a Social Epistemology of AI'
-event: '*AI & Social Epistemology Workshop*'
-event_url: https://s8by70av.scispace.co/index.html
+title: 'Alina Jacobs on "Paternalism in AI"'
+subtitle: 'Speaker at the Workshop **"AI as a Colleague? Towards a Social Epistemology of AI"**'
 
+event: '*AI as a Colleague? Towards a Social Epistemology of AI*'
+event_url: https://s8by70av.scispace.co/index.html
+date: 2026-03-26T12:00:00Z
+date_end: 2026-03-26T13:30:00Z
+all_day: false
 location: 'University of Bern, UniS, Room B-102'
 address:
   street: Schanzeneckstrasse 1
@@ -11,10 +14,6 @@ address:
   city: Bern, Switzerland
 
 summary: "This workshop aims to understand AI applications and their work using concepts and insights from social epistemology, with a special focus on applications from medicine. We bring together leading researchers to address fundamental questions about AI's role in knowledge production and inquiry."
- 
-date: 2026-03-26T09:00:00Z
-date_end: 2026-03-27T18:30:00Z
-all_day: false
 
 publishDate: 2026-03-06
 
@@ -63,19 +62,12 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: [eSMS]
 ---
-At the high-profile workshop [AI as a Colleague? – Towards a Social Epistemology of AI](https://s8by70av.scispace.co/index.html) at the University of Bern, {{% mention alina.jacobs %}} will give a talk on epistemic paternalism. 
+At the high-profile workshop [AI as a Colleague? – Towards a Social Epistemology of AI](https://s8by70av.scispace.co/index.html) at the University of Bern, {{% mention alina.jacobs %}} will give a talk on epistemic paternalism as part of the [DFG Research-Project on state mass surveillance]({{% ref "/research/esms/" %}}). 
 
-She examines how epistemic paternalism provides a framework for assessing AI’s influence on inquiry. 
-She states that paternalistic structures arise across three domains of AI practice: the operation of AI systems, the design choices of AI developers, and the aims of AI alignment research. 
-1. Certain AI systems guide users’ inquiries without consultation, aiming to correct biases or improve epistemic outcomes. 
-2. AI developers form epistemic environments through interface design, data selection, or default configurations, thereby occupying paternalistic roles. 
-3. AI alignment initiatives presuppose preferred epistemic trajectories and pursue them with limited public input. 
+## Abstract
+My talk examines how epistemic paternalism provides a framework for assessing AI’s influence on inquiry. I argue that paternalistic structures arise across three domains of AI practice: the operation of AI systems, the design choices of AI developers, and the aims of AI alignment research. First, certain AI systems guide users’ inquiries without consultation, aiming to correct biases or improve epistemic outcomes. Second, AI developers form epistemic environments through interface design, data selection, or default configurations, thereby occupying paternalistic roles. Third, AI alignment initiatives presuppose preferred epistemic trajectories and pursue them with limited public input. I argue that criteria from the debate on epistemic paternalism, such as whether an interference fosters genuine epistemic improvement, whether its benefits outweigh its costs, and whether it is sensitive to the agent’s needs and capabilities, offer tools for evaluating when AI supports, and when it constrains, epistemic autonomy.
 
-She argues that criteria from the debate on epistemic paternalism, such as whether an interference fosters genuine epistemic improvement, whether its benefits outweigh its costs, and whether it is sensitive to the agent’s needs and capabilities, offer tools for evaluating when AI supports, and when it constrains, epistemic autonomy.
-
-Her talk takes place on the first day, **Thursday, 26th March 2026 12:00-13:00**
-
-# About the Event
+## About the Event
 
 The past few years have witnessed tremendous progress in the
 development of AI. DNNs and other AI tools have increasingly
@@ -105,10 +97,10 @@ the tools of social epistemology. A special focus will be laid on
 the example of medicine and the use of AI tools in this domain.  
 <br>
 
-## Program:
+### Program:
 ---
 
-### Day 1 – Thursday, 26th March 2026
+#### Day 1 – Thursday, 26th March 2026
 | Time        | Speaker                              | Title                                                                   |
 |-------------|--------------------------------------|-------------------------------------------------------------------------|
 | 09:00-09:15 | Andreas Wolkenstein & Claus Beisbart | Welcome                                                                 |
@@ -119,7 +111,7 @@ the example of medicine and the use of AI tools in this domain.
 | 16:00-17:15 | Johan Largo & Oscar Piedrahita       | Inquiry by Proxy: On the Epistemic Role of LLMs                         |
 | 17:30-18:45 | Rico Hauswald                        | The Social Epistemology of AI-driven Science                            |
 
-### Day 2 – Friday, 27th March 2026
+#### Day 2 – Friday, 27th March 2026
 | Time        | Speaker | Title                                                                   |
 |-------------|---------|-------------------------------------------------------------------------|
 | 09:00-10:15 | Federica Malfatti | Learning From AI Systems? |
@@ -130,7 +122,7 @@ the example of medicine and the use of AI tools in this domain.
 | 17:15-18:30 | Andreas Wolkenstein | Must Medical AI Provide Understanding? A Social-Epistemological Perspective |
 
 {{% callout note%}}
-We have a few free places left. If you wish to participate, please register with [Claus Beisbart](mailto:claus.beisbart@unibe.ch) no later than March 20th.
+There are a few free places left. If you wish to participate, please register with [Claus Beisbart](mailto:claus.beisbart@unibe.ch) no later than March 20th.
 {{% /callout %}}
 
 Organizers: [Andreas Wolkenstein](mailto:andreas.wolkenstein@med.uni-muenchen.de) (LMU Munich) and [Claus Beisbart](mailto:claus.beisbart@unibe.ch) (University of Bern)

@@ -23,7 +23,7 @@ image:
 links:
   - icon: calendar-days
     name: 27.11.
-    url: /de/event/251127_w_swip_doctoral_workshop/
+    url: /de/event/251127_v_swip_doctoral_workshop/
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -37,5 +37,5 @@ Beim **2. SWIP Doktorand:innen-Workshop für FLINTA-Personen** am 27. und 28. No
 Der Vortrag behandelt, inwieweit staatliche Massenüberwachung als epistemische Infrastruktur verstanden werden kann und wie sie sich auf die epistemische Autonomie der Überwachten auswirkt.
 
 Der Workshop wird von Anne Reichold und Adriana Pavić für [SWIP Germany e.V.](https://swip-philosophinnen.org/) organisiert.</br>
-{{% mention "alina.jacobs" %}}' Vortrag findet am [27. November um 14:30 Uhr](/event/251127_w_swip_doctoral_workshop/) statt.
+{{% mention "alina.jacobs" %}}' Vortrag findet am [27. November um 14:30 Uhr](/event/251127_v_swip_doctoral_workshop/) statt.
 

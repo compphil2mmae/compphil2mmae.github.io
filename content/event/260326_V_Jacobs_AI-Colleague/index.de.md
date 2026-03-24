@@ -1,9 +1,12 @@
 ---
-title: "AI as a Colleague?"
-subtitle: 'Towards a Social Epistemology of AI'
-event: '*Workshop zu KI & Socialer Epistemologie*'
-event_url: https://s8by70av.scispace.co/index.html
+title: 'Alina Jacobs spricht über "Paternalism in AI"'
+subtitle: 'Vortrag beim Workshop **"AI as a Colleague? Towards a Social Epistemology of AI"**'
 
+event: '*AI as a Colleague? Towards a Social Epistemology of AI*'
+event_url: https://s8by70av.scispace.co/index.html
+date: 2026-03-26T12:00:00Z
+date_end: 2026-03-26T13:30:00Z
+all_day: false
 location: 'Universität von Bern, UniS, Raum B-102'
 address:
   street: Schanzeneckstrasse 1
@@ -11,10 +14,6 @@ address:
   city: Bern, Schweiz
 
 summary: "Dieser Workshop zielt darauf ab, KI-Anwendungen und ihre Funktionsweise anhand von Konzepten und Erkenntnissen aus der sozialen Erkenntnistheorie zu verstehen, wobei ein besonderer Schwerpunkt auf Anwendungen aus der Medizin liegt. Wir bringen führende Forscher zusammen, um grundlegende Fragen zur Rolle der KI bei der Wissensproduktion und -forschung zu erörtern."
-
-date: 2026-03-26T09:00:00Z
-date_end: 2026-03-27T18:30:00Z
-all_day: false
 
 publishDate: 2026-03-06
 
@@ -63,22 +62,14 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: [eSMS]
 ---
-Beim hochkarätig besetzten Workshop [AI as a Colleague? - Towards a Social Epistemology of AI](https://s8by70av.scispace.co/index.html) an der Universität Bern wird {{% mention alina.jacobs %}} einen Vortrag über epistemischen Paternalismus halten. 
+Beim hochkarätig besetzten Workshop [AI as a Colleague? - Towards a Social Epistemology of AI](https://s8by70av.scispace.co/index.html) an der Universität Bern wird {{% mention alina.jacobs %}} einen Vortrag über epistemischen Paternalismus im Rahmen des [DFG-Forschungsprojektes zu staatlicher Massenüberwachung]({{% ref "/research/esms/" %}}) halten. 
 
-Genauer untersucht sie, wie epistemischer Paternalismus einen Rahmen für die Bewertung des Einflusses von KI auf die Wissensgewinnung bietet.
-Sie verfechtet den Standpunkt, dass paternalistische Strukturen in drei Bereichen der KI-Praxis auftreten: beim Betrieb von KI-Systemen, bei den Designentscheidungen von KI-Entwicklern und bei den Zielen der Forschung zur KI-Ausrichtung. 
-
-1. Erstens lenken bestimmte KI-Systeme die Suchanfragen der Nutzer ohne Rücksprache, mit dem Ziel, Verzerrungen zu korrigieren oder epistemische Ergebnisse zu verbessern. 
-2. Zweitens gestalten KI-Entwickler durch Schnittstellendesign, Datenauswahl oder Standardkonfigurationen epistemische Umgebungen und übernehmen damit paternalistische Rollen. 
-3. Drittens setzen Initiativen zur KI-Ausrichtung bevorzugte epistemische Entwicklungsverläufe voraus und verfolgen diese mit begrenzter öffentlicher Beteiligung. 
-
-Ich behaupte, dass Kriterien aus der Debatte über epistemischen Paternalismus – beispielsweise ob eine Einmischung eine echte epistemische Verbesserung fördert, ob ihre Vorteile die Kosten überwiegen und ob sie auf die Bedürfnisse und Fähigkeiten des Akteurs eingeht – Instrumente bieten, um zu bewerten, wann KI die epistemische Autonomie unterstützt und wann sie diese einschränkt.
-
-Der Vortag findet am ersten Tag, **Donnertsag, den 26.03.26 12:00-13:00 Uhr** statt.
+## Abstract
+In meinem Vortrag untersuche ich, wie epistemischer Paternalismus einen Rahmen für die Bewertung des Einflusses von KI auf die Wissensgewinnung bietet. Ich behaupte, dass paternalistische Strukturen in drei Bereichen der KI-Praxis auftreten: beim Betrieb von KI-Systemen, bei den Designentscheidungen von KI-Entwicklern und bei den Zielen der Forschung zur KI-Ausrichtung. Erstens lenken bestimmte KI-Systeme die Suchanfragen der Nutzer ohne Rücksprache, mit dem Ziel, Verzerrungen zu korrigieren oder epistemische Ergebnisse zu verbessern. Zweitens gestalten KI-Entwickler durch Schnittstellendesign, Datenauswahl oder Standardkonfigurationen epistemische Umgebungen und übernehmen damit paternalistische Rollen. Drittens setzen Initiativen zur KI-Ausrichtung bevorzugte epistemische Entwicklungsverläufe voraus und verfolgen diese mit begrenzter öffentlicher Beteiligung. Ich behaupte, dass Kriterien aus der Debatte über epistemischen Paternalismus – beispielsweise ob eine Einmischung eine echte epistemische Verbesserung fördert, ob ihre Vorteile die Kosten überwiegen und ob sie auf die Bedürfnisse und Fähigkeiten des Akteurs eingeht – Instrumente bieten, um zu bewerten, wann KI die epistemische Autonomie unterstützt und wann sie diese einschränkt.
 
 (Vortragssprache ist Englisch)
 
-# Über die Veranstaltung
+## Über die Veranstaltung
 
 In den letzten Jahren wurden enorme Fortschritte in der
 Entwicklung der KI erzielt. DNNs und andere KI-Tools haben zunehmend
@@ -108,10 +99,10 @@ der Werkzeuge der sozialen Erkenntnistheorie zu verbessern. Ein besonderer Schwe
 dem Beispiel der Medizin und dem Einsatz von KI-Werkzeugen in diesem Bereich liegen.  
 <br>
 
-## Programm:
+### Programm:
 ---
 
-### Tag 1 – Donnerstag, 26. März 2026
+#### Tag 1 – Donnerstag, 26. März 2026
 | Zeit        | Referent | Vortrag                                                                   |
 |-------------|---------|-------------------------------------------------------------------------|
 | 09:00-09:15 | Andreas Wolkenstein & Claus Beisbart | Welcome                                                                 |
@@ -122,7 +113,7 @@ dem Beispiel der Medizin und dem Einsatz von KI-Werkzeugen in diesem Bereich lie
 | 16:00-17:15 | Johan Largo & Oscar Piedrahita       | Inquiry by Proxy: On the Epistemic Role of LLMs                         |
 | 17:30-18:45 | Rico Hauswald                        | The Social Epistemology of AI-driven Science                            |
 
-### Tag 2 – Freitag, 27. März 2026
+#### Tag 2 – Freitag, 27. März 2026
 | Zeit        | Referent | Vortrag                                                                   |
 |-------------|---------|-------------------------------------------------------------------------|
 | 09:00-10:15 | Federica Malfatti | Learning From AI Systems? |
@@ -133,9 +124,9 @@ dem Beispiel der Medizin und dem Einsatz von KI-Werkzeugen in diesem Bereich lie
 | 17:15-18:30 | Andreas Wolkenstein | Must Medical AI Provide Understanding? A Social-Epistemological Perspective |
 
 {{% callout note%}}
-Wir haben noch einige wenige Plätze frei. Wenn Sie teilnehmen möchten, melden Sie sich bitte bis spätestens 20. März bei [Claus Beisbart](mailto:claus.beisbart@unibe.ch) an.
+Einige wenige Plätze sind noch frei. Wenn Sie teilnehmen möchten, melden Sie sich bitte bis spätestens 20. März bei [Claus Beisbart](mailto:claus.beisbart@unibe.ch) an.
 {{% /callout %}}
 
-Veranstalter: [Andreas Wolkenstein](mailto:andreas.wolkenstein@med.uni-muenchen.de) (LMU München) and [Claus Beisbart](mailto:claus.beisbart@unibe.ch) (Universität von Bern)
+Veranstalter: [Andreas Wolkenstein](mailto:andreas.wolkenstein@med.uni-muenchen.de) (LMU München) und [Claus Beisbart](mailto:claus.beisbart@unibe.ch) (Universität von Bern)
 
 Wir bedanken uns herzlich für die finanzielle Unterstützung durch den Schweizerischen Nationalfonds.
