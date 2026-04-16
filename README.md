@@ -64,6 +64,19 @@ Ohne Beschäftigungsverhältnis, aber mit Betreuungsverhältnis (bei Prommotion)
 #### Alumnae & Alumni
 Ehemalige Doktorand*innen oder Professor*innen
 
+### Events
+Sind unterteilt in `Workshops`, `Talks` und `Guest Lectures`.
+- `Workshops`
+  - sind nur Veranstaltungen, die von CompPHIL²MMAE (mit)veranstaltet werden.
+  - Tag ist `Workshops` (DE & EN)
+- `Talks`
+  - sind Vorträge, die von CompPHIL²MMAE Angehörigen gehalten werden, aber im Rahmen einer anderen/externen Veranstaltung.
+  - Tag ist `Vortrag` (DE) bzw. `Lecture` (EN)
+- `Guest Lectures`
+  - sind nur Vorträge Externer, die im Rahmen einer von CompPHIL²MMAE ausgerichteten Veranstaltung gehalten werden.
+  - v.a. Forschungsseminar & Kolloquium
+  - Tag ist `Gastvortrag` (DE) bzw. `Guest Lecture` (EN)
+
 ### Publications
 To help import (multiple) new publications, the [academic tool](https://github.com/BuildLore/academic-file-converter) can be used.
 1. Install the tool: `pip install -U academic` (python3 is a prerequisite)
