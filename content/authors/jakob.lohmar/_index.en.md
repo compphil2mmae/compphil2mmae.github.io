@@ -78,12 +78,12 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  # - Team
+  - Team
   # - Leitung # Chair | Principal Investigators
   # - Akademische Mitarbeiter:innen # Researchers
   # - Assistance in research, teaching & administration # Administration
   - Doktorand:innen # Grad Students
-  - Associates 
+  # - Associates 
   # - Gäste # Visitors
   # - Alumni
 ---
