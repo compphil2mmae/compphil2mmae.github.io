@@ -39,7 +39,19 @@ Ist das definieren vom Aufbau der Seite in Yaml parametern. Wichtigste Optionen 
 - `.pdf` Objekte können entweder:
   - universalsprachig im selben Ordner als `<ordnername>.pdf` abgelegt werden (priorisiert, wenn nur für einzelne Seite relevant)
   - im static bereich abgelegt werden und mit `url_pdf: <pdfpfad>.pdf` referenziert werden (e.g. `url_pdf: /uploads/hinweise-essays.pdf`)
-
+- `Text/String`
+  - Multiline:
+    - um in YAML Parametern (nicht im plain MD) multiline Text zu verwenden bzw einfach zu formatieren sollte der String Parameter mit `|` starten und der Inhalt in den folgenden Zeilen mit (zwei) Leerzeichen eingerückt werden.
+    - E.g.:
+      ```yaml
+      abstract: |
+        Dies ist ein Abstract Text.
+        Er hat mehrere Zeilen.
+      
+        Jede weitere Formatierung ist normal wie in MD (Leerzeile für Absatz, zwei Leerzeichen am Ende der Zeile für eine neue Zeile).  
+      ```
+  - jede weitere Textformatierung folgt normalen MD Syntax, genauer ausgeführt z.B. [hier](https://www.markdownguide.org/extended-syntax/#task-lists)
+  - es kann sein, dass im Seiten template kein "markdownify" aufgerufen wird, dann wird der Parameter als reiner String behandelt.
 ### Team
 Besteht aus `Team`, `Associates` & `Alumnae & Alumni`.
 
