@@ -40,6 +40,18 @@ Ist das definieren vom Aufbau der Seite in Yaml parametern. Wichtigste Optionen 
   - universalsprachig im selben Ordner als `<ordnername>.pdf` abgelegt werden (priorisiert, wenn nur für einzelne Seite relevant)
   - im static bereich abgelegt werden und mit `url_pdf: <pdfpfad>.pdf` referenziert werden (e.g. `url_pdf: /uploads/hinweise-essays.pdf`)
 
+### Team
+Besteht aus `Team`, `Associates` & `Alumnae & Alumni`.
+
+#### Team
+Alle mit einem KIT-Beschäftigungsverhältnis.
+
+#### Associates
+Ohne Beschäftigungsverhältnis, aber mit Betreuungsverhältnis (bei Prommotion) oder Lehrauftrag.
+
+#### Alumnae & Alumni
+Ehemalige Doktorand*innen oder Professor*innen
+
 ### Publications
 To help import (multiple) new publications, the [academic tool](https://github.com/BuildLore/academic-file-converter) can be used.
 1. Install the tool: `pip install -U academic` (python3 is a prerequisite)
