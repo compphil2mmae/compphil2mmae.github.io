@@ -196,7 +196,7 @@ sections:
         category: ''
         exclude_featured: false
         publication_type: ''
-        tag: Vortrag
+        tag: Lecture
         exclude_future: false
         exclude_past: false
       offset: 0
