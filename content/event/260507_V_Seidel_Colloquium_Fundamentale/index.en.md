@@ -10,7 +10,7 @@ address:
   postcode: 76131
   city: Karlsruhe
 
-summary: 'Talk in the *Colloquium Fundamentale* series of the [MoWiKo](https://www.forum.kit.edu/mowiko.php) project (Moralization in scientific communication – Causes, Forms and Effects) about Moral and Moralism in public debates from the perspective of moral philosophy.'
+summary: 'Talk in the *Colloquium Fundamentale* series of the [MoWiKo](https://www.forum.kit.edu/mowiko.php) project (Moralization in scientific communication – Causes, Forms and Effects) about Moral and Moralism in public debates from the perspective of moral philosophy. - talk in german'
 abstract: |2-
   According to a common critique of our times, social discussions—*e.g., about what we eat (“organic-vegan”), how we travel (“flight-shame”), speak (“gender-neutral”), dress (“fair trade”), heat our homes (“heat pump”), or invest our money (“ethically”)* —are increasingly morally charged, unduly moralistic, indeed thoroughly moralistic; and that this is bad, misguided, a problem.  
   *But is that true?*
@@ -21,7 +21,7 @@ abstract: |2-
 
   In this talk, I would like to use these questions to shed light on the role of morality and the phenomenon of moralism in public debates from the perspective of moral philosophy. This will allow us to identify some simplifications and misunderstandings that sometimes underlie the widespread diagnosis of our times.
 
-  (Talk is in german)
+  (Talk in german)
 
 date: 2026-05-07T18:00:00Z
 #date_end: 2026-07-10
@@ -31,7 +31,7 @@ publishDate: 2026-04-16
 
 authors: [christian.seidel]
 tags:
-  - Talk
+  - Lecture
   - Moralism
   - Moral Philosophy
   - Normative Ethics
