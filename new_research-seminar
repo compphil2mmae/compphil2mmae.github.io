@@ -1,0 +1,127 @@
+#!/usr/bin/env python3
+"""
+Script to create a new research seminar folder using the ResearchSeminar archetype.
+Usage: python3 new_research-seminar <date> <topic> <lecturer>
+Example: python3 new_research-seminar 260426 "AI Ethics" "Dr. Jane Smith"
+"""
+
+import os
+import sys
+import re
+from datetime import datetime
+import yaml
+
+def get_link_from_yaml(link_name):
+    """Get link URL from data/links.yaml"""
+    links_file = os.path.join(os.path.dirname(__file__), 'data', 'links.yaml')
+    try:
+        with open(links_file, 'r') as f:
+            links = yaml.safe_load(f)
+        return links.get('forschungsseminar-ilias', '')
+    except Exception as e:
+        print(f"Warning: Could not read links.yaml: {e}")
+        return ''
+def replace_template_variables(content, variables):
+    """Replace template variables in content"""
+    for var, value in variables.items():
+        # Replace {{ #Variable }} and {{ Variable }} patterns
+        content = re.sub(rf'\{{{{\s*#?\s*{var}\s*}}}}', str(value), content)
+        # # Replace {{ link "link-name" }} patterns
+        # if var == 'link':
+        #     content = re.sub(r'\{\{\s*link\s*"([^"]+)"\s*\}\}', lambda m: get_link_from_yaml(m.group(1)), content)
+    return content
+
+def create_research_seminar(date, topic, lecturer):
+    """Create a new research seminar folder and files"""
+
+    # Generate folder name: yymmdd_G_ResearchSeminar_Surname
+    # Extract surname (last word) from lecturer name
+    surname = lecturer.split('(')[0].split()[-1]
+    folder_name = f"{date}_G_ResearchSeminar_{surname}"
+    target_dir = os.path.join('content', 'event', folder_name)
+
+    # Create directory
+    os.makedirs(target_dir, exist_ok=True)
+    print(f"Created directory: {target_dir}")
+
+    # Template variables
+    today = datetime.now().strftime('%Y-%m-%d')
+    variables = {
+        'Date': datetime.strptime(date, '%y%m%d').strftime('%Y-%m-%d'),
+        'Topic': topic,
+        'Lecturer': lecturer,
+        'Today': today,
+        'Link': get_link_from_yaml('forschungsseminar-ilias')
+    }
+
+    # Process archetype files
+    archetype_dir = os.path.join('archetypes', 'ResearchSeminar')
+
+    # Copy and process German index
+    de_source = os.path.join(archetype_dir, 'index.de.md')
+    de_target = os.path.join(target_dir, 'index.de.md')
+
+    if os.path.exists(de_source):
+        with open(de_source, 'r', encoding='utf-8') as f:
+            de_content = f.read()
+
+        # Replace template variables
+        de_content = replace_template_variables(de_content, variables)
+
+        # # Update title for German version
+        # de_content = re.sub(
+        #     r"title:.*",
+        #     f"title: '{date} ResearchSeminar {lecturer}: \"{topic}\"'",
+        #     de_content
+        # )
+
+        # # Replace specific German content
+        # de_content = de_content.replace('**THEMA ANPASSEN!!!**', topic)
+        # de_content = de_content.replace('[SPEAKER_NAME]', lecturer)
+
+        with open(de_target, 'w', encoding='utf-8') as f:
+            f.write(de_content)
+        print(f"Created: {de_target}")
+
+    # Copy and process English index
+    en_source = os.path.join(archetype_dir, 'index.en.md')
+    en_target = os.path.join(target_dir, 'index.en.md')
+
+    if os.path.exists(en_source):
+        with open(en_source, 'r', encoding='utf-8') as f:
+            en_content = f.read()
+
+        # Replace template variables
+        en_content = replace_template_variables(en_content, variables)
+
+        with open(en_target, 'w', encoding='utf-8') as f:
+            f.write(en_content)
+        print(f"Created: {en_target}")
+
+    print(f"\n✅ Research seminar created successfully!")
+    print(f"📁 Folder: {target_dir}")
+    print(f"📝 Files: index.de.md, index.en.md")
+    print(f"🗓️  Date: {date}")
+    print(f"🎯 Topic: {topic}")
+    print(f"👤 Lecturer: {lecturer}")
+
+def main():
+    if len(sys.argv) != 4:
+        print("Usage: python new_research-seminar <date> <topic> <lecturer>")
+        print("Example: python new_research-seminar 260426 \"AI Ethics\" \"Dr. Jane Smith\"")
+        print("\nDate format: YYMMDD (e.g., 260422 for April 2, 2026)")
+        sys.exit(1)
+
+    date = sys.argv[1]
+    topic = sys.argv[2]
+    lecturer = sys.argv[3]
+
+    # Validate date format (YYMMDD)
+    if not re.match(r'^\d{6}$', date):
+        print("Error: Date must be in YYMMDD format (e.g., 260426)")
+        sys.exit(1)
+
+    create_research_seminar(date, topic, lecturer)
+
+if __name__ == '__main__':
+    main()
