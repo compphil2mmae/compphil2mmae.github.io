@@ -75,6 +75,7 @@ Sind unterteilt in `Workshops`, `Talks` und `Guest Lectures`.
 - `Guest Lectures`
   - sind nur Vorträge Externer, die im Rahmen einer von CompPHIL²MMAE ausgerichteten Veranstaltung gehalten werden.
   - v.a. Forschungsseminar & Kolloquium
+    - Achtung hier nicht alle Termine einstellen, nur die externen (die mit Ort in Klammern)
   - Tag ist `Gastvortrag` (DE) bzw. `Guest Lecture` (EN)
 
 ### Publications

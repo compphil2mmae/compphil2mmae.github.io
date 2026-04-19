@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Script to create a new research seminar folder using the ResearchSeminar archetype.
-Usage: python3 new_research-seminar <date> <topic> <lecturer>
+Script to create a new research seminar event based on the archetype.
+Needed, since the Hugo builtin archetype does not support both bundle (folder) and content kind assignemnt.
+Usage: python new_research-seminar <date-yymmdd> "<topic>" "<lecturer>"
 Example: python3 new_research-seminar 260426 "AI Ethics" "Dr. Jane Smith"
 """
 
@@ -36,6 +37,8 @@ def create_research_seminar(date, topic, lecturer):
 
     # Generate folder name: yymmdd_G_ResearchSeminar_Surname
     # Extract surname (last word) from lecturer name
+    if '(' not in lecturer:
+        print(f"Warning: Lecturer name '{lecturer}' does not contain brackets. Only research seminar events with external speakers (indicated by brackets with the location) should be inserted.")
     surname = lecturer.split('(')[0].split()[-1]
     folder_name = f"{date}_G_ResearchSeminar_{surname}"
     target_dir = os.path.join('content', 'event', folder_name)
