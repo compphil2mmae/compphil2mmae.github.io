@@ -1,6 +1,6 @@
 ---
 title: 'Autonomie & Algorithmen'
-subtitle: 'Erkundung der Autonomie in algorithmischen Umgebungen'
+subtitle: 'Untersuchung der Autonomie in algorithmischen Umgebungen'
 event: 'Workshop zu Autonomie & Algorithmen'
 event_url: 'https://philevents.org/event/show/143858'
 
@@ -53,8 +53,10 @@ Da Algorithmen die Entscheidungen, die wir treffen, prägen, geraten traditionel
 
 Dieser Workshop zielt darauf ab, diese Fragen im Rahmen der Philosophie der Autonomie, der Ethik der KI, der sozialen Erkenntnistheorie und der politischen Philosophie zu untersuchen. Wir begrüßen Beiträge, die sich mit konzeptionellen Grundlagen befassen, normative Bewertungen vornehmen, epistemische Dynamiken in algorithmischen Umgebungen analysieren und über deren institutionelle oder gesellschaftliche Implikationen reflektieren.
 
+Vortragssprache ist Englisch.
+
 {{% callout note %}}
-[Beiträge sind willkommen!](https://philevents.org/event/show/143862) Bitte reichen Sie Ihr erweitertes Abstract bis zum 31. Januar 2026 bei [alina.jacobs@kit.edu](mailto:alina.jacobs@kit.edu) ein.
+Anmeldung bitte bis zum **05. Juni 2026** unter [alina.jacobs@kit.edu](mailto:alina.jacobs@kit.edu).
 {{% /callout %}}
 
 ### Themenbereiche (nicht abschließend)
@@ -81,15 +83,34 @@ Dieser Workshop zielt darauf ab, diese Fragen im Rahmen der Philosophie der Auto
     RWTH Aachen
   </div>
   <div>
+    <strong>Joshua Habgood-Coote</strong><br>
+    Universität Leeds
+  </div>
+  <div>
+    <strong>Leonie Buschoff</strong><br>
+    TU Dortmund
+  </div>
+  <div>
+    <strong>Alina Jacobs</strong><br>
+    Karsruher Institut für Technologie
+  </div>
+  <div>
+    <strong>Chritsian Seidel</strong><br>
+    Karsruher Institut für Technologie
+  </div>
+  <div>
     <strong>Carina Prunkl</strong>
   </div>
   <div>
     <strong>Otto Sahlgren</strong>
   </div>
+  <div>
+    <strong>Margherita Mattioni</strong>
+  </div>
 </div>
 
 <br>
 
-Diese Veranstaltung ist Teil des DFG-Projekts "[Die Ethik der staatlichen Massenüberwachung](/research/esms/)."
+Diese Veranstaltung ist Teil des DFG-Projekts "[Die Ethik der staatlichen Massenüberwachung]({{% relref "/research/esms/" %}})."
 
 Für Anfragen kontaktieren Sie bitte die Organisatoren unter alina.jacobs@kit.edu.

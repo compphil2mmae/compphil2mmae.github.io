@@ -61,7 +61,7 @@ As algorithms shape the choices we make, traditional assumptions about autonomy 
 This workshop aims to examine these issues within the frameworks of philosophy of autonomy, ethics of AI, social epistemology, and political philosophy. We welcome contributions that address conceptual foundations, engage in normative evaluation, analyze epistemic dynamics in algorithmic environments, and reflect on their institutional or societal implications.
 
 {{% callout note %}}
-[Contributions are welcome!](https://philevents.org/event/show/143862) Please submit your extended abstract by January 31, 2026 to [alina.jacobs@kit.edu](mailto:alina.jacobs@kit.edu).
+Please register by **June 5th 2026** at [alina.jacobs@kit.edu](mailto:alina.jacobs@kit.edu).
 {{% /callout %}}
 
 ### Topics of Interest (not exhaustive)
@@ -88,15 +88,34 @@ This workshop aims to examine these issues within the frameworks of philosophy o
     Aachen University of Technology
   </div>
   <div>
+    <strong>Joshua Habgood-Coote</strong><br>
+    Universität of Leeds
+  </div>
+  <div>
+    <strong>Leonie Buschoff</strong><br>
+    TU Dortmund
+  </div>
+  <div>
+    <strong>Alina Jacobs</strong><br>
+    Karsruhe Institute of Technology
+  </div>
+  <div>
+    <strong>Chritsian Seidel</strong><br>
+    Karsruhe Institute of Technology
+  </div>
+  <div>
     <strong>Carina Prunkl</strong>
   </div>
   <div>
     <strong>Otto Sahlgren</strong>
   </div>
+  <div>
+    <strong>Margherita Mattioni</strong>
+  </div>
 </div>
 
 <br>
 
-This event is part of the DFG project "[The Ethics of State Mass Surveillance](/research/esms/)".
+This event is part of the DFG project "[The Ethics of State Mass Surveillance]({{% relref "/research/esms/" %}})".
 
 For inquiries, please contact the organizers at alina.jacobs@kit.edu.  
