@@ -4,11 +4,11 @@ subtitle: 'Untersuchung der Autonomie in algorithmischen Umgebungen'
 event: 'Workshop zu Autonomie & Algorithmen'
 event_url: 'https://philevents.org/event/show/143858'
 
-location: Karlsruher Institut für Technologie (KIT), Karlsruhe, Deutschland
-# address:
-#   street: Douglasstraße 24
-#   city: Karlsruhe
-#   postcode: '76133'
+location: Karlsruher Institut für Technologie (KIT), Geb. 50.41, Raum 145/146
+address:
+   street: Adenauerring 20
+   city: Karlsruhe
+   postcode: '76133'
 
 summary: 'Dieser Workshop untersucht die philosophischen Auswirkungen algorithmischer Umgebungen auf Autonomie, Entscheidungsfindung und demokratische Prozesse.'
 
@@ -25,11 +25,11 @@ tags: [Workshops, Ethik der KI, Erkenntnistheorie, Normative Ethik]
 # Is this a featured talk? (true/false)
 featured: true
 
-image:
-  filename: "logos/dfg/transparent.de.png"
-  alt: "Deutsche Forschungsgemeinschaft"
-  caption: ''
-  focal_point: Right
+#image:
+#  filename: "logos/dfg/transparent.de.png"
+#  alt: "Deutsche Forschungsgemeinschaft"
+#  caption: ''
+#  focal_point: Right
 
 links:
   - icon: 'philpapers'
@@ -56,7 +56,7 @@ Dieser Workshop zielt darauf ab, diese Fragen im Rahmen der Philosophie der Auto
 Vortragssprache ist Englisch.
 
 {{% callout note %}}
-Anmeldung bitte bis zum **05. Juni 2026** unter [alina.jacobs@kit.edu](mailto:alina.jacobs@kit.edu).
+Anmeldung bitte bis zum **05. Juni 2026** unter [office.seidel@itz.kit.edu](mailto:office.seidel@itz.kit.edu?subject=Workshop%20Autonomy%20%26%20Algorithms%20Teilnahme&body=Liebe%20Alina,%0D%0Aich%20w%C3%BCrde%20sehr%20gerne%20am%20Workshop%20Autonomy%20%26%20Algorithms%20teilnehmen.%0D%0AHerzliche%20Gr%C3%BC%C3%9Fe).
 {{% /callout %}}
 
 ### Themenbereiche (nicht abschließend)

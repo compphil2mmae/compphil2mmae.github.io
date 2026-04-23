@@ -4,11 +4,13 @@ subtitle: 'Exploring Autonomy in Algorithmic Environments'
 event: 'Workshop on Autonomy & Algorithms'
 event_url: 'https://philevents.org/event/show/143858'
 
-location: Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany
-# address:
-#   street: Douglasstraße 24
-#   city: Karlsruhe
-#   postcode: '76133'
+location: | 
+  Karlsruhe Institute of Technology (KIT), 
+  Build. 50.41, Room 145/146
+address:
+   street: Adenauerring 20
+   city: Karlsruhe
+   postcode: '76133'
 
 summary: 'This workshop examines the philosophical implications of algorithmic environments on autonomy, deliberation, and democratic processes.'
 
@@ -25,11 +27,11 @@ tags: [Workshops, Applied Ethics, Epistemology, Normative Ethics]
 # Is this a featured talk? (true/false)
 featured: true
 
-image:
-  filename: "logos/dfg/transparent.en.png"
-  alt: "Deutsche Forschungsgemeinschaft (German Research Foundation)"
-  caption: ''
-  focal_point: Right
+#image:
+#  filename: "logos/dfg/transparent.en.png"
+#  alt: "Deutsche Forschungsgemeinschaft (German Research Foundation)"
+#  caption: ''
+#  focal_point: Right
 
 links:
   - icon: 'philpapers'
@@ -61,7 +63,7 @@ As algorithms shape the choices we make, traditional assumptions about autonomy 
 This workshop aims to examine these issues within the frameworks of philosophy of autonomy, ethics of AI, social epistemology, and political philosophy. We welcome contributions that address conceptual foundations, engage in normative evaluation, analyze epistemic dynamics in algorithmic environments, and reflect on their institutional or societal implications.
 
 {{% callout note %}}
-Please register by **June 5th 2026** at [alina.jacobs@kit.edu](mailto:alina.jacobs@kit.edu).
+Please register by **June 5th 2026** at [office.seidel@itz.kit.edu](mailto:office.seidel@itz.kit.edu?subject=Workshop%20Autonomy%20%26%20Algorithms%20Teilnahme&body=Liebe%20Alina,%0D%0Aich%20w%C3%BCrde%20sehr%20gerne%20am%20Workshop%20Autonomy%20%26%20Algorithms%20teilnehmen.%0D%0AHerzliche%20Gr%C3%BC%C3%9Fe).
 {{% /callout %}}
 
 ### Topics of Interest (not exhaustive)
