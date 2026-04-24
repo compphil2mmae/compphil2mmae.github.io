@@ -1,5 +1,5 @@
 ---
-title: 'Alexandra Zienke (Frankfurt): "A Formal Model of Doxastic Suspension"'  # u.U. englische Übersetzung in Klammern
+title: 'Alexandra Zinke (Frankfurt): "A Formal Model of Doxastic Suspension"'  # u.U. englische Übersetzung in Klammern
 subtitle: CompPhil²MMAE Research Seminar
 event: CompPhil²MMAE Research Seminar
 event_url: 'https://ilias.studium.kit.edu/goto.php/crs/2905479'
@@ -50,7 +50,7 @@ The CompPhil²MMAE research seminar "Aktuelle Texte der Philosophie" is a centra
 
 In the research seminar, CompPhil³MMAE members and external speakers present their research work in philosophy and related disciplines (usually in a *pre-read* format) for discussion. 
 
-This weeks talk discusses the contribution on "A Formal Model of Doxastic Suspension" provided by Alexandra Zienke (Frankfurt).
+This weeks talk discusses the contribution on "A Formal Model of Doxastic Suspension" provided by Alexandra Zinke (Frankfurt).
 
 The CompPhil²MMAE research seminar is organised by {{% mention "christian.seidel" %}} and {{% mention "gregor.betz" %}}.
 
