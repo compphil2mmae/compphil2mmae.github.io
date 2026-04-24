@@ -1,5 +1,5 @@
 ---
-title: 'Tomi Francis (Freiburg/CH): "Topic TBA"'
+title: 'Tomi Francis (Freiburg/CH): "Transitivity and Open-Set-Dependent Betterness"'
 subtitle: CompPhil²MMAE Forschungsseminar
 event: CompPhil²MMAE Forschungsseminar
 event_url: 'https://ilias.studium.kit.edu/goto.php/crs/2905479'
@@ -50,7 +50,7 @@ Das CompPhil²MMAE-Forschungsseminar "Aktuelle Texte der Philosophie" ist zentra
 
 Im Forschungsseminar stellen CompPhil³MMAE-Mitglieder sowie auswärtige Referent*innen ihre Forschungsarbeiten aus der Philosophie sowie angrenzender Disziplinen (in der Regel in einem *Pre-Read*-Format) zur Diskussion. 
 
-Das Treffen dieser Woche diskutiert den Beitrag "Topic TBA" von Tomi Francis (Freiburg/CH).
+Das Treffen dieser Woche diskutiert den Beitrag "Transitivity and Open-Set-Dependent Betterness" von Tomi Francis (Freiburg/CH).
 
 Das CompPhil²MMAE-Forschungsseminar wird organisiert von {{% mention "christian.seidel" %}} und {{% mention "gregor.betz" %}}. 
 
