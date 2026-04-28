@@ -99,11 +99,11 @@ Please register by **June 5th 2026** at [office.seidel@itz.kit.edu](mailto:offic
   </div>
   <div>
     <strong>Alina Jacobs</strong><br>
-    Karsruhe Institute of Technology
+    Karlsruhe Institute of Technology
   </div>
   <div>
     <strong>Chritsian Seidel</strong><br>
-    Karsruhe Institute of Technology
+    Karlsruhe Institute of Technology
   </div>
   <div>
     <strong>Carina Prunkl</strong>

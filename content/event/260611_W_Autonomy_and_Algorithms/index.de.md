@@ -92,11 +92,11 @@ Anmeldung bitte bis zum **05. Juni 2026** unter [office.seidel@itz.kit.edu](mail
   </div>
   <div>
     <strong>Alina Jacobs</strong><br>
-    Karsruher Institut für Technologie
+    Karlsruher Institut für Technologie
   </div>
   <div>
     <strong>Chritsian Seidel</strong><br>
-    Karsruher Institut für Technologie
+    Karlsruher Institut für Technologie
   </div>
   <div>
     <strong>Carina Prunkl</strong>
