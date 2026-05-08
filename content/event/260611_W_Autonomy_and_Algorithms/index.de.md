@@ -95,7 +95,7 @@ Anmeldung bitte bis zum **05. Juni 2026** unter [office.seidel@itz.kit.edu](mail
     Karlsruher Institut für Technologie
   </div>
   <div>
-    <strong>Chritsian Seidel</strong><br>
+    <strong>Christian Seidel</strong><br>
     Karlsruher Institut für Technologie
   </div>
   <div>

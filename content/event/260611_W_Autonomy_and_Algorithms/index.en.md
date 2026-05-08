@@ -102,7 +102,7 @@ Please register by **June 5th 2026** at [office.seidel@itz.kit.edu](mailto:offic
     Karlsruhe Institute of Technology
   </div>
   <div>
-    <strong>Chritsian Seidel</strong><br>
+    <strong>Christian Seidel</strong><br>
     Karlsruhe Institute of Technology
   </div>
   <div>
