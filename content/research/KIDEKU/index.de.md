@@ -47,6 +47,9 @@ links:
 slides: ""
 ---
 
+*Projektlaufzeit:* 01.06.2024--31.12.2025 (abgeschlossenes Projekt)
+
+
 Im Projekt **_KIdeKu_** gingen wir der Frage nach, wie Large Language Models (LLMs) wie bspw. ChatGPT benutzt werden können, um unsere deliberative Kultur zu stärken. Welche Chancen bieten diese Technologien zur Verbesserung unserer demokratischen Praxis? Konkreter:
 
 + Wie können LLMs benutzt werden, um die Qualität des öffentlichen Diskurses zu verbessern? 
@@ -76,6 +79,10 @@ Insgesamt erarbeiteten wir in **_KIdeKu_** damit Konzepte und Studien zur Schaff
 
 ## Projektergebnisse
 
+### 📋 Abschlussbericht
+
+In unserem [Abschlussbericht](https://debatelab.github.io/kideku-report/) systematisieren wir Einsatzszenarien, stellen die entwickelten Open-Source-Prototypen vor und formulieren Empfehlungen für den verantwortungsvollen KI-Einsatz in deliberativen Kontexten.
+
 ### 🕵️‍♀️ EvidenceSeeker Boilerplate
 
 Ein Code Template für eine RAG/LLM-basierte Fact-Checking-App relativ zu einer gegebenen Datenbasis. 
@@ -100,14 +107,10 @@ Synthetische Argumentkartendatensätze
 
 🧩 Code: <https://github.com/debatelab/syncIALO>
 
-<!--
-### 📋 Abschlussbericht
 
--->
 
 
 ---
-*Projektlaufzeit:* 01.06.2024--31.12.2025
 
 {{< figure src="/logos/bmbfsfj/BMBFSFJ_de_v1_farbig.png" 
     alt="Bundesministerium für Familie, Senioren, Frauen und Jugend" 

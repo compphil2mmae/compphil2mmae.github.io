@@ -47,6 +47,9 @@ links:
 slides: ""
 ---
 
+*Project duration:* 01.06.2024--31.12.2025 (completed project)
+
+
 In the **_KIdeKu_** project, we explored the question of how Large Language Models (LLMs) such as ChatGPT can be used to strengthen our deliberative culture. What opportunities do these technologies offer to improve our democratic practice? More specifically:
 
 + How can LLMs be used to improve the quality of public discourse? 
@@ -74,6 +77,10 @@ Overall, in **_KIdeKu_** we developed concepts and studies to create a suitable 
 
 ## Outcomes
 
+### 📋 Report
+
+Our [report](https://debatelab.github.io/kideku-report/) describes different use cases for deliberative AI, presents our open-source prototypes, and formulates recommendations for the responsible use of AI in deliberative contexts.
+
 ### 🕵️‍♀️ EvidenceSeeker Boilerplate
 
 A code template for building AI-based apps that fact-check statements against a given knowledge base.
@@ -98,12 +105,8 @@ An LLM-based pipeline to detect toxic speech.
 
 🧩 Code: <https://github.com/debatelab/syncIALO>
 
-<!--
-### 📋 Report
 
--->
 ---
-*Project duration:* 01.06.2024--31.12.2025
 
 {{< figure src="/logos/bmbfsfj/BMBFSFJ_en_v1_farbig.png" 
     alt="Federal Ministry of Education, Family Affairs, Senior Citizens, Women and Youth" 
