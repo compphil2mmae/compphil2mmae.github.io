@@ -80,7 +80,7 @@ Anmeldung bitte bis zum **05. Juni 2026** unter [office.seidel@itz.kit.edu](mail
   </div>
   <div>
     <strong>Nicola Mößner</strong><br>
-    RWTH Aachen
+    Leibnitz Universität Hannover
   </div>
   <div>
     <strong>Joshua Habgood-Coote</strong><br>

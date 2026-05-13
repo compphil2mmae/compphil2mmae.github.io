@@ -87,7 +87,7 @@ Please register by **June 5th 2026** at [office.seidel@itz.kit.edu](mailto:offic
   </div>
   <div>
     <strong>Nicola Mößner</strong><br>
-    Aachen University of Technology
+    Leibnitz University Hannover
   </div>
   <div>
     <strong>Joshua Habgood-Coote</strong><br>
