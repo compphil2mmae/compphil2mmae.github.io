@@ -26,18 +26,23 @@ organizations:
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-   - Normative Ethik
-   - Angewandte Ethik
-   - (Soziale) Erkenntnistheorie
+  - Moraltheorie
+  - Axiologie
+  - Bevölkerungsethik
+  - Soziale Erkenntnistheorie
+  - Forschung zu globalen Prioritäten
 
-#education:
-#  courses:
-#    - course: M.Ed. Deutsch, Philosophie
-#      institution: Karlsruher Institut für Technologie (KIT)
-#      year: 2025
-#    - course: M.Ed. Mathematik
-#      institution: Karlsruher Institut für Technologie (KIT)
-#      year: 2023
+education:
+  courses:
+    - course: PhD Kandidat in Philosophie
+      institution: Oxford Universität, St Anne’s College
+      year: seit 2021
+    - course: M.A. Philosophie
+      institution: Universität Bonn
+      year: 2020
+    - course: B.A. Philosophie und Wirtschaft
+      institution: Universität Münster
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -46,16 +51,19 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jakob.lohmar@st-annes.ox.ac.uk'
+    link: 'mailto:jakob.lohmar@kit.edu'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
-  # - icon: orcid
-  #   icon_pack: ai
-  #   link: https://orcid.org/0000-0001-5802-5030
+  - icon: philpapers
+    icon_pack: ai
+    link: https://philpeople.org/profiles/jakob-lohmar
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-1182-5780
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/in/gregor-betz/
@@ -88,6 +96,6 @@ user_groups:
   # - Alumni
 ---
 
-Jakob Lohmar ist seit 1. April 2026 als Postdoktorand Teil unseres Teams.
+Jakob Lohmar ist seit April 2026 Postdoktorand unserer Gruppe. Seine aktuelle Arbeit konzentriert sich auf Moraltheorie, Axiologie, Populationsethik und zwischenmenschliche Aggregation. Darüber hinaus interessiert er sich für soziale Erkenntnistheorie, moralische Unsicherheit und verschiedene Themen, die für die Forschung zu globalen Prioritäten relevant sind, wie beispielsweise Risiken durch künstliche Intelligenz und die Bedeutung der langfristigen Zukunft der Menschheit.
 
-Seine Arbeit konzentriert sich bislang vor allem auf normative Ethik, angewandte Ethik und (soziale) Epistemologie. Derzeit ist er unter Hilary Greaves an der Universität Oxford um an seiner Doktorarbeit mit dem Titel '*Longtermism about the Moral Goodness of Acts*' zu arbeiten.
+Jakob hat kürzlich seine DPhil-Dissertation „On the Value of Happy People and the Moral Importance of Low-Welfare Species“ an der Universität Oxford eingereicht. Zuvor absolvierte er einen Master in Philosophie an der Universität Bonn und einen Bachelor in Wirtschaftswissenschaften und Philosophie an der Universität Münster. Er war außerdem als wissenschaftlicher Mitarbeiter am Global Priorities Institute in Oxford sowie als wissenschaftlicher Mitarbeiter an der Universität zu Köln und an der Universität Mainz tätig.

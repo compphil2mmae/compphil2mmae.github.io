@@ -26,18 +26,23 @@ organizations:
 bio: '' #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-   - Normative Ethics
-   - Applied Ethics
-   - (Social) Epistemology
+  - Moral Theory
+  - Axiology
+  - Population Ethics
+  - Social Epistemology
+  - Global Priorities Research
 
-#education:
-#  courses:
-#    - course: M.Ed. German Language, Philosophy
-#      institution: Karlsruhe Institute of Technology (KIT)
-#      year: 2025
-#    - course: M.Ed. Mathematics
-#      institution: Karlsruhe Institute of Technology (KIT)
-#      year: 2023
+education:
+  courses:
+    - course: PhD candidate in Philosophy
+      institution: University of Oxford, St Anne’s College
+      year: since 2021
+    - course: M.A. Philosophy
+      institution: University of Bonn
+      year: 2020
+    - course: B.A. in Philosophy and Economics
+      institution: University of Münster
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -46,16 +51,19 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jakob.lohmar@st-annes.ox.ac.uk'
+    link: 'mailto:jakob.lohmar@kit.edu'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
-  # - icon: orcid
-  #   icon_pack: ai
-  #   link: https://orcid.org/0000-0001-5802-5030
+  - icon: philpapers
+    icon_pack: ai
+    link: https://philpeople.org/profiles/jakob-lohmar
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-1182-5780
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/in/gregor-betz/
@@ -88,7 +96,6 @@ user_groups:
   # - Alumni
 ---
 
-Jakob Lohmar joined our group as a postdoc on 1st April 2026.
+Jakob Lohmar joined our group as a postdoc in April 2026. His current work focuses on moral theory, axiology, population ethics and interpersonal aggregation. He is also interested in social epistemology, moral uncertainty, and various topics relevant to global priorities research, such as risks from artificial intelligence and the importance of humanity’s long-term future.
 
-His work has focused primarily on normative ethics, applied ethics, and (social) epistemology. Currently he is completing
-his doctorate at the University of Oxford under Hilary Greaves, with a thesis entitled '*Longtermism about the Moral Goodness of Acts*'.
+Jakob recently submitted his DPhil thesis “On the Value of Happy People and the Moral Importance of Low-Welfare Species” at the University of Oxford. Before that, he did a Master in philosophy at the University of Bonn and a Bachelor in economics and philosophy at the University of Münster. He has also worked as a Research Assistant at the Global Priorities Institute in Oxford, and as a Research Associate at the University of Cologne and at the University of Mainz.
