@@ -28,9 +28,9 @@ bio: '' #My research interests include distributed robotics, mobile computing an
 interests:
   - Moraltheorie
   - Axiologie
-  - Bevölkerungsethik
+  - Populationsethik
   - Soziale Erkenntnistheorie
-  - Forschung zu globalen Prioritäten
+  - Angewandte Ethik
 
 education:
   courses:
@@ -40,7 +40,7 @@ education:
     - course: M.A. Philosophie
       institution: Universität Bonn
       year: 2020
-    - course: B.A. Philosophie und Wirtschaft
+    - course: B.A. Philosophie und Ökonomik
       institution: Universität Münster
       year: 2017
 
@@ -88,7 +88,7 @@ highlight_name: false
 user_groups:
   - Team
   # - Leitung # Chair | Principal Investigators
-  # - Akademische Mitarbeiter:innen # Researchers
+  - Akademische Mitarbeiter:innen # Researchers
   # - Assistenz in Forschung, Lehre & Verwaltung # Administration
   - Doktorand:innen # Grad Students
   # - Assoziierte 
@@ -96,6 +96,6 @@ user_groups:
   # - Alumni
 ---
 
-Jakob Lohmar ist seit April 2026 Postdoktorand unserer Gruppe. Seine aktuelle Arbeit konzentriert sich auf Moraltheorie, Axiologie, Populationsethik und zwischenmenschliche Aggregation. Darüber hinaus interessiert er sich für soziale Erkenntnistheorie, moralische Unsicherheit und verschiedene Themen, die für die Forschung zu globalen Prioritäten relevant sind, wie beispielsweise Risiken durch künstliche Intelligenz und die Bedeutung der langfristigen Zukunft der Menschheit.
+Jakob Lohmar ist seit April 2026 Postdoktorand unserer Gruppe. Seine aktuelle Arbeit konzentriert sich auf Moraltheorie, Axiologie, Populationsethik und interpersonelle Aggregation. Darüber hinaus interessiert er sich für soziale Erkenntnistheorie, moralische Ungewissheit und verschiedene Themen der angewandten Ethik, wie beispielsweise Risiken durch künstliche Intelligenz und die Bedeutung der langfristigen Zukunft der Menschheit.
 
-Jakob hat kürzlich seine DPhil-Dissertation „On the Value of Happy People and the Moral Importance of Low-Welfare Species“ an der Universität Oxford eingereicht. Zuvor absolvierte er einen Master in Philosophie an der Universität Bonn und einen Bachelor in Wirtschaftswissenschaften und Philosophie an der Universität Münster. Er war außerdem als wissenschaftlicher Mitarbeiter am Global Priorities Institute in Oxford sowie als wissenschaftlicher Mitarbeiter an der Universität zu Köln und an der Universität Mainz tätig.
+Jakob hat kürzlich seine DPhil-Dissertation „On the Value of Happy People and the Moral Importance of Low-Welfare Species“ an der Universität Oxford eingereicht. Zuvor absolvierte er einen Master in Philosophie an der Universität Bonn und einen Bachelor in Wirtschaftswissenschaften und Philosophie an der Universität Münster. Er war außerdem als wissenschaftlicher Assistent am Global Priorities Institute in Oxford sowie als wissenschaftlicher Mitarbeiter an der Universität zu Köln und an der Universität Mainz tätig.

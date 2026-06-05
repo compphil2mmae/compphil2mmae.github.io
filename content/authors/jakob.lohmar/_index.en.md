@@ -88,7 +88,7 @@ highlight_name: false
 user_groups:
   - Team
   # - Leitung # Chair | Principal Investigators
-  # - Akademische Mitarbeiter:innen # Researchers
+  - Akademische Mitarbeiter:innen # Researchers
   # - Assistance in research, teaching & administration # Administration
   - Doktorand:innen # Grad Students
   # - Associates 
