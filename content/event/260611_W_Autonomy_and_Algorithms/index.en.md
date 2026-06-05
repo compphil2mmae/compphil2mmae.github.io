@@ -37,6 +37,9 @@ links:
   - icon: 'philpapers'
     icon_pack: ai
     url: 'https://philevents.org/event/show/143858'
+  - icon: 'file-alt'
+    name: 'Abstracts'
+    url: 'Abstracts.pdf'
     
 url_code: ''
 url_pdf: ''
@@ -74,49 +77,40 @@ Please register by **June 5th 2026** at [office.seidel@itz.kit.edu](mailto:offic
 - Autonomy in surveillance and data-intensive environments
 - ...
 
-### Participating Speakers
+<br>  
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div>
-    <strong>Simona Chiodo</strong><br>
-    Politecnico di Milano
-  </div>
-  <div>
-    <strong>Keith Harris</strong><br>
-    University of Vienna
-  </div>
-  <div>
-    <strong>Nicola Mößner</strong><br>
-    Leibnitz University Hannover
-  </div>
-  <div>
-    <strong>Joshua Habgood-Coote</strong><br>
-    Universität of Leeds
-  </div>
-  <div>
-    <strong>Leonie Buschoff</strong><br>
-    TU Dortmund
-  </div>
-  <div>
-    <strong>Alina Jacobs</strong><br>
-    Karlsruhe Institute of Technology
-  </div>
-  <div>
-    <strong>Christian Seidel</strong><br>
-    Karlsruhe Institute of Technology
-  </div>
-  <div>
-    <strong>Carina Prunkl</strong>
-  </div>
-  <div>
-    <strong>Otto Sahlgren</strong>
-  </div>
-  <div>
-    <strong>Margherita Mattioni</strong>
-  </div>
-</div>
+## Programm
+All abstracts are found [here](/event/260611_w_autonomy_and_algorithms/Abstracts.pdf).
 
-<br>
+### Thursday, 11 June 2026
+KIT, Building 50.41, Room 145/146
+
+| Time  | Talk                                                                                                                                         |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| 10:00 | Welcome & Intro                                                                                                                              |
+| 10:10 | **Carina Prunkl**<br>When does reliance on AI become a threat to autonomy?                                                                   |
+| 11:20 | Coffee Break                                                                                                                                 |
+| 11:40 | **Keith Harris**<br>Can epistemic Autonomy survive AI?                                                                                       |
+| 13:00 | Lunch @ Mensa am Adenauerring, Adenauerring 7                                                                                                |
+| 14:10 | **Simona Chiodo**<br>From the right to health to the duty to health? Emerging technologies, self-surveillance and the fate of human autonomy |
+| 15:20 | Coffee Break                                                                                                                                 |
+| 15:40 | **Alina Jacobs**<br>Epistemic autonomy and the Electronic Patient Record (ePA)                                                               |
+| 16:50 | **Margherita Mattioni**<br>Epistemic Autonomy under Algorithmic Mediation in Social Media Platforms                                          |
+| 19:00 | Conference Dinner @ My Heart Beats Vegan, Kriegsstraße 94                                                                                    |
+
+### Friday, 12 June 2026
+KIT, Building 50.41, Room 145/146
+
+| Time  | Talk                                                                                                                                           |
+|-------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11:10 | Coffee Break                                                                                                                                   |
+| 11:30 | **Nicola Mößner**<br>Science Tracking: Scientific Autonomy at Risk                                                                             |
+| 13:00 | Lunch @ Kulturküche, Kaiserstraße 47                                                                                                           |
+| 14:10 | **Leonie Buschhoff**<br>Surveillance and Democracy: A Double-Edged Relationship in the Age of Algorithms                                       |
+| 15:10 | Coffee Break                                                                                                                                   |
+| 15:40 | **Otto Sahlgren**<br>On the Ethics of Memorization in Machine Learning Models                                                                  |
+| 16:50 | **Christian Seidel**<br>Newspeak, Doublethink and Beliefs of One's Own: Reconsidering (Epistemic) Autonomy in Times of Artificial Deliberation |
+| 18:00 | Wrap-Up                                                                                                                                        |
 
 This event is part of the DFG project "[The Ethics of State Mass Surveillance]({{% relref "/research/esms/" %}})".
 
