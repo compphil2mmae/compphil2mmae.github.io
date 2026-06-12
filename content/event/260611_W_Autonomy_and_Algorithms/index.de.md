@@ -94,16 +94,17 @@ KIT, Gebäude 50.41, Raum 145/146
 ### Freitag, 12. Juni 2026
 KIT, Gebäude 50.41, Raum 145/146
 
-| Zeit | Veranstaltung |
-|------|---------------|
-| 11:10 | Coffee Break |
-| 11:30 | **Nicola Mößner**<br>Science Tracking: Scientific Autonomy at Risk |
-| 13:00 | Lunch @ Kulturküche, Kaiserstraße 47 |
-| 14:10 | **Leonie Buschhoff**<br>Surveillance and Democracy: A Double-Edged Relationship in the Age of Algorithms |
-| 15:10 | Coffee Break |
-| 15:40 | **Otto Sahlgren**<br>On the Ethics of Memorization in Machine Learning Models |
-| 16:50 | **Christian Seidel**<br>Newspeak, Doublethink and Beliefs of One's Own: Reconsidering (Epistemic) Autonomy in Times of Artificial Deliberation |
-| 18:00 | Wrap-Up |
+| Zeit      | Veranstaltung                                                                                                                                      |
+|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 10:00     | **Joshua Habgood-Coote**<br>A Planning Theory of Deskilling                                                                                        |
+| 11:10     | Coffee Break                                                                                                                                       |
+| 11:30     | **Nicola Mößner**<br>Science Tracking: Scientific Autonomy at Risk                                                                                 |
+| 13:00     | Lunch @ Kulturküche, Kaiserstraße 47                                                                                                               |
+| 14:10     | **Leonie Buschhoff**<br>Surveillance and Democracy: A Double-Edged Relationship in the Age of Algorithms                                           |
+| 15:10     | Coffee Break                                                                                                                                       |
+| 15:40     | **Otto Sahlgren**<br>On the Ethics of Memorization in Machine Learning Models                                                                      |
+| ~~16:50~~ | ~~**Christian Seidel**<br>Newspeak, Doublethink and Beliefs of One's Own: Reconsidering (Epistemic) Autonomy in Times of Artificial Deliberation~~ |
+| ~~18:00~~<br>16:50   | Wrap-Up                                                                                                                                            |
 
 Diese Veranstaltung ist Teil des DFG-Projekts "[Die Ethik der staatlichen Massenüberwachung]({{% relref "/research/esms/" %}})."
 
