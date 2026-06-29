@@ -27,12 +27,11 @@ publication_types:
 
 publisher: Karlsruhe Institute of Technology
 publisher_short: KIT
-school: Karlsruhe Institute of Technology (KIT)
-address: Karlsruhe
-database: OpenAlex
-type: 'Doctoral Dissertation'
+school: Karlsruhe Institute of Technology
 location: Karlsruhe
 database: 'OpenAlex'
+sub_type: 'Doctoral Dissertation'
+
 defenseDate: '2025-06-24'
 language: english
 pagetotal: 295

@@ -30,7 +30,8 @@ publisher_short: KIT
 school: Karlsruher Institut für Technologie
 location: Karlsruhe
 database: 'OpenAlex'
-type: 'Doktorarbeit'
+sub_type: 'Doktorarbeit'
+
 defenseDate: '2025-06-24'
 language: english
 pagetotal: 295

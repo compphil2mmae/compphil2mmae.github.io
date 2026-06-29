@@ -30,6 +30,7 @@ pages: '221--226'
 
 publisher: 'Mentis'
 location: 'Münster'
+sub_type: 'chapter'
 
 language: 'german'
 

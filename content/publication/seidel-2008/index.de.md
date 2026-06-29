@@ -29,6 +29,8 @@ volume: '62'
 number: '4'
 pages: '609--614'
 
+sub_type: 'article-journal'
+
 language: german
 
 doi: ''

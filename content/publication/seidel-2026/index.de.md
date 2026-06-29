@@ -37,14 +37,7 @@ journal_short: ''
 series: ''
 volume: '5'
 number: '42'
-pages: ''
-
-# Book or chapter
-booktitle: ''  # for chapter, 
-chapter: ''
-edition: ''
-editors: []
-translators: []
+#pages: ''
 
 publisher: 'Springer Nature'
 publisher_short: 'Springer'

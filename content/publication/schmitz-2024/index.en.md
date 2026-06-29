@@ -25,8 +25,8 @@ publication_types:
 
 publisher: 'Karlsruhe Institute of Technology'
 publisher_short: 'KIT'
-school: 'Karlsruher Institut für Technologie (KIT)'
-type: 'PhD thesis'
+school: 'Karlsruhe Institute of Technology'
+sub_type: 'Doctoral Dissertation'
 location: 'Karlsruhe'
 
 defenseDate: 2024-01-25

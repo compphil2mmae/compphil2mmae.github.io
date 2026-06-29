@@ -132,7 +132,10 @@ To help import (multiple) new publications, the [academic tool](https://github.c
    - edit the sites content (e.g. add abstract, keypoints/insights, outcomes)
 6. duplicate `index.md` file and adjust to german/english version so you get `index.en.md` and `index.de.md`, don't forget to translate or set translation into brackets.
 
-
+#### AI instructions
+- name the pdf (only if available) with "title-of-the-publication_author_year.pdf" (This way the displayed link is not auto generated and can be assigned with an icon)
+- unnecessary/not fitting yaml attributes can be removed
+- translate titles only from german to english and only additionally in brackets
 ### Shortcodes
 Sind kleine html snippets die zur Wiederverwendung unter `/layouts/shortcodes/` definiert werden und einfach mit `{{< shortcode-id >}}` und ggf. parametern in den Markdown-Texten aufgerufen werden können.
 Einige hilfreiche vordefinierte utilities sind in den [Hugo Docs](https://gohugo.io/content-management/shortcodes/) ausführlich beschrieben.  

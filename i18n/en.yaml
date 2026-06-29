@@ -214,22 +214,22 @@
   translation: Review (or similar)
 
 - id: inpreparation
-  translation: In preparation.
+  translation: In preparation
 
 - id: submitted
-  translation: In review.
+  translation: In review
 
 - id: forthcoming
-  translation: Reviewed & accepted.
+  translation: Reviewed & accepted
 
 - id: inpress
-  translation: In publication.
+  translation: In publication
 
 - id: prepublished
   translation: Online‑First
 
 - id: published
-  translation: Published.
+  translation: Published
 
 - id: conference_presentation
   translation: Conference presentation

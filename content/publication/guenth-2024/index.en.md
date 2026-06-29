@@ -26,7 +26,7 @@ publisher: 'Karlsruhe Institute of Technology'
 publisher_short: 'KIT'
 school: 'Karlsruhe Institute of Technology'
 location: 'Karlsruhe'
-type: 'PhD thesis'
+sub_type: 'Doctoral Dissertation'
 
 defenseDate: '2023-03-08'
 language: 'english'

@@ -26,9 +26,10 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publisher: 'Karlsruhe Institute of Technology'
 publisher_short: 'KIT'
-school: 'Karlsruhe Institute of Technology (KIT)'
-type: 'Doctoral Dissertation'
+school: 'Karlsruhe Institute of Technology'
 location: Karlsruhe
+sub_type: 'Doctoral Dissertation'
+
 defenseDate: '2024-11-27'
 language: english
 pagetotal: 228

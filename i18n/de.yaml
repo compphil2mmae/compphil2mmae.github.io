@@ -220,22 +220,22 @@
   translation: Rezension (o.Ä.)
 
 - id: inpreparation
-  translation: In Vorbereitung.
+  translation: In Vorbereitung
 
 - id: submitted
-  translation: In Review.
+  translation: In Review
 
 - id: forthcoming
-  translation: Reviewed & angenommen.
+  translation: Reviewed & angenommen
 
 - id: inpress
-  translation: Im Erscheinen.
+  translation: Im Erscheinen
 
 - id: prepublished
-  translation: Vorab veröffentlicht.
+  translation: Vorab veröffentlicht
 
 - id: published
-  translation: Veröffentlicht.
+  translation: Veröffentlicht
 
 - id: conference_presentation
   translation: Konferenz Einreichung

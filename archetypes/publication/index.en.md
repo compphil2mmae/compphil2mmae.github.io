@@ -55,7 +55,7 @@ address: ''
 location: 'Karlsruhe'
 database: ''  # for thesis apa citation
 eventtitle: ''  # for conference paper
-type: ''  # descriptive subtype (e.g. "PhD thesis", "Technical Report") or actual publication type for reviews
+sub_type: ''  # descriptive subtype (e.g. "PhD thesis", "Technical Report") or actual publication type for reviews
 pubstate: ''  # publication state, 'inpreparation', 'submitted', 'forthcoming', 'inpress', 'prepublished', 'published' are translated (used by biblatex https://latex.org.uk/info/translations/biblatex/de/biblatex-de-Benutzerhandbuch.pdf)
 
 defenseDate: ''  # for thesis
@@ -77,7 +77,7 @@ tags: []  # existing tags can be found at /public/tag/...
 featured: false  # to feature this on the landingpage, add the tag 'highlight'
 
 # Custom links (optional). Cite & DOI Links are auto generated if specified
--links:
+links:
 #- name: Report  # required for publication_type: report
 #  icon: file-lines
 #  url: https://re-models.github.io/re-technical-report/  # Link to (a web view of) the paper
