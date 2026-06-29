@@ -52,7 +52,7 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: []
 ---
 
 The KIT Philosophy Colloquium was organised in the winter semester of 2025/2026 by {{% mention "inga.bones" %}} in consultation with the [Fachschaft](https://geistsoz.de/) and the academic staff of the [Department of Philosophy](https://www.philosophie.kit.edu). 

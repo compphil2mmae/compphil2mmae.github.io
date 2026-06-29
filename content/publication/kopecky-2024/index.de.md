@@ -24,14 +24,14 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 journal: '*Philosophical Studies*'
-publication_short: ''
+journal_short: ''
 volume: 181
 number: 1
 pages: 83--107
 
-doi: 10.1007/s11098-023-02059-6
-
 language: english
+
+doi: 10.1007/s11098-023-02059-6
 
 abstract: 'Computermodelle haben gezeigt, wie es unter deliberierenden Akteuren zu einer Polarisierung kommen kann, wenn sie sich der epistemischen Rationalität annähern. Dieser Artikel liefert weitere Belege für die These, dass es unter Bedingungen epistemischer Rationalität zu einer Polarisierung kommen kann, die jedoch nicht von den Einschränkungen abhängt, auf denen bestehende Modelle beruhen, wie beispielsweise Gedächtnisbeschränkungen oder voreingenommene Bewertungen der Aussagen anderer Akteure. Stattdessen wird die Deliberation durch die gezielte Einbringung von Argumenten durch die Akteure und ihre rationalen Reaktionen auf die Einbringung anderer modelliert. Dieser Prozess induziert von sich aus eine Polarisierungsdynamik. Ein zweites Ergebnis ist, dass die Effektstärke der Polarisierungsdynamik mit bestimmten Arten von Argumentationsverhalten korreliert. Polarisierungseffekte können gemildert werden, wenn Akteure die Meinungen anderer als Prämissen berücksichtigen, und sie werden verstärkt, wenn Akteure ihre eigenen Überzeugungen festigen. Diese Ergebnisse untermauern die Relevanz der Argumentation als Faktor in sozial-epistemischen Prozessen und deuten darauf hin, dass eine zunehmende Polarisierung von Themen kein verlässlicher Indikator für epistemische Mängel ist.
 

@@ -49,7 +49,7 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: []
 ---
 Arguments play a central role in philosophy, other sciences, political discourse, and everyday situations. However, they are often not easy to analyze, partly because they first need to be extracted from texts, because in almost all arguments justifications or conclusions are not explicitly stated, and because philosophers typically don't deal with individual arguments but develop complex argumentations and confront arguments with counter-arguments in debates.  
 <br>

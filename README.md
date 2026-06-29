@@ -38,7 +38,7 @@ Ist das definieren vom Aufbau der Seite in Yaml parametern. Wichtigste Optionen 
      - > aus irgendeinem Grund kann es zu Fehlern führen, wenn die Ordnerstruktur nicht lower-case a-z (ohne Sonderzeichen) ist! Datei selber kann anders benannt werden.
 - `.pdf` Objekte können entweder:
   - universalsprachig im selben Ordner als `<ordnername>.pdf` abgelegt werden (priorisiert, wenn nur für einzelne Seite relevant)
-  - im static bereich abgelegt werden und mit `url_pdf: <pdfpfad>.pdf` referenziert werden (e.g. `url_pdf: /uploads/hinweise-essays.pdf`)
+  - im static bereich abgelegt werden und mit `url_pdf: <pdfpfad>.pdf` referenziert werden (relativ zum static folder, e.g. `url_pdf: /uploads/hinweise-essays.pdf`)
 - `Text/String`
   - Multiline:
     - um in YAML Parametern (nicht im plain MD) multiline Text zu verwenden bzw einfach zu formatieren sollte der String Parameter mit `|` starten und der Inhalt in den folgenden Zeilen mit (zwei) Leerzeichen eingerückt werden.
@@ -93,31 +93,34 @@ To help import (multiple) new publications, the [academic tool](https://github.c
         - `subtitle` is the subtitle of the publication
         - `year` is the year of publication
         - `journal`/`booktitle` is the name of the journal or book
-        - `editor` is a list of editors
+        - `editor` list of editors
         - `translator` list of translators if applicable
      2. Publication Details
         - `series` is the series of the publication
         - `volume` is the volume number
         - `number` is the issue number
-        - `pages` is the page range
+        - `pages` is the page list or range, if part of sth.
         - `chapter` is the chapter number
-        - `edition` is the edition of the publication
-        - `month`/`date` is the month/date (yyyy-mm-dd) of publication
+        - `edition` is the edition (number) of the publication
+        - `eventtitle` for conference papers
+        - `date` is the date (yyyy-mm-dd) of publication
+        - `type` specifies the type of the publication more detailed/descriptive that the BibTeX entry type
+        - `pubstate` is the publication state (e.g., 'In press', 'Forthcoming', 'Submitted')
      3. Publisher Information
         - `publisher` is the publisher of the publication
-        - `address`/`location` is the address of the publisher
-        - `institution`/ `organization`/ `school` to store the institution of the publication
+        - `address`/`location` is the (full) address/location (if only city/place) of the publisher
+        - `institution`/ `organization`/ `school` to store the institution of the publication/thesis
         - `howpublished` to store a notice for unusual publications
      4. Identifiers & Links
-        - `doi` is the DOI of the publication
+        - `doi` is the DOI of the publication, without https://doi.org/ (also in `cite.bib`)
         - `isbn` is the ISBN of the publication
         - `issn` is the ISSN of the publication
         - `url` is the URL of the publication
      5. Metadata
-        - `abstract` of available
-        - `keywords` is a list of keywords for the publication
-        - `language` the language of the publication
-        - `type` specifies the type of the publication more detailed/descriptive that the BibTeX entry type
+        - `abstract` if available
+        - `keywords` is a list of keywords for the publication, represented as tags in MD files
+        - `pagetotal` the number of pages the publication consists of (if standalone)
+        - `language` the language of the publication (`german` or `english`)
      6. Miscellaneous
         - `note`(/`annote`) is a note/annotation for the publication
 
@@ -130,20 +133,26 @@ To help import (multiple) new publications, the [academic tool](https://github.c
    `title`, `authors`, `author_notes`, `date`, `publishDate`, `publication_types`, `publication`, `publication_short`, `doi`, `abstract`, `summary`, `tags`, `featured`, `url_pdf	url_code`, `url_dataset`, `url_poster`, `url_project`, `url_slides`, `url_source`, `url_video`, `image`, `projects`
    </details>
    
-   **author needs to be corrected if has an own page** (from Prename Name --> prename.name)
+   **author needs to be corrected if has an own page** (from Prename Name --> prename.name)  
+   publication needs to be shifted to journal, booktitle or publisher according to publication type. (and corresponding short form)
    
    optional additional parameters (need for manual transfer):
-     - volume, number, pages (for articles)
-     - publisher, if different than 'publication'
-     - address
-     - series
-     - editor
-     - note
+     - `publisher` (for book), `booktitle` (for chapter), `journal` (for article & review), if different from 'publication'
+     - `school`/`institution` (for thesis/review)
+     - `series`
+     - `editor`
+     - `pubstate`, if yet unpublished
+     - `volume`, `number`, `pages` (for articles)
+     - `address`/`location`
+     - `isbn`, `issn` & `url`
+     - `pagetotal`
+     - `language`
+     - `note`
 5. *Optionally:*
    - add project affiliation
    - add content tag/kewords (also to `cite.bib`)
-   - add abstract (also in `cite.bib`)
-   - add PDF (add to publication sites folder, rename pdf to folder name or reference pdf with links, like in [front matter](#front-matter))
+   - add abstract (also in `cite.bib`) - to get a new paragraph in rendered html two blank lines are needed, for just a linebreak <br> can be used
+   - add PDF (add to publication sites folder, rename pdf to folder name or reference pdf with links, like described in [front matter](#front-matter))
    - add other links
      - DOI link is auto generated if correctly specified in original `cite.bib` or set as parameter `doi` in `index.md`
      - PDF & Cite links are auto generated if files correctly placed and named in publication sites folder (`<foldername>.pdf` and `cite.bib` - latter is he case when imported)
@@ -156,12 +165,15 @@ To help import (multiple) new publications, the [academic tool](https://github.c
        icon_pack: ai
        url: https://link.springer.com/article/10.1007/s11229-023-04415-9
      ```
-   - add image/thumbnail (see [front matter](#front-matter) `image`)
+   - add image/thumbnail (see [front matter](#front-matter) `image`), use /assets/media/covers to store covers
    - add summary (preview in list views and links)
    - edit the sites content (e.g. add abstract, keypoints/insights, outcomes)
-6. duplicate `index.md` file and adjust to german/english version so you get `index.en.md` and `index.de.md`
+6. duplicate `index.md` file and adjust to german/english version so you get `index.en.md` and `index.de.md`, don't forget to translate or set translation into brackets.
 
-
+#### AI instructions
+- name the pdf (only if available) with "title-of-the-publication_author_year.pdf" (This way the displayed link is not auto generated and can be assigned with an icon)
+- unnecessary/not fitting yaml attributes can be removed
+- translate titles only from german to english and only additionally in brackets
 ### Shortcodes
 Sind kleine html snippets die zur Wiederverwendung unter `/layouts/shortcodes/` definiert werden und einfach mit `{{< shortcode-id >}}` und ggf. parametern in den Markdown-Texten aufgerufen werden können.
 Einige hilfreiche vordefinierte utilities sind in den [Hugo Docs](https://gohugo.io/content-management/shortcodes/) ausführlich beschrieben.  

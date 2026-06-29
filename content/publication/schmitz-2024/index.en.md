@@ -21,17 +21,16 @@ publishDate: '2024-04-10T15:00:16.558926Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- book
+- thesis
 
-# Publication name and optional abbreviated publication name.
-publication: 'Karlsruhe Institute of Technology (KIT)'
-publication_short: 'KIT'
+publisher: 'Karlsruhe Institute of Technology'
+publisher_short: 'KIT'
+school: 'Karlsruhe Institute of Technology'
+sub_type: 'Doctoral Dissertation'
+location: 'Karlsruhe'
 
-publisher: 'Karlsruhe Institute of Technology (KIT)'
-school: 'Karlsruhe Institute of Technology (KIT)'
-address: Karlsruhe
-
-language: deutsch
+defenseDate: 2024-01-25
+language: german
 pagetotal: 212
 
 doi: 10.5445/IR/1000169559

@@ -23,8 +23,8 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Synthese*'
-publication_short: ''
+journal: 'Synthese'
+journal_short: ''
 volume: 203
 number: 1
 pages: 11

@@ -25,10 +25,12 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 booktitle: '*Müssen Ethiker moralisch sein? Essays über Philosophie und Lebensführung* (Do ethicists have to be moral? Essays on philosophy and lifestyle)'
 
-address: 'Frankfurt a. M./New York'
-editor: 'Christoph Ammann, Barbara Bleisch & Anna Goppel'
+location: 'Frankfurt a. M./New York'
+editors: ['Christoph Ammann', 'Barbara Bleisch', 'Anna Goppel']
 pages: '85--100'
 publisher: 'Campus'
+
+language: german
 
 doi: ''
 
@@ -69,7 +71,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['moralism']
+projects: ['moralismus']
 ---
 
 <!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

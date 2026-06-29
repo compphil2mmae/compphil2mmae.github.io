@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2024-01-01'
+date: '2024-03-16'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-04-05T15:00:16.352939Z'
@@ -25,14 +25,17 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 booktitle: '*Mill-Handbuch. Leben -- Werk -- Wirkung*'
 
-address: 'Berlin'
-editor: 'Frauke Höntzsch'
+editors: ['Frauke Höntzsch']
 pages: '63--77'
 publisher: 'J.B. Metzler'
+location: 'Stuttgart'
+
+language: german
 
 doi: '10.1007/978-3-476-05930-7_9'
+isbn: '978-3-476-05930-7'
 
-abstract: ''
+abstract: 'Es ist ein Gemeinplatz, dass die Auseinandersetzung mit dem moralischen Intuitionismus ein Leitmotiv in Mills Werk ist und ihm persönlich viel bedeutete. So ist z. B. der Autobiography zu entnehmen, dass Mill im Intuitionismus seiner Zeit eine Hauptwurzel für gesellschaftliche Übel, schlechte Institutionen und vorurteilsbeladene Praktiken, kurzum ein großes Fortschrittshindernis sah, dem er mit seinem Werk (v. a. auch den theoretischeren Schriften A System of Logic und An Examination of Sir William Hamilton’s Philosophy) den Nährboden entziehen wollte. Demnach hatte Mill es sich zur Lebensaufgabe gemacht, die (aus seiner Sicht schädlichen) praktischen Auswirkungen des Intuitionismus einzudämmen, indem er dessen philosophisches Fundament attackierte.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -53,9 +56,14 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL
+  icon: springer
+  icon_pack: ai
+  url: https://link.springer.com/chapter/10.1007/978-3-476-05930-7_9
+- name: Buch
+  icon: book
+  url: https://link.springer.com/book/10.1007/978-3-476-05930-7
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

@@ -1,5 +1,5 @@
 ---
-title: The Deontic Transfer Principle
+title: The Deontic Transfer Principle (Das deontische Transferprinzip)
 
 # Authors
 # A YAML list of author names
@@ -13,7 +13,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2021-01-01'
+date: '2021-10-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-04-05T15:00:16.405404Z'
@@ -26,12 +26,15 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 journal: '*Erkenntnis*'
 journal_short: ''
-
 volume: '86'
 number: '5'
 pages: '1185--1195'
 
+publisher: 'Springer Science and Business Media LLC'
+
 doi: 10.1007/s10670-019-00149-8
+
+language: english
 
 abstract: ''
 
@@ -54,9 +57,11 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL  # name required for citation
+  icon: springer  #/closed-access if no more specific icon, e.g. springer from https://jpswalsh.github.io/academicons/ is applicable
+  icon_pack: ai
+  url: https://link.springer.com/article/10.1007/s10670-019-00149-8  # where to find the publication online/link to the publishers website
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

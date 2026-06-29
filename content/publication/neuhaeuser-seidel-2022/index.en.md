@@ -24,12 +24,11 @@ publication_types:
 - book
 
 # Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
-
 publisher: 'Reclam'
-address: 'Ditzingen'
+location: 'Ditzingen'
 series: 'Was bedeutet das alles? (What does all this mean?)'
+
+language: german
 
 doi: ''
 

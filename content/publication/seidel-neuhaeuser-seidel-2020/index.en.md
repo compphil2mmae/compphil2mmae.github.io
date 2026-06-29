@@ -25,11 +25,12 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 booktitle: '*Kritik des Moralismus* (Critique of moralism)'
 
-editor: 'Christian Neuhäuser & Christian Seidel'
+editors: ['Christian Neuhäuser', 'christian.seidel']
 pages: '206--240'
 publisher: 'Suhrkamp'
-address: 'Berlin'
+location: 'Berlin'
 
+language: german
 
 doi: ''
 
@@ -70,7 +71,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['moralism']
+projects: ['moralismus']
 ---
 
 <!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

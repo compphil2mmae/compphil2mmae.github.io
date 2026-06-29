@@ -60,7 +60,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">{{ i18n "published" }}</div>
-          <div class="col-12 col-md-9">{{- .Params.booktitle | markdownify -}}. {{ i18n "published_by_abb" | default "Hrsg. von" }} {{ .Params.editor | markdownify -}}. {{ .Params.address | markdownify -}}: {{ .Params.publisher | markdownify -}}{{ with .Params.pages }}, {{ i18n "page_abb" | default "S." }} {{ . | markdownify -}}{{ end }}.{{ with .Params.note }} {{ . | markdownify }}{{ end }}</div>
+          <div class="col-12 col-md-9">{{- .Params.booktitle | markdownify -}}. {{ i18n "published_by_abb" | default "Hrsg. von" }} {{ if .Params.editors }}{{ $len := len .Params.editors }}{{ if eq $len 1 }}{{ index .Params.editors 0 | markdownify }}{{ else if eq $len 2 }}{{ index .Params.editors 0 | markdownify }} & {{ index .Params.editors 1 | markdownify }}{{ else }}{{ $last := sub $len 1 }}{{ range first $last .Params.editors }}{{ . | markdownify }}, {{ end }}& {{ index .Params.editors $last | markdownify }}{{ end }}{{ end }}. {{ .Params.location | markdownify -}}: {{ .Params.publisher | markdownify -}}{{ if or (not .Params.pubstate) (eq .Params.pubstate "published") }}{{ with .Params.pages }}, {{ i18n "page_abb" | default "S." }} {{ . | markdownify -}}{{ end }}{{ else if .Params.pubstate }}. [{{ i18n .Params.pubstate | default .Params.pubstate }}]{{ end }} {{ with .Params.note }} {{ . | markdownify }}{{ end }}</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -72,8 +72,19 @@
 
     <div class="article-style">{{ .Content }}</div>
 
-<!--TODO add reference/link to project if associated-->
     {{ partial "page_footer" . }}
+
+    {{ if .Params.projects }}
+    <div class="project-related-pages content-widget-hr">
+      <h2>{{ i18n "projects" | default "Projects" }}</h2>
+      {{ range $index, $project := .Params.projects }}
+        {{ $project_page := site.GetPage (printf "research/%s" . | lower) }}
+        {{ if $project_page }}
+          {{ partial "functions/render_view" (dict "page" . "item" $project_page "view" "compact" "index" $index) }}
+        {{ end }}
+      {{ end }}
+    </div>
+    {{ end }}
 
   </div>
 </div>

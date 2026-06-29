@@ -49,7 +49,7 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: []
 ---
 
 Dieses CompPhil²MMAE-Projektseminar richtet sich an fortgeschrittene Studierende mit guten Kenntnissen in Argumentationsanalyse (wie sie im Modul Ars Rationalis erworben werden). Die Teilnehmenden werden im Kurs Rekonstruktionsprojekte mit [Argdown](http://argdown.org) zu selbstgewählten Texten und Themen durchführen. Insbesondere können diese Texte und Themen im Zusammenhang mit einer Abschlussarbeit stehen. Die Argumentationsanalyse hilft dabei, solche Arbeiten klarer, genauer und inhaltlich substantieller -- kurzum: philosophisch besser -- zu machen. 

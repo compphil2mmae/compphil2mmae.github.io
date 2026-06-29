@@ -25,19 +25,28 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 booktitle: '*Was dürfen wir glauben? Was sollen wir tun? Sektionsbeiträge des achten internationalen Kongresses der Gesellschaft für Analytische Philosophie e.V.*'
 
-address: 'Duisburg-Essen'
-editor: 'Miguel Hoeltje, Thomas Spitzley & Wolfgang Spohn'
+location: 'Duisburg-Essen'
+editors: ['Miguel Hoeltje', 'Thomas Spitzley', 'Wolfgang Spohn']
 pages: '525--535'
 publisher: 'DuEPublico'
 
+language: english
+
 doi: ''
 
-abstract: ''
+abstract: |
+  Verteilungsegalitaristen glauben, dass Verteilungsgerechtigkeit durch den Begriff der Verteilungsgleichheit (DE) erklärt werden kann und dass DE einen intrinsischen Wert hat. Die sozio-relationale Kritik argumentiert, dass der Verteilungsegalitarismus den „wahren“ Wert der Gleichheit nicht berücksichtigt, der vielmehr im Begriff der „Gleichheit als substanzieller sozialer Wert“ (ESV) liegt. Dieser Beitrag untersucht die sozio-relationale Kritik und argumentiert, dass sie fehlschlägt, weil – entgegen der Annahme der Kritik – erstens ESV sich konzeptionell nicht von DE unterscheidet und zweitens die Idee von ESV nicht als „Grundlage” oder „Wurzel” des distributiven Egalitarismus dienen kann.
+  
+  (Originalsprache Englisch)
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+  - Egalitarismus
+  - Soziale Gleichheit
+  - Scheffler
+  - Anderson
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -53,15 +62,25 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  icon: file-pdf
+  url: GAP8_Proceedings.pdf  # add the pdf file to the folder of the publication
+- name: URL  # name required for citation
+  icon: open-access  #/closed-access if no more specific icon, e.g. springer from https://jpswalsh.github.io/academicons/ is applicable
+  icon_pack: ai
+  url: https://duepublico2.uni-due.de/receive/duepublico_mods_00031200  # where to find the publication online/link to the publishers website
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/SEITPW-2  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  filename: '/covers/2Problems_socio-relational_Critique_of_disruptive_Egalitarianism.jpg'  # references to /assets/media/covers/ (or place and link to image in publications folder)
+  alt: 'Cover - Was dürfen wir glauben? Was sollen wir tun? Sektionsbeiträge des achten internationalen Kongresses der Gesellschaft für Analytische Philosophie e.V.'
   caption: ''
-  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).

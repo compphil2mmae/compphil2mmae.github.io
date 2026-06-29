@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2016-01-01'
+date: '2016-10-27'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-04-05T15:00:16.569854Z'
@@ -25,14 +25,17 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 booktitle: '*Handbuch Handlungstheorie* (Handbook of action theory)'
 
-address: 'Stuttgart'
-editor: 'Michael Kühler & Markus Rüther'
+editors: ['Michael Kühler', 'Markus Rüther']
 pages: '309--315'
 publisher: 'J.B. Metzler'
+location: 'Stuttgart'
 
-doi: ''
+language: german
 
-abstract: ''
+doi: '10.1007/978-3-476-05359-6_35'
+isbn: '978-3-476-05359-6'
+
+abstract: 'One can have a problem with morality in various ways. For example, everyone is familiar with the feeling of not knowing exactly what is morally required in a situation. Some people not only have moral problems in this sense, but also a problem with morality itself, just as they might have a problem with their neighbour or with abstinence: they find it difficult to deal with. Young repeat offenders, for example, have difficulty recognising what is obviously morally required or acting in accordance with this recognition.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -53,15 +56,26 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL  # name required for citation
+  icon: springer  #/closed-access if no more specific icon, e.g. springer from https://jpswalsh.github.io/academicons/ is applicable
+  icon_pack: ai
+  url: https://link.springer.com/chapter/10.1007/978-3-476-05359-6_35  # where to find the publication online/link to the publishers website
+- name: Book
+  icon: book
+  icon_pack: fas
+  url: https://link.springer.com/book/10.1007/978-3-476-05359-6  # for external information about the book/publication (not direct access)
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/SEITMP-5  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  filename: '/covers/Handbuch-Handlungstheorie.jpg'  # references to /assets/media/covers/ (or place and link to image in publications folder)
+  alt: 'Cover - Handbuch Handlungstheorie'
   caption: ''
-  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
@@ -71,5 +85,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-
-<!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

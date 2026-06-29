@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2025-12-31'
+date: '2025-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-07-01T15:00:16.352939Z'
@@ -25,11 +25,12 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 booktitle: '*Handbuch Utilitarismus*'
 
-address: 'Berlin'
-editor: 'Vuko Andrić & Bernward Gesang'
+location: 'Berlin'
+editors: ['Vuko Andrić', 'Bernward Gesang']
 pages: '289--300'
 publisher: 'J.B. Metzler'
-#note: '[Im Erscheinen.]'
+
+language: german
 
 doi: '10.1007/978-3-662-71326-6_26'
 isbn: '978-3-662-71326-6'
@@ -68,6 +69,14 @@ links:
   icon: springer
   icon_pack: ai
   url: https://link.springer.com/chapter/10.1007/978-3-662-71326-6_26
+- name: Buch
+  icon: book
+  icon_pack: fas
+  url: https://link.springer.com/book/10.1007/978-3-662-71326-6  # for external information about the book/publication (not direct access)
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/ANDHSP  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

@@ -23,8 +23,8 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Artificial Societies and Social Simulation (JASSS)*'
-publication_short: 'JASSS'
+journal: '*Journal of Artificial Societies and Social Simulation*'
+journal_short: 'JASSS'
 volume: 25
 number: 1
 pages: 4
@@ -60,7 +60,7 @@ url_video: ''
 links:
 - name: PDF
   icon: file-pdf
-  url: Argumentation-Induced-Rational-Issue-Polarization.pdf
+  url: Arguments-as-Drivers-of-Issue-Polarization-in-Debates-Among-Artificial-Agents.pdf
 - name: Code
   icon: file-code
   url: https://zenodo.org/records/6448599

@@ -26,10 +26,11 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 journal: '*Zeitschrift für Didaktik der Philosophie und Ethik* (Journal for Didactics of Philosophy and Ethics)'
 journal_short: ''
-
 volume: '2024'
 number: '2'
 pages: '35--45'
+
+language: german
 
 doi: ''
 
@@ -70,7 +71,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['moralism']
+projects: ['moralismus']
 ---
 
 <!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

@@ -13,7 +13,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2017-01-01'
+date: '2016-09-05'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-04-05T15:00:16.503691Z'
@@ -24,15 +24,28 @@ publication_types:
 - book
 
 # Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
-
 publisher: 'Routledge'
-address: 'London/New York'
+location: 'London/New York'
+
+pagetotal: 240
+language: english
 
 doi: ''
+isbn: '978-1-138-84528-2'
 
-abstract: ''
+abstract: |
+  The link between justice and climate change is becoming increasingly prominent in public debates on climate policy. This clear and concise philosophical introduction to climate justice addresses the hot topic of climate change as a moral challenge.
+
+  Using engaging everyday examples the authors address the core arguments by providing a comprehensive and balanced overview of this heated debate, enabling students and practitioners to think critically about the subject area and to promote discussion on questions such as:
+  - Why do anything in the face of climate change?
+  - How much do we owe our descendants – a better world, or nothing at all?
+  - How should we distribute the burden of climate action between industrialized and developing countries?
+  - Should I adopt a green lifestyle even if no one else makes an effort?
+  - Which means of reducing emissions are permissible?
+  - Should we put hope in technological solutions?
+  - Should we re-design democratic institutions for more effective climate policy?
+
+  With chapter summaries, illustrative examples and suggestions for further reading, this book is an ideal introduction for students in political philosophy, applied ethics and environmental ethics, as well as for practitioners working on one of the most urgent issues of our time.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -53,15 +66,22 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Book
+  icon: book
+  icon_pack: fas
+  url: https://www.routledge.com/Climate-Justice-An-Introduction/Roser-Seidel/p/book/9781138845282  # for external information about the book/publication (not direct access)
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/ROSCJA-3  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  filename: '/covers/Climate_Justice-An_Introduction.png'  # references to /assets/media/covers/ (or place and link to image in publications folder)
+  alt: 'Cover - Climate Justice - An Introduction'
   caption: ''
-  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).

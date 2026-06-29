@@ -23,14 +23,16 @@ publication_types:
 - chapter
 
 # Publication name and optional abbreviated publication name.
-booktitle: '*Moral und Zeit*'
-
-editor: 'Petra Gehring & Reinold Schmücker'
+booktitle: '*Moral und Zeit* (Moral and Time)'
+series: 'Blaue Reihe (blue series)'
+editors: ['Petra Gehring', 'Reinold Schmücker']
 
 publisher: 'Meiner'
-address: 'Hamburg'
-pages: ''
-note: '[In publication.]'
+location: 'Hamburg'
+pages: '--'
+pubstate: 'inpress'
+
+language: german
 
 doi: ''
 
@@ -71,7 +73,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ['Forgetting the future']
+projects: ['zukunftsvergessen']
 ---
 
 <!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

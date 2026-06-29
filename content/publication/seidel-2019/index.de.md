@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2019-01-01'
+date: '2019-01-31'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-04-05T15:00:16.459854Z'
@@ -22,24 +22,30 @@ publishDate: '2024-04-05T15:00:16.459854Z'
 publication_types:
 - book
 
-edited: true
-
 # Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
-
-publisher: 'Oxford University Press'
-address: 'Oxford/New York'
+editors: [christian.seidel]
 series: 'Oxford Moral Theory'
+publisher: 'Oxford University Press'
+location: 'Oxford/New York'
 
-doi: ''
+language: english
+pagetotal: 256
 
-abstract: ''
+doi: '10.1093/oso/9780190270117.001.0001'
+isbn: '978-0-19-027013-1'
+
+abstract: |
+  Der Konsequentialismus ist ein zentraler Diskussionspunkt und eine treibende Kraft hinter den Entwicklungen in der Moralphilosophie. In jüngster Zeit hat sich der Schwerpunkt und Stil der Debatte verschoben: Durch den Versuch, konkurrierende Moraltheorien – insbesondere solche mit agentenbezogenen Merkmalen – zu konsequentialisieren und durch die Formulierung von Erklärungen eher in Bezug auf Gründe als auf Werte, hat eine neue Welle des Konsequentialismus auf einer viel höheren Abstraktionsebene Theorien hervorgebracht, die sich als äußerst flexibel und wirkungsvoll erwiesen haben, um langjährigen und einflussreichen Einwänden zu begegnen. Dieser Band über den neuen Konsequentialismus initiiert und regt neue Diskussionsstränge zwischen Befürwortern und Kritikern an. Die Beiträge untersuchen neue Richtungen im neuen Konsequentialismus und präsentieren verfeinerte konzeptionelle Rahmenwerke (Teil I), werfen herausfordernde grundlegende Probleme für diese Rahmenwerke und die theoretische Grundlage der neuen Welle auf (Teil II) und geben eine ausgewogene Einschätzung der Grenzen und Errungenschaften der neuen Welle in spezifischen Kontexten der moralischen Praxis des gesunden Menschenverstands (Teil III).
+  
+  (Originalsprache Englisch)
 
 # Summary. An optional shortened abstract to preview e.g. in list views.
-summary: ''
+summary: 'Der Konsequentialismus ist ein Schwerpunkt der Moralphilosophie. In jüngster Zeit haben Vertreter der neuen Konsequentialismus-Bewegung Theorien vorgestellt, die sich als äußerst flexibel und wirkungsvoll erwiesen haben, um einflussreichen Einwänden zu begegnen. Der Band untersucht neue Richtungen innerhalb dieses Projekts, wirft grundlegende Probleme dafür auf und gibt eine ausgewogene Einschätzung seines Anwendungsbereichs in der moralischen Praxis des gesunden Menschenverstands.'
 
-tags: []
+tags:
+  - Konsequentialismus
+  - Handlungsrelativität
+  - Rationalität
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -55,15 +61,22 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Buch
+  icon: book
+  icon_pack: fas
+  url: https://academic.oup.com/book/8154  # for external information about the book/publication (not direct access)
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/SEICND  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  filename: '/covers/Consequentialism-New_Directions_new_Problems.jpg'  # references to /assets/media/covers/ (or place and link to image in publications folder)
+  alt: 'Cover - Consequentialism: New Directions, new Problems'
   caption: ''
-  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
@@ -73,5 +86,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: ['impartialism']
 ---
-
-<!--- Add the **full text** or **supplementary notes** for the publication here using Markdown formatting. --->

@@ -23,21 +23,27 @@ publication_types:
 - chapter
 
 # Publication name and optional abbreviated publication name.
-booktitle: '*What can we believe? What should we do? Section contributions of the eighth international congress of the Society for Analytic Philosophy e.V.*'
+booktitle: '*Was dürfen wir glauben? Was sollen wir tun? Sektionsbeiträge des achten internationalen Kongresses der Gesellschaft für Analytische Philosophie e.V.* (What can we believe? What should we do? Section contributions of the eighth international congress of the Society for Analytic Philosophy e.V.)'
 
-address: 'Duisburg-Essen'
-editor: 'Miguel Hoeltje, Thomas Spitzley & Wolfgang Spohn'
+location: 'Duisburg-Essen'
+editors: ['Miguel Hoeltje', 'Thomas Spitzley', 'Wolfgang Spohn']
 pages: '525--535'
 publisher: 'DuEPublico'
 
+language: english
+
 doi: ''
 
-abstract: ''
+abstract: 'Distributive egalitarians believe that distributive justice is to be explained by the idea of distributive equality (DE) and that DE is of intrinsic value. The socio-relational critique argues that distributive egalitarianism does not account for the “true” value of equality, which rather lies in the idea of “equality as a substantive social value” (ESV). This paper examines the socio-relational critique and argues that it fails because – contrary to what the critique presupposes –, first, ESV is not conceptually distinct from DE, and second, the idea of ESV cannot serve as a “foundation” or “root” of distributive egalitarianism.'
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+  - Egalitarianism
+  - Social equality
+  - Scheffler
+  - Anderson
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -53,15 +59,25 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: PDF
+  icon: file-pdf
+  url: GAP8_Proceedings.pdf  # add the pdf file to the folder of the publication
+- name: URL  # name required for citation
+  icon: open-access  #/closed-access if no more specific icon, e.g. springer from https://jpswalsh.github.io/academicons/ is applicable
+  icon_pack: ai
+  url: https://duepublico2.uni-due.de/receive/duepublico_mods_00031200  # where to find the publication online/link to the publishers website
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/SEITPW-2  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  filename: '/covers/2Problems_socio-relational_Critique_of_disruptive_Egalitarianism.jpg'  # references to /assets/media/covers/ (or place and link to image in publications folder)
+  alt: 'Cover - Was dürfen wir glauben? Was sollen wir tun? Sektionsbeiträge des achten internationalen Kongresses der Gesellschaft für Analytische Philosophie e.V.'
   caption: ''
-  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).

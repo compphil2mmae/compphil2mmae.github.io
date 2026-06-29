@@ -25,10 +25,11 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 journal: '*Zeitschrift für philosophische Forschung (Journal of Philosophical Research)*'
 journal_short: ''
-
 volume: '71'
 number: '2'
 pages: '305--313'
+
+language: german
 
 doi: ''
 

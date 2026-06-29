@@ -186,17 +186,20 @@
 - id: location
   translation: Ort
 
-- id: paper-conference
-  translation: Konferenzpapier
-
 - id: published
   translation: Publiziert in # added by CS
+
+- id: pub_uncategorized
+  translation: Nicht spezifiziert
+
+- id: pub_conference_paper
+  translation: Konferenzpapier
 
 - id: pub_article_journal
   translation: Zeitschriftenaufsatz # Journalartikel # changed by CS
 
-- id: pub_article
-  translation: Preprint
+- id: pub_preprint
+  translation: Preprint / Working Paper
 
 - id: pub_report
   translation: Bericht
@@ -216,14 +219,44 @@
 - id: pub_review
   translation: Rezension (o.Ä.)
 
+- id: inpreparation
+  translation: In Vorbereitung
+
+- id: submitted
+  translation: In Review
+
+- id: forthcoming
+  translation: Reviewed & angenommen
+
+- id: inpress
+  translation: Im Erscheinen
+
+- id: prepublished
+  translation: Vorab veröffentlicht
+
+- id: published
+  translation: Veröffentlicht
+
+- id: conference_presentation
+  translation: Konferenz Einreichung
+
 - id: editor_abb
   translation: Hg.
+
+- id: editors_abb
+  translation: Hg.
+
+- id: edition_abb
+  translation: Aufl.
 
 - id: published_by_abb
   translation: Hrsg. von
 
 - id: page_abb
   translation: S.
+
+- id: kit_long
+  translation: Karlsruher Institut für Technologie
 
 # Project details
 

@@ -12,7 +12,7 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2024-01-01'
+date: '2024-03-16'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2024-04-05T15:00:16.352939Z'
@@ -25,14 +25,17 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 booktitle: '*Mill-Handbuch. Leben -- Werk -- Wirkung* (Mill Handbook. Life -- Work -- Impact)'
 
-address: 'Berlin'
-editor: 'Frauke Höntzsch'
+editors: ['Frauke Höntzsch']
 pages: '63--77'
 publisher: 'J.B. Metzler'
+location: 'Stuttgart'
+
+language: german
 
 doi: '10.1007/978-3-476-05930-7_9'
+isbn: '978-3-476-05930-7'
 
-abstract: ''
+abstract: "It is common knowledge that the examination of moral intuitionism is a recurring theme in Mill's work and meant a great deal to him personally. For example, his Autobiography reveals that Mill saw the intuitionism of his time as a major root cause of social ills, poor institutions and prejudiced practices – in short, a major obstacle to progress – which he sought to eradicate through his work (especially his more theoretical writings A System of Logic and An Examination of Sir William Hamilton's Philosophy). Mill therefore made it his life's work to curb the (in his view harmful) practical effects of intuitionism by attacking its philosophical foundations."
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -53,9 +56,18 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL
+  icon: springer
+  icon_pack: ai
+  url: https://link.springer.com/chapter/10.1007/978-3-476-05930-7_9
+- name: Book
+  icon: book
+  url: https://link.springer.com/book/10.1007/978-3-476-05930-7
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/SEIMIA  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.

@@ -1,6 +1,12 @@
 {{ $item := .item }}
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
+{{/* Determine link target based on external_link */}}
+{{ $link := $item.RelPermalink }}
+{{ if $item.Params.external_link }}
+  {{ $link = $item.Params.external_link }}
+{{ end }}
+
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
   <!-- <i class="far fa-file-alt pub-icon" aria-hidden="true"></i> -->
 
@@ -10,45 +16,226 @@
   <span class="article-metadata li-cite-author">
     {{ partial "page_metadata_authors" $item }}
   </span>
-  {{ if $item.Params.edited }}
-    ({{ i18n "editor_abb" | default "Hg." }})
-  {{ end }}
-  ({{- $item.Date.Format "2006" -}}).
-  <a href="{{ $item.RelPermalink }}">{{ $item.Title | markdownify -}}</a>.
-  {{ if $item.Params.editor }}
-    In:
-  {{ end }}
-  {{ if $item.Params.booktitle }}
-    {{- $item.Params.booktitle | markdownify -}}.
-  {{ end }}
-  {{ if $item.Params.editor }}
-  {{ i18n "published_by_abb" | default "Hrsg. von" }} {{ $item.Params.editor | markdownify -}}.
-  {{ end }}
-  {{ if $item.Params.edition }}
-    ({{- $item.Params.edition | markdownify -}})
-  {{ end }}
-  {{ if $item.Params.series }}
-    ({{- $item.Params.series | markdownify -}}).
-  {{ end }}
-  {{ if $item.Params.address }}
-    {{- $item.Params.address | markdownify -}}:
-    {{ if $item.Params.publisher }}
-        {{- $item.Params.publisher | markdownify -}}
-        {{ if $item.Params.pages }}, {{ i18n "page_abb" | default "S." }} {{ $item.Params.pages | markdownify -}}.
-        {{ else }}.
-        {{ end }}
+  {{/* check if self-edited */}}
+  {{ $editors := false }}
+  {{ if and (isset $item.Params "editors") (ge (len $item.Params.editors) 1) }}
+    {{ $all_editors_in_authors := true }}
+    {{ range $index, $editor := $item.Params.editors }}
+      {{ if or (not (isset $item.Params "authors")) (not (in $item.Params.authors $editor)) }}
+        {{ $all_editors_in_authors = false }}
+        {{ $editors = true }}
+      {{ end }}
+    {{ end }}
+    {{ if and $all_editors_in_authors (ge (len $item.Params.editors) 2) }}
+      ({{ i18n "editors_abb" | default "Hg." }}).
+    {{ else if $all_editors_in_authors }}
+      ({{ i18n "editor_abb" | default "Hg." }}).
     {{ end }}
   {{ end }}
-  {{ if $item.Params.journal_short }}
-    {{- $item.Params.journal_short | markdownify -}}.
-    {{ else if $item.Params.journal }}
-        {{- $item.Params.journal | markdownify -}}.
+
+{{/* Type-aware APA citation */}}
+  {{/* Determine publication type */}}
+  {{ $pub_type := "" }}
+  {{ if $item.Params.publication_types }}
+    {{ $pub_type = index $item.Params.publication_types 0 }}
+  {{ end }}
+  {{ if and (eq $pub_type "review") (isset $item.Params "type") }}
+    {{ $pub_type = $item.Params.type }}
+  {{ end }}
+
+  {{ if eq $pub_type "conference-paper" }}
+    ({{- $item.Date.Format "2006, January 2" -}}).
+  {{ else }}
+    ({{- $item.Date.Format "2006" -}}).
+  {{ end }}
+  <a href="{{ $link }}">{{ $item.Title | markdownify -}}</a>{{ if not (and (or $item.Params.series $item.Params.edition) (not (eq $pub_type "chapter"))) }}.{{ end }}
+
+  {{/* Journal Articles or review */}}
+  {{ if eq $pub_type "article-journal" }}
+    {{ if $item.Params.series }}
+      ({{- $item.Params.series | markdownify -}})
     {{ end }}
-  {{ if $item.Params.volume }}
-    {{ $item.Params.volume | markdownify }}
-    {{ if $item.Params.number }}({{- $item.Params.number | markdownify -}}){{ end }}{{ if $item.Params.pages }}, {{ i18n "page_abb" | default "S." }} {{ $item.Params.pages | markdownify -}}.
+    {{ if $item.Params.journal_short }}
+      <i>{{- $item.Params.journal_short | markdownify -}}</i>.
+    {{ else }}
+      <i>{{- $item.Params.journal | markdownify -}}</i>.
+    {{ end }}
+    {{ if $item.Params.volume }}
+      {{ $item.Params.volume | markdownify }}
+      {{ if $item.Params.number }}({{- $item.Params.number | markdownify -}}){{ end -}}
+    {{ end -}}
+    {{- if $item.Params.pages }}, {{ i18n "page_abb" | default "S." }} {{ $item.Params.pages | markdownify -}}.
     {{ else }}.
     {{ end }}
+    {{ if $item.Params.doi }}
+      <a href="https://doi.org/{{ $item.Params.doi }}">https://doi.org/{{ $item.Params.doi }}</a>
+    {{ else  }}
+      {{ range $item.Params.links }}
+        {{ if eq .name "URL" }}
+          <a href="{{ .url }}" >{{ .url }}</a>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+  {{/* Conference Papers */}}
+  {{ else if eq $pub_type "conference-paper" }}
+    [{{ i18n "conference_presentation" | default "Conference presentation" }}]. {{ $item.Params.eventtitle -}},
+    {{ if $item.Params.location }}
+      {{ $item.Params.location | markdownify -}}
+    {{ end }}.
+    {{ if $item.Params.doi }}
+      <a href="https://doi.org/{{ $item.Params.doi }}">https://doi.org/{{ $item.Params.doi }}</a>
+    {{ else  }}
+      {{ range $item.Params.links }}
+        {{ if eq .name "URL" }}
+          <a href="{{ .url }}" >{{ .url }}</a>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+  {{/* Book Sections/Chapters */}}
+  {{ else if eq $pub_type "chapter" }}
+    In {{ delimit $item.Params.editors ", " " & " }} ({{ i18n "editor_abb" | default "Hg." }}),
+    <i>{{ $item.Params.booktitle | markdownify }}</i>
+    ({{ if $item.Params.series }}
+      {{- $item.Params.series | markdownify -}},
+    {{ end }}{{ if $item.Params.edition }}
+      {{ $item.Params.edition | markdownify }} {{ i18n "edition_abb" | default "Aufl." }},
+    {{ end }}{{- i18n "page_abb" | default "S." }} {{ $item.Params.pages | markdownify }}).
+    {{ if $item.Params.location }}
+      {{ $item.Params.location | markdownify -}}:
+    {{ end }}
+    {{ if and (isset $item.Params "publisher_short") (ge (len $item.Params.publisher_short) 4) }}
+      {{ $item.Params.publisher_short | markdownify -}}.
+    {{ else }}
+      {{ $item.Params.publisher | markdownify -}}.
+    {{ end }}
+    {{ if $item.Params.doi }}
+      <a href="https://doi.org/{{ $item.Params.doi }}">https://doi.org/{{ $item.Params.doi }}</a>
+    {{ else  }}
+      {{ range $item.Params.links }}
+        {{ if eq .name "URL" }}
+          <a href="{{ .url }}" >{{ .url }}</a>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+  {{/* Books */}}
+  {{ else if eq $pub_type "book" }}
+    {{ if or $item.Params.edition $item.Params.series }}
+      ({{ if $item.Params.series }}
+        {{- $item.Params.series | markdownify -}}
+      {{ end }}
+      {{- if and $item.Params.edition $item.Params.series }}, {{ end -}}
+      {{ if $item.Params.edition }}
+        {{- $item.Params.edition | markdownify }} {{ i18n "edition_abb" | default "Aufl." -}}
+      {{ end }}).
+    {{ end }}
+    {{ if $item.Params.location }}
+      {{- $item.Params.location | markdownify -}}:
+    {{ end }}
+    {{ if and (isset $item.Params "publisher_short") (ge (len $item.Params.publisher_short) 4) }}
+      {{- $item.Params.publisher_short | markdownify -}}.
+    {{ else }}
+      {{- $item.Params.publisher | markdownify -}}.
+    {{ end }}
+    {{ if $item.Params.doi }}
+      <a href="https://doi.org/{{ $item.Params.doi }}">https://doi.org/{{ $item.Params.doi }}</a>
+    {{ else  }}
+      {{ range $item.Params.links }}
+        {{ if eq .name "URL" }}
+          <a href="{{ .url }}" >{{ .url }}</a>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+  {{/* Theses */}}
+  {{ else if eq $pub_type "thesis" }}
+    {{ if $item.Params.doi }}
+      (Doi. <a href="https://doi.org/{{ $item.Params.doi }}">{{ $item.Params.doi }}</a>)
+    {{ else if $item.Params.isbn }}
+      (ISBN {{ $item.Params.isbn }})
+    {{ else if $item.Params.issn }}
+      (ISSN {{ $item.Params.issn }})
+    {{ end }}
+    [{{- $item.Params.type | default "Doctoral dissertation" | markdownify -}},
+    {{ if $item.Params.school }}
+      {{- $item.Params.school | markdownify -}}
+    {{ else }}
+      {{- i18n "kit_long" | markdownify -}}
+    {{ end }}].
+    {{ if $item.Params.database }}
+      {{- $item.Params.database | markdownify -}}.
+    {{ end }}
+
+  {{/* Reports */}}
+  {{ else if eq $pub_type "report" }}
+    {{ if $item.Params.type }}
+      {{- $item.Params.type | markdownify -}}.
+    {{ end }}
+    {{ if $item.Params.location }}
+      {{- $item.Params.location | markdownify -}}:
+    {{ end }}
+    {{ if $item.Params.publisher }}
+      {{- $item.Params.publisher | markdownify -}}.
+    {{ else if $item.Params.institution }}
+      {{- $item.Params.institution | markdownify -}}.
+    {{ end }}
+    {{ range $item.Params.links }}
+      {{ if eq .name "Report" }}
+        <a href="{{ .url }}" >{{ .url }}</a>
+      {{ end }}
+    {{ end }}
+
+  {{/* Fallback */}}
+  {{ else }}
+    {{ if $item.Params.journal_short }}
+      <i>{{- $item.Params.journal_short | markdownify -}}</i>.
+    {{- else if $item.Params.journal -}}
+      <i>{{- $item.Params.journal | markdownify -}}</i>
+    {{- else if $item.Params.booktitle -}}
+      In {{ delimit $item.Params.editors ", " " & " }} ({{ i18n "editor_abb" | default "Hg." }}),
+      <i>{{ $item.Params.booktitle | markdownify -}}</i>
+    {{- end -}}
+    {{- if $item.Params.volume -}}.
+      {{ $item.Params.volume | markdownify }}
+      {{ if $item.Params.number }}({{- $item.Params.number | markdownify -}}){{ end -}}
+    {{ end }}
+    {{- if $item.Params.pages }}, {{ i18n "page_abb" | default "S." }} {{ $item.Params.pages | markdownify -}}.
+    {{ else }}.
+    {{ end }}
+    {{ if $item.Params.series }}
+      ({{- $item.Params.series | markdownify -}}).
+    {{ end }}
+    {{ if $item.Params.edition }}
+      ({{- $item.Params.edition | markdownify }} {{ i18n "edition_abb" | default "Aufl." -}}).
+    {{ end }}
+    {{ if or $item.Params.publisher $item.Params.institution $item.Params.school }}
+      {{ if $item.Params.location }}
+        {{- $item.Params.location | markdownify -}}:
+      {{ end }}
+      {{- if $item.Params.publisher_short }}
+        {{ $item.Params.publisher_short -}}
+      {{- else if $item.Params.publisher}}
+        {{ $item.Params.publisher | markdownify -}}
+      {{- else if $item.Params.institution}}
+        {{ $item.Params.institution | markdownify -}}
+      {{- else if $item.Params.school}}
+        {{ $item.Params.school | markdownify -}}
+      {{ end }}.
+    {{ end }}
+    {{ if $item.Params.doi }}
+      <a href="https://doi.org/{{ $item.Params.doi }}">https://doi.org/{{ $item.Params.doi }}</a>
+    {{ else  }}
+      {{ range $item.Params.links }}
+        {{ if eq .name "URL" }}
+          <a href="{{ .url }}" >{{ .url }}</a>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ if and (isset $item.Params "pubstate") (ne $item.Params.pubstate "published") }}
+     [{{- i18n $item.Params.pubstate | markdownify -}}]
   {{ end }}
   {{ if $item.Params.note }}
      {{- $item.Params.note | markdownify -}}
@@ -61,7 +248,7 @@
   <span class="article-metadata li-cite-author">
     {{ partial "page_metadata_authors" $item }}.
   </span>
-  <a href="{{ $item.RelPermalink }}">{{ $item.Title | markdownify -}}</a>.
+  <a href="{{ $link }}">{{ $item.Title | markdownify -}}</a>.
   {{ if $item.Params.publication_short }}
     {{- $item.Params.publication_short | markdownify -}},
   {{ else if $item.Params.publication }}

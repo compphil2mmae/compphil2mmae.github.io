@@ -23,10 +23,6 @@ publishDate: '2026-01-28T00:31:02.812260Z'
 publication_types:
 - report
 
-# Publication name and optional abbreviated publication name.
-publication: '*Zenodo*'
-publication_short: ''
-
 publisher: Zenodo
 
 language: english
@@ -86,7 +82,7 @@ links:
 #  icon: zenodo
 #  icon_pack: ai
 #  url: https://zenodo.org/records/13294165
-- name: Philpapers
+- name: PhilPapers
   icon: philpapers
   icon_pack: ai
   url: https://philpapers.org/rec/FREAAF-3

@@ -25,10 +25,13 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 journal: '*Ethical Theory and Moral Practice*'
 journal_short: ''
-
 volume: '13'
 number: '1'
 pages: '117--119'
+
+sub_type: 'article-journal'
+
+language: german
 
 doi: ''
 

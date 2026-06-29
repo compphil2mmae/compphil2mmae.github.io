@@ -27,10 +27,11 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 journal: '*Climatic Change*'
 journal_short: ''
-
 volume: '133'
 number: '3'
 pages: '397--406'
+
+language: english
 
 doi: ''
 

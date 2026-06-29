@@ -2,7 +2,7 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: 'In January 2025: "Gemeinsam philosophieren" (Philosophizing Together)'
-subtitle:  Workshop mit CompPhil²MMAE-Beteiligung!
+subtitle:  Workshop with CompPhil²MMAE participation!
 summary: Inga Bones will lead two sessions of the "Philosophizing Together" event series in January. Participants will philosophize together on questions such as "What characterizes a fair and constructive discussion?" and "What are good arguments—and what are rhetorical pitfalls?"
 authors: [inga.bones]
 tags: []
@@ -24,6 +24,8 @@ links:
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
+  filename: '/events/Gemeinsam_Philosophieren/Gemeinsam_Philosophieren_Title_2025_Karlsruhe.png'
+  alt: 'Gemeinsam Philosophieren Header'
   caption: ""
   focal_point: "Smart"
   preview_only: false

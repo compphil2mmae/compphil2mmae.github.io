@@ -24,8 +24,8 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Philosophy of Science*'
-publication_short: ''
+journal: '*Philosophy of Science*'
+journal_short: ''
 volume: 92
 number: 1
 pages: 40--58
@@ -63,7 +63,7 @@ links:
   icon: open-access
   icon_pack: ai
   url: https://www.cambridge.org/core/journals/philosophy-of-science/article/inconsistent-belief-aggregation-in-diverse-and-polarised-groups/5B6A92D7317637E6F64CB78E9BE0D117?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark
-- name: Philpapers
+- name: PhilPapers
   icon: philpapers
   icon_pack: ai
   url: https://philpapers.org/rec/KOPIBA

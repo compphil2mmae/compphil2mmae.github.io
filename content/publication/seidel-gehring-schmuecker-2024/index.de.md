@@ -24,13 +24,15 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 booktitle: '*Moral und Zeit*'
-
-editor: 'Petra Gehring & Reinold Schmücker'
+series: 'Blaue Reihe'
+editors: ['Petra Gehring', 'Reinold Schmücker']
 
 publisher: 'Meiner'
-address: 'Hamburg'
-pages: ''
-note: '[Im Erscheinen.]'
+location: 'Hamburg'
+pages: '--'
+pubstate: 'inpress'
+
+language: german
 
 doi: ''
 

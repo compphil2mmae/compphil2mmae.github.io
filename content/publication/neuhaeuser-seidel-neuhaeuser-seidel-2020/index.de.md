@@ -26,10 +26,12 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 booktitle: '*Kritik des Moralismus*'
 
-editor: 'Christian Neuhäuser & Christian Seidel'
+editors: ['Christian Neuhäuser', 'christian.seidel']
 pages: '9--34'
 publisher: 'Suhrkamp'
-address: 'Berlin'
+location: 'Berlin'
+
+language: german
 
 doi: ''
 
@@ -54,15 +56,26 @@ url_source: ''
 url_video: ''
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: URL  # name required for citation
+  icon: closed-access  #/closed-access if no more specific icon, e.g. springer from https://jpswalsh.github.io/academicons/ is applicable
+  icon_pack: ai
+  url: https://www.suhrkamp.de/buch/kritik-des-moralismus-t-9783518299289  # where to find the publication online/link to the publishers website
+- name: Buch
+  icon: book
+  icon_pack: fas
+  url: /publication/neuhaeuser-seidel-2020  # for external information about the book/publication (not direct access)
+- name: PhilPapers
+  icon: philpapers
+  icon_pack: ai
+  url: https://philpapers.org/rec/SEIKDM-2  # Philpapers entry
 
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  filename: '/covers/Kritik-des-Moralismus.jpg'  # references to /assets/media/covers/ (or place and link to image in publications folder)
+  alt: 'Cover - Kritik des Moralismus'
   caption: ''
-  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).

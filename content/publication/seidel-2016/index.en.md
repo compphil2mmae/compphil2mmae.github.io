@@ -23,12 +23,11 @@ publication_types:
 - book
 
 # Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
-
 publisher: 'de Gruyter'
-address: 'Berlin/Boston'
+location: 'Berlin/Boston'
 series: 'Ideen & Argumente (Ideas & arguments)'
+
+language: german
 
 doi: ''
 
