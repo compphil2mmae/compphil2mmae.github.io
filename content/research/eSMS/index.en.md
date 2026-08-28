@@ -2,13 +2,14 @@
 title: 'The Ethics of State Mass Surveillance'
 summary: The research project explores ethical questions surrounding state mass surveillance in liberal societies ─ with regard to (a) the individual being monitored, (b) the democratic society in which surveillance is carried out, and (c) the technology companies that are involved in surveillance operations.
 tags:
-  - Angewandte Ethik
+  - Applied Ethics
 date: '2020-04-01T00:00:00Z'
 type: 'project'
 authors:
 - peter.koenigs
 - Christian Neuhäuser
 - christian.seidel
+- alina.jacobs
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

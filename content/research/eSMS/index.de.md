@@ -9,6 +9,7 @@ authors:
 - peter.koenigs
 - Christian Neuhäuser
 - christian.seidel
+- alina.jacobs
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
