@@ -46,11 +46,11 @@ url_video: ''
 projects: []
 ---
 
-The CompPhil²MMAE research seminar "Aktuelle Texte der Philosophie" is a central discussion and reflection space for the CompPhil²MMAE team and, in the spirit of research-oriented teaching, also a course for advanced students. 
+The CompPhil²MMAE research seminar "Aktuelle Texte der Philosophie" is a central discussion and reflection space for the CompPhil²MMAE team and, in the spirit of research-oriented teaching, also a [course]({{ #Link }}) for advanced students. 
 
 In the research seminar, CompPhil³MMAE members and external speakers present their research work in philosophy and related disciplines (usually in a *pre-read* format) for discussion. 
 
-This weeks talk discusses the contribution on "{{ #Topic }}" provided by {{ #Lecturer }}.
+This weeks talk discusses the contribution on "*{{ #Topic }}*" provided by {{ #Lecturer }}.
 
 The CompPhil²MMAE research seminar is organised by {{% mention "christian.seidel" %}} and {{% mention "gregor.betz" %}}.
 

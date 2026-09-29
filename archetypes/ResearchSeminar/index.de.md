@@ -46,16 +46,16 @@ url_video: ''
 projects:
 ---
 
-Das CompPhil²MMAE-Forschungsseminar "Aktuelle Texte der Philosophie" ist zentraler Diskussions- und Reflexionsraum des CompPhil²MMAE-Teams und im Sinne der forschungsorientierten Lehre zugleich eine Lehrveranstaltung für fortgeschrittene Student*innen. 
+Das CompPhil²MMAE-Forschungsseminar "Aktuelle Texte der Philosophie" ist zentraler Diskussions- und Reflexionsraum des CompPhil²MMAE-Teams und im Sinne der forschungsorientierten Lehre zugleich eine [Lehrveranstaltung]({{ #Link }}) für fortgeschrittene Student*innen. 
 
 Im Forschungsseminar stellen CompPhil³MMAE-Mitglieder sowie auswärtige Referent*innen ihre Forschungsarbeiten aus der Philosophie sowie angrenzender Disziplinen (in der Regel in einem *Pre-Read*-Format) zur Diskussion. 
 
-Das Treffen dieser Woche diskutiert den Beitrag "{{ #Topic }}" von {{ #Lecturer }}.
+Das Treffen dieser Woche diskutiert den Beitrag "*{{ #Topic }}*" von {{ #Lecturer }}.
 
 Das CompPhil²MMAE-Forschungsseminar wird organisiert von {{% mention "christian.seidel" %}} und {{% mention "gregor.betz" %}}. 
 
 {{% callout note%}}
-**Students** and **Colleagues** are very welcome!
+**Student*innen** and **Kolleg*innen** sind herzlich eingeladen!
 {{% /callout %}}
 
 Um auf dem aktuellen zu bleiben, behandelte Texte und zukünftige Vorträge nicht zu verpassen, können Sie sich auch in der "forschungsseminar-philosophie" [Mailing-Liste](https://www.lists.kit.edu/sympa/subscribe/forschungsseminar-philosophie?previous_action=info "KIT research seminar mailing-list") eintragen oder eine Mail an [forschungsseminar-philosophie-request@lists.kit.edu](mailto:forschungsseminar-philosophie-request@lists.kit.edu) schreiben.
