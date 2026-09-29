@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doktorand
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -34,9 +34,9 @@ interests:
 
 education:
   courses:
-    - course: PhD Kandidat in Philosophie
+    - course: Dr. phil in Philosophie
       institution: Oxford Universität, St Anne’s College
-      year: seit 2021
+      year: 2026
     - course: M.A. Philosophie
       institution: Universität Bonn
       year: 2020

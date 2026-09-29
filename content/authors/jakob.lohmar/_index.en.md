@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "PhD candidate"
+role: "Postdoc"
 
 # Organizations/Affiliations
 organizations:
@@ -34,9 +34,9 @@ interests:
 
 education:
   courses:
-    - course: PhD candidate in Philosophy
+    - course: Doctor of Philosophy
       institution: University of Oxford, St Anne’s College
-      year: since 2021
+      year: 2026
     - course: M.A. Philosophy
       institution: University of Bonn
       year: 2020
