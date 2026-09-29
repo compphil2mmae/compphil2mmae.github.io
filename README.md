@@ -26,6 +26,7 @@ Unter `/data/links.yml` liegt eine Sammlung an Links, die mit `{{< link "link-id
 
 ## Editing
 To create new content, the clean way ist to run `hugo new content/publication/<my-publication>` (e.g. for a publication, but also for event, post, etc.).  
+Since bundled (multiple file) archetypes don't work with the content kind flag, there is a script for the research seminar to facilitate the process.  
 Alternatively simply copy paste a similar existing file and adjust the front matter.
 
 ### Front matter
@@ -77,6 +78,9 @@ Sind unterteilt in `Workshops`, `Talks` und `Guest Lectures`.
   - v.a. Forschungsseminar & Kolloquium
     - Achtung hier nicht alle Termine einstellen, nur die externen (die mit Ort in Klammern)
   - Tag ist `Gastvortrag` (DE) bzw. `Guest Lecture` (EN)
+
+Für das Forschungsseminar existiert ein script, das mit ```python new_research-semiar yymmdd "<topic>" "lecturer"``` ein neues Event anlegt und die Frontmatter Parameter automatisch ausfüllt.
+Nur Übersetzungen des Titels und ggf. von Städtenamen müssen wenn gewollt manuell vorgenommen werden.
 
 ### Publications
 To help import (multiple) new publications, the [academic tool](https://github.com/BuildLore/academic-file-converter) can be used.
