@@ -52,13 +52,13 @@ social:
     link: 'http://www.ibones.de/'
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:inga.bones@kit.edu'
-  - icon: address-card
-    icon_pack: fas
-    link: 'https://www.philosophie.kit.edu/mitarbeiter_921.php'
-  - icon: phone
-    icon_pack: fas
-    link: 'https://www.philosophie.kit.edu/mitarbeiter_921.php'   
+    link: 'https://ibones.de/kontakt/'
+#  - icon: address-card
+#    icon_pack: fas
+#    link: 'https://www.philosophie.kit.edu/mitarbeiter_921.php'
+#  - icon: phone
+#    icon_pack: fas
+#    link: 'https://www.philosophie.kit.edu/mitarbeiter_921.php'   
   - icon: comments
     icon_pack: fas
     link: 'https://forum-streitkultur.de/'
