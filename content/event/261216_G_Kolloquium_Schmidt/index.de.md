@@ -1,6 +1,6 @@
 ---
 title: 'Eva Schmidt (Dortmund): "Trustworthy AI"'
-subtitle: KIT Philosophie-Kolloquium WiSe 2026/27 [1/3] - Vortrag auf Deutsch
+subtitle: KIT Philosophie-Kolloquium WiSe 2026/27 [1/3]
 event: KIT Philosophie-Kolloquium
 event_url: https://www.philosophie.kit.edu
 
@@ -57,8 +57,6 @@ projects:
 
 Das KIT Philosophie-Kolloquium wurde im Wintersemester 2026/27 nach Abstimmung mit der [Fachschaft](https://geistsoz.de/) und mit den akademischen Mitarbeiter*innen des [Departments für Philosophie](https://www.philosophie.kit.edu) von
 {{% mention jakob.lohmar %}} und {{% mention angelica.mezzadri %}} organisiert.
-
-Der Vortrag wird auf Deutsch gehalten.
 
 {{% callout note%}}
 **Student*innen** sind herzlich willkommen!
