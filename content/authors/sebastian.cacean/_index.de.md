@@ -45,12 +45,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:sebastian.cacean@hhu.de'
   - icon: house
     icon_pack: fas
     link: 'http://sebastiancacean.de/'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:sebastian.cacean@hhu.de'
   # - icon: address-card
   #   icon_pack: fas
   #   link: 'https://www.philosophie.kit.edu/mitarbeiter_1031.php'
