@@ -10,7 +10,7 @@ address:
   city: Karlsruhe
   postcode: '76131'
 
-summary: KIT Philosophy Colloquium WiSe 2026/27 [2/3]
+summary: KIT Philosophy Colloquium WiSe 2026/27 [2/3] - talk in german
 # abstract: Im Wintersemester 2024/2025 finden im Rahmen des KIT Philosophie-Kolloquium drei Vorträge statt.
 
 # Talk start and end times.
