@@ -13,9 +13,9 @@ authors:
 author_notes: []
 
 # Date of the publication
-date: {{ now.Format "2025-07-17" }}
+date: 2025-07-17
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: {{ now.Format "2025-07-17" }}
+publishDate: 2025-07-17
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements). Compare to /data/publication_types.yaml.
