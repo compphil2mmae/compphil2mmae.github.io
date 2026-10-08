@@ -1,6 +1,6 @@
 ---
-title: 'Probing Practical Deliberation in LLMs -- A Proof Of Concept'
-subtitle: ''  # optional subtitle
+title: 'Probing Practical Deliberation in LLMs'
+subtitle: 'A Proof Of Concept'  # optional subtitle
 
 # A YAML list of author names
 # If author has an own page at `content/authors/prename.name`, use prename.name instead of `Prename Name`
@@ -23,22 +23,18 @@ publishDate: 2025-07-17
 publication_types:
 #  - uncategorized
 #  - conference-paper  # Conference/@inproceedings paper
-  - article-journal  # Journal/@article paper
-#  - preprint  # Preprint/Working Paper/@unpublished paper
-#  - report  # @report/@techreport
+#  - article-journal  # Journal/@article paper
+#-  - preprint  # Preprint/Working Paper/@unpublished paper
+  - report  # @report/@techreport
 #  - book  # @book/@proceedings/@booklet/@manual
 #  - chapter  # Book section/Chapter as @inbook/@incollection
 #  - thesis  # @thesis/@phdthesis/@masterthesis
 #  - patent  # @patent
 #  - review  # of some other type (specify in 'type'-parameter) but to list separately
 
-# Article
-journal: 'GitHub'
-journal_short: ''
-series: ''
-volume: ''
-number: ''
-pages: 'v.0.1.0'  # e.g. '63--77'
+# Report
+publisher: 'GitHub'
+edition: 'v.0.1.0'
 
 defenseDate: ''  # for thesis
 language: english  # Language of the publication [english, german]
