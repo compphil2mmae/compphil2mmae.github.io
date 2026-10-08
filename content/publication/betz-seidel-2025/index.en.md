@@ -46,10 +46,10 @@ doi: ''
 isbn: ''
 issn: ''
 
-abstract: ''
+abstract: "In this repository, we're exploring how to probe the ability of large language models (LLMs) to engage in practical deliberation. In the main notebook, we're testing whether an LLM's all-things-considered judgements in decision situations from the kellycyy/daily_dilemmas dataset are in fact insensitive to invariance transformations, such as strengthen the reasons in favor of the preferred options. We conceive of this as a proof of concept, which is meant to demonstrate the feasibility of a more comprehensive computational investigation; as work in progress, so feedback and contributions are welcome; as a preliminary experimental setup, which is meant to be adapted and extended for further research on practical deliberation in LLMs."
 
 # Summary. An optional shortened abstract to display in previews or list views.
-summary: ""
+summary: "In this repository, we're exploring how to probe the ability of large language models (LLMs) to engage in practical deliberation."
 
 tags: []  # existing tags can be found at /public/tag/...
 featured: false  # to feature this on the landingpage, add the tag 'highlight'
