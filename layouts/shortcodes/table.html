@@ -1,0 +1,71 @@
+{{/* Table Shortcode for Hugo Blox Builder. */}}
+{{/* Load a CSV table from page dir falling back back to remote URL */}}
+{{/* Defaults to expecting a comma-separated CSV with a header row. */}}
+
+{{/*
+    Docs: https://docs.hugoblox.com/content/writing-markdown-latex/#csv-table
+
+    Parameters
+    ----------
+    src :
+        Path or url to the csv table. Path is relative to the folder where the shortcode is called.
+    delimiter : default ","
+        Field delimiter.
+    header : default "true"
+        If "true", the first row is rendered as the header.
+    caption : optional
+        Caption for the table.
+
+    NOTE: This is an override of the module's table.html shortcode. The module
+    version uses the `getCSV` function, which was removed in newer Hugo builds.
+    This version reads the CSV with `resources.GetRemote` (remote) or
+    `readFile` + `transform.Unmarshal` (local) so it works on all Hugo versions.
+*/}}
+
+{{ $src := .Get "path" }}
+{{ $delimiter := .Get "delimiter" | default "," }}
+{{ $useHeaderRow := (eq (lower (.Get "header")) "true") | default true }}
+{{ $caption := .Get "caption" }}
+
+{{ $is_remote := strings.HasPrefix $src "http" }}
+{{ $csvContent := "" }}
+
+{{ if $is_remote }}
+  {{ $remoteRes := resources.GetRemote $src }}
+  {{ if $remoteRes }}
+    {{ $csvContent = $remoteRes.Content }}
+  {{ else }}
+    {{ errorf "table shortcode: failed to fetch remote CSV from %s" $src }}
+  {{ end }}
+{{ else }}
+  {{ $src = path.Join "content" $.Page.File.Dir $src }}
+  {{ if (fileExists $src) }}
+    {{ $csvContent = readFile $src }}
+  {{ else }}
+    {{ errorf "table shortcode: CSV file %s not found" $src }}
+  {{ end }}
+{{ end }}
+
+{{ $rows := transform.Unmarshal (dict "delimiter" $delimiter) $csvContent }}
+
+<table class="table">
+  {{ if $useHeaderRow }}
+    {{ $headerRow := index $rows 0 }}
+    {{ $rows = after 1 $rows }}
+    <tr> {{ range $headerRow }} <th>{{ . | markdownify | emojify }}</th> {{ end }} </tr>
+  {{ end }}
+  {{ range $rows }}
+    <tr>
+      {{ range . }}
+        {{ if (findRE "^\\d+$" .) }}
+          <td data-table-dtype="number">{{ . }}</td>
+        {{ else }}
+          <td data-table-dtype="text">{{ . | markdownify | emojify }}</td>
+        {{ end }}
+      {{ end }}
+    </tr>
+  {{ end }}
+  {{ if $caption }}
+    <caption>{{ $caption | markdownify | emojify }}</caption>
+  {{ end }}
+</table>
