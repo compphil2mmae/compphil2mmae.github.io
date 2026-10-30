@@ -110,8 +110,8 @@ KIT, Building 50.41, Room 145/146
 | 14:10              | **Leonie Buschhoff**<br>Surveillance and Democracy: A Double-Edged Relationship in the Age of Algorithms                                           |
 | 15:10              | Coffee Break                                                                                                                                       |
 | 15:40              | **Otto Sahlgren**<br>On the Ethics of Memorization in Machine Learning Models                                                                      |
-| ~~16:50~~          | ~~**Christian Seidel**<br>Newspeak, Doublethink and Beliefs of One's Own: Reconsidering (Epistemic) Autonomy in Times of Artificial Deliberation~~ |
-| ~~18:00~~<br>16:50 | Wrap-Up                                                                                                                                            |
+| 16:50 | **Christian Seidel**<br>Newspeak, Doublethink and Beliefs of One's Own: Reconsidering (Epistemic) Autonomy in Times of Artificial Deliberation |
+| 18:00  |  Wrap-Up                                                                                                                                            |
 
 This event is part of the DFG project "[The Ethics of State Mass Surveillance]({{% relref "/research/esms/" %}})".
 
