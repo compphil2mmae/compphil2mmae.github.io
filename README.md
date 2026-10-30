@@ -130,7 +130,7 @@ To help import (multiple) new publications, the [academic tool](https://github.c
 
       </details>
 3. run the tool: `academic import <path-to-bibtex-file> content/publication/`
-4. transfer relevant parameter (e.g. volume, number, pages for articles) from the created `cite.bib` file to the `index.md` file, that are not autmatically transferred by the import (Only the parameter specified [here](https://github.com/BuildLore/academic-file-converter/blob/main/academic/templates/publication.md) are automatically adopted - and also only if present)
+4. transfer relevant parameter (e.g. volume, number, pages for articles) from the created `cite.bib` file to the `index.md` file, that are not automatically transferred by the import (Only the parameter specified [here](https://github.com/BuildLore/academic-file-converter/blob/main/academic/templates/publication.md) are automatically adopted - and also only if present)
    <details>
    <summary>auto transferred</summary>
    
