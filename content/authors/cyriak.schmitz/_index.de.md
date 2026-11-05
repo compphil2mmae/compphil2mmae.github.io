@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 role: 'Lehrbeauftragter'
-# role: '[Alumni] Doktorand & Postdoc | [now] Lehrbeauftragter'
+# role: '[Alumnus] Doktorand & Postdoc | [now] Lehrbeauftragter'
 
 # Organizations/Affiliations
 organizations:

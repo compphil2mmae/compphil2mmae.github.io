@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "[Alumni] Doktorand & Postdoc | [now] Postdoc"
+role: "[Alumnus] Doktorand & Postdoc | [now] Postdoc"
 
 # Organizations/Affiliations
 organizations:
