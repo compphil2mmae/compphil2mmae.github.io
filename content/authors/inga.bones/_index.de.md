@@ -14,7 +14,8 @@ authors:
 superuser: false
 
 # Role/position
-role: "[Alumna] Postdoc"
+role: "Lehrbeauftragte"
+# role: "[Alumna] Postdoc"
 
 # Organizations/Affiliations
 organizations:
@@ -98,9 +99,9 @@ user_groups:
   # - Akademische Mitarbeiter:innen # Researchers
   # - - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
   # - Doktorand:innen # Grad Students
-  # - Assoziierte 
+  - Assoziierte 
   # - Gäste # Visitors
-  - Alumnae & Alumni
+  # - Alumnae & Alumni
 ---
 
 Inga Bones war von 2018 bis 2025 wissenschaftliche Mitarbeiterin am Department für Philosophie des Karlsruher Instituts für Technologie (KIT) und arbeitete vor allem zu Themen der angewandten Sprachphilosophie und der philosophischen Methodologie. Seit 2020 ist Inga außerdem als Trainerin des [Forums für Streitkultur](https://forum-streitkultur.de/) aktiv. Von 2022 bis 2025 absolvierte sie nebenberuflich eine Weiterbildung zur philosophischen Praktikerin an der Universität Wien.  

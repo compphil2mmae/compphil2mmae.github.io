@@ -14,7 +14,8 @@ authors:
 superuser: false
 
 # Role/position
-role: "[Alumna] Postdoc"
+role: "Lecturer"
+# role: "[Alumna] Postdoc"
 
 # Organizations/Affiliations
 organizations:
@@ -98,9 +99,9 @@ user_groups:
   # - Researchers
   # - Assistenz in Forschung, Lehre & Verwaltung # Administrationministration
   # - Doktorand:innen # Grad Students
-  # - Assoziierte 
+  - Associates
   # - Gäste # Visitors
-  - Alumnae & Alumni
+  # - Alumnae & Alumni
 ---
 
 
