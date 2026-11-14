@@ -2,7 +2,7 @@
 title: 'The Ethics of Creating People'
 summary: This PhD project (funded by the Studienstiftung) systematically investigating the usability demand on moral theories.
 tags:
-  - Moralphilosophie
+  - Moral philosophy
 date: '2019-09-01T00:00:00Z'
 type: 'project'
 authors:
