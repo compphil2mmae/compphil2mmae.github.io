@@ -4,9 +4,8 @@ summary: KIdeKu untersuchte die Chancen dieser Technologien zur Stärkung unsere
 tags:
   - LLMs
   - Angewandte Ethik
-  - Deliberation
-  - Computergestützte Philosophie
-  - Normen der öffentlichen Argumentation
+  - Computationale Philosophie
+  - Norms of Public Reasoning
 date: '2024-06-01'
 type: 'project'
 authors:

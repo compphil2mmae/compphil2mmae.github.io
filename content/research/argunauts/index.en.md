@@ -3,7 +3,7 @@ title: "Argunauts: Open LLMs that Master Argument Analysis with Argdown"
 summary: |2- 
   The aim of the open-science Argunauts project is to teach LLMs logical argument analysis and argument mapping with Argdown.
 tags:
-  - Computationale Philosophie
+  - Computational Philosophy
   - LLMs
 date: '2025-04-01T00:00:00Z'
 type: 'project'

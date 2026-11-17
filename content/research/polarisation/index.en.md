@@ -2,9 +2,9 @@
 title: Polarisation dynamics in agent-based debate models
 summary: Polarisation is one of the most interesting aspects of deliberating agents. A population that polarises it not just in disagreement, but splits into internally cohesive but externally divergent groups. Contributors to polarisation, how it could be mitigated, and how it is to be measured are presently studied in many disciplines, including sociology and philosophy. This project is a contribution to that endeavour with the tools of computational argumentation theory. The results suggest that argumentation can drive polarisation dynamics on its own, which is a further reason to think that polarisation of beliefs can unfold even if all agents behave epistemically rational.
 tags:
-  - Computationale Philosophie
+  - Computational Philosophy
   - Norms of Public Reasoning
-  - Angewandte Ethik
+  - Applied Ethics
 date: '2024-07-01T00:00:00Z'
 type: 'project'
 authors: 

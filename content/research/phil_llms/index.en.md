@@ -3,7 +3,7 @@ title: Philosophy of, and for LLMs
 summary: |2- 
   The success of LLMs is fascinating, puzzling and, of course, worrying. It requires our attention and philosophical reflection.
 tags:
-  - Computationale Philosophie
+  - Computational Philosophy
   - LLMs
 date: '2019-02-01T00:00:00Z'
 type: 'project'

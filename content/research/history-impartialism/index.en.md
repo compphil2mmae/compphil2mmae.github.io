@@ -2,7 +2,7 @@
 title: The Philosophical History of Ethical Impartialism
 summary: "In collaboration with Tyler Paytas (Australian Catholic University, ACU), this DAAD-funded project aims to initiate the first extensive philosophical treatment of the history of ethical impartialism."
 tags:
-  - Moralphilosophie
+  - Moral Philosophy
   - BMSP19
 date: '2019-01-01T00:00:00Z'
 type: 'project'

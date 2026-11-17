@@ -4,7 +4,6 @@ summary: KIdeKu examined the opportunities offered by these technologies to stre
 tags:
   - LLMs
   - Applied Ethics
-  - Deliberation
   - Computational Philosophy
   - Norms of Public Reasoning
 date: '2024-06-01'

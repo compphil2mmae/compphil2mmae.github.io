@@ -23,7 +23,7 @@ sections:
         - name: All
           tag: '*'
         - name: Computational Philosophy
-          tag: Computationale Philosophy
+          tag: Computational Philosophy
         - name: LLMs
           tag: LLMs
         - name: Norms of (Public) Reasoning

@@ -1,7 +1,7 @@
 ---
 title: argdown
 summary: |2- 
-  Argdown is a simple syntax for complex argumentation, originally developed by Cristian Voigt at KIT's DebateLab.
+  Argdown is a simple syntax for complex argumentation, originally developed by Christian Voigt at KIT's DebateLab.
 tags:
   - Computationale Philosophie
   - Norms of Public Reasoning

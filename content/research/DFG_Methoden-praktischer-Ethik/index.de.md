@@ -3,7 +3,7 @@ title: Methoden praktischer Ethik
 summary: |2- 
   Das DFG-gefördertes Wissenschaftliche Netzwerk "Methoden praktischer Ethik" wird moralphilosophische Methoden in angewandten ethischen Kontexten (wie KI, Datenschutz, Klimawandel etc.) untersuchen und die Rolle von Ethiker:innen in den entsprechenen öffentlichen Diskursen reflektieren.
 tags:
-  - Philosohische Methoden
+  - Philosophische Methoden
   - Moralphilosophie
   - Angewandte Ethik
 date: '2024-04-01T00:00:00Z'
